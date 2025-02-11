@@ -7,7 +7,7 @@
   },
   "morph_aug": {
     "lang": "hi",
-    "theta_morph_global": 0.3,
+    "theta_morph_global": 0.5,
     "text_file": "/export/b08/nbafna1/data/wikimatrix/en-hi/WikiMatrix.en-hi.hi"
   },
   "phonological_aug": {
@@ -17,16 +17,16 @@
   },
   "random_char_aug": {
     "lang": "hi",
-    "theta_random_char": 0.0
+    "theta_random_char": 0
   },
   "random_word_aug": {
     "lang": "hi",
-    "theta_random_word": 0.0,
+    "theta_random_word": 0,
     "text_file": "/export/b08/nbafna1/data/wikimatrix/en-hi/WikiMatrix.en-hi.hi"
   },
   "semantic_aug": {
     "lang": "hi",
-    "theta_semantic_global": 0.3,
+    "theta_semantic_global": 0,
     "text_file": "/export/b08/nbafna1/data/wikimatrix/en-hi/WikiMatrix.en-hi.hi"
   }
 }
