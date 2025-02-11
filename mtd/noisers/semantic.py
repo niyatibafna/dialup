@@ -66,7 +66,6 @@ class SemanticNoiserAugmenter(Noise):
         # Initialize lemmatizer and stemmer
         lang2stanza_code = {
             "hin": "hi",
-            "spa": "es",
             "tur": "tr",
             "ita": "it",
             "hat": "ht",
@@ -77,7 +76,6 @@ class SemanticNoiserAugmenter(Noise):
 
         lang2stemmer_code = {
             "hin": "hindi",
-            "spa": "spanish",
             "tur": "turkish",
             "ita": "italian",
             "hat": "english",
