@@ -13,7 +13,7 @@ import os, sys
 from collections import defaultdict
 import json
 sys.path.append(os.path.dirname(os.path.abspath(__file__)))
-from get_function_words_filepaths import *
+from get_function_words_filepaths import ud_wordlists_paths, closed_class_tags, OUTDIR
 
 ud_data_filepaths = {
     "deu":"/export/b08/nbafna1/data/ud-treebanks-v2.13/UD_German-HDT/de_hdt-ud-train.conllu",
