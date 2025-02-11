@@ -1,0 +1,50 @@
+#!/bin/bash
+
+#SBATCH --job-name=lemmas_and_stems    # create a short name for your job
+#SBATCH --nodes=1              # node count
+#SBATCH --ntasks=1            # total number of tasks across all nodes
+#SBATCH --cpus-per-task=1       # cpu-cores per task (>1 if multi-threaded tasks)
+#SBATCH --partition=cpu          # Name of the partition
+#SBATCH --mem=50G                # Total memory allocated
+#SBATCH --hint=multithread       # we get logical cores (threads) not physical (cores)
+#SBATCH --array=0-4
+#SBATCH --time=20:00:00          # total run time limit (HH:MM:SS)
+#SBATCH --output=slurm_logs/lemmas_and_stems_%a.out   # output file name
+#SBATCH --error=slurm_logs/lemmas_and_stems_%a.out    # error file name
+
+
+echo "### Running $SLURM_JOB_NAME ###"
+
+echo "HOSTNAME: $(hostname)"
+echo
+echo CUDA in ENV:
+env | grep CUDA
+echo
+
+nvidia-smi
+
+module purge
+module load conda
+conda --version
+module load cuda/12.1
+nvcc --version
+
+# Set your conda environment
+source /home/$USER/.bashrc
+conda info --envs
+
+which python
+. "/home/nbafna1/miniconda3/etc/profile.d/conda.sh" && conda deactivate && conda activate sandbox
+conda activate sandbox
+which python
+
+set -x # print out every command that's run with a +
+cd "/export/b08/nbafna1/projects/generating_artificial_langs_for_dialectical_robustness"
+
+langs=("hin" "arb" "ind" "ita" "tur")
+lang=${langs[$SLURM_ARRAY_TASK_ID]}
+echo "Running for languages: $lang"
+# lang="hi"
+python /export/b08/nbafna1/projects/generating_artificial_langs_for_dialectical_robustness/noisers/utils/get_lemmas_and_stems.py $lang
+
+# python /export/b08/nbafna1/projects/generating_artificial_langs_for_dialectical_robustness/playground/artificial_lang_generation.py $lang
