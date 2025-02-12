@@ -17,7 +17,7 @@ import bitsandbytes as bnb
 
 from collections import defaultdict
 
-sys.path.append("/export/b08/nbafna1/projects/dialectical-robustness-mt/utils/")
+sys.path.append(os.path.join(os.path.dirname(__file__), "utils/"))
 from flores_code_to_langname import flores_code_to_langname, get_crls, flores_code_to_hrln
 
 
@@ -29,9 +29,9 @@ def parse_args():
     parser.add_argument("--model_name",type=str, required=True, help="Model to finetune, must be one of 'm2m', 'nllb'")
     parser.add_argument("--model_path", type=str, default=None, help="Path to the model checkpoint")
     parser.add_argument("--lora", action="store_true", help="Use LoRA model")
-    parser.add_argument("--flores_dir", type=str, required=True, help="Path to FloRes data")
-    parser.add_argument("--kreyolmt_dir", type=str, required=True, help="Path to KreyolMT data, for evaluating on Haitian")
-    parser.add_argument("--madar_dir", type=str, required=False, help="Path to MADAR data, for evaluating on Arabic dialects")
+    parser.add_argument("--flores_dir", type=str, default=None, help="Path to FloRes data")
+    parser.add_argument("--kreyolmt_dir", type=str, default=None, help="Path to KreyolMT data, for evaluating on Haitian")
+    parser.add_argument("--madar_dir", type=str, default=None, help="Path to MADAR data, for evaluating on Arabic dialects")
     parser.add_argument("--mt_outputs_dir", type=str, required=True, help="Path to save MT outputs")
     parser.add_argument("--results_dir", type=str, required=True, help="Path to save results")
     parser.add_argument("--batch_size", type=int, default=8, help="Batch size for evaluation")
@@ -328,7 +328,8 @@ lang = crl
 
 print(f"Evaluating for: {lang}")
 
-dataset = get_eval_dataset(hrln, lang)
+use_arb_madar = madar_dir is not None and "arb" in hrln
+dataset = get_eval_dataset(hrln, lang, use_arb_madar=use_arb_madar)
 
 input_sents = dataset["source"]
 true_sents = dataset["target"]
