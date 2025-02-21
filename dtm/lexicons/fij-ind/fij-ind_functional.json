@@ -1,0 +1,764 @@
+{
+  "au": {
+    "saya": 1,
+    "aku": 1
+  },
+  "o yau": {
+    "saya": 1,
+    "aku": 1
+  },
+  "o": {
+    "kamu": 1,
+    "engkau": 1,
+    "kau": 1
+  },
+  "o iko": {
+    "kamu": 1,
+    "engkau": 1,
+    "kau": 1
+  },
+  "e": {
+    "dia": 1,
+    "di": 1,
+    "dalam": 1
+  },
+  "o koya": {
+    "dia": 1
+  },
+  "keirau keitou keimami daru": {
+    "kami": 1,
+    "kita": 1
+  },
+  "o kēdaru tou": {
+    "kami": 1,
+    "kita": 1
+  },
+  "o kedatou da": {
+    "kami": 1,
+    "kita": 1
+  },
+  "o keda": {
+    "kami": 1,
+    "kita": 1
+  },
+  "drau": {
+    "kalian": 1
+  },
+  "o kemudrau dou": {
+    "kalian": 1
+  },
+  "o kemudou nī": {
+    "kalian": 1
+  },
+  "o kemunī": {
+    "kalian": 1
+  },
+  "rau": {
+    "mereka": 1
+  },
+  "o rau ratou": {
+    "mereka": 1
+  },
+  "o iratou ra": {
+    "mereka": 1
+  },
+  "o ira": {
+    "mereka": 1
+  },
+  "qō": {
+    "ini": 1
+  },
+  "qori yā": {
+    "itu": 1
+  },
+  "cei": {
+    "siapa": 1
+  },
+  "cava": {
+    "apa": 1
+  },
+  "ni": {
+    "karena": 1
+  },
+  "sega ni": {
+    "bukan": 1,
+    "tidak": 1
+  },
+  "kece": {
+    "semua": 1
+  },
+  "taucoko": {
+    "semua": 1
+  },
+  "sō na": {
+    "beberapa": 1
+  },
+  "tū": {
+    "diri": 1
+  },
+  "tūcake": {
+    "diri": 1
+  },
+  "i": {
+    "di": 1,
+    "dalam": 1
+  },
+  "mai": {
+    "di": 1,
+    "dalam": 1
+  },
+  "kei i": {
+    "dengan": 1
+  },
+  "ia kei qai": {
+    "dan": 1
+  },
+  "kē": {
+    "kalau": 1
+  },
+  "kēvakā": {
+    "kalau": 1
+  },
+  "baleta": {
+    "karena": 1
+  },
+  "kei": {
+    "dan": 0.556
+  },
+  "ka": {
+    "dan": 0.556
+  },
+  "ke": {
+    "kalau": 0.556
+  },
+  "se": {
+    "kalau": 0.556
+  },
+  "oqori": {
+    "itu": 0.556
+  },
+  "oya": {
+    "itu": 0.333
+  },
+  "iko": {
+    "engkau": 0.778,
+    "kamu": 0.778,
+    "kau": 0.778
+  },
+  "ira": {
+    "mereka": 0.778
+  },
+  "iratou": {
+    "mereka": 0.778
+  },
+  "keda": {
+    "kami": 0.778,
+    "kita": 0.778
+  },
+  "kedatou": {
+    "kami": 0.778,
+    "kita": 0.778
+  },
+  "keimami": {
+    "kami": 0.778,
+    "kita": 0.778
+  },
+  "keitou": {
+    "kami": 0.778,
+    "kita": 0.778
+  },
+  "kemudou": {
+    "kalian": 0.778
+  },
+  "kemudrau": {
+    "kalian": 0.778
+  },
+  "kemunii": {
+    "kalian": 0.778
+  },
+  "koya": {
+    "beliau": 0.778,
+    "dia": 0.778,
+    "ia": 0.778
+  },
+  "sega": {
+    "tidak": 0.778
+  },
+  "vinakata": {
+    "ingin": 0.778,
+    "mau": 0.778
+  },
+  "[k]o cei": {
+    "siapa": 0.556
+  },
+  "ayā": {
+    "itu": 0.556
+  },
+  "e vei": {
+    "dimana": 0.556
+  },
+  "e[da]": {
+    "kami": 0.556,
+    "kita": 0.556
+  },
+  "iau": {
+    "aku": 0.556,
+    "saya": 0.556
+  },
+  "kemunī": {
+    "anda": 0.556,
+    "kalian": 0.556,
+    "kamu": 0.556
+  },
+  "koyā": {
+    "itu": 0.556
+  },
+  "ninaica": {
+    "bila": 0.556
+  },
+  "oqō": {
+    "ini": 0.556
+  },
+  "kemuni": {
+    "anda": 0.333,
+    "kamu": 0.333
+  },
+  "ko iko": {
+    "anda": 0.333,
+    "kamu": 0.333
+  },
+  "ko kend~a": {
+    "kami": 0.333,
+    "kita": 0.333
+  },
+  "o koya o Ngo": {
+    "ini": 0.333
+  },
+  "qo": {
+    "ini": 0.333
+  },
+  "ko ya": {
+    "itu": 0.333
+  },
+  "o Ngori": {
+    "itu": 0.333
+  },
+  "o 8ei": {
+    "siapa": 0.333
+  },
+  "o8ei": {
+    "siapa": 0.333
+  },
+  "a 8ava": {
+    "apa": 0.333
+  },
+  "na8aya": {
+    "apa": 0.333
+  },
+  "seNa": {
+    "bukan": 0.333,
+    "tidak": 0.333
+  },
+  "tau8oka": {
+    "semua": 0.333
+  },
+  "tau8oko": {
+    "semua": 0.333
+  },
+  "io": {
+    "ya": 0.778
+  },
+  "ena": {
+    "di": 199
+  },
+  "rawa": {
+    "dapat": 48
+  },
+  "na": {
+    "akan": 27
+  },
+  "vakayagataki": {
+    "yang": 8
+  },
+  "veivanua": {
+    "di": 4
+  },
+  "pailate": {
+    "tersebut": 1
+  },
+  "Liuliu": {
+    "sebagai": 1
+  },
+  "kina": {
+    "yang": 25
+  },
+  "tomani": {
+    "dengan": 2
+  },
+  "ki": {
+    "ke": 22
+  },
+  "qito": {
+    "untuk": 6
+  },
+  "tu": {
+    "yang": 29
+  },
+  "mua": {
+    "menuju": 2
+  },
+  "vaka": {
+    "seperti": 20
+  },
+  "tukuna": {
+    "bahwa": 11
+  },
+  "nodra": {
+    "mereka": 15
+  },
+  "yani": {
+    "ke": 8
+  },
+  "nona": {
+    "ia": 4
+  },
+  "7–2.": {
+    "yaitu": 1
+  },
+  "druka": {
+    "dia": 1
+  },
+  "sa": {
+    "telah": 32
+  },
+  "soli": {
+    "yang": 9
+  },
+  "oqo": {
+    "ini": 19
+  },
+  "me": {
+    "untuk": 89
+  },
+  "ra": {
+    "mereka": 8
+  },
+  "vica": {
+    "beberapa": 12
+  },
+  "rairai": {
+    "mungkin": 10
+  },
+  "rakorako.": {
+    "daripada": 1
+  },
+  "Alex": {
+    "ialah": 1
+  },
+  "Koro-turaga": {
+    "dari": 1
+  },
+  "$2.3": {
+    "senilai": 1
+  },
+  "kele": {
+    "di": 3
+  },
+  "oti": {
+    "setelah": 10
+  },
+  "qai": {
+    "dan": 56
+  },
+  "a": {
+    "telah": 7,
+    "tersebut": 7
+  },
+  "vakabauta": {
+    "mereka": 3
+  },
+  "rauta": {
+    "sekitar": 10
+  },
+  "maile": {
+    "per": 5
+  },
+  "bera": {
+    "sebelum": 11
+  },
+  "Na": {
+    "adalah": 19
+  },
+  "era": {
+    "yang": 43
+  },
+  "nei": {
+    "di": 4
+  },
+  "kevaka": {
+    "apabila": 3,
+    "jika": 3
+  },
+  "cala": {
+    "karena": 3
+  },
+  "kena": {
+    "yang": 40
+  },
+  "yacova": {
+    "sampai": 3,
+    "hingga": 3
+  },
+  "\"era": {
+    "serangkaian": 1
+  },
+  "lawatu": {
+    "yang": 6
+  },
+  "duadua": {
+    "adalah": 5
+  },
+  "mataqali": {
+    "dengan": 6
+  },
+  "mera": {
+    "untuk": 14
+  },
+  "veika": {
+    "yang": 11
+  },
+  "macawa": {
+    "ke": 2
+  },
+  "Caboolture": {
+    "pada": 1
+  },
+  "Velociraptor.": {
+    "layaknya": 1
+  },
+  "ikuri": {
+    "selain": 2
+  },
+  "draki": {
+    "tak": 1
+  },
+  "loma": {
+    "dalam": 8
+  },
+  "cauravou": {
+    "namun": 1
+  },
+  "vinakati": {
+    "harus": 10
+  },
+  "yaga": {
+    "itu": 3
+  },
+  "Union": {
+    "atas": 2
+  },
+  "wavolita": {
+    "sekitar": 4
+  },
+  "kedrau": {
+    "antara": 3
+  },
+  "kacivaki": {
+    "adalah": 1
+  },
+  "vakatarogi": {
+    "karena": 1
+  },
+  "vakalevu": {
+    "ini": 4,
+    "yang": 4
+  },
+  "ruarua": {
+    "pada": 3,
+    "maupun": 3
+  },
+  "yalana": {
+    "semacam": 1
+  },
+  "Branson": {
+    "agar": 1
+  },
+  "segai": {
+    "bukan": 1
+  },
+  "Draiva": {
+    "dengan": 2
+  },
+  "eso": {
+    "beberapa": 15
+  },
+  "kina.\"": {
+    "sebagaimana": 1
+  },
+  "nanumi": {
+    "tersebut": 3
+  },
+  "ia": {
+    "tetapi": 30
+  },
+  "kina.": {
+    "asal": 2
+  },
+  "tinikadua": {
+    "per": 1
+  },
+  "peresitedi,": {
+    "demikian": 1
+  },
+  "ripotetaki,": {
+    "berbagai": 1
+  },
+  "lomaqu": {
+    "saya": 2
+  },
+  "caka": {
+    "di": 6
+  },
+  "qo”": {
+    "dia": 1
+  },
+  "laurai": {
+    "tak": 2
+  },
+  "vuravura.": {
+    "di": 5
+  },
+  "kidacala": {
+    "semua": 1
+  },
+  "raibasikati": {
+    "seperti": 1
+  },
+  "eda": {
+    "kita": 7
+  },
+  "vakataki": {
+    "seperti": 6
+  },
+  "duavata,": {
+    "tidak": 1
+  },
+  "No.11\",": {
+    "adalah": 1
+  },
+  "tani": {
+    "keseluruhan": 1
+  },
+  "icavacava": {
+    "pada": 3
+  },
+  "lewai": {
+    "ialah": 1,
+    "sesuatu": 1
+  },
+  "£27": {
+    "sebesar": 1
+  },
+  "Parisi,": {
+    "di": 2
+  },
+  "Buluqaria,": {
+    "di": 1
+  },
+  "Valeta": {
+    "di": 1
+  },
+  "Talini": {
+    "di": 1
+  },
+  "so": {
+    "beberapa": 6
+  },
+  "ramusu": {
+    "ialah": 1
+  },
+  "2016": {
+    "agar": 1
+  },
+  "Vautier": {
+    "selain": 1
+  },
+  "1945": {
+    "mereka": 1
+  },
+  "Whirling": {
+    "atas": 1
+  },
+  "Zayat": {
+    "dalam": 1
+  },
+  "erawa": {
+    "dapat": 2
+  },
+  "mo": {
+    "untuk": 22
+  },
+  "vakayacana": {
+    "dia": 1
+  },
+  "vakataka": {
+    "seperti": 3
+  },
+  "ituvatuva": {
+    "pada": 3
+  },
+  "ivalu.": {
+    "sesudah": 1
+  },
+  "kua": {
+    "tidak": 6
+  },
+  "kerekita": {
+    "pun": 1
+  },
+  "ivakarau": {
+    "yang": 7
+  },
+  "Qo": {
+    "ini": 2
+  },
+  "vuna,": {
+    "segala": 1
+  },
+  "butako": {
+    "sekelompok": 1
+  },
+  "veimataqali": {
+    "berbagai": 3
+  },
+  "golf": {
+    "yaitu": 1
+  },
+  "ivakarau:": {
+    "kebanyakan": 1
+  },
+  "qori": {
+    "ini": 7
+  },
+  "kaukaua": {
+    "yang": 6
+  },
+  "gone.": {
+    "secara": 2
+  },
+  "gadrevi,": {
+    "sebagian": 1
+  },
+  "mada": {
+    "bahkan": 6
+  },
+  "via": {
+    "ingin": 6
+  },
+  "bure": {
+    "berbagai": 1
+  },
+  "ina": {
+    "ke": 12
+  },
+  "m/s;": {
+    "per": 1
+  },
+  "iloilo,": {
+    "agar": 1
+  },
+  "nuitaki": {
+    "kebanyakan": 1
+  },
+  "keda,": {
+    "kita": 1
+  },
+  "meda": {
+    "untuk": 2
+  },
+  "vakila": {
+    "melewati": 1
+  },
+  "maroroya": {
+    "guna": 1
+  },
+  "vutuniyau": {
+    "sepanjang": 1
+  },
+  "veisiko": {
+    "ke": 5
+  },
+  "Qiriniladi,": {
+    "diri": 1
+  },
+  "(lewelevu-Kalaallit)": {
+    "seorang": 1
+  },
+  "veiyasai": {
+    "seluruh": 2
+  },
+  "pasitaki": {
+    "boleh": 1
+  },
+  "silini": {
+    "beberapa": 2
+  },
+  "marautaka": {
+    "sejumlah": 2
+  },
+  "kina,": {
+    "dan": 6
+  },
+  "inisua": {
+    "beserta": 1
+  },
+  "vala": {
+    "diri": 1,
+    "apabila": 1
+  },
+  "canyonerring)": {
+    "segala": 1
+  },
+  "waqavuka,": {
+    "maupun": 1
+  },
+  "veitaoni": {
+    "sini": 1
+  },
+  "graffiti.": {
+    "sebagai": 1
+  },
+  "viritaka": {
+    "sebaiknya": 1
+  },
+  "Charlotte,": {
+    "meski": 1
+  },
+  "Antarctica": {
+    "adalah": 2
+  },
+  "ubia": {
+    "oleh": 2
+  },
+  "Ross": {
+    "sampai": 1
+  },
+  "laiseni": {
+    "apa": 1
+  },
+  "vakavo": {
+    "kecuali": 1
+  },
+  "Nagorno-Karabakh": {
+    "terhadap": 1
+  },
+  "vakamatanitu": {
+    "mengenai": 1
+  },
+  "vulaikatakata,": {
+    "ingin": 1
+  },
+  "bucabuca": {
+    "tanpa": 3
+  }
+}

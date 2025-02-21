@@ -1,0 +1,1338 @@
+{
+  "men": {
+    "ben": 1
+  },
+  "sen": {
+    "sen": 1,
+    "siz": 1
+  },
+  "o": {
+    "o": 1
+  },
+  "biz": {
+    "biz": 1
+  },
+  "siz": {
+    "siz": 1
+  },
+  "olar": {
+    "onlar": 1
+  },
+  "bu": {
+    "bu": 1
+  },
+  "şu": {
+    "şu": 1,
+    "o": 1
+  },
+  "о": {
+    "şu": 1,
+    "o": 1
+  },
+  "kim": {
+    "kim": 1
+  },
+  "ne": {
+    "ne": 1
+  },
+  "qayda": {
+    "nerede": 1
+  },
+  "degil": {
+    "değil": 1
+  },
+  "bütün": {
+    "tüm": 1
+  },
+  "ep": {
+    "tüm": 1
+  },
+  "episi": {
+    "tüm": 1
+  },
+  "bazı": {
+    "birkaç": 1,
+    "bazı": 1
+  },
+  "bir qaç": {
+    "birkaç": 1,
+    "bazı": 1
+  },
+  "bir": {
+    "bir": 1
+  },
+  "-nen": {
+    "ile": 1
+  },
+  "ile": {
+    "ile": 1
+  },
+  "ve": {
+    "ve": 1,
+    "ile": 1
+  },
+  "eger": {
+    "ise": 1,
+    "eğer": 1
+  },
+  "çünki": {
+    "çünkü": 1
+  },
+  "kayerge": {
+    "nerede": 0.778
+  },
+  "aldı": {
+    "önce": 0.778
+  },
+  "anavı": {
+    "o": 0.778
+  },
+  "berli": {
+    "beri": 0.778
+  },
+  "buña": {
+    "buna": 0.778
+  },
+  "day": {
+    "gibi": 0.778
+  },
+  "dep": {
+    "diye": 0.778
+  },
+  "evel": {
+    "önce": 0.778
+  },
+  "faqat": {
+    "ancak": 0.778,
+    "fakat": 0.778
+  },
+  "içün": {
+    "için": 0.778
+  },
+  "kimge": {
+    "kime": 0.778
+  },
+  "maña": {
+    "bana": 0.778
+  },
+  "oña": {
+    "ona": 0.778
+  },
+  "ortaqlaşıp": {
+    "birlikte": 0.778
+  },
+  "öz": {
+    "kendi": 0.778
+  },
+  "özü": {
+    "kendi": 0.778,
+    "kendisi": 0.778
+  },
+  "özüm": {
+    "kendim": 0.778
+  },
+  "qaydan": {
+    "nereden": 0.778
+  },
+  "qayerde": {
+    "nerede": 0.778,
+    "nereye": 0.778
+  },
+  "qayerge": {
+    "nerede": 0.778,
+    "nereye": 0.778
+  },
+  "qayerden": {
+    "nereden": 0.778
+  },
+  "saña": {
+    "sana": 0.778,
+    "seni": 0.778,
+    "sizi": 0.778
+  },
+  "ya": {
+    "veya": 0.778,
+    "ya": 0.778
+  },
+  "-sa": {
+    "eğer": 0.556
+  },
+  "-se": {
+    "eğer": 0.556
+  },
+  "3zim": {
+    "ben": 0.333
+  },
+  "taw": {
+    "da": 0.333
+  },
+  "bulay": {
+    "bundan": 0.222
+  },
+  "daa": {
+    "da": 0.222,
+    "de": 0.222,
+    "hem": 0.222
+  },
+  "aldında": {
+    "önce": 0.778
+  },
+  "ne sebepten": {
+    "neden": 0.778
+  },
+  "ne içün": {
+    "neden": 0.778
+  },
+  "sizge": {
+    "sizi": 0.778
+  },
+  "siziñ": {
+    "sizin": 0.778
+  },
+  "seniñ": {
+    "senin": 0.778
+  },
+  "yoq": {
+    "değil": 0.778
+  },
+  "bizler": {
+    "biz": 0.556
+  },
+  "yahud": {
+    "veya": 0.556
+  },
+  "köre": {
+    "göre": 4
+  },
+  "biri": {
+    "biri": 8
+  },
+  "bunıñ": {
+    "bunun": 1,
+    "bunu": 1
+  },
+  "kibi": {
+    "gibi": 20
+  },
+  "birden,": {
+    "sonra": 1
+  },
+  "süre": {
+    "bir": 1
+  },
+  "Deutsche": {
+    "bunu": 1
+  },
+  "yaqlaşık": {
+    "birinin": 1
+  },
+  "qaç": {
+    "birkaç": 8
+  },
+  "rağmen": {
+    "rağmen": 1
+  },
+  "anaqarasınen": {
+    "ile": 1
+  },
+  "ise": {
+    "ve": 15
+  },
+  "oquv": {
+    "için": 1
+  },
+  "bağışçı": {
+    "biri": 1
+  },
+  "çıqqan": {
+    "bir": 1,
+    "kendi": 1
+  },
+  "soñ": {
+    "sonra": 11
+  },
+  "olaraq": {
+    "olarak": 26
+  },
+  "ikâye": {
+    "size": 1
+  },
+  "tedqiq": {
+    "boyunca": 1
+  },
+  "tevsiyeler": {
+    "için": 1
+  },
+  "da": {
+    "da": 45
+  },
+  "em": {
+    "hem": 16
+  },
+  "Fred": {
+    "şu": 1
+  },
+  "qadar": {
+    "kadar": 16
+  },
+  "soñ,": {
+    "sonra": 12
+  },
+  "qanuniy": {
+    "hem": 2
+  },
+  "qarşı": {
+    "karşı": 11
+  },
+  "berilirse": {
+    "eğer": 1
+  },
+  "belirler": {
+    "ise": 1
+  },
+  "etken": {
+    "ve": 4
+  },
+  "aqqınıñ": {
+    "için": 1
+  },
+  "tarihini": {
+    "bir": 1
+  },
+  "enerjiye": {
+    "olarak": 1
+  },
+  "qorqtuqları": {
+    "birbirini": 1
+  },
+  "Mafya": {
+    "kendilerini": 1
+  },
+  "celp": {
+    "karşı": 1
+  },
+  "lâkin": {
+    "ancak": 7
+  },
+  "tanılaraq,": {
+    "için": 1
+  },
+  "köre,": {
+    "bir": 2,
+    "göre": 2
+  },
+  "Marooçidor": {
+    "sonra": 1
+  },
+  "azırlıq": {
+    "üzere": 1
+  },
+  "şartları": {
+    "da": 1
+  },
+  "qabaatlavlar": {
+    "veya": 1
+  },
+  "sebepleri": {
+    "ne": 1
+  },
+  "degil,": {
+    "değil": 2
+  },
+  "qurtarmaq": {
+    "kendisini": 1
+  },
+  "dair": {
+    "dair": 2
+  },
+  "yıllardan": {
+    "hem": 2
+  },
+  "uçıp": {
+    "bir": 1
+  },
+  "sebep": {
+    "neden": 2
+  },
+  "eBay": {
+    "beri": 1
+  },
+  "ceetten": {
+    "olarak": 3
+  },
+  "E": {
+    "bunun": 1
+  },
+  "esaplanıp,": {
+    "kendisine": 1
+  },
+  "içün,": {
+    "için": 7
+  },
+  "matbuat": {
+    "bir": 2
+  },
+  "faaliyet": {
+    "bir": 2
+  },
+  "ibaret": {
+    "bir": 4
+  },
+  "onıñ": {
+    "onun": 2
+  },
+  "tedbir": {
+    "bir": 1
+  },
+  "cenübiy": {
+    "kadar": 2
+  },
+  "de": {
+    "de": 17
+  },
+  "\"Uta": {
+    "bir": 1
+  },
+  "bergen": {
+    "bizim": 1
+  },
+  "vaqıtqace,": {
+    "kadar": 1
+  },
+  "ettire": {
+    "kendi": 1
+  },
+  "serbestlik": {
+    "bu": 1
+  },
+  "evel,": {
+    "önce": 3
+  },
+  "de,": {
+    "de": 1
+  },
+  "amma": {
+    "ancak": 14
+  },
+  "sezonda": {
+    "çoğu": 1
+  },
+  "Çempionlığınıñ": {
+    "onda": 1
+  },
+  "taqım": {
+    "bir": 1
+  },
+  "telükesiz": {
+    "şu": 1,
+    "bir": 1
+  },
+  "güzel": {
+    "bir": 2
+  },
+  "denile": {
+    "için": 1
+  },
+  "adımlar": {
+    "dair": 1
+  },
+  "uzaqtan": {
+    "kendimi": 1
+  },
+  "meraqlanğanı": {
+    "dolayı": 1
+  },
+  "devamında": {
+    "boyunca": 4
+  },
+  "beraber": {
+    "birlikte": 3
+  },
+  "çıqarılğan": {
+    "için": 2
+  },
+  "kününe": {
+    "karşı": 2
+  },
+  "\"Six": {
+    "tüm": 1
+  },
+  "vaqıtları": {
+    "önce": 1
+  },
+  "basımölçerde": {
+    "bir": 1
+  },
+  "yağmurlarnen": {
+    "bir": 1
+  },
+  "bar": {
+    "ve": 1
+  },
+  "ki,": {
+    "bir": 4
+  },
+  "qıyınlaştı.": {
+    "da": 1
+  },
+  "Macbeth": {
+    "göre": 1
+  },
+  "qomşularnıñ": {
+    "için": 1
+  },
+  "neticeleri,": {
+    "de": 1
+  },
+  "(IOC)": {
+    "tüm": 1
+  },
+  "baqmadan,": {
+    "rağmen": 4
+  },
+  "etip,": {
+    "ve": 4
+  },
+  "şişelerinden": {
+    "kendisine": 1
+  },
+  "olarnı": {
+    "onları": 1
+  },
+  "nazariye,": {
+    "o": 1
+  },
+  "maddelernen": {
+    "göre": 1
+  },
+  "yaralanıp,": {
+    "sonra": 1
+  },
+  "başlıqlar": {
+    "ancak": 1
+  },
+  "–": {
+    "diye": 3
+  },
+  "ediñiz,": {
+    "eğer": 1
+  },
+  "tarafında": {
+    "ucu": 1
+  },
+  "taşır": {
+    "da": 1
+  },
+  "Menim": {
+    "bir": 1
+  },
+  "-": {
+    "bir": 6
+  },
+  "farqı": {
+    "fakat": 1
+  },
+  "vaqıttan": {
+    "bu": 2
+  },
+  "10-da": {
+    "bu": 1
+  },
+  "şeeri": {
+    "bir": 1
+  },
+  "Mekkede": {
+    "bir": 2
+  },
+  "kişidir": {
+    "ancak": 1
+  },
+  "\"açıq": {
+    "yani": 1
+  },
+  "İşi": {
+    "dolayı": 1
+  },
+  "FBI-niñ": {
+    "ile": 1
+  },
+  "baqmadan": {
+    "rağmen": 1
+  },
+  "hastalanmadan": {
+    "de": 1
+  },
+  "onı": {
+    "onu": 3
+  },
+  "ofisleri": {
+    "bazılarının": 1
+  },
+  "ACTA": {
+    "de": 1
+  },
+  "sürette": {
+    "bir": 2
+  },
+  "amanlığı": {
+    "onların": 1
+  },
+  "faalliginen": {
+    "bir": 1
+  },
+  "2011": {
+    "her": 1
+  },
+  "palatаdan": {
+    "de": 1
+  },
+  "tekrar": {
+    "yönelik": 1
+  },
+  "1973": {
+    "kendisinin": 1
+  },
+  "öğretmek": {
+    "için": 2
+  },
+  "apayı": {
+    "fakat": 1
+  },
+  "teşkilâtı,": {
+    "kendisini": 1
+  },
+  "qoşulıp,": {
+    "ve": 1
+  },
+  "devamında,": {
+    "boyunca": 1
+  },
+  "Cirque": {
+    "du": 1
+  },
+  "birlikte": {
+    "birlikte": 1
+  },
+  "Motor": {
+    "bir": 1
+  },
+  "deral": {
+    "kendisiyle": 1
+  },
+  "olaraq,": {
+    "olarak": 5
+  },
+  "başıma": {
+    "ki": 1,
+    "bana": 1
+  },
+  "pencereler": {
+    "ama": 1
+  },
+  "reaktor": {
+    "bir": 1
+  },
+  "kütletenlerinden": {
+    "birbirlerine": 1
+  },
+  "körülmegen": {
+    "bir": 1
+  },
+  "atta": {
+    "hatta": 2
+  },
+  "taraflarğa": {
+    "da": 1
+  },
+  "bağlağan": {
+    "bir": 1
+  },
+  "ketire.": {
+    "neden": 1
+  },
+  "ise,": {
+    "ve": 5
+  },
+  "saçmasını": {
+    "neden": 1
+  },
+  "Elbette,": {
+    "ki": 1
+  },
+  "kabelni": {
+    "da": 1
+  },
+  "sizni": {
+    "sizi": 4
+  },
+  "ezmesi": {
+    "hatta": 1
+  },
+  "aşağanını": {
+    "ile": 1
+  },
+  "quveti": {
+    "beni": 1
+  },
+  "aylanuvı": {
+    "dair": 1
+  },
+  "Viking": {
+    "karşı": 1
+  },
+  "mahsus": {
+    "için": 3
+  },
+  "olıp,": {
+    "ve": 4
+  },
+  "sanskrit": {
+    "dolayı": 1
+  },
+  "añlatmaqtan": {
+    "ile": 1
+  },
+  "\"Qıral": {
+    "kimi": 1
+  },
+  "tapılması": {
+    "onu": 1
+  },
+  "ekseriyet": {
+    "birçok": 1
+  },
+  "kömülgen": {
+    "birlikte": 1
+  },
+  "añlap": {
+    "birbirlerini": 1
+  },
+  "yaqınlaştırmağa": {
+    "da": 1
+  },
+  "qoşulğan": {
+    "bir": 1
+  },
+  "sözler": {
+    "birçok": 1
+  },
+  "taht": {
+    "olarak": 1
+  },
+  "askerlikke": {
+    "sonra": 1
+  },
+  "Çarlz,": {
+    "rağmen": 1
+  },
+  "Qırallıqnıñ": {
+    "onu": 1
+  },
+  "tarihı": {
+    "o": 1
+  },
+  "sureti": {
+    "neden": 1
+  },
+  "diqqatqa": {
+    "bir": 1
+  },
+  "Kamboca,": {
+    "kendisini": 1
+  },
+  "viran": {
+    "bir": 2
+  },
+  "sanayısında": {
+    "biri": 1
+  },
+  "qısımları": {
+    "birbirine": 1
+  },
+  "obyektivlerden": {
+    "göre": 1
+  },
+  "açıqlığınıñ": {
+    "bir": 1
+  },
+  "meselelerden": {
+    "birisi": 1
+  },
+  "ekranında": {
+    "dolayı": 1
+  },
+  "ketirip": {
+    "neleri": 1
+  },
+  "Qaleler": {
+    "mi": 1
+  },
+  "quruldı?": {
+    "neden": 1
+  },
+  "dayanıp": {
+    "bir": 1
+  },
+  "nisbeten": {
+    "olarak": 3
+  },
+  "Strabo,": {
+    "sonra": 1
+  },
+  "yorulırsıñız.": {
+    "kendinizi": 1
+  },
+  "kibi,": {
+    "gibi": 3
+  },
+  "ilâhiy": {
+    "dair": 1
+  },
+  "ettirecek": {
+    "da": 1
+  },
+  "bar,": {
+    "ve": 6
+  },
+  "ananelerini": {
+    "olarak": 1
+  },
+  "guru": {
+    "ile": 1
+  },
+  ",": {
+    "de": 1
+  },
+  "bazıları": {
+    "bazıları": 4
+  },
+  "faydalanmasına": {
+    "üzere": 1
+  },
+  "urluqlarından": {
+    "üzere": 1,
+    "birçok": 1
+  },
+  "yapıp,": {
+    "bunları": 1
+  },
+  "hastalarnı": {
+    "için": 1
+  },
+  "balalarda": {
+    "karşı": 1
+  },
+  "renknen": {
+    "birlikte": 1
+  },
+  "barğanlarını": {
+    "neden": 1
+  },
+  "yazğanlarını,": {
+    "neden": 2
+  },
+  "edi:": {
+    "yönelik": 1
+  },
+  "uzunlığından": {
+    "birbirine": 1
+  },
+  "pramaqlarnıñ": {
+    "ile": 1
+  },
+  "mahsuslaştıruvda": {
+    "bu": 1
+  },
+  "doğurılğan": {
+    "olarak": 1
+  },
+  "dep,": {
+    "kadar": 1
+  },
+  "olsañız": {
+    "gibi": 1
+  },
+  "ateşinen": {
+    "ile": 1
+  },
+  "yarışlarına": {
+    "yani": 1
+  },
+  "çeşiti,": {
+    "olarak": 1
+  },
+  "toplarnı": {
+    "onları": 1
+  },
+  "adlandırılır.": {
+    "olarak": 1
+  },
+  "yerge": {
+    "bir": 3
+  },
+  "aytılır.": {
+    "olarak": 1
+  },
+  "şimal-şarqındaki": {
+    "boyunca": 1
+  },
+  "garnizonına": {
+    "karşı": 1
+  },
+  "yeterli": {
+    "bir": 2
+  },
+  "Sportçular,": {
+    "hiçbir": 1
+  },
+  "parçaçıqtan": {
+    "ve": 1
+  },
+  "neytronlardan": {
+    "üzere": 1
+  },
+  "depressiya,": {
+    "dolayı": 1
+  },
+  "felâketniñ": {
+    "ya": 1
+  },
+  "tür": {
+    "ait": 1
+  },
+  "olğanlarında,": {
+    "birbirinin": 1
+  },
+  "koloniyaları": {
+    "de": 1
+  },
+  "yaşayışnı": {
+    "o": 1,
+    "kadar": 1
+  },
+  "müimdir,": {
+    "o": 1,
+    "kadar": 1
+  },
+  "\"yaşayışnıñ": {
+    "ki": 1,
+    "çoğu": 1
+  },
+  "telükege": {
+    "boyunca": 1
+  },
+  "arabalarnı": {
+    "birlikte": 1
+  },
+  "kombinatsiyası": {
+    "hem": 2
+  },
+  "böylece": {
+    "de": 1
+  },
+  "biznen": {
+    "bizimle": 1
+  },
+  "insanlar,": {
+    "bizim": 1
+  },
+  "\"qomşu\"": {
+    "ki": 1
+  },
+  "olsañız,": {
+    "ile": 1
+  },
+  "hurdebinnen": {
+    "bir": 1
+  },
+  "beñzey": {
+    "gibi": 1
+  },
+  "azot,": {
+    "olarak": 1
+  },
+  "sıqtır,": {
+    "ama": 1
+  },
+  "ancaq": {
+    "ancak": 2
+  },
+  "añlaşılması": {
+    "de": 1
+  },
+  "keçkenini": {
+    "kendiniz": 1
+  },
+  "seslerni": {
+    "birlikte": 1
+  },
+  "has": {
+    "kendine": 2
+  },
+  "adalarında,": {
+    "da": 1
+  },
+  "qabilesi": {
+    "bunlar": 1
+  },
+  "degenler,": {
+    "olarak": 1
+  },
+  "şirkette": {
+    "boyunca": 1
+  },
+  "kesmege": {
+    "hatta": 1
+  },
+  "medeniyetinñi": {
+    "o": 1
+  },
+  "insanlarğa": {
+    "nerede": 1
+  },
+  "qorqularnı": {
+    "yönelik": 1
+  },
+  "yerde": {
+    "bir": 3
+  },
+  "arabanıñ": {
+    "birinin": 1
+  },
+  "çalışma": {
+    "ile": 1
+  },
+  "malümatqa": {
+    "her": 1
+  },
+  "şahsen": {
+    "bize": 1
+  },
+  "lifli": {
+    "birbirine": 1
+  },
+  "özlerini": {
+    "kendilerine": 1
+  },
+  "Kalaalleq": {
+    "ise": 1
+  },
+  "(şimalde": {
+    "kadar": 2
+  },
+  "tanılmasına": {
+    "tüm": 1
+  },
+  "etkenlerinde": {
+    "diye": 1
+  },
+  "ayınıñ": {
+    "kendi": 1
+  },
+  "tarihına": {
+    "bir": 1
+  },
+  "mümkün.": {
+    "de": 3
+  },
+  "ruhsetler": {
+    "için": 1
+  },
+  "dülberligini": {
+    "hem": 1
+  },
+  "turistlik": {
+    "hem": 1
+  },
+  "taraftan,": {
+    "bunun": 1
+  },
+  "suvnıñ": {
+    "kadar": 1
+  },
+  "Kairedeki": {
+    "ancak": 1
+  },
+  "göldeki": {
+    "bir": 1
+  },
+  "birleştirilebile.": {
+    "ile": 1
+  },
+  "ketkende": {
+    "için": 1
+  },
+  "İsrailniñ": {
+    "birçok": 1
+  },
+  "hızmet": {
+    "bir": 2
+  },
+  "talaplar": {
+    "her": 1
+  },
+  "memlekettir.": {
+    "ise": 1
+  },
+  "Bartolomé": {
+    "ile": 1
+  },
+  "vazifesini": {
+    "olarak": 1
+  },
+  "adalarğa": {
+    "kimi": 1
+  },
+  "şeerde": {
+    "bir": 2
+  },
+  "müitiniñ": {
+    "de": 1
+  },
+  "ağlar": {
+    "buna": 1
+  },
+  "teşkerme": {
+    "karşın": 1
+  },
+  "soñra,": {
+    "sonra": 1
+  },
+  "qalacak": {
+    "rağmen": 1
+  },
+  "yapıla": {
+    "örneğin": 1
+  },
+  "soñundan": {
+    "her": 2
+  },
+  "çoqusı,": {
+    "çoğu": 1
+  },
+  "festivalleri": {
+    "ile": 1
+  },
+  "memkeletlerde": {
+    "de": 1
+  },
+  "50": {
+    "bunlardan": 1
+  },
+  "muvafaqiyet,": {
+    "için": 1
+  },
+  "tecribe": {
+    "biri": 1
+  },
+  "parklarda": {
+    "değildir": 1
+  },
+  "qonuşalar": {
+    "bundan": 1
+  },
+  "mankunlı,": {
+    "bir": 2
+  },
+  "birlerine": {
+    "kendi": 2
+  },
+  "aşnı": {
+    "bazıları": 1
+  },
+  "kopiyalarını": {
+    "ve": 2
+  },
+  "yollañız": {
+    "kendinize": 1
+  },
+  "olmadan": {
+    "kendinizi": 1
+  },
+  "etmege": {
+    "birlikte": 1
+  },
+  "degiller,": {
+    "değildir": 1
+  },
+  "qorçalaycaqlar.": {
+    "kendini": 1
+  },
+  "riskke": {
+    "kendilerini": 1
+  },
+  "soqurlıqqa": {
+    "üzere": 1
+  },
+  "maddeler": {
+    "neden": 1
+  },
+  "fiyatlardan": {
+    "kendi": 1
+  },
+  "bölgeñizde": {
+    "kendi": 1
+  },
+  "çeşitini": {
+    "birçok": 1
+  },
+  "usulları": {
+    "birçok": 1
+  },
+  "tübünden": {
+    "bir": 1
+  },
+  "zevq": {
+    "bunlardan": 1
+  },
+  "çalışa.": {
+    "olarak": 1
+  },
+  "qıtada": {
+    "birçok": 1
+  },
+  "yapqanını": {
+    "bir": 1
+  },
+  "tarzı,": {
+    "veya": 1
+  },
+  "kirip-çıquv": {
+    "bir": 1
+  },
+  "birine": {
+    "birine": 1
+  },
+  "pueblonıñ": {
+    "ne": 1
+  },
+  "eglenceli": {
+    "bunlardan": 1
+  },
+  "sprey": {
+    "bunu": 1
+  },
+  "çuqur": {
+    "bir": 1
+  },
+  "narkotik": {
+    "bir": 2
+  },
+  "ükümetlerniñ": {
+    "karşı": 1
+  },
+  "olarğa": {
+    "onlara": 2
+  },
+  "Montesuma": {
+    "bunlar": 1
+  },
+  "intiqamı": {
+    "gibi": 1
+  },
+  "şilte": {
+    "ya": 1
+  },
+  "kevşetken": {
+    "ise": 1
+  },
+  "qoqusınen": {
+    "ile": 1
+  },
+  "özüñizni": {
+    "kendinizi": 2
+  },
+  "azırlaybilecek": {
+    "için": 1
+  },
+  "yeri,": {
+    "ve": 1
+  },
+  "deñizinen": {
+    "ile": 1
+  },
+  "eksile.": {
+    "da": 1
+  },
+  "qutupqace": {
+    "kadar": 1
+  },
+  "km-lik": {
+    "bir": 1
+  },
+  "ökçeler": {
+    "ya": 2
+  },
+  "adise": {
+    "bir": 1
+  },
+  "qarnıñ": {
+    "şu": 1
+  },
+  "yapışaq": {
+    "ki": 1
+  },
+  "bazen": {
+    "kimi": 1
+  },
+  "taşıybileler.": {
+    "onları": 1
+  },
+  "huni": {
+    "gibi": 1
+  },
+  "tsenzuranı": {
+    "hem": 1
+  },
+  "IP-": {
+    "hem": 1
+  },
+  "dolayı": {
+    "ötürü": 1
+  },
+  "\"korsanlıqnıñ": {
+    "bunun": 1
+  },
+  "şirketlerniñ": {
+    "o": 1
+  },
+  "bücetni": {
+    "birkaçı": 1
+  },
+  "qayıqnı": {
+    "dair": 1
+  },
+  "teñeştirilgenini": {
+    "için": 1
+  },
+  "Yarımkürrede": {
+    "tüm": 1
+  },
+  "(SkyTeam": {
+    "de": 1
+  },
+  "degerine": {
+    "ötürü": 1
+  },
+  "bular": {
+    "bunlar": 1
+  },
+  "qapular": {
+    "siz": 1
+  },
+  "süyrüsineklerniñ": {
+    "sizinle": 1
+  },
+  "etildi,": {
+    "bunların": 1
+  },
+  "tam-taqır": {
+    "bir": 1
+  },
+  "töpeleri": {
+    "ve": 1
+  },
+  "tüşe": {
+    "ve": 1
+  }
+}

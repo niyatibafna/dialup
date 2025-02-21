@@ -1,0 +1,13849 @@
+{
+  "au": {
+    "kawula": 1
+  },
+  "o yau": {
+    "kawula": 1
+  },
+  "o": {
+    "Anda": 1
+  },
+  "o iko": {
+    "Anda": 1
+  },
+  "kē qō": {
+    "di sini": 1
+  },
+  "keri": {
+    "di sana": 1,
+    "di situ": 1
+  },
+  "qori keā": {
+    "di sana": 1,
+    "di situ": 1
+  },
+  "yā": {
+    "di sana": 1,
+    "di situ": 1
+  },
+  "vei": {
+    "di mana": 1
+  },
+  "ni": {
+    "kapan": 1
+  },
+  "vakacava": {
+    "bagaimana": 1
+  },
+  "levu na": {
+    "banyak": 1
+  },
+  "lailai na": {
+    "sedikit": 1
+  },
+  "dua tale o koya dua tale": {
+    "lain": 1
+  },
+  "dua": {
+    "satu": 1
+  },
+  "rua": {
+    "dua": 1
+  },
+  "tolu": {
+    "tiga": 1
+  },
+  "vā": {
+    "empat": 1
+  },
+  "lima": {
+    "lima": 1
+  },
+  "levu": {
+    "besar": 1
+  },
+  "balavu": {
+    "panjang": 1
+  },
+  "rāraba rabalevu": {
+    "lebar": 1
+  },
+  "vāvaku": {
+    "tebal": 1
+  },
+  "bībī": {
+    "berat": 1
+  },
+  "lailai": {
+    "kecil": 1
+  },
+  "lekaleka leka": {
+    "pendek": 1
+  },
+  "rabalailai qīqō": {
+    "sempit": 1
+  },
+  "lila māmare": {
+    "tipis": 1
+  },
+  "yalewa marama": {
+    "perempuan": 1,
+    "wanita": 1
+  },
+  "tagane tūraga": {
+    "lelaki": 1,
+    "laki-laki": 1,
+    "pria": 1
+  },
+  "tamata": {
+    "manusia": 1
+  },
+  "gone": {
+    "anak": 1
+  },
+  "wati-": {
+    "istri": 1,
+    "suami": 1
+  },
+  "tina-": {
+    "ibu": 1
+  },
+  "nā": {
+    "ibu": 1
+  },
+  "tama-": {
+    "ayah": 1
+  },
+  "tā": {
+    "ayah": 1
+  },
+  "manumanu": {
+    "binatang": 1
+  },
+  "ika": {
+    "ikan": 1
+  },
+  "manumanu manumanuvuka": {
+    "burung": 1
+  },
+  "kolī": {
+    "anjing": 1
+  },
+  "kutu": {
+    "kutu": 1
+  },
+  "gata": {
+    "ular": 1,
+    "tajam": 1
+  },
+  "baca ni qele": {
+    "cacing": 1
+  },
+  "kau vunikau": {
+    "pohon": 1
+  },
+  "veikau": {
+    "hutan": 1
+  },
+  "kau": {
+    "ranting": 1
+  },
+  "vua- vuata": {
+    "buah": 1
+  },
+  "sore-": {
+    "biji": 1
+  },
+  "drau-": {
+    "daun": 1
+  },
+  "waka-": {
+    "akar": 1
+  },
+  "kuli-": {
+    "pepagan": 1,
+    "kulit": 1
+  },
+  "sē- seinikau": {
+    "bunga": 1
+  },
+  "cō": {
+    "rumput": 1
+  },
+  "wa": {
+    "tali": 1
+  },
+  "lewe ni manumanu": {
+    "daging": 1
+  },
+  "drā": {
+    "darah": 1
+  },
+  "sui": {
+    "tulang": 1
+  },
+  "uro": {
+    "lemak": 1
+  },
+  "yaloka": {
+    "telur": 1
+  },
+  "leu": {
+    "tanduk": 1
+  },
+  "bui-": {
+    "ekor": 1
+  },
+  "vuti-": {
+    "bulu": 1
+  },
+  "drauniulu": {
+    "rambut": 1
+  },
+  "ulu-": {
+    "kepala": 1
+  },
+  "daliga-": {
+    "telinga": 1
+  },
+  "mata-": {
+    "mata": 1
+  },
+  "ucu-": {
+    "hidung": 1
+  },
+  "gusu-": {
+    "mulut": 1
+  },
+  "bati-": {
+    "gigi": 1
+  },
+  "yame-": {
+    "lidah": 1
+  },
+  "taukuku": {
+    "kuku": 1
+  },
+  "yava-": {
+    "kaki": 1,
+    "tungkai": 1
+  },
+  "duru-": {
+    "lutut": 1
+  },
+  "liga-": {
+    "tangan": 1
+  },
+  "taba-": {
+    "sayap": 1
+  },
+  "kete-": {
+    "perut": 1,
+    "usus": 1
+  },
+  "domo-": {
+    "leher": 1
+  },
+  "daku-": {
+    "punggung": 1
+  },
+  "sucu-": {
+    "payudara": 1
+  },
+  "uto-": {
+    "jantung": 1
+  },
+  "yate-": {
+    "hati": 1
+  },
+  "gunu-va": {
+    "minum": 1,
+    "meminum": 1
+  },
+  "kana kania": {
+    "makan": 1,
+    "memakan": 1
+  },
+  "kata katia": {
+    "gigit": 1,
+    "menggigit": 1
+  },
+  "domi-ca": {
+    "hisap": 1,
+    "menghisap": 1
+  },
+  "kasivi-ta": {
+    "ludah": 1,
+    "meludah": 1
+  },
+  "lua-raka": {
+    "muntah": 1
+  },
+  "uvu-ca": {
+    "tiup": 1,
+    "meniup": 1
+  },
+  "cegu-va": {
+    "nafas": 1,
+    "bernafas": 1
+  },
+  "dredre-vaka": {
+    "tawa": 1,
+    "tertawa": 1
+  },
+  "rai-ca": {
+    "lihat": 1,
+    "melihat": 1
+  },
+  "rogo-ca": {
+    "dengar": 1,
+    "mendengar": 1
+  },
+  "kilā": {
+    "tahu": 1,
+    "mengetahui": 1
+  },
+  "nanuma vākāsama-taka": {
+    "pikir": 1,
+    "berpikir": 1
+  },
+  "boi-ca": {
+    "bau": 1,
+    "membau": 1
+  },
+  "rere-vaka": {
+    "takut": 1
+  },
+  "moce": {
+    "tidur": 1
+  },
+  "bula-taka": {
+    "hidup": 1
+  },
+  "mate": {
+    "mati": 1
+  },
+  "vakamatea": {
+    "bunuh": 1,
+    "membunuh": 1
+  },
+  "veivala-taka": {
+    "kelahi": 1,
+    "berkelahi": 1
+  },
+  "vakasa": {
+    "buru": 1,
+    "berburu": 1
+  },
+  "moku-ta": {
+    "pukul": 1,
+    "memukul": 1
+  },
+  "musu-ka": {
+    "potong": 1,
+    "memotong": 1
+  },
+  "kavoro-taka": {
+    "belah": 1,
+    "membelah": 1
+  },
+  "coka-ta": {
+    "tusuk": 1,
+    "menusuk": 1
+  },
+  "mila/milā": {
+    "garuk": 1,
+    "mengaruk": 1
+  },
+  "keli-a": {
+    "gali": 1,
+    "menggali": 1
+  },
+  "qalo-va": {
+    "renang": 1,
+    "berenang": 1
+  },
+  "vuka": {
+    "terbang": 1
+  },
+  "taubale": {
+    "jalan": 1,
+    "berjalan": 1
+  },
+  "lako mai": {
+    "datang": 1
+  },
+  "davo": {
+    "baring": 1,
+    "berbaring": 1
+  },
+  "dabe": {
+    "duduk": 1
+  },
+  "tū": {
+    "berdiri": 1
+  },
+  "tūcake": {
+    "berdiri": 1
+  },
+  "gole": {
+    "belok": 1,
+    "berbelok": 1
+  },
+  "lutu-ma": {
+    "jatuh": 1
+  },
+  "soli-a": {
+    "beri": 1,
+    "memberi": 1
+  },
+  "taura": {
+    "pegang": 1,
+    "memegang": 1
+  },
+  "loba-ka": {
+    "peras": 1,
+    "memeras": 1
+  },
+  "masi/masia tara-taka": {
+    "gosok": 1,
+    "menggosok": 1
+  },
+  "sava-ta": {
+    "cuci": 1,
+    "mencuci": 1
+  },
+  "qusi quisa": {
+    "hapus": 1,
+    "menghapus": 1
+  },
+  "drē dreta": {
+    "tarik": 1,
+    "menarik": 1
+  },
+  "bili-ga": {
+    "dorong": 1,
+    "mendorong": 1
+  },
+  "viri-taka": {
+    "lempar": 1,
+    "melempar": 1
+  },
+  "wiri-ca": {
+    "ikat": 1,
+    "mengikat": 1
+  },
+  "culā": {
+    "jahit": 1,
+    "menjahit": 1
+  },
+  "wiliwili wilika": {
+    "hitung": 1,
+    "menghitung": 1
+  },
+  "kaya tukuna": {
+    "kata": 1,
+    "berkata": 1
+  },
+  "laga-ta sere-taka": {
+    "nyanyi": 1,
+    "bernyanyi": 1
+  },
+  "qito-ra": {
+    "main": 1,
+    "bermain": 1
+  },
+  "ciri-taka": {
+    "apung": 1,
+    "mengapung": 1
+  },
+  "drodro-laka": {
+    "alir": 1,
+    "mengalir": 1
+  },
+  "ceva-ta": {
+    "beku": 1,
+    "membeku": 1
+  },
+  "vuce-laka": {
+    "bengkak": 1,
+    "membengkak": 1
+  },
+  "siga matanisiga": {
+    "matahari": 1
+  },
+  "vula": {
+    "bulan": 1
+  },
+  "kalokalo": {
+    "bintang": 1
+  },
+  "wai": {
+    "air": 1
+  },
+  "uca": {
+    "hujan": 1
+  },
+  "uciwai": {
+    "sungai": 1
+  },
+  "drano": {
+    "danau": 1
+  },
+  "waitui": {
+    "laut": 1
+  },
+  "māsima": {
+    "garam": 1
+  },
+  "vatu": {
+    "batu": 1
+  },
+  "nuku": {
+    "pasir": 1
+  },
+  "kuvu": {
+    "debu": 1
+  },
+  "qele": {
+    "bumi": 1
+  },
+  "ō": {
+    "awan": 1
+  },
+  "kabu": {
+    "kabut": 1
+  },
+  "lomalāgi": {
+    "langit": 1
+  },
+  "cagi": {
+    "angin": 1
+  },
+  "uca cevata": {
+    "salju": 1
+  },
+  "aisi waicevata": {
+    "es": 1
+  },
+  "kubou": {
+    "asap": 1
+  },
+  "kama": {
+    "api": 1
+  },
+  "dravusa": {
+    "abu": 1
+  },
+  "kama vākamā": {
+    "bakar": 1
+  },
+  "gaunisala": {
+    "jalan": 1
+  },
+  "ulunivanua": {
+    "gunung": 1
+  },
+  "damudamu": {
+    "merah": 1
+  },
+  "drokadroka": {
+    "hijau": 1
+  },
+  "dromodromo": {
+    "kuning": 1
+  },
+  "vulavula": {
+    "putih": 1
+  },
+  "loaloa": {
+    "hitam": 1
+  },
+  "bogi": {
+    "malam": 1
+  },
+  "siga": {
+    "hari": 1
+  },
+  "yabaki": {
+    "tahun": 1
+  },
+  "katakata toka via katakata": {
+    "hangat": 1
+  },
+  "liliwa": {
+    "dingin": 1
+  },
+  "batabatā": {
+    "dingin": 1
+  },
+  "sīnai": {
+    "penuh": 1
+  },
+  "vou": {
+    "baru": 1
+  },
+  "qase makawa": {
+    "lama": 1,
+    "tua": 1
+  },
+  "vinaka mātai": {
+    "baik": 1
+  },
+  "cā": {
+    "buruk": 1
+  },
+  "vuca": {
+    "busuk": 1
+  },
+  "duka": {
+    "kotor": 1
+  },
+  "dodonu": {
+    "lurus": 1
+  },
+  "moqimoqili": {
+    "bulat": 1
+  },
+  "dreli": {
+    "tumpul": 1
+  },
+  "dravia": {
+    "halus": 1
+  },
+  "suasua": {
+    "basah": 1
+  },
+  "māmaca": {
+    "kering": 1
+  },
+  "donu": {
+    "benar": 1
+  },
+  "vōleka": {
+    "dekat": 1
+  },
+  "yawa": {
+    "jauh": 1
+  },
+  "imatau": {
+    "kanan": 1
+  },
+  "imawī": {
+    "kiri": 1
+  },
+  "yaca-": {
+    "nama": 1
+  },
+  "vosa": {
+    "bahasa": 0.778
+  },
+  "kete-na": {
+    "perut": 0.556
+  },
+  "otela": {
+    "hotel": 0.778
+  },
+  "dua tale": {
+    "lain": 0.556
+  },
+  "qasikalolo": {
+    "semut": 0.778
+  },
+  "taro-ga": {
+    "tanya": 0.778
+  },
+  "kato": {
+    "tas": 0.778
+  },
+  "taga": {
+    "tas": 0.778
+  },
+  "beki": {
+    "tas": 0.778
+  },
+  "baqe": {
+    "bank": 0.778
+  },
+  "noti": {
+    "uang kertas": 0.778
+  },
+  "ilavo pepa": {
+    "uang kertas": 0.778
+  },
+  "kuli": {
+    "belulaN": 0.333,
+    "kulit": 0.333
+  },
+  "matasawa": {
+    "abu": 0.333
+  },
+  "kumi": {
+    "janggut": 0.778,
+    "jenggot": 0.778
+  },
+  "bia": {
+    "bir": 0.778
+  },
+  "basikeli": {
+    "sepeda": 0.778
+  },
+  "sigaanisucu": {
+    "ulang tahun": 0.778
+  },
+  "keke": {
+    "kue": 0.778
+  },
+  "dra": {
+    "darah": 0.333
+  },
+  "liwa": {
+    "bertiup": 0.556,
+    "meniup": 0.556
+  },
+  "karakarawa": {
+    "biru muda": 0.778,
+    "hijau": 0.778
+  },
+  "waqa": {
+    "perahu": 0.778
+  },
+  "boto": {
+    "katak": 0.222,
+    "kodok": 0.222
+  },
+  "ivola": {
+    "buku": 0.778,
+    "kitab": 0.778
+  },
+  "boso": {
+    "bung": 0.778
+  },
+  "uto": {
+    "sukun": 0.778
+  },
+  "tara": {
+    "membangun": 0.778
+  },
+  "voli-a": {
+    "membeli": 0.556
+  },
+  "kareti": {
+    "wortel": 0.778
+  },
+  "sede": {
+    "sen": 0.778
+  },
+  "gauna": {
+    "tahu": 0.333
+  },
+  "jisi": {
+    "keju": 0.778
+  },
+  "sere": {
+    "%payudara": 0.333,
+    "buah dada": 0.333,
+    "susu": 0.333
+  },
+  "toa": {
+    "unggas": 0.222
+  },
+  "isulu": {
+    "pakaian": 0.778
+  },
+  "batabata": {
+    "dingin": 0.778
+  },
+  "wilika": {
+    "baca": 0.778
+  },
+  "dua.tani": {
+    "beda": 0.778,
+    "berbeda-beda": 0.778,
+    "berlain-lainan": 0.778
+  },
+  "dui.dui": {
+    "beda": 0.778,
+    "berbeda-beda": 0.778,
+    "berlain-lainan": 0.778
+  },
+  "koli": {
+    "anjing": 0.778
+  },
+  "gunuva": {
+    "minum": 0.778
+  },
+  "gunu": {
+    "minum": 0.333
+  },
+  "maca": {
+    "kering": 0.556,
+    "keriŋ": 0.556
+  },
+  "daliga": {
+    "makan": 0.778,
+    "santap": 0.778
+  },
+  "kana": {
+    "makan": 0.333
+  },
+  "walu": {
+    "delapan": 0.778
+  },
+  "vaka-valagi": {
+    "Inggris": 0.778
+  },
+  "curu": {
+    "masuk": 0.778
+  },
+  "buka": {
+    "api": 0.333
+  },
+  "laga": {
+    "lalat": 0.778
+  },
+  "yava": {
+    "kaki": 0.778
+  },
+  "solia": {
+    "beri": 0.333
+  },
+  "sara": {
+    "lihat": 0.333,
+    "melihat": 0.333
+  },
+  "marau": {
+    "senang": 0.778
+  },
+  "Ai Vola Tabu": {
+    "Alkitab": 0.778
+  },
+  "ose": {
+    "kuda": 0.778
+  },
+  "katakata": {
+    "panas": 0.556
+  },
+  "aua": {
+    "jam": 0.778
+  },
+  "vale ni kuro": {
+    "dapur": 0.778
+  },
+  "cina": {
+    "obor": 0.222
+  },
+  "vuli": {
+    "belajar": 0.778
+  },
+  "vola": {
+    "huruf": 0.778
+  },
+  "tagane": {
+    "laki-laki": 0.556
+  },
+  "maqo": {
+    "buah mangga": 0.778,
+    "mangga": 0.778,
+    "pohon mangga": 0.778
+  },
+  "ibe": {
+    "keset": 0.222
+  },
+  "miniti": {
+    "menit": 0.778,
+    "minit": 0.778,
+    "minuta": 0.778
+  },
+  "mataka": {
+    "pagi": 0.778,
+    "subuh": 0.778
+  },
+  "namu": {
+    "nyamuk": 0.778
+  },
+  "nana": {
+    "nanah": 0.778
+  },
+  "gusu": {
+    "mulut": 0.778
+  },
+  "eula": {
+    "jarum": 0.778
+  },
+  "wasa": {
+    "laut": 0.778,
+    "lautan": 0.778,
+    "samudra": 0.778
+  },
+  "qase": {
+    "lama": 0.556,
+    "tua": 0.556
+  },
+  "lulu": {
+    "burung hantu": 0.778
+  },
+  "weleti": {
+    "betik": 0.778,
+    "pepaya": 0.778
+  },
+  "alatala": {
+    "pastor": 0.778,
+    "pendeta": 0.778
+  },
+  "lotu": {
+    "agama": 0.222,
+    "din": 0.222
+  },
+  "vale ni kana": {
+    "restoran": 0.778,
+    "rumah makan": 0.778
+  },
+  "vu": {
+    "akar": 0.333
+  },
+  "vitu": {
+    "tujuh": 0.778
+  },
+  "lekaleka": {
+    "pendek": 0.556,
+    "péndék": 0.556
+  },
+  "ono": {
+    "enam": 0.778
+  },
+  "bati": {
+    "gigi": 0.333
+  },
+  "kete": {
+    "perut": 0.333
+  },
+  "suka": {
+    "gula": 0.222,
+    "sakar": 0.222
+  },
+  "tini": {
+    "sepuluh": 0.778
+  },
+  "ogavae": {
+    "paha": 0.778
+  },
+  "nimataka": {
+    "besok": 0.778,
+    "esok": 0.778
+  },
+  "yame": {
+    "lidah": 0.333
+  },
+  "tarausese": {
+    "celana": 0.778
+  },
+  "rarawa": {
+    "sakit": 0.556
+  },
+  "cake": {
+    "menaik": 0.222,
+    "naik/ke atas": 0.222
+  },
+  "koro": {
+    "desa/kampung": 0.222,
+    "kampung": 0.222
+  },
+  "yalewa": {
+    "perempuan": 0.556
+  },
+  "cakacaka": {
+    "bekerja": 0.556
+  },
+  "bebe": {
+    "kupu-kupu": 0.778,
+    "rama-rama": 0.778
+  },
+  "buke": {
+    "bukit": 0.778
+  },
+  "bula": {
+    "hai": 0.778,
+    "hidup": 0.778,
+    "salam": 0.778,
+    "selamat pagi": 0.778,
+    "selamat siang": 0.778
+  },
+  "ciwa": {
+    "sembilan": 0.778
+  },
+  "dā": {
+    "tahi": 0.778
+  },
+  "delana": {
+    "bukit": 0.778,
+    "busut": 0.778,
+    "rikit": 0.778
+  },
+  "dina": {
+    "benar": 0.778
+  },
+  "dovu": {
+    "tebu": 0.778
+  },
+  "e dua na": {
+    "satu": 0.444
+  },
+  "Epereli": {
+    "April": 0.778,
+    "april": 0.778
+  },
+  "iko": {
+    "Anda": 0.778,
+    "Bapak": 0.778,
+    "Ibu": 0.778,
+    "Saudara": 0.778
+  },
+  "Jamani": {
+    "Jerman": 0.778,
+    "negeri Jerman": 0.778
+  },
+  "Jerusalemi": {
+    "Yerusalem": 0.778
+  },
+  "kakana": {
+    "makanan": 0.778,
+    "pangan": 0.778
+  },
+  "lise": {
+    "telur kutu": 0.778
+  },
+  "lumi": {
+    "lumut": 0.778
+  },
+  "makawa": {
+    "antik": 0.111,
+    "bekas": 0.111,
+    "kuno": 0.111
+  },
+  "manumanu-βuka": {
+    "burung": 0.778
+  },
+  "marama": {
+    "perempuan": 0.778,
+    "wanita": 0.778
+  },
+  "Na Matanitu Cokovata O Jamani": {
+    "Republik Federal Jerman": 0.778
+  },
+  "Okosita": {
+    "Agustus": 0.778,
+    "Augustus": 0.778
+  },
+  "qio": {
+    "hiu": 0.778
+  },
+  "qoli": {
+    "pancing": 0.778
+  },
+  "qona": {
+    "getir": 0.778,
+    "pahit": 0.778
+  },
+  "ruve": {
+    "burung dara": 0.778,
+    "burung merpati": 0.778,
+    "dara": 0.778,
+    "ketitiran": 0.778,
+    "merpati": 0.778
+  },
+  "siti": {
+    "kota": 0.778,
+    "pura": 0.778
+  },
+  "siwa": {
+    "pancing": 0.778
+  },
+  "tabu": {
+    "dilarang": 0.778,
+    "larang": 0.778,
+    "melarang": 0.778,
+    "terlarang": 0.778
+  },
+  "tama": {
+    "ayah": 0.778,
+    "ayahanda": 0.778,
+    "bapa": 0.778,
+    "bapak": 0.778
+  },
+  "tina": {
+    "bunda": 0.778,
+    "ibu": 0.778,
+    "ibunda": 0.778
+  },
+  "totoka": {
+    "ayu": 0.778,
+    "cakep": 0.778,
+    "cantik": 0.778,
+    "indah": 0.778,
+    "molek": 0.778
+  },
+  "turaga": {
+    "laki-laki": 0.778,
+    "lelaki": 0.778,
+    "pria": 0.778
+  },
+  "uvi": {
+    "rambat": 0.778,
+    "ubi": 0.778
+  },
+  "va": {
+    "empat": 0.778
+  },
+  "vakaloloma": {
+    "tak berada": 0.222
+  },
+  "vale": {
+    "rumah": 0.778
+  },
+  "vanua": {
+    "bumi": 0.778,
+    "darat": 0.778,
+    "negara": 0.778,
+    "negeri": 0.778,
+    "tanah": 0.778
+  },
+  "vico": {
+    "pusar": 0.778,
+    "pusat": 0.778
+  },
+  "vinaka": {
+    "bagus": 0.778,
+    "baik": 0.778,
+    "makasih": 0.778,
+    "terima kasih": 0.778,
+    "terimakasih": 0.778
+  },
+  "vinakata": {
+    "hendak": 0.778,
+    "menginginkan": 0.778
+  },
+  "Viti": {
+    "Fiji": 0.778
+  },
+  "vonu": {
+    "kura-kura": 0.778,
+    "penyu": 0.778
+  },
+  "vuso": {
+    "busa": 0.778
+  },
+  "yadre": {
+    "dahi": 0.778
+  },
+  "yalo vinaka": {
+    "kumohon": 0.778,
+    "minta tolong": 0.778,
+    "tolong": 0.778
+  },
+  "yanuyanu": {
+    "nusa": 0.778,
+    "pulau": 0.778
+  },
+  "bukawaqa": {
+    "api": 0.778
+  },
+  "dali": {
+    "tali": 0.778
+  },
+  "dredre": {
+    "tertawa": 0.778
+  },
+  "Idia": {
+    "India": 0.778
+  },
+  "Ijipta": {
+    "Mesir": 0.778
+  },
+  "i mawī": {
+    "kiri": 0.778
+  },
+  "Isireli": {
+    "Israel": 0.111
+  },
+  "jaina": {
+    "pisang": 0.778
+  },
+  "kemisi": {
+    "apotik": 0.778
+  },
+  "kila": {
+    "tahu": 0.778
+  },
+  "lako": {
+    "berjalan": 0.778
+  },
+  "livaliva": {
+    "kilat": 0.556
+  },
+  "madrai": {
+    "roti": 0.778
+  },
+  "mata": {
+    "mata": 0.778
+  },
+  "Moniti": {
+    "Senin": 0.778,
+    "hari Senen": 0.778
+  },
+  "niu": {
+    "kelapa": 0.778
+  },
+  "qalo": {
+    "berenang": 0.778
+  },
+  "sala": {
+    "jalan": 0.778
+  },
+  "sele": {
+    "pisau": 0.778
+  },
+  "senikau": {
+    "bunga": 0.778
+  },
+  "sē ni kau": {
+    "bunga": 0.556,
+    "buŋa": 0.556
+  },
+  "tagi": {
+    "menangis": 0.556,
+    "menaŋis": 0.556
+  },
+  "tai": {
+    "pantai": 0.778,
+    "tepi": 0.778
+  },
+  "tiko": {
+    "duduk": 0.778
+  },
+  "Vakaraubuka": {
+    "Jumat": 0.778,
+    "hari Jumat": 0.778,
+    "yumat": 0.778
+  },
+  "wasawasa": {
+    "laut": 0.778
+  },
+  "yapolo": {
+    "apel": 0.778
+  },
+  "Ai Tukutuku-vinaka sa vola ko Marika": {
+    "Injil Markus": 0.556
+  },
+  "Na Veiyalayalati Vou": {
+    "Perjanjian Baru": 0.556
+  },
+  "Ai Tukutuku-vinaka sa vola ko Luke": {
+    "Injil Lukas": 0.556
+  },
+  "Na Vunau e Tini": {
+    "Sepuluh Perintah Allah": 0.778
+  },
+  "Ai Tukutuku-vinaka sa vola ko Maciu": {
+    "Injil Matius": 0.556
+  },
+  "[mucu]mucu": {
+    "tumpul": 0.556
+  },
+  "[vaka] saqa-a": {
+    "memasak": 0.556
+  },
+  "[vaka]lāmawa": {
+    "menguap": 0.556,
+    "meŋguap": 0.556
+  },
+  "bati-na": {
+    "gigi": 0.556
+  },
+  "boo": {
+    "memeras": 0.556,
+    "meremas": 0.556
+  },
+  "bui-na": {
+    "ekor": 0.556,
+    "ékor": 0.556
+  },
+  "buki-a": {
+    "mengikat": 0.556,
+    "meŋikat": 0.556
+  },
+  "butako-ca": {
+    "mencuri": 0.556
+  },
+  "cabe": {
+    "memanjat": 0.556,
+    "mendaki": 0.556,
+    "naik": 0.556
+  },
+  "cula-a": {
+    "menjahit": 0.556
+  },
+  "dabe-ca": {
+    "duduk": 0.556,
+    "menduduk": 0.556
+  },
+  "daku-na": {
+    "belakaŋ": 0.556,
+    "punggung": 0.556
+  },
+  "daliga-na": {
+    "kupiŋ": 0.556,
+    "telinga": 0.556,
+    "teliŋa": 0.556
+  },
+  "digi-a": {
+    "memilih": 0.556
+  },
+  "dola-va": {
+    "membuka": 0.556
+  },
+  "domo-na": {
+    "leher": 0.556,
+    "léhér": 0.556
+  },
+  "drau ni kau": {
+    "daun": 0.556
+  },
+  "drau ni ulu-na": {
+    "rambut": 0.556
+  },
+  "dravu": {
+    "cokelat": 0.778,
+    "coklat": 0.778
+  },
+  "dromodromoa": {
+    "kuning": 0.556,
+    "kuniŋ": 0.556
+  },
+  "drōdrō-va": {
+    "mengalir": 0.556,
+    "meŋalir": 0.556
+  },
+  "dua na dolu": {
+    "seribu": 0.556
+  },
+  "e cake": {
+    "[di] atas": 0.556,
+    "di atas": 0.556
+  },
+  "e dua": {
+    "satu": 0.556
+  },
+  "e loɭma": {
+    "[di] dalam": 0.556,
+    "di dalam": 0.556
+  },
+  "e rua": {
+    "dua": 0.556
+  },
+  "e rā": {
+    "di bawah": 0.556
+  },
+  "e tolu": {
+    "tiga": 0.556
+  },
+  "e vei": {
+    "di mana": 0.556
+  },
+  "e vā": {
+    "empat": 0.556
+  },
+  "gole-a": {
+    "belok": 0.556,
+    "bélok": 0.556
+  },
+  "gusu-na": {
+    "mulut": 0.556
+  },
+  "i matau": {
+    "kanan": 0.556
+  },
+  "i tibitibi": {
+    "atap": 0.556
+  },
+  "i-cula": {
+    "jarum": 0.556
+  },
+  "kabukabu": {
+    "kabut": 0.556
+  },
+  "kadru-va": {
+    "menggaruk": 0.556,
+    "meŋgarut": 0.556
+  },
+  "kalavo": {
+    "tikus": 0.778
+  },
+  "kani-a": {
+    "makan": 0.556
+  },
+  "kati-a": {
+    "gigit": 0.556,
+    "meŋgigit": 0.556
+  },
+  "kaya": {
+    "berbicara": 0.556,
+    "berkata": 0.556
+  },
+  "kemunī": {
+    "eŋkau": 0.556
+  },
+  "kila-a": {
+    "tahu": 0.556
+  },
+  "kuli-na": {
+    "kulit": 0.556
+  },
+  "kurukuru": {
+    "gemuruh": 0.556,
+    "guntur": 0.556
+  },
+  "kuvu ni qele": {
+    "debu": 0.556
+  },
+  "liga-na": {
+    "lengan": 0.778,
+    "lengan baju": 0.778
+  },
+  "lima-sagavulu": {
+    "lima puluh": 0.556
+  },
+  "lomālagi": {
+    "langit": 0.556,
+    "laŋit": 0.556
+  },
+  "lua-ca": {
+    "muntah": 0.556
+  },
+  "lutu-ka": {
+    "jatuh": 0.556
+  },
+  "mama-a": {
+    "mangunyah": 0.556,
+    "meŋuñah": 0.556
+  },
+  "mamare": {
+    "tipis": 0.556
+  },
+  "mata-na": {
+    "mata": 0.556
+  },
+  "midra": {
+    "busuk": 0.556
+  },
+  "mila-a": {
+    "menggaruk": 0.556,
+    "meŋgarut": 0.556
+  },
+  "māduā": {
+    "malu": 0.556
+  },
+  "namu-ta": {
+    "mangunyah": 0.556,
+    "meŋuñah": 0.556
+  },
+  "nanu-ma": {
+    "berfikir": 0.556,
+    "memikir": 0.556
+  },
+  "ninaica": {
+    "kapan": 0.556
+  },
+  "oka-ta": {
+    "menghitung": 0.556,
+    "meŋhituŋ": 0.556
+  },
+  "qiqō": {
+    "sempit": 0.556
+  },
+  "raba": {
+    "lebar": 0.556,
+    "luas": 0.556,
+    "lébar": 0.556
+  },
+  "regu-ca": {
+    "mencium": 0.556
+  },
+  "rua-sagavulu": {
+    "dua puluh": 0.556
+  },
+  "sagavulu": {
+    "sepuluh": 0.556
+  },
+  "sau[laca]": {
+    "jarum": 0.556
+  },
+  "sua-ka": {
+    "menikam": 0.556,
+    "menusuk": 0.556
+  },
+  "sucu-ma": {
+    "mengisap": 0.556,
+    "meŋisap": 0.556
+  },
+  "sucu-na": {
+    "dada": 0.556,
+    "susu": 0.556
+  },
+  "sui-na": {
+    "tulang": 0.556,
+    "tulaŋ": 0.556
+  },
+  "taba-na": {
+    "lengan": 0.778,
+    "sayap": 0.778
+  },
+  "tadra-a": {
+    "bermimpi": 0.556,
+    "mimpi": 0.556
+  },
+  "tama-na": {
+    "ayah": 0.556,
+    "bapak": 0.556
+  },
+  "tase-a": {
+    "membelah": 0.556
+  },
+  "tatā": {
+    "memotong": 0.556,
+    "memotoŋ": 0.556,
+    "menetak": 0.556
+  },
+  "te-a": {
+    "menanam": 0.556
+  },
+  "tina ni viritālawalawa": {
+    "laba-laba": 0.556
+  },
+  "tina-na": {
+    "bunda": 0.556,
+    "ibu": 0.556
+  },
+  "tubu": {
+    "tumbuh": 0.556
+  },
+  "tuki-a": {
+    "memukul": 0.556,
+    "menumbuk": 0.556
+  },
+  "ucu-na": {
+    "hidung": 0.556,
+    "hiduŋ": 0.556
+  },
+  "ulu-na": {
+    "kepala": 0.556
+  },
+  "vacu-a": {
+    "memukul": 0.556
+  },
+  "vaka-caudre-va": {
+    "membakar": 0.556
+  },
+  "vaka-cava": {
+    "bagaimana": 0.556
+  },
+  "vaka-mate-a": {
+    "membunuh": 0.556
+  },
+  "vaka-sasa-a": {
+    "berburu": 0.556
+  },
+  "vana": {
+    "menembak": 0.556,
+    "menémbak": 0.556
+  },
+  "vau-ca": {
+    "mengikat": 0.556,
+    "meŋikat": 0.556
+  },
+  "viciko": {
+    "daging": 0.556,
+    "dagiŋ": 0.556
+  },
+  "vua-na": {
+    "buah": 0.556,
+    "buah-buahan": 0.556,
+    "sebiji buah": 0.556
+  },
+  "vuce": {
+    "membengkak": 0.556,
+    "membeŋkak": 0.556
+  },
+  "vuni-a": {
+    "bersembunyi": 0.556,
+    "sembuñi": 0.556
+  },
+  "vuti-na": {
+    "bulu": 0.556
+  },
+  "vū ni taba-na": {
+    "bahu": 0.556
+  },
+  "vū-na": {
+    "akar": 0.556,
+    "urat": 0.556
+  },
+  "waka-na": {
+    "akar": 0.556,
+    "urat": 0.556
+  },
+  "wati-na": {
+    "isteri": 0.556,
+    "suami": 0.556
+  },
+  "wāwā": {
+    "isi perut": 0.556,
+    "lambuŋ": 0.556,
+    "perut": 0.556,
+    "usus": 0.556,
+    "usus besar": 0.556,
+    "usus kecil": 0.556
+  },
+  "yaca-na": {
+    "nama": 0.556
+  },
+  "yame-na": {
+    "lidah": 0.556
+  },
+  "yate-na": {
+    "hati": 0.556
+  },
+  "yava-na": {
+    "kaki": 0.556
+  },
+  "yavi-ta": {
+    "memukul": 0.556
+  },
+  "vula i kelikeli": {
+    "musim gugur": 0.778,
+    "musin gugur": 0.778
+  },
+  "vula i vuata": {
+    "musim gugur": 0.778,
+    "musin gugur": 0.778
+  },
+  "e rua na": {
+    "dua": 0.444
+  },
+  "e tolu na": {
+    "tiga": 0.444
+  },
+  "e vā na": {
+    "empat": 0.444
+  },
+  "e lima na": {
+    "lima": 0.444
+  },
+  "e ono na": {
+    "enam": 0.444
+  },
+  "e vitu na": {
+    "tujuh": 0.444
+  },
+  "e walu na": {
+    "delapan": 0.444
+  },
+  "e ciwa na": {
+    "sembilan": 0.444
+  },
+  "e tini na": {
+    "sepuluh": 0.444
+  },
+  "buku": {
+    "buntut": 0.333
+  },
+  "duru": {
+    "kopeling lutut": 0.222
+  },
+  "kuita": {
+    "ikan mangsi": 0.778
+  },
+  "moko": {
+    "kadal": 0.222
+  },
+  "mudu": {
+    "putus": 0.222
+  },
+  "ua": {
+    "tendon": 0.222,
+    "urat": 0.222,
+    "urat daging": 0.222
+  },
+  "ulo": {
+    "belatung": 0.222
+  },
+  "ulu": {
+    "kepala": 0.333
+  },
+  "vata": {
+    "rak": 0.222
+  },
+  "voce": {
+    "dayung": 0.778
+  },
+  "wai ni mata": {
+    "air mata": 0.778
+  },
+  "toka": {
+    "berdiri": 0.333
+  },
+  "kemuni": {
+    "saudara": 0.333
+  },
+  "ko iko": {
+    "saudara": 0.333
+  },
+  "ko kend~a": {
+    "nen": 0.333
+  },
+  "leweleyu": {
+    "banyak": 0.333
+  },
+  "vuNga": {
+    "banyak": 0.333
+  },
+  "nd~ua": {
+    "satu": 0.333
+  },
+  "alewa": {
+    "perempuan": 0.333,
+    "wanita": 0.333
+  },
+  "ataNane": {
+    "pria": 0.333
+  },
+  "natamata": {
+    "%insan": 0.333,
+    "oraN": 0.333
+  },
+  "manu": {
+    "buruN": 0.333
+  },
+  "ka8u": {
+    "pohon": 0.333
+  },
+  "sore": {
+    "biZi": 0.333
+  },
+  "drauna": {
+    "daun": 0.333,
+    "duan": 0.333
+  },
+  "nd~rau": {
+    "daun": 0.333,
+    "duan": 0.333
+  },
+  "Ngasika": {
+    "akar": 0.333
+  },
+  "wakanu": {
+    "akar": 0.333
+  },
+  "kuli ni kau": {
+    "kulit kayu": 0.333
+  },
+  "kulina": {
+    "kulit kayu": 0.333
+  },
+  "kuliniyagomu": {
+    "belulaN": 0.333,
+    "kulit": 0.333
+  },
+  "lewe": {
+    "dagiN": 0.333
+  },
+  "nd~ra": {
+    "darah": 0.333
+  },
+  "sw~i": {
+    "tulaN": 0.333
+  },
+  "kaukamea ni manu manu": {
+    "tanduk": 0.333
+  },
+  "buina": {
+    "buntut": 0.333
+  },
+  "bwi": {
+    "buntut": 0.333
+  },
+  "lawe": {
+    "bulu": 0.333
+  },
+  "toroyani": {
+    "bulu": 0.333
+  },
+  "nd~rau ni ulu": {
+    "rambut": 0.333
+  },
+  "daligamu": {
+    "%kupiN": 0.333,
+    "teliNa": 0.333
+  },
+  "matamu": {
+    "mata": 0.333
+  },
+  "u8u": {
+    "hiduN": 0.333
+  },
+  "u8umu": {
+    "hiduN": 0.333
+  },
+  "Nusu": {
+    "mulut": 0.333
+  },
+  "gusumu": {
+    "mulut": 0.333
+  },
+  "nd~raka": {
+    "mulut": 0.333
+  },
+  "batimu": {
+    "gigi": 0.333
+  },
+  "yamemu": {
+    "lidah": 0.333
+  },
+  "Ngalokana": {
+    "kuku": 0.333
+  },
+  "ai Ngaso": {
+    "kuku": 0.333
+  },
+  "nd~ura": {
+    "lutut": 0.333
+  },
+  "liNa": {
+    "taNan": 0.333
+  },
+  "ligamu": {
+    "taNan": 0.333
+  },
+  "ketemu": {
+    "perut": 0.333
+  },
+  "domomu": {
+    "leher": 0.333
+  },
+  "nd~omo": {
+    "leher": 0.333
+  },
+  "ulunivanu": {
+    "hati": 0.333
+  },
+  "yate": {
+    "hati": 0.333
+  },
+  "wai ni Nunu": {
+    "minum": 0.333
+  },
+  "katia": {
+    "gigit": 0.333
+  },
+  "kota": {
+    "gigit": 0.333
+  },
+  "rai8a": {
+    "lihat": 0.333,
+    "melihat": 0.333
+  },
+  "roNo8a": {
+    "mendeNar": 0.333
+  },
+  "roga8a": {
+    "mendeNar": 0.333
+  },
+  "mo8e": {
+    "tidur": 0.333
+  },
+  "momo8e": {
+    "tidur": 0.333
+  },
+  "bale": {
+    "mati": 0.333
+  },
+  "Ngalo": {
+    "berenaN": 0.333
+  },
+  "moqalo": {
+    "berenaN": 0.333
+  },
+  "nuse": {
+    "berenaN": 0.333
+  },
+  "movuka": {
+    "terbaN": 0.333
+  },
+  "moiako": {
+    "Zalan": 0.333
+  },
+  "salatu": {
+    "Zalan": 0.333,
+    "jalaN": 0.333
+  },
+  "lakomai": {
+    "dataN": 0.333
+  },
+  "8ori": {
+    "berbariN": 0.333
+  },
+  "motu8ake": {
+    "berdiri": 0.333
+  },
+  "wavu tu": {
+    "berdiri": 0.333
+  },
+  "movasa": {
+    "kata": 0.333
+  },
+  "mata ni siNa": {
+    "mata hari": 0.333,
+    "matahari": 0.333,
+    "mentari": 0.333,
+    "surya": 0.333
+  },
+  "matanisiga": {
+    "mata hari": 0.333,
+    "matahari": 0.333,
+    "mentari": 0.333,
+    "surya": 0.333
+  },
+  "kalo": {
+    "bintaN": 0.333
+  },
+  "wadra": {
+    "bintaN": 0.333
+  },
+  "u8a": {
+    "huZan": 0.333
+  },
+  "nukunuku": {
+    "pasir": 0.333
+  },
+  "Ngele": {
+    "bumi": 0.333,
+    "darat": 0.333
+  },
+  "soso": {
+    "bumi": 0.333,
+    "darat": 0.333
+  },
+  "bukawaNga": {
+    "api": 0.333
+  },
+  "nd~ravusa": {
+    "abu": 0.333
+  },
+  "Ngawa": {
+    "bakar": 0.333
+  },
+  "waNga": {
+    "bakar": 0.333
+  },
+  "nd~elanivanua": {
+    "bukit": 0.333,
+    "gunuN": 0.333
+  },
+  "nd~amu": {
+    "merah": 0.333
+  },
+  "siNasiNau": {
+    "putih": 0.333
+  },
+  "boNi": {
+    "malam": 0.333
+  },
+  "kata": {
+    "haNat": 0.333,
+    "panas": 0.333
+  },
+  "kalikaliwa": {
+    "diNin": 0.333
+  },
+  "sinai": {
+    "penuh": 0.333
+  },
+  "mata vou": {
+    "baru": 0.333
+  },
+  "moNgimoNgili": {
+    "bulat": 0.333
+  },
+  "momokiti": {
+    "bulat": 0.333
+  },
+  "di": {
+    "keriN": 0.333
+  },
+  "ma8a": {
+    "keriN": 0.333
+  },
+  "mama8a": {
+    "keriN": 0.333
+  },
+  "ya8a": {
+    "%nama": 0.333
+  },
+  "ya8amu": {
+    "%nama": 0.333
+  },
+  "damu": {
+    "merah": 0.222
+  },
+  "dogo": {
+    "bakau": 0.222
+  },
+  "dio": {
+    "tiram": 0.222
+  },
+  "saga": {
+    "paha": 0.222
+  },
+  "vakacegu": {
+    "kedamaian": 0.556
+  },
+  "rai": {
+    "tampak": 0.222
+  },
+  "lagi": {
+    "langit": 0.222
+  },
+  "kalo kalo": {
+    "bintang": 0.778
+  },
+  "Jiova": {
+    "Yahweh": 0.222
+  },
+  "Berlin": {
+    "Berlin": 0.778
+  },
+  "vosa vakajamani": {
+    "bahasa Jerman": 0.778
+  },
+  "vakajamani": {
+    "bahasa Jerman": 0.778
+  },
+  "kaboni": {
+    "karbon": 0.778,
+    "zat arang": 0.778
+  },
+  "Tiseba": {
+    "Desember": 0.778
+  },
+  "Veverueri": {
+    "Februari": 0.778,
+    "februari": 0.778
+  },
+  "Janueri": {
+    "Januari": 0.778,
+    "januari": 0.778
+  },
+  "Jiulai": {
+    "juli": 0.778
+  },
+  "June": {
+    "Juni": 0.778,
+    "juni": 0.778
+  },
+  "Maji": {
+    "maret": 0.778
+  },
+  "May": {
+    "mei": 0.778
+  },
+  "Noveba": {
+    "November": 0.778,
+    "november": 0.778
+  },
+  "okotova": {
+    "oktober": 0.778
+  },
+  "Rusi": {
+    "Rusia": 0.778
+  },
+  "Vakarauwai": {
+    "hari Sabtu": 0.778,
+    "hari sabtu": 0.778,
+    "sabat": 0.778,
+    "sabtu": 0.778
+  },
+  "Seviteba": {
+    "september": 0.778
+  },
+  "Sigatabu": {
+    "Ahad": 0.778,
+    "Minggu": 0.778
+  },
+  "Lotulevu": {
+    "Kamis": 0.778,
+    "hari Kamis": 0.778,
+    "kamis": 0.778
+  },
+  "Tusiti": {
+    "Selasa": 0.778,
+    "hari selasa": 0.778
+  },
+  "Vukelulu": {
+    "hari Rabu": 0.778,
+    "hari rabu": 0.778,
+    "rabu": 0.778
+  },
+  "vale vo": {
+    "kamar mandi": 0.778
+  },
+  "mahumanu": {
+    "burung": 0.778
+  },
+  "siganisucu": {
+    "ulang tahun": 0.778
+  },
+  "kofi": {
+    "kopi": 0.778
+  },
+  "kofe": {
+    "kopi": 0.778
+  },
+  "walu saga vulu": {
+    "delapan puluh": 0.778
+  },
+  "lima saga vulu": {
+    "lima puluh": 0.778
+  },
+  "va saga vulu": {
+    "empat puluh": 0.778
+  },
+  "ituki": {
+    "palu": 0.778
+  },
+  "mawi": {
+    "kiri": 0.778
+  },
+  "ciwa saga vulu": {
+    "sembilan puluh": 0.778
+  },
+  "senikavika": {
+    "jingga": 0.778,
+    "oranye": 0.778
+  },
+  "pasipote": {
+    "paspor": 0.778
+  },
+  "lokaloka": {
+    "ungu": 0.778
+  },
+  "vitu saga vulu": {
+    "tujuh puluh": 0.778
+  },
+  "taci": {
+    "adik": 0.778,
+    "kakak": 0.778,
+    "saudara": 0.778
+  },
+  "ono saga vulu": {
+    "enam puluh": 0.778
+  },
+  "sulua": {
+    "cumi-cumi": 0.778,
+    "nus": 0.778
+  },
+  "kumala": {
+    "ubi jalar": 0.778
+  },
+  "saga-na": {
+    "paha": 0.778
+  },
+  "tolu saga vulu": {
+    "tiga puluh": 0.778
+  },
+  "rua saga vulu": {
+    "dua puluh": 0.778
+  },
+  "rua drau": {
+    "dua ratus": 0.556
+  },
+  "macava": {
+    "minggu": 0.778,
+    "pekan": 0.778
+  },
+  "tavuto": {
+    "ikan": 0.778,
+    "paus": 0.778
+  },
+  "tovuto": {
+    "ikan": 0.778,
+    "paus": 0.778
+  },
+  "nanoa": {
+    "kemarin": 0.778
+  },
+  "savu": {
+    "air terjun": 0.778
+  },
+  "Jisu": {
+    "Yesus": 0.778
+  },
+  "Na Vosa Vakaviti": {
+    "bahasa Fiji": 0.778
+  },
+  "tama tata": {
+    "bapak": 0.778
+  },
+  "yandra": {
+    "selamat pagi": 0.778,
+    "selamat siang": 0.778
+  },
+  "bula vinaka": {
+    "selamat pagi": 0.778,
+    "selamat siang": 0.778
+  },
+  "vai tonotono": {
+    "pari ayam": 0.778,
+    "pari burung": 0.778
+  },
+  "vai beka": {
+    "pari ayam": 0.778,
+    "pari burung": 0.778
+  },
+  "damu damu": {
+    "merah": 0.778
+  },
+  "vosota sara": {
+    "maaf": 0.778,
+    "minta maaf": 0.778
+  },
+  "vula vula": {
+    "bodas": 0.778,
+    "putih": 0.778
+  },
+  "Ljipta": {
+    "Mesir": 0.778
+  },
+  "Pāseka": {
+    "Paskah": 0.778
+  },
+  "Feperueri": {
+    "Februari": 0.778,
+    "februari": 0.778
+  },
+  "Me": {
+    "mei": 0.778
+  },
+  "Sepiteba": {
+    "September": 0.778,
+    "september": 0.778
+  },
+  "Papiloni": {
+    "Babilonia": 0.778
+  },
+  "vicovico": {
+    "pusar": 0.778
+  },
+  "India": {
+    "India": 0.778
+  },
+  "Beijing": {
+    "Beijing": 0.778
+  },
+  "waini": {
+    "anggur": 0.778
+  },
+  "tini ka rua": {
+    "dua belas": 0.778
+  },
+  "uneune": {
+    "gempa bumi": 0.778
+  },
+  "Julai": {
+    "juli": 0.778
+  },
+  "Okotova": {
+    "Oktober": 0.778
+  },
+  "taba": {
+    "bahu": 0.778,
+    "pundak": 0.778
+  },
+  "tamāta": {
+    "tomat": 0.778
+  },
+  "kokoroti": {
+    "kacoa": 0.778,
+    "kecoa": 0.778,
+    "kecoak": 0.778
+  },
+  "Elbe": {
+    "Elbe": 0.556
+  },
+  "ISO 639": {
+    "ISO 639": 0.556
+  },
+  "Merika": {
+    "Amerika": 0.556
+  },
+  "Urope": {
+    "Eropa": 0.556
+  },
+  "Atama kei Ivi": {
+    "Adam dan Hawa": 0.556
+  },
+  "Matabose Levu kei Vuravura": {
+    "PBB": 0.556,
+    "Perserikatan Bangsa-Bangsa": 0.556
+  },
+  "Ai Tukutuku-vinaka sa vola ko Joni": {
+    "Injil Yohanes": 0.556
+  },
+  "A nodra Cakacaka nai Apositolo": {
+    "Kisah Para Rasul": 0.556
+  },
+  "Ai vola i Paula vei ira na kai Roma": {
+    "Surat Paulus kepada Jemaat di Roma": 0.556
+  },
+  "Ai matai ni vola i Paula vei ira na kai Korinica": {
+    "Surat Paulus yang Pertama kepada Jemaat di Korintus": 0.556
+  },
+  "Ai karua ni vola i Paula vei ira na kai Korinica": {
+    "Surat Paulus yang Kedua kepada Jemaat di Korintus": 0.556
+  },
+  "Ai vola i Paula vei ira na kai Kalatia": {
+    "Surat Paulus kepada Jemaat di Galatia": 0.556
+  },
+  "Ai vola i Paula vei ira na kai Efeso": {
+    "Surat Paulus kepada Jemaat di Efesus": 0.556
+  },
+  "Ai vola i Paula vei ira na kai Filipai": {
+    "Surat Paulus kepada Jemaat di Filipi": 0.556
+  },
+  "Ai vola i Paula vei ira na kai Kolosa": {
+    "Surat Paulus kepada Jemaat di Kolose": 0.556
+  },
+  "Ai matai ni vola i Paula vei ira na kai Cesalonaika": {
+    "Surat Paulus yang Pertama kepada Jemaat di Tesalonika": 0.556
+  },
+  "Ai karua ni vola i Paula vei ira na kai Cesalonaika": {
+    "Surat Paulus yang Kedua kepada Jemaat di Tesalonika": 0.556
+  },
+  "Ai matai ni vola i Paula vei Timoci": {
+    "Surat Paulus yang Pertama kepada Timotius": 0.556
+  },
+  "Ai karua ni vola i Paula vei Timoci": {
+    "Surat Paulus yang Kedua kepada Timotius": 0.556
+  },
+  "Ai vola i Paula vei Taito": {
+    "Surat Paulus kepada Titus": 0.556
+  },
+  "Ai vola i Paula vei Filimoni": {
+    "Surat Paulus kepada Filemon": 0.556
+  },
+  "Ai vola i Paula vei ira na Iperiu": {
+    "Surat kepada Orang Ibrani": 0.556
+  },
+  "Ai vola i Jemesa": {
+    "Surat Yakobus": 0.556
+  },
+  "Ai matai ni vola i Pita": {
+    "Surat Petrus yang Pertama": 0.556
+  },
+  "Ai karua ni vola i Pita": {
+    "Surat Petrus yang Kedua": 0.556
+  },
+  "Ai matai ni vola i Joni": {
+    "Surat Yohanes yang Pertama": 0.556
+  },
+  "Ai karua ni vola i Joni": {
+    "Surat Yohanes yang Kedua": 0.556
+  },
+  "Ai katolu ni vola i Joni": {
+    "Surat Yohanes yang Ketiga": 0.556
+  },
+  "Ai vola i Juta": {
+    "Surat Yudas": 0.556
+  },
+  "Ai Vakatakila sa vola ko Joni": {
+    "Wahyu kepada Yohanes": 0.556
+  },
+  "vakadidike": {
+    "Ilmuwan": 2
+  },
+  "kacivaka": {
+    "mengumumkan": 4
+  },
+  "U.S": {
+    "cip.": 1
+  },
+  "Era": {
+    "Para": 7
+  },
+  "rawaka": {
+    "berpenghasilan": 2,
+    "nilai": 2
+  },
+  "veimama": {
+    "setengah": 3
+  },
+  "matanitu": {
+    "negara": 19
+  },
+  "vutuniyau.": {
+    "kaya.": 1
+  },
+  "waqavuka": {
+    "penerbangan": 8
+  },
+  "JAS": {
+    "39C": 1
+  },
+  "39C": {
+    "Gripen": 1
+  },
+  "(0230": {
+    "9.30": 1
+  },
+  "sogo": {
+    "(0230": 1,
+    "Trans-Alaska": 1
+  },
+  "rara": {
+    "bandara": 4
+  },
+  "usa": {
+    "komersial.": 1
+  },
+  "Mai": {
+    "Pilot": 1,
+    "\"Sejauh": 1,
+    "Jesus": 1,
+    "Perubahan": 1,
+    "Sejak": 1,
+    "Memahami": 1
+  },
+  "pailate": {
+    "diidentifikasi": 1
+  },
+  "Liuliu": {
+    "Pemimpin": 1
+  },
+  "Squadron": {
+    "Skuadron": 1
+  },
+  "Dilokrit": {
+    "Dilokrit": 1
+  },
+  "Pattavee.": {
+    "Pattavee.": 1
+  },
+  "daunitukutuku": {
+    "Media": 1,
+    "lokal": 1
+  },
+  "lori": {
+    "kendaraan": 3,
+    "mobil": 3
+  },
+  "bokobuka": {
+    "api": 1
+  },
+  "veivueti": {
+    "dioperasikan.": 1,
+    "Helikopter": 1,
+    "menyelamatkan": 1
+  },
+  "vakaraitaki": {
+    "muncul": 3
+  },
+  "28": {
+    "28": 2
+  },
+  "tomani": {
+    "bergabung": 2
+  },
+  "Barca": {
+    "BarÃ§a": 1
+  },
+  "oti,": {
+    "lalu,": 4
+  },
+  "Sevilla.": {
+    "Sevilla.": 1
+  },
+  "toki": {
+    "fase": 3
+  },
+  "koroturaga-Katalani,": {
+    "Catalan,": 1,
+    "Vidal": 1
+  },
+  "49": {
+    "49": 1
+  },
+  "oya.": {
+    "tersebut.": 4
+  },
+  "E": {
+    "Ada": 10
+  },
+  "tekivu": {
+    "mulai": 7
+  },
+  "kudru": {
+    "pukul": 3,
+    "pengunjuk": 3,
+    "rasa": 3
+  },
+  "kaloko": {
+    "(UTC+1)": 1
+  },
+  "Whitehall": {
+    "Whitehall": 1
+  },
+  "icurucuru": {
+    "masuk": 2
+  },
+  "yadrava": {
+    "dijaga": 1
+  },
+  "ovisa": {
+    "polisi": 8
+  },
+  "Downing": {
+    "Jalan": 1
+  },
+  "Street,": {
+    "Downing,": 1,
+    "kediaman": 1
+  },
+  "Paraiminisita.": {
+    "Perdana": 1,
+    "Menteri.": 1
+  },
+  "Sivi": {
+    "Pengunjuk": 1,
+    "rasa": 1
+  },
+  "11:00,": {
+    "tepat": 1
+  },
+  "sogota": {
+    "memblokir": 3
+  },
+  "vualiku": {
+    "utara": 11
+  },
+  "Whitehall.": {
+    "Whitehall.": 1
+  },
+  "Rauta": {
+    "Sekitar": 4
+  },
+  "11:29,": {
+    "11.29,": 1
+  },
+  "sivi": {
+    "berpindah": 1,
+    "Whitehall,": 1,
+    "Lapangan": 1,
+    "Trafalgar,": 1
+  },
+  "Conservation": {
+    "Forum": 1
+  },
+  "Spring": {
+    "Semi": 1
+  },
+  "Otela": {
+    "hotel": 2
+  },
+  "Grand": {
+    "Grand": 4
+  },
+  "Connaught.": {
+    "Connaught": 1,
+    "Rooms.": 1
+  },
+  "kai": {
+    "gol": 3
+  },
+  "Nadal": {
+    "Nadal": 2
+  },
+  "Kenada": {
+    "Kanada": 2
+  },
+  "7–2.": {
+    "7â€“2.": 1
+  },
+  "druka": {
+    "Baru-baru": 1,
+    "kalah": 1
+  },
+  "Raonic": {
+    "melawan": 1,
+    "Raonic": 1
+  },
+  "Brisbane": {
+    "Brisbane": 1
+  },
+  "Open.": {
+    "Terbuka.": 1
+  },
+  "88%": {
+    "poin": 1,
+    "bersih": 1
+  },
+  "76": {
+    "meraih": 1,
+    "76": 1
+  },
+  "poidi": {
+    "poin": 3
+  },
+  "rauni.": {
+    "servis": 1,
+    "pertama.": 1
+  },
+  "qito,": {
+    "\"Seusai": 1,
+    "pertandingan,": 1,
+    "Tanah": 1
+  },
+  "Tui": {
+    "Raja": 6
+  },
+  "Clay,": {
+    "Liat": 1
+  },
+  "\"Au": {
+    "\"Saya": 2
+  },
+  "lesu": {
+    "kembali": 8
+  },
+  "iotioti": {
+    "terakhir": 3
+  },
+  "Au": {
+    "Saya": 2
+  },
+  "meu": {
+    "datang": 1,
+    "menjuarai": 1,
+    "ini.\"": 1
+  },
+  "\"Panama": {
+    "\"Panama": 1
+  },
+  "Papers\"e": {
+    "Papers\"": 1
+  },
+  "milioni": {
+    "juta": 14
+  },
+  "Mossack": {
+    "Panama": 1,
+    "Mossack": 1
+  },
+  "Fonseca,": {
+    "Fonseca,": 1
+  },
+  "Panama,": {
+    "bocor": 1
+  },
+  "vakailowa": {
+    "pers": 1,
+    "suap": 1,
+    "korupsi": 1
+  },
+  "volaitukutuku": {
+    "semi": 1,
+    "publikasi": 1
+  },
+  "2016.": {
+    "2016.\"": 1
+  },
+  "vakaraitaka": {
+    "memperlihatkan": 4
+  },
+  "vunitaka": {
+    "menyembunyikan": 2
+  },
+  "bilioni": {
+    "kekayaan": 2,
+    "miliar": 2
+  },
+  "vakabilioni": {
+    "miliaran": 1
+  },
+  "Amerika": {
+    "Amerika": 8
+  },
+  "vakacavacava.": {
+    "peraturan": 1,
+    "lainnya.": 1
+  },
+  "niusipepa": {
+    "kabar": 1
+  },
+  "Guardian": {
+    "Guardian": 1
+  },
+  "Baqe": {
+    "Deutsche": 1
+  },
+  "Deutsche": {
+    "mengendalikan": 1
+  },
+  "1200": {
+    "1.200": 1
+  },
+  "kabani": {
+    "perusahaan": 8
+  },
+  "shell": {
+    "cangkang": 1
+  },
+  "oqo.": {
+    "ini.": 5
+  },
+  "basu": {
+    "kriminal,": 1
+  },
+  "kere": {
+    "pemimpin": 1,
+    "Melihat": 1,
+    "kegiatan": 1
+  },
+  "Aisiladi": {
+    "mengundurkan": 1
+  },
+  "Pakisitani.": {
+    "Pakistan.": 2
+  },
+  "Hong": {
+    "\"Lahir": 1
+  },
+  "Kong,": {
+    "Hong": 1,
+    "Kong,": 1
+  },
+  "Ma": {
+    "Ma": 4
+  },
+  "Univesiti": {
+    "Universitas": 4
+  },
+  "Harvard": {
+    "York": 1
+  },
+  "tawavanua": {
+    "status": 1
+  },
+  "\"green": {
+    "Amerika:": 1,
+    "\"green": 1
+  },
+  "card\".": {
+    "card\"": 1
+  },
+  "Hseih": {
+    "Hsieh": 2
+  },
+  "kilakasamataka": {
+    "menyiratkan": 1
+  },
+  "veidigidigi": {
+    "pemilu": 3
+  },
+  "dro": {
+    "luar": 2
+  },
+  "tiko.": {
+    "krisis.": 1,
+    "memahami.": 1
+  },
+  "itaba": {
+    "gambar": 4,
+    "kali": 4
+  },
+  "maqosa": {
+    "penampilan": 1,
+    "kesenian": 1
+  },
+  "rakorako.": {
+    "isi.": 1
+  },
+  "oqo,": {
+    "ini,": 6
+  },
+  "veibeitaki": {
+    "menang": 1,
+    "akuisisi": 1
+  },
+  "wini": {
+    "mendorong": 1,
+    "memperingati": 1,
+    "kemenangannya": 1
+  },
+  "buturara": {
+    "hubungan": 1,
+    "panggung": 1
+  },
+  "veisemati": {
+    "erat": 1
+  },
+  "Jaina.": {
+    "Tiongkok": 2
+  },
+  "Dauqito": {
+    "Pemain": 1,
+    "Terbaik": 1
+  },
+  "Nikua": {
+    "Hari": 1,
+    "Jonny": 1,
+    "Reid,": 1
+  },
+  "Alex": {
+    "Ini": 1
+  },
+  "Ovechkin": {
+    "Ovechkin": 2
+  },
+  "Koro-turaga": {
+    "Washington": 1
+  },
+  "Washington.": {
+    "Capitals.": 1
+  },
+  "vakacuruma": {
+    "Dia": 1,
+    "menghasilkan": 1
+  },
+  "2": {
+    "2": 5
+  },
+  "tale": {
+    "lain": 12
+  },
+  "Washington": {
+    "-": 1
+  },
+  "5-3": {
+    "Washington": 1
+  },
+  "Atlanta": {
+    "Atlanta": 3
+  },
+  "Thrashers.": {
+    "Thrashers.": 1
+  },
+  "matai": {
+    "pertama": 6
+  },
+  "Nicklas": {
+    "gol": 1
+  },
+  "Backstrom": {
+    "kemenangan": 1
+  },
+  "caqeta": {
+    "pertandingan": 1
+  },
+  "polo": {
+    "rookie": 1,
+    "memasukkan": 1,
+    "pemain": 1,
+    "ayunan": 1
+  },
+  "vakadeitaka": {
+    "Nicklas": 1,
+    "Didampingi": 1,
+    "mengirimkan": 1,
+    "sinyal": 1,
+    "memastikan": 1
+  },
+  "wini.": {
+    "Backstrom;": 1,
+    "menyelesaikan": 1,
+    "permainan.": 1
+  },
+  "wasewase": {
+    "musim": 4
+  },
+  "60": {
+    "60": 2
+  },
+  "sivia": {
+    "lebih": 7
+  },
+  "1995-96,": {
+    "1995-96,": 1
+  },
+  "Jaromir": {
+    "Mario": 1
+  },
+  "Mario": {
+    "Lemieux": 1
+  },
+  "Lemieux": {
+    "tonggak": 1
+  },
+  "Batten": {
+    "Batten": 1,
+    "menduduki": 1,
+    "peringkat": 1
+  },
+  "190": {
+    "ke-190": 1
+  },
+  "Tamata": {
+    "daftar": 1
+  },
+  "Vutuniyau": {
+    "400": 1
+  },
+  "2008": {
+    "2008": 3
+  },
+  "$2.3": {
+    "diperkirakan": 1,
+    "2,3": 1
+  },
+  "taukena.": {
+    "dolar": 1,
+    "AS.": 1
+  },
+  "taurivola": {
+    "lulus": 1
+  },
+  "College": {
+    "Sekolah": 1,
+    "Tinggi": 1
+  },
+  "Arts": {
+    "Seni": 1
+  },
+  "Sciences": {
+    "Sains": 1
+  },
+  "Virginia": {
+    "Virginia": 1,
+    "Virginia,": 1
+  },
+  "1950": {
+    "1950": 1
+  },
+  "cau": {
+    "penyumbang": 1
+  },
+  "koronivuli": {
+    "sekolah": 3
+  },
+  "valeniveivesu": {
+    "Penjara": 2
+  },
+  "Gharaib": {
+    "Abu": 1
+  },
+  "Iraki": {
+    "Ghraib": 1
+  },
+  "vakamai": {
+    "Irak": 1,
+    "dibakar": 1
+  },
+  "vakacaca": {
+    "saat": 2
+  },
+  "daubasulawa.": {
+    "kerusuhan.": 1
+  },
+  "kilai": {
+    "dikenal": 8
+  },
+  "veivakalolomataki": {
+    "pelecehan": 1,
+    "tahanan": 1
+  },
+  "mataivalu": {
+    "pasukan": 4
+  },
+  "Amerika.": {
+    "Amerika": 2
+  },
+  "Piquet": {
+    "Jr.": 2
+  },
+  "coqa": {
+    "kecelakaan": 4
+  },
+  "Prix": {
+    "Prix": 1,
+    "Hongaria": 1
+  },
+  "Fernando": {
+    "pit": 1
+  },
+  "Alonso,": {
+    "stop": 1
+  },
+  "cici": {
+    "Alonso,": 1,
+    "andal": 1,
+    "mil,": 1
+  },
+  "motoka.": {
+    "mobil": 2
+  },
+  "Ni": {
+    "Setelah": 8
+  },
+  "motoka": {
+    "mobil": 5
+  },
+  "Alonso": {
+    "depan": 1,
+    "Alonso": 1
+  },
+  "tawa": {
+    "mengisi": 1,
+    "padanya,": 1,
+    "sinyal,": 1
+  },
+  "toso": {
+    "bergerak": 3
+  },
+  "yaco": {
+    "terjadi": 6
+  },
+  "qaqa.": {
+    "menang.": 1,
+    "berbeda-beda.": 1
+  },
+  "vakasakei": {
+    "Piquet": 1
+  },
+  "Jr.": {
+    "dipecat": 1
+  },
+  "Hungary.": {
+    "2009.": 1
+  },
+  "8:46": {
+    "Tepat": 1
+  },
+  "vakadidi": {
+    "08.46": 1,
+    "pagi,": 1
+  },
+  "makataka": {
+    "menandai": 3
+  },
+  "vakanamata": {
+    "targetnya.": 1,
+    "mengingat": 1,
+    "teks.": 1
+  },
+  "itutu": {
+    "menyelesaikan": 2
+  },
+  "vakarautaki": {
+    "menyediakan": 2
+  },
+  "lomalagi": {
+    "langit": 2
+  },
+  "bogi.": {
+    "malam.": 2,
+    "malam": 2,
+    "hari.": 2
+  },
+  "balabalavu": {
+    "pencakar": 1
+  },
+  "ivakananumi": {
+    "peringatan": 1
+  },
+  "lomadonu.": {
+    "tengah-tengahnya.": 1
+  },
+  "PBS": {
+    "Acara": 1
+  },
+  "show": {
+    "TV": 1,
+    "PBS": 1
+  },
+  "awards,": {
+    "penghargaan": 1,
+    "Emmy,": 1
+  },
+  "ga": {
+    "hanya": 24
+  },
+  "muri": {
+    "dilampaui": 1,
+    "Persyaratan": 1
+  },
+  "Sesame": {
+    "Sesame": 1
+  },
+  "Street": {
+    "Street": 1
+  },
+  "Mister": {
+    "Mister": 1
+  },
+  "Roger’s": {
+    "Rogers'": 1
+  },
+  "Neighborhood.": {
+    "Neighborhood.": 1
+  },
+  "ulutaga": {
+    "tema": 1,
+    "mengeksplorasinya": 1,
+    "Franks": 1,
+    "Artikel": 1
+  },
+  "italanoa.": {
+    "cerita.": 1
+  },
+  "veiyaloyalo": {
+    "Setiap": 1,
+    "acara": 1
+  },
+  "vakawilika": {
+    "dilihat": 1
+  },
+  "salavata": {
+    "berkunjung": 1
+  },
+  "parokaramu.": {
+    "perpustakaan.": 1,
+    "berakhir.": 1
+  },
+  "Reading": {
+    "Grant,": 1,
+    "Buffalo": 1,
+    "(stasiun": 1,
+    "induk": 1,
+    "Reading": 1,
+    "Rainbow)": 1,
+    "\"Reading": 1,
+    "Rainbow": 1,
+    "mengajari": 1
+  },
+  "Grant,": {
+    "WNED": 1
+  },
+  "ivola.": {
+    "buku.\"": 1
+  },
+  "John": {
+    "John": 5
+  },
+  "vakatalega": {
+    "Grant": 1
+  },
+  "vakabauta": {
+    "percaya": 3
+  },
+  "veisau": {
+    "perubahan": 7
+  },
+  "cava,": {
+    "peramal": 1,
+    "cuaca,": 1,
+    "demikian,": 1
+  },
+  "km)": {
+    "1040": 1
+  },
+  "maile": {
+    "mil": 5
+  },
+  "Cape": {
+    "Cape": 3
+  },
+  "daunidraki.": {
+    "membahayakan": 1,
+    "daratan.": 1
+  },
+  "kaukauwa": {
+    "energi": 6
+  },
+  "105": {
+    "105": 1
+  },
+  "auwa": {
+    "jam": 4
+  },
+  "(165km/h)": {
+    "(165": 1,
+    "km/jam)": 1
+  },
+  "vualikuira.": {
+    "laut.": 1
+  },
+  "vakilai": {
+    "terkuat": 1
+  },
+  "volai": {
+    "terekam": 2
+  },
+  "tokalau": {
+    "timur": 4
+  },
+  "Atlantic,": {
+    "Atlantik": 1,
+    "nama,": 1
+  },
+  "35°W.": {
+    "35Â°W.": 1
+  },
+  "24": {
+    "24": 4
+  },
+  "Sepiteba,": {
+    "meneken": 1
+  },
+  "1759,": {
+    "perjanjian": 1,
+    "sewa": 1
+  },
+  "9,000": {
+    "9.000": 3
+  },
+  "Guiness": {
+    "St": 1
+  },
+  "lisi": {
+    "James'": 1,
+    "daftar": 1
+  },
+  "St": {
+    "Dublin,": 1
+  },
+  "Gate": {
+    "Irlandia,": 1
+  },
+  "Brewery": {
+    "24": 1
+  },
+  "Dublin,": {
+    "September": 1
+  },
+  "Ailadi.": {
+    "1759.": 1
+  },
+  "250": {
+    "250": 1,
+    "Guinness": 1
+  },
+  "yabaki,": {
+    "kemudian,": 3
+  },
+  "10": {
+    "10": 7
+  },
+  "euro": {
+    "14,7": 1
+  },
+  "(US$14.7": {
+    "miliar)": 1
+  },
+  "veiyabaki.": {
+    "tahun.": 1
+  },
+  "rawata": {
+    "mencetak": 2
+  },
+  "timi": {
+    "tim": 4
+  },
+  "vakairogorogo": {
+    "A1GP": 1
+  },
+  "Niu": {
+    "Selandia": 3
+  },
+  "veivuke": {
+    "membuat": 3
+  },
+  "draiva": {
+    "pengemudi": 2,
+    "berkendara": 2
+  },
+  "Siladi,": {
+    "tercepat": 1
+  },
+  "48": {
+    "48": 2
+  },
+  "Siladi.": {
+    "sah.": 1
+  },
+  "Draivataka": {
+    "Tuan": 1
+  },
+  "Mr": {
+    "berhasil": 2,
+    "Tuan": 2
+  },
+  "Reid": {
+    "Reid": 2
+  },
+  "Niusiladi": {
+    "Selandia": 2
+  },
+  "A1GP,": {
+    "Black": 1
+  },
+  "Black": {
+    "Beauty": 2
+  },
+  "siviti": {
+    "160": 1
+  },
+  "160km/h": {
+    "km/jam": 1
+  },
+  "vakavitutaki": {
+    "tujuh": 1,
+    "kali": 1
+  },
+  "wavu.": {
+    "jembatan.": 1
+  },
+  "totolo": {
+    "lebih": 7
+  },
+  "Ena": {
+    "Di": 16
+  },
+  "3": {
+    "3": 1
+  },
+  "80": {
+    "80": 2
+  },
+  "sereki": {
+    "dibebaskan": 1
+  },
+  "Central": {
+    "Central": 1
+  },
+  "Booking": {
+    "Booking": 1
+  },
+  "beitaki": {
+    "dikenakan": 1,
+    "aparat": 1
+  },
+  "ka.": {
+    "resmi.": 1,
+    "gegar": 1,
+    "budaya.": 1
+  },
+  "samani": {
+    "perintah": 1
+  },
+  "Daunilewa": {
+    "dikeluarkan": 1,
+    "Hakim": 1
+  },
+  "Glynn": {
+    "Glynn": 1
+  },
+  "vakavesu": {
+    "dijebloskan": 2
+  },
+  "komisina": {
+    "komisaris": 1
+  },
+  "valenilewa.": {
+    "pengadilan.": 1
+  },
+  "belemauti": {
+    "Komisaris": 1,
+    "menetapkan": 1,
+    "jaminan,": 1
+  },
+  "vakatarai,": {
+    "dikabulkan,": 1
+  },
+  "vakaivolataka": {
+    "meresmikan": 1
+  },
+  "vakamuri": {
+    "kasus": 1,
+    "Mengikuti": 1
+  },
+  "kisi.": {
+    "diusut.": 1
+  },
+  "rogoci": {
+    "Sidang": 1
+  },
+  "talega": {
+    "juga": 12
+  },
+  "maka": {
+    "menandai": 1,
+    "tanggal": 1
+  },
+  "tikinisiga": {
+    "hak": 1,
+    "tersangka": 1
+  },
+  "vakadonui": {
+    "mendapatkan": 2
+  },
+  "veilewai": {
+    "persidangan": 1,
+    "Sidang": 1
+  },
+  "beitaki.": {
+    "cepat.": 1
+  },
+  "dauniyau": {
+    "Peter": 1,
+    "Costello,": 1
+  },
+  "Ositerelia,": {
+    "bendahara": 1
+  },
+  "Howard": {
+    "Howard": 2
+  },
+  "veitokoni": {
+    "dukungan": 4
+  },
+  "tabana": {
+    "industri": 5
+  },
+  "Ositerelia.": {
+    "Australia.": 3
+  },
+  "Costello": {
+    "Costello": 1,
+    "berkata": 1
+  },
+  "vakarautaki,": {
+    "layak": 1,
+    "ekonomi,": 1
+  },
+  "\"Kevaka": {
+    "\"Jika": 1
+  },
+  "ivakatagedegede": {
+    "komersil,": 1,
+    "syarat": 1
+  },
+  "veivoli,": {
+    "memilikinya.": 1,
+    "perdagangan,": 1
+  },
+  "Sai": {
+    "Artinya,": 1
+  },
+  "ivakavuvuli": {
+    "keberatan": 1
+  },
+  "vakarautaki\"": {
+    "nuklir\"": 1
+  },
+  "Costello.": {
+    "Costello.\"": 1
+  },
+  "Ansa,": {
+    "Ansa,": 1,
+    "\"polisi": 1,
+    "mencemaskan": 1
+  },
+  "\"era": {
+    "serbuan": 1
+  },
+  "vakatagedegede": {
+    "tingkat": 2
+  },
+  "vakavuna": {
+    "menyebabkan": 10
+  },
+  "ivalu": {
+    "perang": 5
+  },
+  "levu.": {
+    "kekuasaan.\"": 1,
+    "selam.": 1,
+    "besar.": 1,
+    "orang.": 1
+  },
+  "Lo": {
+    "Lo": 1,
+    "Piccolo": 1
+  },
+  "Provenzano": {
+    "Provenzano": 3
+  },
+  "vaqaqacotaka": {
+    "merendah": 1
+  },
+  "veisemati.": {
+    "kekuatan.": 1
+  },
+  "kauta": {
+    "membawa": 6
+  },
+  "Mafia": {
+    "Mafia": 1,
+    "Giovanni": 1
+  },
+  "Giovanni": {
+    "Falcone": 1
+  },
+  "Paolo": {
+    "Paolo": 1
+  },
+  "Borsellino": {
+    "Borsellino": 1
+  },
+  "1992.\"": {
+    "1992.\"": 1
+  },
+  "CEO": {
+    "CEO": 1
+  },
+  "Steve": {
+    "Apple,": 1
+  },
+  "Jobs": {
+    "Steve": 1
+  },
+  "tavoca": {
+    "Jobs": 1,
+    "memperkenalkan": 1
+  },
+  "vakalivaliva": {
+    "listrik": 2
+  },
+  "tarausese.": {
+    "saku": 1,
+    "jinnya.": 1
+  },
+  "\"Nikua": {
+    "Apple": 1
+  },
+  "vakayacora": {
+    "menciptakan": 3
+  },
+  "volaitukutukutaki": {
+    "ini\".": 1
+  },
+  "nikua\".": {
+    "\"": 1
+  },
+  "duadua": {
+    "terbesar": 5
+  },
+  "Katolika": {
+    "Katolik": 2,
+    "Roma": 2
+  },
+  "Brazil,": {
+    "Gereja": 1
+  },
+  "saqata": {
+    "legalisasi": 1
+  },
+  "vakamataqali": {
+    "sejenis": 1
+  },
+  "Congress": {
+    "Kongres": 2
+  },
+  "National": {
+    "Nasional": 3
+  },
+  "Brazil": {
+    "Brazil": 1,
+    "serius": 1
+  },
+  "veibataka": {
+    "memperdebatkan": 1,
+    "legalisasinya": 1
+  },
+  "vakalawa": {
+    "pernikahan": 3
+  },
+  "mataqali": {
+    "jenis": 6
+  },
+  "Rio": {
+    "Rio": 1
+  },
+  "Grande": {
+    "Grande": 1
+  },
+  "do": {
+    "do": 1
+  },
+  "Sul.": {
+    "Sul.": 1
+  },
+  "mea": {
+    "disusun": 1
+  },
+  "Sao": {
+    "walikota": 1
+  },
+  "Paulo,": {
+    "SÃ£o": 1,
+    "Paulo,": 1
+  },
+  "Marta": {
+    "Marta": 1
+  },
+  "Suplicy.": {
+    "Suplicy.": 1,
+    "Pengesahan": 1
+  },
+  "vakaturi,": {
+    "diajukan,": 1
+  },
+  "ligai": {
+    "tangan": 1
+  },
+  "Roberto": {
+    "Roberto": 1
+  },
+  "Jefferson.": {
+    "Jefferson.": 1
+  },
+  "kumuna": {
+    "mengumpulkan": 1,
+    "petisi": 1
+  },
+  "1.2": {
+    "1,2": 1
+  },
+  "Noveba.": {
+    "November.": 1
+  },
+  "vuqa": {
+    "banyak": 6
+  },
+  "matavuvale": {
+    "keluarga": 3
+  },
+  "vakasaqara": {
+    "mencari": 3
+  },
+  "20": {
+    "20": 3
+  },
+  "Raraba": {
+    "Komunitas": 1
+  },
+  "East": {
+    "East": 1
+  },
+  "Bay.": {
+    "Bay.": 1
+  },
+  "butakoca": {
+    "Carolyn": 1,
+    "Wilson": 1
+  },
+  "OHA": {
+    "OHA": 2
+  },
+  "Wilson": {
+    "mencuri": 1
+  },
+  "ilavo": {
+    "uang": 3
+  },
+  "vakacurumi,": {
+    "kabur": 1
+  },
+  "Lockwood": {
+    "Lockwood": 1
+  },
+  "Gardens": {
+    "Gardens": 1
+  },
+  "40": {
+    "40": 1
+  },
+  "vaqaqa": {
+    "menyelidiki": 2
+  },
+  "veivakavaletaki.": {
+    "perumahan.": 1
+  },
+  "vakadaroya": {
+    "membatalkan": 2
+  },
+  "ilawalawa": {
+    "pertunjukan": 2
+  },
+  "Vanua": {
+    "War": 1
+  },
+  "Sarasara": {
+    "Memorial": 1,
+    "Stadium": 1
+  },
+  "Maui": {
+    "Maui,": 1
+  },
+  "Memorial,": {
+    "disiapkan": 1
+  },
+  "veivosoti": {
+    "maaf": 1
+  },
+  "tamata.": {
+    "penggemar.": 1,
+    "keselamatan": 1,
+    "publik.": 1,
+    "tersebut.\"": 1,
+    "kerumunan.": 1,
+    "manusia.": 1
+  },
+  "mataivakatagi,": {
+    "band,": 1
+  },
+  "HK": {
+    "HK": 1
+  },
+  "Management": {
+    "Management": 1
+  },
+  "Inc.,": {
+    "Inc.,": 1
+  },
+  "beitaka": {
+    "September,": 1
+  },
+  "cicivaki": {
+    "kapal": 2
+  },
+  "tarava.": {
+    "berikutnya.": 1,
+    "depan.": 1
+  },
+  "loya": {
+    "Dua": 1,
+    "pengacara": 1
+  },
+  "Kirisi": {
+    "Yunani": 4
+  },
+  "Sakis": {
+    "terkenal,": 1
+  },
+  "Kechagioglou": {
+    "Sakis": 1
+  },
+  "George": {
+    "Kechagioglou": 1
+  },
+  "Nikolakopoulos": {
+    "George": 1
+  },
+  "vesu": {
+    "Nikolakopoulos,": 1,
+    "ditahan,": 1
+  },
+  "veivesu": {
+    "Korydallus": 1
+  },
+  "Eceni": {
+    "Athena": 1
+  },
+  "vakadinadinataki": {
+    "bersalah": 2
+  },
+  "veivaqumi.": {
+    "korupsi.": 1
+  },
+  "ivakatuka": {
+    "Akibatnya,": 1,
+    "skandal": 1
+  },
+  "veiavakacalai": {
+    "komunitas": 1
+  },
+  "Kiriki": {
+    "diangkat": 1
+  },
+  "veiyabaki": {
+    "tahun-tahun": 1
+  },
+  "oti.": {
+    "lalu.": 3
+  },
+  "macawa": {
+    "minggu": 2,
+    "seminggu": 2,
+    "udara": 2
+  },
+  "itukutuku": {
+    "informasi": 5
+  },
+  "tawadodonu.": {
+    "korupsi.\"": 1
+  },
+  "daunilewa": {
+    "Sebagai": 1,
+    "tambahan,": 1
+  },
+  "Evangelos": {
+    "hakim": 1,
+    "tertinggi": 1
+  },
+  "Kalousis": {
+    "Evangelos": 1
+  },
+  "tauri": {
+    "Kalousis": 1,
+    "diduduki": 1
+  },
+  "itovo": {
+    "budaya": 3
+  },
+  "veivakalolomataki.": {
+    "bermoral.": 1
+  },
+  "taro": {
+    "pertanyaan": 2
+  },
+  "bibi": {
+    "penting": 8
+  },
+  "kisi": {
+    "kasus": 4
+  },
+  "koya,": {
+    "\"Ia": 2
+  },
+  "vakabibitaka": {
+    "ditekankan": 1,
+    "berlaku\",": 1,
+    "menekankan": 1,
+    "pentingnya": 1,
+    "Pemerintah": 1,
+    "Irlandia": 1
+  },
+  "Roe": {
+    "Roe": 1
+  },
+  "v.": {
+    "v.": 1
+  },
+  "Wade": {
+    "Wade": 1
+  },
+  "\"lawa": {
+    "\"hukum": 1
+  },
+  "tikoga": {
+    "Mahkamah": 1,
+    "sehat": 1,
+    "pekerjaan": 1,
+    "mempertahankan": 1
+  },
+  "Valeniveilewai": {
+    "Agung": 1,
+    "konsisten.": 1
+  },
+  "Cake.": {
+    "\"": 1
+  },
+  "taqomaki": {
+    "melindungi": 3
+  },
+  "tataunaki": {
+    "privasi": 1
+  },
+  "Roe.": {
+    "keputusan": 1,
+    "Roe.": 1
+  },
+  "Maroochydore,": {
+    "teratas,": 1
+  },
+  "Noose": {
+    "Noosa": 1
+  },
+  "itutu.": {
+    "hitungan": 1,
+    "detik.": 1
+  },
+  "Erau": {
+    "Kedua": 1,
+    "Pasangan": 1,
+    "Sophocles": 1
+  },
+  "sota": {
+    "belah": 1,
+    "pihak": 1
+  },
+  "semifainala": {
+    "bertemu": 1,
+    "laga": 1,
+    "semifinal": 1
+  },
+  "qaqa": {
+    "Noosa": 1,
+    "Lalu": 1,
+    "Maroochydore": 1
+  },
+  "Noosa": {
+    "pemenang": 1
+  },
+  "11": {
+    "skor": 1,
+    "11": 1
+  },
+  "Maroochydore": {
+    "mengalahkan": 1
+  },
+  "Caboolture": {
+    "Caboolture": 1
+  },
+  "Matai": {
+    "babak": 1
+  },
+  "Fainala.": {
+    "Akhir": 1,
+    "Penyisihan.": 1
+  },
+  "Hesperonychus": {
+    "Hesperonychus": 2
+  },
+  "elizabethae": {
+    "elizabethae": 1,
+    "spesies": 1
+  },
+  "iwasewase": {
+    "keluarga": 1,
+    "identik": 1
+  },
+  "Dromaeosauridae": {
+    "Dromaeosauridae": 1
+  },
+  "voleka": {
+    "nyaris": 3
+  },
+  "Velociraptor.": {
+    "Velociraptor": 1,
+    ".": 1,
+    "Velociraptor.": 1
+  },
+  "vakabauti": {
+    "diyakini": 2
+  },
+  "gagata": {
+    "tegak": 1
+  },
+  "ikarua": {
+    "kedua,": 2
+  },
+  "yaca": {
+    "nama": 2
+  },
+  "\"taukuku": {
+    "artinya": 1
+  },
+  "ra.\"": {
+    "barat\".\"": 1
+  },
+  "waicevata,": {
+    "memecah": 1,
+    "bongkahan": 1,
+    "menuruni": 1
+  },
+  "draki": {
+    "es,": 1,
+    "suhu": 1
+  },
+  "ca": {
+    "cuaca": 2
+  },
+  "vakadredretaka": {
+    "ekstrem": 1,
+    "menghambat": 1,
+    "situasi": 1
+  },
+  "veivueti.": {
+    "upaya": 1,
+    "penyelamatan.": 1
+  },
+  "Pittman": {
+    "Pittman": 1,
+    "mengisyaratkan": 1
+  },
+  "ituvaki": {
+    "kondisi": 5
+  },
+  "vavaku": {
+    "ketebalan": 1,
+    "Ini": 1,
+    "dipadatkan": 1,
+    "celah-celah": 1
+  },
+  "ucacevata,": {
+    "salju": 3
+  },
+  "Pittman,": {
+    "Pittman,": 1
+  },
+  "vakasasa": {
+    "pemburu": 1,
+    "anjing": 1
+  },
+  "15": {
+    "15": 4
+  },
+  "yabaki.": {
+    "tahun": 2
+  },
+  "Red": {
+    "Red": 2
+  },
+  "Lake": {
+    "Lake": 2
+  },
+  "nikua": {
+    "hari": 6
+  },
+  "21": {
+    "21": 3
+  },
+  "Maji.": {
+    "Maret.": 1
+  },
+  "vakadonuya": {
+    "resmi": 1
+  },
+  "baleti": {
+    "penahanan": 1
+  },
+  "vesu.": {
+    "ini.": 1
+  },
+  "Louis": {
+    "Louis": 2
+  },
+  "yacana": {
+    "Jourdain,": 1
+  },
+  "Jourdain": {
+    "putra": 1
+  },
+  "Jemeni": {
+    "Floyd": 1,
+    "Jourdain": 1
+  },
+  "Floyd": {
+    "16": 1
+  },
+  "Jourdain.": {
+    "tahun.": 1
+  },
+  "cauravou": {
+    "remaja": 1,
+    "pengadilan": 1,
+    "federal.": 1
+  },
+  "mataveilewai": {
+    "hukumnya": 1
+  },
+  "Lodin": {
+    "Lodin": 1
+  },
+  "vakailesilesi": {
+    "pejabat": 4
+  },
+  "mai.": {
+    "Afghanistan.": 1,
+    "melemah.": 1,
+    "keluar.\"": 1,
+    "depan.": 1,
+    "kedatangan.": 1,
+    "kembali.": 1,
+    "diizinkan.": 1
+  },
+  "daunivakadidike": {
+    "diplomat": 1
+  },
+  "vereverea": {
+    "canggih": 2
+  },
+  "lailai.": {
+    "kecil.": 2
+  },
+  "vakacala": {
+    "kecelakaan": 2
+  },
+  "ripote": {
+    "laporan": 4
+  },
+  "liu,": {
+    "sebelumnya,": 1
+  },
+  "vakalawa.": {
+    "menentang": 1,
+    "konstitusi.": 1
+  },
+  "Irkutsk": {
+    "tengah": 1
+  },
+  "loma.": {
+    "internal.": 1
+  },
+  "veivaqaqai.": {
+    "ditetapkan.": 1
+  },
+  "Rusia": {
+    "Rusia": 5
+  },
+  "7": {
+    "7": 1
+  },
+  "idini": {
+    "terlepas": 1
+  },
+  "vakarau": {
+    "peluncuran,": 1
+  },
+  "mavoa.": {
+    "luka.": 1
+  },
+  "vakatabuya": {
+    "larangan": 1
+  },
+  "Il-76": {
+    "Il-76s": 1
+  },
+  "800": {
+    "800": 3
+  },
+  "Salanipaipo": {
+    "Sistem": 1,
+    "Saluran": 1
+  },
+  "Trans-Alaska": {
+    "Pipa": 1
+  },
+  "tasova": {
+    "tumpahnya": 1
+  },
+  "udolu": {
+    "ribuan": 5
+  },
+  "taqe": {
+    "barel": 4
+  },
+  "waiwai": {
+    "minyak": 5
+  },
+  "ceva": {
+    "selatan": 2
+  },
+  "Fairbanks,": {
+    "Fairbanks,": 1
+  },
+  "Alaska.": {
+    "Alaska.": 1
+  },
+  "tadola": {
+    "katup": 2
+  },
+  "9": {
+    "9": 2
+  },
+  "tasovo": {
+    "Fort": 1
+  },
+  "waiwai.": {
+    "Greely.": 1,
+    "minyak.": 1
+  },
+  "pamu": {
+    "pelepasan": 1
+  },
+  "55,000": {
+    "menampung": 1
+  },
+  "(2.3": {
+    "(2,3": 1
+  },
+  "qaloni).": {
+    "galon).": 1
+  },
+  "yakavi": {
+    "malam": 2
+  },
+  "turu": {
+    "kebocoran": 2
+  },
+  "taqe.": {
+    "tangki": 1,
+    "memuai.": 1
+  },
+  "maroroi": {
+    "sekunder": 1,
+    "dilestarikan": 1
+  },
+  "104,500": {
+    "menahan": 1,
+    "104.500": 1
+  },
+  "iyacoyaco.": {
+    "sesuai": 1,
+    "kapasitasnya.": 1
+  },
+  "mai,": {
+    "disiarkan": 1,
+    "16,1": 1
+  },
+  "televisoni,": {
+    "langsung": 1,
+    "televisi,": 1
+  },
+  "Irani": {
+    "Iran": 2
+  },
+  "vakadinadinataka": {
+    "mengakui": 2
+  },
+  "vakatatabu.": {
+    "berpengaruh.": 1
+  },
+  "vakailavo": {
+    "keuangan": 2
+  },
+  "European": {
+    "Uni": 2
+  },
+  "waiwai,": {
+    "ekspor": 2
+  },
+  "veivoli": {
+    "ekonomi": 5
+  },
+  "tani.": {
+    "Iran.": 1,
+    "memutar.": 1
+  },
+  "vakavula,": {
+    "bulanan": 1
+  },
+  "OPEC": {
+    "OPEC": 1
+  },
+  "lutu": {
+    "jatuh": 3
+  },
+  "ruasagavulu": {
+    "dua": 6
+  },
+  "2.8": {
+    "2,8": 1
+  },
+  "siga.": {
+    "hari.": 3
+  },
+  "iliuliu": {
+    "\"Pemimpin": 1
+  },
+  "cecere": {
+    "tertinggi": 1
+  },
+  "Ali": {
+    "Ayatollah": 1
+  },
+  "Khamenei,": {
+    "Ali": 1
+  },
+  "vakamacalataka": {
+    "Khamenei,": 1
+  },
+  "matanitu.": {
+    "sendiri.\"": 1,
+    "tersebut.": 1,
+    "lokal.": 1
+  },
+  "Vuravura": {
+    "Bumi": 4
+  },
+  "5": {
+    "5": 2
+  },
+  "rarama": {
+    "cahaya": 4
+  },
+  "Vualiku": {
+    "Utara,": 2
+  },
+  "California,": {
+    "Nevada,": 1
+  },
+  "Utah.": {
+    "Utah.": 1
+  },
+  "takosova": {
+    "menyeberangi": 3
+  },
+  "lomalagi.": {
+    "langit.": 1
+  },
+  "12.8": {
+    "12,8": 1
+  },
+  "km": {
+    "km": 2
+  },
+  "8": {
+    "8": 2
+  },
+  "sekodi,": {
+    "detik,": 1
+  },
+  "San": {
+    "San": 6
+  },
+  "Francisco": {
+    "Francisco": 4
+  },
+  "Los": {
+    "Los": 3
+  },
+  "Angeles": {
+    "Angeles": 1
+  },
+  "miniti.": {
+    "menit.": 1,
+    "menit.\"": 1
+  },
+  "stardust": {
+    "Stardust": 1
+  },
+  "maliwalala": {
+    "angkasa": 2
+  },
+  "Apollo": {
+    "komando": 1,
+    "Apollo": 1
+  },
+  "X.": {
+    "X.": 1
+  },
+  "\"Ena": {
+    "\"Pesawat": 1
+  },
+  "baravi": {
+    "pantai": 2,
+    "pesisir": 2
+  },
+  "Califormia": {
+    "California": 1
+  },
+  "California": {
+    "California": 1
+  },
+  "Tom": {
+    "Tom": 1
+  },
+  "Duxbury,": {
+    "Duxbury,": 1
+  },
+  "manidia": {
+    "manajer": 1,
+    "proyek": 1
+  },
+  "Stardust.": {
+    "Stardust.\"": 1
+  },
+  "vakatulewa": {
+    "Keputusan": 2
+  },
+  "Mr.": {
+    "Tuan": 1
+  },
+  "Rudd": {
+    "Rudd": 1
+  },
+  "sainitaka": {
+    "menandatangani": 2
+  },
+  "Kyoto": {
+    "persetujuan": 1,
+    "Kyoto": 1
+  },
+  "Amerika,": {
+    "Serikat,": 2
+  },
+  "veivakadonui.": {
+    "kesepakatan": 1
+  },
+  "vakavinakataka": {
+    "tersebut.": 1,
+    "situasi": 1,
+    "sekali": 1,
+    "memformat": 1
+  },
+  "Jaina": {
+    "Tiongkok": 3
+  },
+  "maliwalala.": {
+    "emisi.": 1,
+    "angkasa.": 1
+  },
+  "Sa": {
+    "Dia": 2
+  },
+  "veigauna": {
+    "sejarah": 3
+  },
+  "eBay.": {
+    "eBay.": 1
+  },
+  "nuitaka": {
+    "berharap": 2
+  },
+  "vakarabailevutaki": {
+    "mendiversifikasi": 1
+  },
+  "ivurevure": {
+    "sumber": 3
+  },
+  "veiyasana": {
+    "Skype": 1
+  },
+  "Skype,": {
+    "kuat,": 1
+  },
+  "Jaina,": {
+    "China,": 1
+  },
+  "Tokalau": {
+    "Timur,": 1
+  },
+  "Brazil.": {
+    "Brasil.": 1
+  },
+  "kilaikasamataka": {
+    "Ilmuwan": 1
+  },
+  "Enceladus": {
+    "Enceladus": 2
+  },
+  "wirini": {
+    "E": 1
+  },
+  "Saturn.": {
+    "Saturnus.": 1
+  },
+  "tiki": {
+    "bagian": 2
+  },
+  "maliwalala,": {
+    "surya,": 1
+  },
+  "90": {
+    "90": 2
+  },
+  "pasede": {
+    "persen": 6
+  },
+  "yani.": {
+    "menerpanya.": 1,
+    "menghilang.": 1,
+    "saja.\"": 1,
+    "tepi.": 1
+  },
+  "dautabaivola": {
+    "Pernyataan": 1,
+    "penerbit": 1,
+    "mainan": 1
+  },
+  "Konami": {
+    "Konami": 1
+  },
+  "Japani": {
+    "Jepang": 2
+  },
+  "Ono": {
+    "Six": 1
+  },
+  "Siga": {
+    "Days": 1,
+    "Show": 1
+  },
+  "Fallujah.": {
+    "in": 1,
+    "Fallujah.": 1
+  },
+  "tauyavu": {
+    "didasarkan": 1,
+    "terbentuklah": 1,
+    "\"blok": 1,
+    "republik": 1
+  },
+  "iKarua": {
+    "Pertempuran": 1,
+    "Kedua": 1,
+    "Dunia": 1
+  },
+  "Valu": {
+    "Perang": 7
+  },
+  "maliwa": {
+    "pasukan": 1,
+    "tetangga": 1,
+    "gumpalan": 1,
+    "berputar": 1
+  },
+  "Iraki.": {
+    "Irak.": 1
+  },
+  "ACMA": {
+    "ACMA": 1
+  },
+  "yaloyalo": {
+    "dilanggar": 1,
+    "Brother": 1
+  },
+  "Big": {
+    "Big": 2
+  },
+  "mataveilawa": {
+    "web": 4
+  },
+  "Brother.": {
+    "Brother.": 1
+  },
+  "Lawa": {
+    "Kebijakan": 1
+  },
+  "Veiqaravi": {
+    "Layanan": 1
+  },
+  "Kakaburaki": {
+    "Penyiaran": 1
+  },
+  "leweni": {
+    "konten": 2
+  },
+  "Initaneti,": {
+    "internet,": 2
+  },
+  "server.": {
+    "server.": 1
+  },
+  "itikotiko": {
+    "\"Kedutaan": 1,
+    "Masyarakat": 1,
+    "berlokasi": 1
+  },
+  "Narobi,": {
+    "berlokasi": 1
+  },
+  "Kenya": {
+    "Kenya": 2
+  },
+  "\"kai": {
+    "\"ekstremis": 1,
+    "Somalia\"": 1
+  },
+  "Somalia\"": {
+    "berencana": 1
+  },
+  "gasaukuru": {
+    "bom": 2
+  },
+  "veivakarusai": {
+    "bunuh": 2
+  },
+  "Ethiopia.": {
+    "Etiopia.\"": 1
+  },
+  "ciqoma": {
+    "menerima": 4
+  },
+  "cavuti": {
+    "digunakan": 3
+  },
+  "vakacabotetaka": {
+    "meledakkan": 2
+  },
+  "\"ivakatakilakila": {
+    "utama\"": 1
+  },
+  "Ethiopia": {
+    "Ethiopia": 2
+  },
+  "Kenya.": {
+    "Kenya.\"": 1,
+    "Kenya.": 1
+  },
+  "Se": {
+    "Jauh": 1,
+    "\"Terjebak": 1,
+    "Namanya": 1
+  },
+  "iVakatasuasua": {
+    "The": 1,
+    "Daily": 1
+  },
+  "Ripote": {
+    "The": 1
+  },
+  "Colber,": {
+    "Colbert": 1
+  },
+  "raitayaloyalotaka": {
+    "Report,": 1,
+    "Heck": 1
+  },
+  "tale—kei": {
+    "beritaâ€”serta": 1
+  },
+  "itukutuku—ena": {
+    "beritaâ€”saat": 1
+  },
+  "gonevuli": {
+    "siswa": 2,
+    "pelajar": 2
+  },
+  "UW": {
+    "UW": 1
+  },
+  "1988.": {
+    "1988.": 1
+  },
+  "Tekivu": {
+    "Sejak": 2
+  },
+  "Okotova,": {
+    "Oktober,": 2
+  },
+  "Our": {
+    "Our": 1
+  },
+  "Dumb": {
+    "Dumb": 1
+  },
+  "World.": {
+    "World.": 1
+  },
+  "veitalanotaka": {
+    "Al": 1,
+    "Gore": 1
+  },
+  "General": {
+    "Jenderal": 2
+  },
+  "nodrau": {
+    "hubungan": 2
+  },
+  "Gore": {
+    "santai": 1,
+    "mengoceh": 1,
+    "tajuk": 1,
+    "favorit": 1,
+    "(Gore": 1,
+    "Onion": 1
+  },
+  "Tipper": {
+    "Tipper": 1
+  },
+  "lusi": {
+    "kekalahan": 1,
+    "Electoral": 1
+  },
+  "Veidigidigi": {
+    "College": 1
+  },
+  "2000).": {
+    "2000).": 1
+  },
+  "dauvolaivola": {
+    "penulis": 2
+  },
+  "veivakayarayarataki": {
+    "berita": 1,
+    "Jon": 1
+  },
+  "Jon": {
+    "Stewart": 1
+  },
+  "Stephen": {
+    "Stephen": 1
+  },
+  "Colbert.": {
+    "Colbert.": 1
+  },
+  "Korolevu": {
+    "Balai": 1
+  },
+  "Bucharest": {
+    "Bukares": 1
+  },
+  "koroturaga": {
+    "kota": 5
+  },
+  "irairai": {
+    "metropolis": 1,
+    "tampak": 1
+  },
+  "veimarautaki": {
+    "kreatif": 1
+  },
+  "roka.": {
+    "warna.": 1
+  },
+  "korolevu": {
+    "Tenggara": 1
+  },
+  "soqoni": {
+    "CowParade,": 1,
+    "dimulai": 1
+  },
+  "kacivaki": {
+    "Pengumuman": 1,
+    "kematiannya": 1
+  },
+  "vakarabailevutaka": {
+    "memperpanjang": 1,
+    "komitmen": 1
+  },
+  "sauma": {
+    "membayar": 2,
+    "memesan": 2,
+    "telepon": 2
+  },
+  "kareti.": {
+    "gerbong": 1,
+    "tambahan.": 1
+  },
+  "300": {
+    "Dengan": 1
+  },
+  "iwiliwili": {
+    "totalnya": 1,
+    "Total": 1,
+    "korban": 1,
+    "penampilan": 1,
+    "Populasi": 1
+  },
+  "1,300": {
+    "1.300": 1
+  },
+  "veiosoosoti.": {
+    "mengurangi": 1,
+    "kepadatan.": 1
+  },
+  "gusunivosa": {
+    "juru": 2,
+    "bicara": 2
+  },
+  "Ovisa": {
+    "Departemen": 1
+  },
+  "Angeles,": {
+    "Kepolisian": 1
+  },
+  "Christopher": {
+    "Angeles,": 1
+  },
+  "siqemi": {
+    "diselidiki": 1
+  },
+  "vakatarogi": {
+    "vandalisme.": 1
+  },
+  "vakacacani": {
+    "\"Tanda": 1,
+    "reruntuhan": 1,
+    "menyaksikan": 1
+  },
+  "ivakatakilakila;": {
+    "dirusak": 1
+  },
+  "tavuleni": {
+    "kain": 1
+  },
+  "ukutaki": {
+    "hitam": 1,
+    "dekorasinya": 1
+  },
+  "ivakatakilakila": {
+    "dihias": 1
+  },
+  "veisautaka": {
+    "mengubah": 2
+  },
+  "\"O\"": {
+    "huruf": 2
+  },
+  "\"e\".": {
+    "\"e\".\"": 1
+  },
+  "brevis,": {
+    "Karenia": 1
+  },
+  "cell.": {
+    "biasanya.": 1
+  },
+  "wavoliti": {
+    "alam": 2
+  },
+  "veilatai": {
+    "bersinggungan": 1
+  },
+  "donu,": {
+    "ideal": 1
+  },
+  "vakalevu": {
+    "umum": 4
+  },
+  "sara.": {
+    "drastis.": 1,
+    "kesederhanaannya.": 1
+  },
+  "algae": {
+    "Alga": 1,
+    "memproduksi": 1
+  },
+  "nave": {
+    "saraf": 3
+  },
+  "vakamalumalumutaka": {
+    "melumpuhkan": 1,
+    "saraf,": 1
+  },
+  "ruarua": {
+    "baik": 3,
+    "kedua": 3
+  },
+  "ika.": {
+    "ikan.": 1
+  },
+  "dau": {
+    "sering": 12
+  },
+  "poisoni": {
+    "toksin": 1,
+    "akibat": 1
+  },
+  "wai.": {
+    "air.": 2
+  },
+  "tarai": {
+    "Manusia": 1,
+    "terpengaruh": 1
+  },
+  "ceguva": {
+    "menghirup": 1,
+    "terpengaruh": 1
+  },
+  "ua.": {
+    "ombak.": 1
+  },
+  "vakayacani": {
+    "bagian": 3
+  },
+  "Gonu,": {
+    "Siklon": 1
+  },
+  "(149": {
+    "240": 1
+  },
+  "kilomita": {
+    "kilometer": 7
+  },
+  "auwa).": {
+    "jam.": 1
+  },
+  "nikua,": {
+    "Angin": 1,
+    "berkecepatan": 1
+  },
+  "83": {
+    "awal": 1
+  },
+  "km/h,": {
+    "hari": 1
+  },
+  "namaki": {
+    "diperkirakan": 2
+  },
+  "malumalumu": {
+    "makin": 1
+  },
+  "NBA": {
+    "Asosiasi": 1,
+    "Basket": 1,
+    "NBA": 1
+  },
+  "Vukelulu,": {
+    "Amerika": 1
+  },
+  "vakarubeca": {
+    "Serikat": 1,
+    "(NBA)": 1
+  },
+  "ririko": {
+    "menangguhkan": 1,
+    "basket": 1,
+    "profesionalnya": 1
+  },
+  "COVID-19.": {
+    "kekhawatiran": 1,
+    "terkait": 1,
+    "COVID-19.": 1
+  },
+  "COVID-19": {
+    "Utah": 1,
+    "positif": 1
+  },
+  "Utah": {
+    "dites": 1
+  },
+  "Jazz.": {
+    "COVID-19.": 1
+  },
+  "yavutaki": {
+    "\"Berdasarkan": 1,
+    "apakah": 1,
+    "Kawasan": 1,
+    "laju": 1
+  },
+  "vovo": {
+    "fosil": 1,
+    "bangkai": 1
+  },
+  "keli": {
+    "pembagian": 1
+  },
+  "tawase": {
+    "awal": 1
+  },
+  "namaki.": {
+    "bukti": 1,
+    "molekuler.\"": 1
+  },
+  "ibalebale": {
+    "berarti": 9
+  },
+  "vakasukai,\"": {
+    "Rift": 1
+  },
+  "daunivadidike": {
+    "Valley": 1,
+    "Kepala": 1,
+    "Pusat": 1,
+    "reaktor": 1
+  },
+  "vadidike": {
+    "studi": 2
+  },
+  "Berhane": {
+    "Berhane": 1
+  },
+  "Asfaw.": {
+    "Asfaw.\"": 1
+  },
+  "tosoya": {
+    "memindahkan": 1
+  },
+  "makete": {
+    "mengembangkan": 2,
+    "pasar": 2
+  },
+  "kalawa": {
+    "dikarenakan": 1
+  },
+  "tuvai": {
+    "Dengan": 1,
+    "ekonomi": 1
+  },
+  "tuvatuva": {
+    "adanya": 1,
+    "pengaturan": 1
+  },
+  "galala": {
+    "kebebasan": 2
+  },
+  "wiliwili": {
+    "Kombinasi": 1,
+    "penutur": 1
+  },
+  "vakayagataka": {
+    "menggunakan": 10
+  },
+  "Yahoo": {
+    "pengguna": 1,
+    "Yahoo": 1
+  },
+  "veiqaravi": {
+    "layanan": 6
+  },
+  "cokovata": {
+    "Microsoft": 1,
+    "Metropolitan": 1
+  },
+  "veisisivitaka": {
+    "menyaingi": 1
+  },
+  "AOL.": {
+    "pelanggan": 1,
+    "AOL.": 1
+  },
+  "Northern": {
+    "Northern": 5
+  },
+  "Rock": {
+    "Rock": 4
+  },
+  "esa": {
+    "dinasionalisasi": 1
+  },
+  "ivakatakila": {
+    "rahasia": 1
+  },
+  "vakatotolotaki": {
+    "darurat": 1
+  },
+  "Matanitu": {
+    "Pemerintah": 1,
+    "menguat": 1,
+    "State": 1
+  },
+  "Peretania.": {
+    "Britania.": 2
+  },
+  "leqa": {
+    "masalah": 3
+  },
+  "iyalayala": {
+    "subprima": 1,
+    "menyebrangi": 1
+  },
+  "2007.": {
+    "2007.": 1
+  },
+  "Sega": {
+    "Tidak": 2
+  },
+  "nodratou": {
+    "milik": 1,
+    "Italia": 1,
+    "Sasaran": 1
+  },
+  "nai": {
+    "Richard": 1,
+    "hidup": 1
+  },
+  "Lawalawa": {
+    "Branson": 1,
+    "Ketujuh": 1
+  },
+  "Richard": {
+    "menawar": 1
+  },
+  "Virgin": {
+    "bank": 1,
+    "membeli": 1
+  },
+  "taukena": {
+    "nasionalisasi": 1,
+    "bank": 1
+  },
+  "2010,": {
+    "2010,": 1
+  },
+  "taukeni": {
+    "dinasionalisasi,": 1,
+    "bank": 1
+  },
+  "vakamatanitu,": {
+    "high": 1,
+    "street": 1
+  },
+  "'baqe": {
+    "'bank": 2
+  },
+  "ca',": {
+    "buruk',": 1
+  },
+  "(Asset": {
+    "(Manajemen": 1
+  },
+  "Management).": {
+    "Aset).": 1
+  },
+  "Volia": {
+    "Virgin": 1
+  },
+  "walega": {
+    "hanya": 3
+  },
+  "vinaka'": {
+    "bagus'": 1
+  },
+  "Rock,": {
+    "Rock,": 1
+  },
+  "segai": {
+    "perusahaan": 1
+  },
+  "kabani.": {
+    "manajemen": 1,
+    "aset.": 1
+  },
+  "vuravura": {
+    "dunia": 8
+  },
+  "mars.": {
+    "Bumi.": 1,
+    "Mars.": 1
+  },
+  "24,000": {
+    "Dari": 1,
+    "24.000": 1
+  },
+  "gacagaca": {
+    "meteorit": 2
+  },
+  "Vuravura,": {
+    "Bumi,": 3
+  },
+  "34": {
+    "34": 2
+  },
+  "vakadeitaki": {
+    "terverifikasi": 1,
+    "diratifikasi": 1
+  },
+  "tinikalima": {
+    "Lima": 1,
+    "belas": 1
+  },
+  "lulutu": {
+    "dikaitkan": 1
+  },
+  "Eso": {
+    "Beberapa": 6
+  },
+  "kunei": {
+    "langka": 1
+  },
+  "volitaki": {
+    "USD": 1,
+    "hadapan": 1,
+    "penonton": 1
+  },
+  "US$11,000": {
+    "USD": 1,
+    "22.500": 1
+  },
+  "$22,500": {
+    "ounce": 1
+  },
+  "vakatinitaki": {
+    "mahal": 1
+  },
+  "isau": {
+    "biaya": 4
+  },
+  "koula.": {
+    "emas.": 1
+  },
+  "veisisivi,": {
+    "Mengikuti": 1,
+    "balapan,": 1,
+    "Keselowski": 1
+  },
+  "Keselowski": {
+    "memimpin": 1,
+    "Drivers'": 1
+  },
+  "Jabeni": {
+    "Championship": 1
+  },
+  "2,250": {
+    "2.250": 1
+  },
+  "poidi.": {
+    "poin.": 2
+  },
+  "Ka": {
+    "Ketinggalan": 1,
+    "Kemudian": 1,
+    "Whirling": 1,
+    "Lalu,": 1,
+    "herbivora": 1
+  },
+  "tarava": {
+    "selanjutnya": 2
+  },
+  "Johnson,": {
+    "2.243": 1
+  },
+  "2,243.": {
+    "poin.": 1
+  },
+  "tutu,": {
+    "urutan": 1,
+    "ketiga,": 1,
+    "poin,": 1
+  },
+  "Hamlin": {
+    "Hamlin": 1
+  },
+  "veisivi": {
+    "tertinggal": 1
+  },
+  "Bowyer.": {
+    "Bowyer.": 1,
+    "Kahne": 1
+  },
+  "tutu": {
+    "keenam": 1,
+    "Keluarga": 1
+  },
+  "2,220": {
+    "2.220": 1
+  },
+  "2,207": {
+    "2.207": 1
+  },
+  "Eratou": {
+    "Stewart,": 1,
+    "\"Mereka": 1
+  },
+  "Stewart,": {
+    "Harvick": 1,
+    "melengkapi": 1
+  },
+  "Kenseth,": {
+    "sepuluh": 1
+  },
+  "veisisivi": {
+    "Kejuaraan": 1,
+    "Pembalap": 1,
+    "balapan": 1,
+    "tersisa": 1,
+    "musim": 1,
+    "kompetisi,": 1
+  },
+  "Mataivalu": {
+    "Angkatan": 5,
+    "Laut": 5
+  },
+  "\"Ni": {
+    "pernyataan,": 1,
+    "\"Para": 1
+  },
+  "iwalewale": {
+    "proses": 2
+  },
+  "vueti": {
+    "mengekstraksi": 1
+  },
+  "waqa\".": {
+    "aman\".\"": 1
+  },
+  "rawai": {
+    "Sebuah": 1
+  },
+  "Avenger": {
+    "penyapu": 1,
+    "ranjau": 1
+  },
+  "wai,": {
+    "laut,": 2
+  },
+  "Puerto": {
+    "Puerto": 2
+  },
+  "Princesa": {
+    "Princesa,": 1
+  },
+  "Palawan.": {
+    "Palawan.": 1
+  },
+  "lesi": {
+    "Tugas": 1
+  },
+  "Vitu": {
+    "Armada": 1
+  },
+  "Sasebo,": {
+    "Sasebo,": 1,
+    "Nagasaki": 1
+  },
+  "Japani.": {
+    "Jepang.": 3
+  },
+  "dauvakacaca": {
+    "teroris": 1
+  },
+  "Mahal.": {
+    "terkenal.": 1
+  },
+  "vasokumuni": {
+    "Pengintaian": 1
+  },
+  "David": {
+    "David": 2
+  },
+  "Headley": {
+    "Headley": 1
+  },
+  "vukea": {
+    "membantu": 4
+  },
+  "lalawa": {
+    "terlaksananya": 1
+  },
+  "lawalawa": {
+    "kelompok": 3
+  },
+  "vakaduidui": {
+    "militan": 1
+  },
+  "Pakisitani": {
+    "Pakistan": 3
+  },
+  "Laskhar-e-Taiba.": {
+    "Laskhar-e-Taiba.": 1
+  },
+  "ravuravu": {
+    "Serangan": 1,
+    "berbeda.": 1
+  },
+  "luluqa": {
+    "ketegangan": 1
+  },
+  "sra": {
+    "hubungan": 1
+  },
+  "Texas,": {
+    "meyakinkan": 1
+  },
+  "vakamatatataka": {
+    "\"Perry": 1
+  },
+  "Perry,": {
+    "spesifik": 1,
+    "\"Terdapat": 1
+  },
+  "\"E": {
+    "mengatakan,": 2
+  },
+  "bolebole": {
+    "menghadapi": 1
+  },
+  "vakaoqo,": {
+    "tantangan": 1
+  },
+  "eke.\"": {
+    "kasus": 1,
+    "ini.\"": 1
+  },
+  "Kaya": {
+    "\"Gubernur": 1
+  },
+  "kovana,": {
+    "menyatakan,": 1
+  },
+  "\"Nikua,": {
+    "\"Hari": 1
+  },
+  "veitaratara": {
+    "kontak": 2,
+    "asuransi": 2
+  },
+  "tauvimate.\"": {
+    "pasien.\"": 1
+  },
+  "neitou": {
+    "serius.": 1,
+    "Yakinlah": 1
+  },
+  "kina.\"": {
+    "mestinya.\"": 1
+  },
+  "Kevaka": {
+    "Jika": 10
+  },
+  "vakadeitaki,": {
+    "dikonfirmasi,": 1
+  },
+  "kune": {
+    "ditemukan": 2
+  },
+  "Musashi": {
+    "melengkapi": 1
+  },
+  "vakacavara": {
+    "delapan": 1,
+    "1977,": 1
+  },
+  "Allen.": {
+    "Musashi.": 1
+  },
+  "mape": {
+    "pemetaan": 1
+  },
+  "botonisauloa": {
+    "laut,": 1
+  },
+  "voca": {
+    "ditemukan": 1
+  },
+  "ROV.": {
+    "ROV.": 1
+  },
+  "veivaqaqai": {
+    "Allen": 1
+  },
+  "vakalewai": {
+    "pujian": 1,
+    "kritis": 1
+  },
+  "lelevu.": {
+    "inovatif.": 1,
+    "konvensi": 1,
+    "terbaik.": 1,
+    "batasan-batasannya.": 1
+  },
+  "2009": {
+    "Dia": 1,
+    "mendapat": 1
+  },
+  "vua": {
+    "paten": 2
+  },
+  "veivakacaucautaki": {
+    "Pengawas": 1
+  },
+  "Superintendent": {
+    "Terbaik": 1
+  },
+  "cocovi,": {
+    "penghargaan,": 1,
+    "sekolah": 1,
+    "Atlanta": 1
+  },
+  "vakavuli": {
+    "kenaikan": 1
+  },
+  "veikoronivuli": {
+    "ujian": 1
+  },
+  "Atlanta.": {
+    "drastis.": 1
+  },
+  "vakalailai": {
+    "Tak": 1,
+    "eBay": 1
+  },
+  "Lawatu-ni": {
+    "kemudian,": 1
+  },
+  "Tauri": {
+    "The": 1
+  },
+  "tabaka": {
+    "menekan": 2
+  },
+  "veitarogi.": {
+    "hasil": 1,
+    "tes.": 1
+  },
+  "veitarogi": {
+    "ujian": 2
+  },
+  "kina.": {
+    "sama.": 2,
+    "Anda.": 2,
+    "lain.": 2
+  },
+  "kunea": {
+    "Bukti": 1
+  },
+  "sagai": {
+    "kertas": 1
+  },
+  "Hall,": {
+    "Hall,": 1
+  },
+  "2013.": {
+    "didakwa": 1,
+    "2013.": 1
+  },
+  "Ailadi": {
+    "menekankan": 1,
+    "pentingnya": 1
+  },
+  "yavu": {
+    "undang-undang": 1,
+    "\"Bahasa": 1,
+    "inti": 1
+  },
+  "vakavulewa": {
+    "parlemen": 1
+  },
+  "palimedi": {
+    "memperbaiki": 1
+  },
+  "\"Sa": {
+    "\"UU": 1
+  },
+  "duadua\",": {
+    "pidana,\"": 1,
+    "jubir": 1
+  },
+  "vakavulewa.": {
+    "diberlakukan.": 1
+  },
+  "Tereni": {
+    "Jarque": 1
+  },
+  "Jarque": {
+    "berlatih": 1
+  },
+  "Itali": {
+    "Italia": 6
+  },
+  "Bolonia.": {
+    "Bolonia.": 2
+  },
+  "Six": {
+    "Six": 1
+  },
+  "Flags": {
+    "Flags": 1
+  },
+  "St.": {
+    "St.": 1
+  },
+  "vakatagi": {
+    "band": 2
+  },
+  "tikite": {
+    "tiket": 3
+  },
+  "1:15": {
+    "Sabtu": 1
+  },
+  "Vakarauwai,": {
+    "01.15": 1
+  },
+  "vuki": {
+    "skater": 5
+  },
+  "basi.": {
+    "depannya.": 1
+  },
+  "Okosita,": {
+    "Agustus,": 1
+  },
+  "matanicagi": {
+    "Morakot": 1
+  },
+  "Morakot": {
+    "berjarak": 1
+  },
+  "vitusagavulu": {
+    "17": 1
+  },
+  "Fujian": {
+    "Provinsi": 1,
+    "Fujian,": 1
+  },
+  "tinikadua": {
+    "sebelas": 1,
+    "kilometer": 1
+  },
+  "kph.": {
+    "jam.": 1
+  },
+  "Soli": {
+    "Penumpang": 1,
+    "diberi": 1
+  },
+  "90(F)-na": {
+    "suhu": 1,
+    "90": 1
+  },
+  "diqiri": {
+    "derajat": 1
+  },
+  "katakata.": {
+    "Fahrenheit.": 1,
+    "tropis.": 1
+  },
+  "liuliu": {
+    "\"Kapten": 1,
+    "pemadam": 1,
+    "kebakaran": 1
+  },
+  "boko": {
+    "Scott": 1,
+    "sakelar": 1
+  },
+  "kavetani": {
+    "berkata,": 1
+  },
+  "Kouns,": {
+    "\"Hari": 1
+  },
+  "Santa": {
+    "Santa": 3
+  },
+  "Clara": {
+    "Clara": 1
+  },
+  "90s.": {
+    "32-38": 1,
+    "derajat.\"": 1
+  },
+  "wawa": {
+    "lamanya,": 1,
+    "mengantre,": 1
+  },
+  "roller": {
+    "tentu": 1
+  },
+  "coaster": {
+    "nyaman,": 1
+  },
+  "imatai": {
+    "pertama": 12
+  },
+  "cegu": {
+    "Schumacher": 1,
+    "usus": 1
+  },
+  "Schumacher": {
+    "pensiun": 1
+  },
+  "2006": {
+    "2006": 1,
+    "usai": 1,
+    "memenangkan": 1
+  },
+  "vakavitu": {
+    "kejuaraan": 1,
+    "Formula": 1
+  },
+  "1": {
+    "1": 5
+  },
+  "Formula": {
+    "kali,": 1,
+    "dijadwalkan": 1
+  },
+  "championship,": {
+    "menggantikan": 1
+  },
+  "sosomitaki": {
+    "Felipe": 1,
+    "lampu": 1
+  },
+  "Felipe": {
+    "Massa": 1
+  },
+  "Massa.": {
+    "cedera.": 1
+  },
+  "mavoa": {
+    "cedera": 3
+  },
+  "vakaca": {
+    "Brasil": 1
+  },
+  "uluna": {
+    "kepala": 2
+  },
+  "Hungarian": {
+    "Hungaria": 1
+  },
+  "2009.": {
+    "2009.": 2
+  },
+  "veitau": {
+    "setidaknya": 1,
+    "pembalap": 1,
+    "motor": 1
+  },
+  "Massa": {
+    "sisa": 1
+  },
+  "Arias": {
+    "Arias": 2
+  },
+  "Minisita": {
+    "teruji": 1,
+    "positif": 1
+  },
+  "Peresitedi": {
+    "terinfeksi": 1,
+    "virus": 1
+  },
+  "vairusi": {
+    "Kepresidenan": 1,
+    "virus": 1
+  },
+  "Arias.": {
+    "Rodrigo": 1,
+    "Arias.": 1
+  },
+  "vakatikitikitaki": {
+    "diisolasi": 1
+  },
+  "noqu": {
+    "baik-baik": 1,
+    "melanjutkan": 1,
+    "kembali": 1
+  },
+  "initaneti.": {
+    "rumah.\"": 1
+  },
+  "itavi": {
+    "bekerja": 1
+  },
+  "Moniti,\"": {
+    "Senin,\"": 1
+  },
+  "itukutuku.": {
+    "pernyataan.\"": 1,
+    "waktu.": 1
+  },
+  "Ea": {
+    "Felicia,": 1
+  },
+  "cagilaba": {
+    "badai": 4
+  },
+  "4": {
+    "Kategori": 1
+  },
+  "Cagilaba": {
+    "Badai": 3
+  },
+  "iVakarau": {
+    "Saffir-Simpson,": 1
+  },
+  "Saffir-Simpson,": {
+    "melemah": 1
+  },
+  "tataba": {
+    "menghilang": 1
+  },
+  "Tusiti.": {
+    "Selasa.": 1,
+    "Osaka.": 1
+  },
+  "veiyasani": {
+    "lebat": 1
+  },
+  "ia,": {
+    "pulau,": 1
+  },
+  "waluvu": {
+    "banjir": 1
+  },
+  "ripotetaki": {
+    "dilaporkan.": 1
+  },
+  "6.34": {
+    "cm": 1
+  },
+  "iji": {
+    "ukur": 1
+  },
+  "Oahu,": {
+    "terpasang": 1,
+    "Oahu,": 1
+  },
+  "\"yaga": {
+    "digambarkan": 1
+  },
+  "sara\".": {
+    "\"menguntungkan\".": 1
+  },
+  "muria": {
+    "disertai": 1,
+    "setapak": 1
+  },
+  "tatibi": {
+    "petir": 1
+  },
+  "liva.": {
+    "berulang-ulang.": 1
+  },
+  "ivocevoce": {
+    "Twin": 1
+  },
+  "Waqavuka": {
+    "Otter": 1
+  },
+  "ro": {
+    "mendarat": 2,
+    "pendaratan": 2
+  },
+  "Kokoda": {
+    "Kokoda": 1
+  },
+  "noa": {
+    "kemarin": 1
+  },
+  "Airline": {
+    "Airlines": 1
+  },
+  "CG4684,": {
+    "PNG": 1
+  },
+  "vakasuka": {
+    "Penerbangan": 1,
+    "CG4684,": 1
+  },
+  "eliu.": {
+    "dibatalkan": 1,
+    "sekali.": 1
+  },
+  "Tini": {
+    "Sekitar": 1,
+    "Insinyur": 1
+  },
+  "yali": {
+    "pesawat": 1
+  },
+  "rui": {
+    "sangat": 3
+  },
+  "bula.": {
+    "selamat.": 1,
+    "geologi.": 1,
+    "medis.": 1,
+    "masalah.": 1,
+    "(organisme)": 1,
+    "hidup.": 1
+  },
+  "vaqaqara,": {
+    "terhambat": 1
+  },
+  "vakasukai.": {
+    "dibatalkan.": 1
+  },
+  "ripotetaki,": {
+    "Menurut": 1
+  },
+  "yatuvale": {
+    "laporan,": 1
+  },
+  "Gaunisala": {
+    "apartemen": 1
+  },
+  "Macbeth": {
+    "Macbeth": 1
+  },
+  "kasi.": {
+    "gas.": 2
+  },
+  "qiritaki": {
+    "tetangga": 1
+  },
+  "vakailesilesi,": {
+    "tiba,": 1,
+    "berwenang,": 1
+  },
+  "kacabote": {
+    "ledakan": 2
+  },
+  "eratou": {
+    "setidaknya": 1,
+    "dirawat": 1
+  },
+  "kidroa.": {
+    "gejala": 1,
+    "syok.": 1
+  },
+  "vale.": {
+    "apartemen.": 1,
+    "rumah.\"": 1,
+    "mereka.": 1,
+    "tersendiri.": 1
+  },
+  "oya,": {
+    "itu,": 4
+  },
+  "100": {
+    "100": 5
+  },
+  "kea": {
+    "warga": 1
+  },
+  "tokitaki": {
+    "dievakuasi": 1
+  },
+  "vakalesui": {
+    "Baik": 1,
+    "perilaku": 1,
+    "normal": 1
+  },
+  "rakavi": {
+    "golf": 2,
+    "rugbi": 2
+  },
+  "Olimipiki.": {
+    "Olimpiade.": 2
+  },
+  "Olympic": {
+    "Olimpiade": 5
+  },
+  "International": {
+    "Internasional": 2
+  },
+  "digitaki": {
+    "dipilih": 2
+  },
+  "vakaitavi": {
+    "berpartisipasi": 2,
+    "produk": 2
+  },
+  "qiqi": {
+    "roda": 2
+  },
+  "2005.": {
+    "2005.": 1
+  },
+  "digidigi": {
+    "Suara": 1
+  },
+  "bose": {
+    "IOC": 1
+  },
+  "IOC": {
+    "pertemuannya": 1
+  },
+  "Copenhagen.": {
+    "Kopenhagen.": 1
+  },
+  "tokona": {
+    "mendukung": 3
+  },
+  "eso.": {
+    "wanita.": 1,
+    "dilewatinya.": 1,
+    "terperinci.": 1
+  },
+  "Amir": {
+    "\"Peraih": 1
+  },
+  "winitaka": {
+    "medali": 1
+  },
+  "Khan": {
+    "perak": 1
+  },
+  "Olimipiki": {
+    "Olimpiade": 3
+  },
+  "metali": {
+    "2004,": 1
+  },
+  "siliva": {
+    "Amir": 1,
+    "Khan": 1
+  },
+  "2004,": {
+    "lubuk": 1
+  },
+  "marama.": {
+    "bertarung.": 1
+  },
+  "Oqori": {
+    "Itu": 1,
+    "pendapat": 1
+  },
+  "nanuma.\"": {
+    "saya.\"": 1
+  },
+  "tokoni": {
+    "mendukung": 2
+  },
+  "Peretania": {
+    "Inggris": 3
+  },
+  "Lodoni.": {
+    "London.": 1
+  },
+  "Birmingham": {
+    "Pengadilan": 1
+  },
+  "Crown": {
+    "Birmingham": 1
+  },
+  "Court": {
+    "Crown": 1
+  },
+  "vakacavari": {
+    "ditutup": 1
+  },
+  "3.": {
+    "Agustus.": 1
+  },
+  "daukakaburaki,": {
+    "Pembawa": 1
+  },
+  "Blake": {
+    "Blake": 2
+  },
+  "tarova": {
+    "berusaha": 1,
+    "memutarbalikkan": 1
+  },
+  "veilewai.": {
+    "arah": 1,
+    "keadilan.": 1
+  },
+  "turaganilewa": {
+    "\"hampir": 1
+  },
+  "qo”": {
+    "terelakkan\"": 1
+  },
+  "bala": {
+    "masuk": 1
+  },
+  "valeniveivesu.": {
+    "penjara.\"": 1
+  },
+  "butobuto": {
+    "Energi": 1,
+    "gelap": 1
+  },
+  "revurevu": {
+    "efeknya": 1,
+    "dampaknya": 1
+  },
+  "keda.": {
+    "semesta.": 1
+  },
+  "raica": {
+    "melihat": 10
+  },
+  "koto": {
+    "berserak": 1
+  },
+  "dela": {
+    "permukaan": 6
+  },
+  "vakatokai": {
+    "disebut": 6
+  },
+  "lobate": {
+    "scarps.": 1
+  },
+  "scarp": {
+    "Bentang": 1
+  },
+  "vula.": {
+    "lambat.": 1,
+    "bulan.": 1
+  },
+  "(scarp)": {
+    "Lereng": 1
+  },
+  "tikoga.": {
+    "baru-baru": 1
+  },
+  "vakasama": {
+    "pemikiran": 3
+  },
+  "draivataka": {
+    "Pria": 1
+  },
+  "taia": {
+    "roda": 1
+  },
+  "oso": {
+    "tengah-tengah": 1
+  },
+  "seqemi": {
+    "diduga": 1
+  },
+  "vakavuna.": {
+    "tersebut.": 1
+  },
+  "Uighur.": {
+    "etnis": 1,
+    "Uighur.": 1
+  },
+  "Nadia,": {
+    "Nadia,": 1,
+    "lahir": 1
+  },
+  "17": {
+    "17": 3
+  },
+  "2007,": {
+    "operasi": 1
+  },
+  "veisele": {
+    "sesar": 1,
+    "bedah": 1
+  },
+  "vakasucu": {
+    "klinik": 1,
+    "bersalin": 1
+  },
+  "Rusia,": {
+    "Aleisk,": 1,
+    "Rusia,": 1
+  },
+  "bi": {
+    "beratnya": 1
+  },
+  "paudi": {
+    "berbobot": 2,
+    "kg": 2
+  },
+  "aunisi.": {
+    "ons.": 1
+  },
+  "\"Keitou": {
+    "\"Kami": 1
+  },
+  "saraga,\"": {
+    "terkejut,\"": 1
+  },
+  "tinana.": {
+    "ibu": 1,
+    "tersebut.\"": 1
+  },
+  "tarogi": {
+    "\"Ketika": 1,
+    "ditanya": 1
+  },
+  "tamana,": {
+    "menjawab,": 1
+  },
+  "-": {
+    "-": 9
+  },
+  "duri": {
+    "berdiri": 4
+  },
+  "tu.\"": {
+    "sana": 1,
+    "berkedip.\"": 1
+  },
+  "ivukivuki.": {
+    "air.": 1
+  },
+  "botoni": {
+    "kotoran": 1,
+    "dasarnya.": 1
+  },
+  "Titan,": {
+    "Titan,": 1
+  },
+  "Vuravura,\"": {
+    "Bumi,\"": 1
+  },
+  "Stofan.": {
+    "tambah": 1,
+    "Stofan.\"": 1
+  },
+  "Yabaki": {
+    "Tahun": 3
+  },
+  "vakau": {
+    "penerima": 1,
+    "dituju.": 1,
+    "diimpor": 1
+  },
+  "dewadewa": {
+    "Pengorbit": 1
+  },
+  "1.5": {
+    "1,5": 2
+  },
+  "sekodi": {
+    "detik": 2
+  },
+  "volekata": {
+    "dekat": 2
+  },
+  "ceva.": {
+    "Bulan.": 1,
+    "selatan.": 1
+  },
+  "bibi,": {
+    "penting,": 2
+  },
+  "Idia,": {
+    "dilukis": 1
+  },
+  "babana.": {
+    "sisinya.": 1
+  },
+  "\"Vinaka": {
+    "\"Terima": 1,
+    "kasih": 1
+  },
+  "au,\"": {
+    "narapidana": 1
+  },
+  "cavuta": {
+    "saya,\"": 1
+  },
+  "Siriporn": {
+    "Siriporn": 1
+  },
+  "veitalanoa": {
+    "dikutip": 1,
+    "berbicara": 1
+  },
+  "dauvolaitukutuku.": {
+    "konferensi": 1,
+    "pers.\"": 1
+  },
+  "beka": {
+    "\"Sebagian": 1,
+    "imajinasi": 1
+  },
+  "duavata,": {
+    "setuju": 1
+  },
+  "kila.": {
+    "menghiraukan.\"": 1,
+    "dipahami.": 1,
+    "itu.": 1,
+    "pemberitahuan.": 1
+  },
+  "au.": {
+    "saya.": 1
+  },
+  "lewa": {
+    "menjalankan": 1,
+    "kontrol": 1,
+    "otonomi": 1,
+    "kendali": 1
+  },
+  "vakarautaka": {
+    "Agen-agen": 1,
+    "layanan": 1,
+    "masakan": 1
+  },
+  "veitabana": {
+    "jawab": 1
+  },
+  "247": {
+    "Pasal": 1
+  },
+  "Yavu": {
+    "247": 1
+  },
+  "Vakavulewa": {
+    "Konstitusi": 1
+  },
+  "vakasauri": {
+    "losmen": 1,
+    "ambruk": 1
+  },
+  "Mecca,": {
+    "Makkah,": 1
+  },
+  "kea.": {
+    "setempat.": 1
+  },
+  "masumasu": {
+    "peziarah": 1
+  },
+  "hajj": {
+    "ziarah": 1
+  },
+  "pilgrimage.": {
+    "haji.": 1
+  },
+  "United": {
+    "Uni": 1
+  },
+  "Arab": {
+    "Emirat": 1
+  },
+  "Emirates.": {
+    "Arab.": 1
+  },
+  "15,": {
+    "sedikitnya": 1,
+    "15": 1,
+    "orang,": 1
+  },
+  "Leonav,": {
+    "\"Leonov,": 1,
+    "juga": 1
+  },
+  "\"cosmonaut": {
+    "No.": 1,
+    "11\",": 1
+  },
+  "Soviet": {
+    "Uni": 2
+  },
+  "Union.": {
+    "Soviet.\"": 1,
+    "Eropa.": 1
+  },
+  "18,": {
+    "18": 1
+  },
+  "1965,": {
+    "1965,": 1
+  },
+  "itaviqaravi,": {
+    "extravehicular": 1,
+    "(EVA)": 1,
+    "berawak": 1
+  },
+  "\"taubale": {
+    "\"berjalan": 1
+  },
+  "taudaku": {
+    "luar": 7
+  },
+  "maliwalala\",": {
+    "angkasa\",": 1
+  },
+  "tinikarua": {
+    "12": 1
+  },
+  "\"Hero": {
+    "penghargaan": 1
+  },
+  "the": {
+    "tertinggi": 1
+  },
+  "Union\",": {
+    "\"Pahlawan": 1
+  },
+  "cakacaka.": {
+    "karyanya.\"": 1,
+    "bercahaya.": 1,
+    "rendah.": 1,
+    "tersedia.": 1
+  },
+  "Apollo–Soyuz": {
+    "misi": 1,
+    "Apolloâ€“Soyuz": 1
+  },
+  "Veitau": {
+    "menyimbolkan": 1,
+    "Perlombaan": 1
+  },
+  "Maliwalala.": {
+    "Antariksa.": 1
+  },
+  "vuku": {
+    "intelijen": 1,
+    "mengatasi": 1
+  },
+  "coqa.": {
+    "segera": 1,
+    "terjadi.\"": 1
+  },
+  "vakalailaitaki": {
+    "\"Meskipun": 1,
+    "ada": 1,
+    "penurunan": 1
+  },
+  "veivakarerei": {
+    "ancaman": 1
+  },
+  "tani": {
+    "foton.": 1,
+    "Darah": 1
+  },
+  "vakataucoko": {
+    "ancaman": 1
+  },
+  "veivakarerei.\"": {
+    "hilang.\"": 1
+  },
+  "veivakarerei,": {
+    "Otoritas": 1
+  },
+  "Maryland": {
+    "Transportasi": 1
+  },
+  "Authority": {
+    "Maryland": 1
+  },
+  "veivakauqeti": {
+    "desakan": 1
+  },
+  "FBI.": {
+    "FBI.": 1
+  },
+  "benu": {
+    "sampah": 1
+  },
+  "dusimaka": {
+    "mengarahkan": 1
+  },
+  "vodomotopai": {
+    "pengendara": 1,
+    "motor": 1
+  },
+  "vakaosoi": {
+    "kemacetan": 1
+  },
+  "vagolei": {
+    "alternatif": 1,
+    "kota.": 1
+  },
+  "Naijiria": {
+    "mengumumkan": 1
+  },
+  "tuva": {
+    "rencana": 1,
+    "posisi": 1
+  },
+  "lewena": {
+    "bergabung": 5
+  },
+  "AfCFTA": {
+    "AfCFTA": 1
+  },
+  "cokovata.": {
+    "puncaknya.": 1
+  },
+  "dauniveivoli": {
+    "Komisaris": 1
+  },
+  "AU": {
+    "perdagangan": 1
+  },
+  "yaya": {
+    "AU": 1,
+    "Albert": 1,
+    "perangkat": 1
+  },
+  "Albert": {
+    "Muchanga": 1
+  },
+  "Benin.": {
+    "bergabung.": 1
+  },
+  "komisina,": {
+    "\"Komisioner": 1,
+    "\"Kami": 1
+  },
+  "\"Se": {
+    "menyepakati": 1
+  },
+  "lawa": {
+    "aturan": 2
+  },
+  "ivakacavacava,": {
+    "kerangka": 1
+  },
+  "Jiulai,": {
+    "Juli": 1,
+    "2020\".": 1
+  },
+  "2020\".": {
+    "\"": 1
+  },
+  "Dei": {
+    "Stasiun": 1
+  },
+  "ivakarau,": {
+    "mempertahankan": 1,
+    "posisinya": 1
+  },
+  "ilakolako": {
+    "pemesanan": 2
+  },
+  "gyroscope,": {
+    "kehilangan": 1,
+    "giroskop": 1
+  },
+  "taubaletaki": {
+    "misi": 1,
+    "stasiun": 1
+  },
+  "ripotetaka": {
+    "Chiao": 1,
+    "pelaporan": 1
+  },
+  "Chiao": {
+    "Sharipov": 1
+  },
+  "Sharipov": {
+    "dilaporkan": 1
+  },
+  "veiyawaki": {
+    "jarak": 2
+  },
+  "veimoiyaki.": {
+    "penyesuaian": 1,
+    "sikap.": 1
+  },
+  "siteseni.": {
+    "stasiun": 1,
+    "tersebut.": 1
+  },
+  "lewai": {
+    "Tuntutan": 1,
+    "Waktu": 1,
+    "batasan": 1
+  },
+  "initaneti": {
+    "internet": 2
+  },
+  "yaco.": {
+    "dakwaan.": 1,
+    "pekan": 1,
+    "sebelumnya.": 1,
+    "diinginkan.": 1
+  },
+  "vakauyauyau": {
+    "elektronik": 1
+  },
+  "tu.": {
+    "pengguna.": 1,
+    "muda.": 1
+  },
+  "Jesus": {
+    "Manchester": 1,
+    "City": 1
+  },
+  "City": {
+    "2017": 1
+  },
+  "2017": {
+    "Brazil": 1,
+    "Palmeiras": 1
+  },
+  "tukuni": {
+    "transfer": 1,
+    "Dikatakan": 1,
+    "Atom": 1
+  },
+  "£27": {
+    "Â£": 1
+  },
+  "milioni.": {
+    "27": 1,
+    "juta.": 1
+  },
+  "53": {
+    "tampil": 1,
+    "53": 1
+  },
+  "kai.": {
+    "gol.": 1
+  },
+  "Dr.": {
+    "Dr.": 1,
+    "Lee": 1
+  },
+  "Lee": {
+    "menyampaikan": 1,
+    "kekhawatirannya": 1
+  },
+  "Turkey": {
+    "Turki": 5
+  },
+  "A(H5N1)": {
+    "A(H5N1)": 1
+  },
+  "tauvimate": {
+    "gejala": 1,
+    "sakit.": 1
+  },
+  "raraba,": {
+    "epidemi": 1
+  },
+  "koya.": {
+    "menurutnya.": 1
+  },
+  "vakadewa": {
+    "pasien": 1
+  },
+  "matetaka": {
+    "ringan.": 1
+  },
+  "Komen": {
+    "Komen": 2
+  },
+  "Foundation,": {
+    "Foundation,": 1
+  },
+  "susuga": {
+    "mengadopsi": 1
+  },
+  "veivakaqaqai": {
+    "ditujukan": 1,
+    "organisasi-organisasi": 1
+  },
+  "vakailavo.": {
+    "penyelidikan": 1,
+    "hukum.": 1,
+    "krusial.\"": 1
+  },
+  "Planned": {
+    "direncanakan": 2
+  },
+  "Parenthood": {
+    "tertunda": 1
+  },
+  "Mata": {
+    "Wakil": 1,
+    "Rakyat": 1
+  },
+  "Cliff": {
+    "Cliff": 1
+  },
+  "Stearns.": {
+    "Stearns.": 1
+  },
+  "Komiti": {
+    "and": 1,
+    "Investigations": 1,
+    "Subcommittee,": 1,
+    "Energi": 1
+  },
+  "Energy": {
+    "Perdagangan": 1
+  },
+  "Commerce.": {
+    "Rumah.": 1
+  },
+  "kovana": {
+    "Mantan": 1,
+    "gubernur": 1
+  },
+  "Massachussetts": {
+    "Massachusetts": 1
+  },
+  "Mitt": {
+    "Mitt": 1,
+    "Romney": 1
+  },
+  "Republican": {
+    "Selasa": 1
+  },
+  "Florida": {
+    "perolehan": 1
+  },
+  "46": {
+    "46": 1
+  },
+  "veidigidigi.": {
+    "suara.": 1
+  },
+  "Vunilawa": {
+    "Mantan": 1,
+    "Ketua": 1
+  },
+  "Boselawa": {
+    "DPR": 1,
+    "AS": 1
+  },
+  "Vakacegu": {
+    "Newt": 1
+  },
+  "Newt": {
+    "Gingrich": 1
+  },
+  "Gingrich": {
+    "berada": 1
+  },
+  "karua": {
+    "urutan": 2,
+    "kedua": 2
+  },
+  "32": {
+    "32": 1
+  },
+  "pasede.": {
+    "persen.": 1
+  },
+  "wini,": {
+    "winner-takes-all,": 1
+  },
+  "Romney": {
+    "menghadiahkan": 1
+  },
+  "liu": {
+    "terdepan": 2
+  },
+  "Republican.": {
+    "Republik.": 1
+  },
+  "100,000": {
+    "100.000": 2
+  },
+  "Jamani,": {
+    "Berlin,": 1
+  },
+  "Berlin,": {
+    "Cologne,": 1
+  },
+  "Cologne,": {
+    "Hamburg,": 1
+  },
+  "Hanover.": {
+    "Hanover.": 1
+  },
+  "Belini,": {
+    "Di": 1,
+    "Berlin,": 1
+  },
+  "viavia": {
+    "ada": 1
+  },
+  "6,500": {
+    "6.500": 1,
+    "pengunjuk": 1
+  },
+  "vakaraitakikudru.": {
+    "rasa.": 1
+  },
+  "vakaraitakikudru": {
+    "Paris,": 1,
+    "Sofia": 1
+  },
+  "Sofia": {
+    "Bulgaria,": 1
+  },
+  "Malata,": {
+    "Tallinn": 1
+  },
+  "Edinibaraka": {
+    "Edinburgh": 1
+  },
+  "Qalasiqou": {
+    "Glasgow": 1
+  },
+  "Sikoteladi.": {
+    "Skotlandia.": 1
+  },
+  "Lodoni,": {
+    "Di": 1,
+    "London,": 1
+  },
+  "200": {
+    "200": 2
+  },
+  "kudruvaka": {
+    "protes": 2
+  },
+  "valenivolavola": {
+    "kantor": 2
+  },
+  "lavelavetaki.": {
+    "cipta": 1,
+    "utama.": 1
+  },
+  "vakudrukudru": {
+    "besar-besaran": 1
+  },
+  ",mai": {
+    "Polandia": 2
+  },
+  "vakawawa": {
+    "mengesahkan": 1,
+    "kesepakatan,": 1
+  },
+  "veidinadinati.": {
+    "ini.": 1
+  },
+  "Latvia": {
+    "Latvia": 1
+  },
+  "Slovakia": {
+    "Slovakia": 1
+  },
+  "ACTA.": {
+    "ACTA.": 1
+  },
+  "Veivakabulai": {
+    "Pembebas": 1,
+    "Hewan": 1
+  },
+  "Manumanu": {
+    "Royal": 1
+  },
+  "Royal": {
+    "Society": 1
+  },
+  "Society": {
+    "for": 1
+  },
+  "for": {
+    "the": 1
+  },
+  "Prevention": {
+    "Prevention": 1
+  },
+  "to": {
+    "Cruelty": 1
+  },
+  "Animals": {
+    "to": 1
+  },
+  "(RSPCA)": {
+    "Animals": 1
+  },
+  "kaciva": {
+    "(RSPCA)": 1
+  },
+  "vuni": {
+    "CCTV": 1
+  },
+  "valeniveilewai": {
+    "jagal": 1
+  },
+  "RSPCA": {
+    "Inspektur": 1,
+    "RSCPA": 1
+  },
+  "New": {
+    "New": 3
+  },
+  "South": {
+    "South": 2
+  },
+  "Wales": {
+    "Wales": 1
+  },
+  "O'Shannessy": {
+    "O'Shannessy": 1
+  },
+  "ABC": {
+    "ABC": 1
+  },
+  "vamate": {
+    "penjagalan": 1
+  },
+  "\"Na": {
+    "\"CCTV": 1,
+    "Laki-Laki\",": 1
+  },
+  "CCTV": {
+    "pasti": 1
+  },
+  "taqomaki.\"": {
+    "prioritas": 1,
+    "tertinggi.\"": 1
+  },
+  "misini": {
+    "Peta": 1,
+    "mandiri": 1
+  },
+  "Geological": {
+    "Badan": 1
+  },
+  "Survey": {
+    "Survei": 1
+  },
+  "Internationl": {
+    "Geologi": 1
+  },
+  "Aiseladi": {
+    "Islandia": 1,
+    "melaporkan": 1
+  },
+  "Tabacakacaka": {
+    "Kantor": 1,
+    "Meteorologi": 1
+  },
+  "Draki": {
+    "Islandia": 1
+  },
+  "Hekala": {
+    "daerah": 1
+  },
+  "vualiki": {
+    "kaldera": 1
+  },
+  "ilovo": {
+    "puncak": 1,
+    "gunung": 1
+  },
+  "Vulukano.": {
+    "berapi.": 1
+  },
+  "laurai,": {
+    "Hitam": 1,
+    "terkait": 1
+  },
+  "vulukano.": {
+    "kaki": 1,
+    "gunung.": 1
+  },
+  "vakavuleca": {
+    "potensi": 1,
+    "kebingungan": 1
+  },
+  "de": {
+    "de": 5
+  },
+  "sega.": {
+    "sebenarnya": 1,
+    "terjadi.": 1
+  },
+  "vo": {
+    "Luno": 1
+  },
+  "Luno": {
+    "120â€“160": 1
+  },
+  "mita": {
+    "meter": 2
+  },
+  "cubic": {
+    "kubik": 1
+  },
+  "mate,": {
+    "kencang": 1
+  },
+  "biliga": {
+    "pemecah": 1
+  },
+  "kaimua": {
+    "awak": 1
+  },
+  "helikoputa": {
+    "satu-satunya": 1
+  },
+  "ramusu": {
+    "dialami": 1,
+    "patah": 1
+  },
+  "ucu.": {
+    "hidung.": 1
+  },
+  "iwasewase.": {
+    "menumpahkan": 1,
+    "muatannya.": 1
+  },
+  "vakatututaki": {
+    "Amandemen": 1,
+    "diusulkan": 1
+  },
+  "yasa": {
+    "disetujui": 1,
+    "ada,": 1,
+    "belahan": 1
+  },
+  "boselawa": {
+    "dewan": 1,
+    "perwakilan": 1
+  },
+  "2011.": {
+    "2011.": 1
+  },
+  "bokoci": {
+    "kalimat": 2
+  },
+  "Matabose": {
+    "diloloskan": 1
+  },
+  "Moniti.": {
+    "Senin.": 1
+  },
+  "vakatututaka": {
+    "melarang": 1
+  },
+  "semati": {
+    "sesama": 2
+  },
+  "mataka.": {
+    "mendatang.": 1,
+    "siang": 1,
+    "hari.": 1
+  },
+  "walewale,": {
+    "proses": 1
+  },
+  "HJR-3": {
+    "HJR-3": 1
+  },
+  "talevi": {
+    "ditinjau": 1
+  },
+  "2015": {
+    "2015": 1
+  },
+  "2016": {
+    "2016": 1
+  },
+  "iwalewale.": {
+    "proses.": 1
+  },
+  "Vautier": {
+    "Pencapaian": 1,
+    "Vautier": 1
+  },
+  "oka": {
+    "mogok": 1
+  },
+  "politiki": {
+    "sensor": 1
+  },
+  "vakaiwiliwili.": {
+    "politik.": 1
+  },
+  "Varanise.": {
+    "Prancis": 2
+  },
+  "II": {
+    "Perlawanan": 1
+  },
+  "Resistance.": {
+    "II.": 1
+  },
+  "volataki": {
+    "Dia": 1,
+    "mendokumentasikan": 1
+  },
+  "1998.": {
+    "tahun": 1,
+    "1998.": 1
+  },
+  "1960": {
+    "dekade": 1,
+    "1960-an,": 1
+  },
+  "Algeria": {
+    "Aljazair": 1
+  },
+  "vakatavulica": {
+    "mengajar": 1
+  },
+  "yaloyalo.": {
+    "penyutradaraan": 1,
+    "film.": 1
+  },
+  "54,": {
+    "Jepang": 1,
+    "Hitoshi": 1,
+    "Saito,": 1
+  },
+  "judoka": {
+    "pemenang": 1
+  },
+  "Hitoshi": {
+    "medali": 1
+  },
+  "Saito,": {
+    "emas": 1,
+    "Olimpiade,": 1
+  },
+  "koula": {
+    "usia": 1,
+    "54": 1
+  },
+  "intrahepatic": {
+    "kanker": 1
+  },
+  "bile": {
+    "saluran": 1
+  },
+  "duct": {
+    "empedu": 1
+  },
+  "cancer.": {
+    "intrahepatik.": 1
+  },
+  "Osaka": {
+    "hari": 1,
+    "Selasa": 1
+  },
+  "Veisisivi": {
+    "juara": 2
+  },
+  "jeameni": {
+    "Saito": 1,
+    "menjabat": 1
+  },
+  "veiterenitaki": {
+    "ketua": 1,
+    "komite": 1
+  },
+  "All": {
+    "pelatihan": 1
+  },
+  "Japan": {
+    "Federasi": 1
+  },
+  "Judo": {
+    "Judo": 1
+  },
+  "Federation": {
+    "Seluruh": 1
+  },
+  "mate.": {
+    "meninggal.": 1,
+    "mati": 1,
+    "penyakit.": 1
+  },
+  "marautaki": {
+    "merayakan": 1
+  },
+  "vakamau": {
+    "pasangan": 1,
+    "pernikahannya": 1,
+    "digelar": 1
+  },
+  "soqo": {
+    "festival": 3
+  },
+  "vakananumi": {
+    "berikutnya,": 1
+  },
+  "liu.": {
+    "pejabat.": 1
+  },
+  "Texas": {
+    "menikah": 1
+  },
+  "Buffalo": {
+    "Buffalo": 1
+  },
+  "itokani": {
+    "teman": 3
+  },
+  "veiwekani.": {
+    "kerabat.": 1
+  },
+  "watina": {
+    "Sang": 1,
+    "suami": 1
+  },
+  "30,": {
+    "30": 1
+  },
+  "sucu": {
+    "kelahiran": 2
+  },
+  "Buffalo,": {
+    "Buffalo,": 1
+  },
+  "veivanavana,": {
+    "penembakan": 1
+  },
+  "watina.": {
+    "istrinya": 1,
+    "terluka.": 1
+  },
+  "veivakavulici": {
+    "pengajar": 1,
+    "pembelajaran": 1
+  },
+  "Vuli": {
+    "Pendidikan": 2
+  },
+  "Veigauna": {
+    "Modern": 2
+  },
+  "torocake": {
+    "murid": 1
+  },
+  "vakacakacaka.": {
+    "karirnya.": 1
+  },
+  "lesoni": {
+    "catatannya,": 1
+  },
+  "itubutubu": {
+    "kata-kata": 1
+  },
+  "sabalia,": {
+    "dilaporkan": 1
+  },
+  "ca.": {
+    "kotor": 1,
+    "kelas.": 1
+  },
+  "basi": {
+    "bus": 2
+  },
+  "Valagi.": {
+    "Inggris.": 1
+  },
+  "basuki": {
+    "dituduh": 1
+  },
+  "vakailoa": {
+    "pelanggaran": 1
+  },
+  "cakacaka,": {
+    "cipta,": 1,
+    "menganggur,": 1
+  },
+  "vakadinati.": {
+    "dituntut.": 1
+  },
+  "'vosa": {
+    "gaul": 1
+  },
+  "sabalia": {
+    "kelas,": 1
+  },
+  "kalasi,": {
+    "mengajarkan": 1
+  },
+  "vakavulica": {
+    "berkencan": 1
+  },
+  "veitau,": {
+    "catatan,": 1
+  },
+  "gonevuli.'": {
+    "siswa-siswanya.'": 1
+  },
+  "tolusagavulu": {
+    "tiga": 2
+  },
+  "kominisi,": {
+    "komunis,": 1
+  },
+  "veiliutaki": {
+    "bawah": 4
+  },
+  "Deng": {
+    "kepemimpinan": 1,
+    "Deng": 1
+  },
+  "Xiaoping.": {
+    "Xiaoping.": 1
+  },
+  "gauna,": {
+    "waktu,": 2,
+    "waktu": 2
+  },
+  "vakauta": {
+    "mengekspor": 1,
+    "mengirimkan": 1,
+    "tank": 1
+  },
+  "sivita": {
+    "PDB": 1,
+    "Tiongkok": 1,
+    "reguler": 1
+  },
+  "GDP": {
+    "melebihi": 1
+  },
+  "Danielle,": {
+    "Tropis": 1,
+    "Danielle,": 1
+  },
+  "ikava": {
+    "keempat": 2
+  },
+  "2010": {
+    "Atlantik": 1
+  },
+  "cadra": {
+    "terbentuk": 1
+  },
+  "Wasawasa": {
+    "Samudera": 1,
+    "Arktik": 1
+  },
+  "Atlantic.": {
+    "Atlantik.": 1
+  },
+  "cagilaba,": {
+    "Badai": 2,
+    "berada": 2
+  },
+  "3,000": {
+    "4.800": 1
+  },
+  "Miami,": {
+    "Miami,": 1,
+    "Florida,": 1
+  },
+  "40mph": {
+    "jam": 1,
+    "(40": 1
+  },
+  "(64kph).": {
+    "mph).": 1
+  },
+  "Valenivolavola": {
+    "Nasional": 1,
+    "memperkirakan": 1
+  },
+  "Vukelulu.": {
+    "Rabu.": 1
+  },
+  "Caribbean.": {
+    "Karibia.": 1
+  },
+  "Bobek": {
+    "Zagreb,": 1,
+    "ibukota": 1
+  },
+  "Croatia,": {
+    "Bobek": 1,
+    "meraih": 1
+  },
+  "Partizan": {
+    "Partizan": 1
+  },
+  "Belgrade.": {
+    "Belgrade.": 1
+  },
+  "ekea": {
+    "1945,": 1
+  },
+  "1958.": {
+    "1958.": 1
+  },
+  "timi,": {
+    "timnya,": 1
+  },
+  "403": {
+    "403": 1
+  },
+  "468": {
+    "468": 1
+  },
+  "qito.": {
+    "pertandingan.": 1
+  },
+  "bau": {
+    "catatan": 1,
+    "negara": 1
+  },
+  "Bobek.": {
+    "ini.": 1
+  },
+  "1995": {
+    "Pada": 1
+  },
+  "Partizan.": {
+    "Partizan.": 1
+  },
+  "ivakaraitaki": {
+    "spesial": 1,
+    "Efeknya": 1
+  },
+  "Cirque": {
+    "Cirque": 1
+  },
+  "du": {
+    "du": 1
+  },
+  "Soleli.": {
+    "Soleil.": 1
+  },
+  "iMata": {
+    "dilanjutkan": 1
+  },
+  "Vakatagi": {
+    "Istanbul": 1
+  },
+  "Istanbul,": {
+    "Symphony": 1,
+    "Orchestra,": 1
+  },
+  "Janissary,": {
+    "Janissary,": 1
+  },
+  "lagasere": {
+    "Fatih": 1,
+    "Diva": 1,
+    "Turki": 1
+  },
+  "Faith": {
+    "ErkoÃ§": 1
+  },
+  "Muslum": {
+    "MÃ¼slÃ¼m": 1
+  },
+  "Gurses.": {
+    "GÃ¼rses.": 1
+  },
+  "veivakamarautaki": {
+    "naik": 1
+  },
+  "Dervishes.": {
+    "panggung.": 1
+  },
+  "Sezen": {
+    "Sezen": 1
+  },
+  "Aksu": {
+    "Aksu": 1,
+    "tampil": 1
+  },
+  "tena": {
+    "penyanyi": 1
+  },
+  "Alessandro": {
+    "Alessandro": 1
+  },
+  "Safina": {
+    "Safina": 1
+  },
+  "daulagasere": {
+    "penyanyi": 1
+  },
+  "Haris": {
+    "Haris": 1
+  },
+  "Alexiou.": {
+    "Alexiou.": 1
+  },
+  "tinia,": {
+    "\"Sebagai": 1,
+    "penutup,": 1
+  },
+  "danisitaka": {
+    "tari": 1
+  },
+  "Kama": {
+    "Fire": 1,
+    "of": 1
+  },
+  "Anatolia": {
+    "Anatolia": 1
+  },
+  "vakatasuasua": {
+    "menampilkan": 1,
+    "pertunjukan": 1,
+    "pop": 1
+  },
+  "\"Troy\".": {
+    "\"Troy\".\"": 1
+  },
+  "13": {
+    "13": 1
+  },
+  "Indianapolis": {
+    "Motor": 1
+  },
+  "Speedway.": {
+    "Indianapolis.": 1
+  },
+  "vakatakata": {
+    "pemanasan,": 1,
+    "microwave": 1
+  },
+  "vakavakarau,": {
+    "Lenz": 1,
+    "terjatuh": 1
+  },
+  "motopai": {
+    "motornya,": 1
+  },
+  "Lenz,": {
+    "ditabrak": 1
+  },
+  "coqai": {
+    "sesama": 1
+  },
+  "Xavier": {
+    "pebalap,": 1,
+    "Xavier": 1
+  },
+  "Zayat.": {
+    "Zayat.": 1
+  },
+  "qaravi": {
+    "segera": 1
+  },
+  "dauniveiqaravi": {
+    "ditangani": 1,
+    "staf": 1
+  },
+  "vakavuniwai": {
+    "medis": 1
+  },
+  "Zayat": {
+    "kecelakaan": 1
+  },
+  "vakacalaka.": {
+    "itu.": 1
+  },
+  "vuravura,": {
+    "\"sistem": 1
+  },
+  "\"tiki": {
+    "bagian": 2
+  },
+  "vakailavo.\"": {
+    "pulih.\"": 1
+  },
+  "News": {
+    "dramatis": 1
+  },
+  "vakatubura": {
+    "mandat": 1
+  },
+  "itukutuku,": {
+    "berita,": 1
+  },
+  "kakaburaki": {
+    "siaran": 1,
+    "baru.": 1
+  },
+  "Japani,": {
+    "Jepang,": 1
+  },
+  "Itali,": {
+    "Italia,": 2
+  },
+  "Korea,": {
+    "ditujukan": 1
+  },
+  "retio": {
+    "televisi,": 1
+  },
+  "vakalivaliva.": {
+    "seluler.": 1
+  },
+  "Kalougata": {
+    "\"Untungnya": 1
+  },
+  "katubaleka": {
+    "jendela": 3
+  },
+  "mokulaka": {
+    "Orang-orang": 1,
+    "memukuli": 1
+  },
+  "dabedabe,": {
+    "kursi,": 1
+  },
+  "kavoro": {
+    "kacanya": 1
+  },
+  "katubaleka.": {
+    "pecah.": 1
+  },
+  "\"Qai": {
+    "\"Salah": 1
+  },
+  "katubaleka,": {
+    "panel": 1,
+    "akhirnya": 1
+  },
+  "Franciszek": {
+    "selamat": 1,
+    "Franciszek": 1
+  },
+  "Kowal.": {
+    "Kowal.\"": 1
+  },
+  "hydrogen": {
+    "hidrogen": 2
+  },
+  "atoms": {
+    "fusi)": 1
+  },
+  "cake.": {
+    "berat.": 1
+  },
+  "bulia": {
+    "Ilmuwan": 1,
+    "produsen": 1
+  },
+  "cokotivata": {
+    "sama.": 1
+  },
+  "Ia,": {
+    "Namun,": 7
+  },
+  "tikina": {
+    "bagaimanapun,": 1,
+    "partikel": 1,
+    "terbakar": 1,
+    "fungsional": 1
+  },
+  "wali": {
+    "masalah": 2
+  },
+  "da": {
+    "bertahun-tahun": 1
+  },
+  "taraicake": {
+    "reaktor": 1
+  },
+  "cokoti": {
+    "fusi": 1
+  },
+  "buli.": {
+    "berguna": 1,
+    "dibangun.": 1,
+    "produksi": 1,
+    "lensa.": 1
+  },
+  "icula": {
+    "Jarum": 1
+  },
+  "sitila": {
+    "baja": 1
+  },
+  "vude": {
+    "mengambang": 1,
+    "mengapung": 1
+  },
+  "delana.": {
+    "tegangan": 1,
+    "permukaan.": 1,
+    "atasnya.": 1
+  },
+  "vakatauvatani": {
+    "dibanding": 3
+  },
+  "batini": {
+    "Bilah": 1
+  },
+  "lobi": {
+    "es": 2,
+    "sisi": 2
+  },
+  "babana": {
+    "ganda": 1
+  },
+  "ruarua.": {
+    "diantaranya.": 1
+  },
+  "yasana": {
+    "sisi": 6
+  },
+  "vakatara": {
+    "memungkinkan": 2
+  },
+  "vakatajiki": {
+    "miring": 3
+  },
+  "Baleta": {
+    "Karena": 1
+  },
+  "botona,": {
+    "mata": 2
+  },
+  "ucaceva": {
+    "bersinggungan": 1
+  },
+  "talega.": {
+    "membengkok.": 1,
+    "sedikit.": 1
+  },
+  "dauvakasisi.": {
+    "berbelok.": 1
+  },
+  "imawi": {
+    "kiri,": 1
+  },
+  "vakasisi": {
+    "belok": 1,
+    "kiri.": 1
+  },
+  "lesuvi": {
+    "Untuk": 1
+  },
+  "biuta": {
+    "memancarkan": 2
+  },
+  "rawati": {
+    "dapatkan": 1
+  },
+  "rarama.": {
+    "cahaya.": 1,
+    "radiasi.\"": 1,
+    "fajar.": 1
+  },
+  "\"photon\".": {
+    "biasa": 1,
+    "\"foton\".\"": 1
+  },
+  "vakatoka": {
+    "menyebut": 2
+  },
+  "\"stimulated": {
+    "\"menstimulasi": 1
+  },
+  "rarama,": {
+    "emisi": 2,
+    "cahaya": 2
+  },
+  "radiation\"": {
+    "radiasi\"": 1
+  },
+  "(atoms)": {
+    "terang,": 1
+  },
+  "somidi": {
+    "foton": 2
+  },
+  "lalai": {
+    "kecil": 5
+  },
+  "itaba.": {
+    "gambar.": 1
+  },
+  "photons": {
+    "Foton": 1
+  },
+  "(atoms)!": {
+    "atom": 1
+  },
+  "matanicina": {
+    "bohlam": 4
+  },
+  "gadrevi": {
+    "perlu": 4
+  },
+  "matanicina.": {
+    "diganti.": 1,
+    "Mohon": 1
+  },
+  "qarauni": {
+    "mengganti": 1,
+    "Selama": 1,
+    "musim": 1,
+    "panas,": 1
+  },
+  "sosomitaki.": {
+    "bola": 1,
+    "lampu.": 1
+  },
+  "itabataba": {
+    "perlengkapan": 1,
+    "lampu": 1
+  },
+  "cavu": {
+    "dimatikan": 1
+  },
+  "livaliva.": {
+    "dicabut.": 1
+  },
+  "Oqo": {
+    "Hal": 2
+  },
+  "kaukamea": {
+    "bagian": 3
+  },
+  "madaga": {
+    "menancap": 1
+  },
+  "vakatikina": {
+    "soket.": 1
+  },
+  "sai": {
+    "darah": 1
+  },
+  "uto,": {
+    "jantung,": 1
+  },
+  "pamuta": {
+    "memompa": 1
+  },
+  "dra.": {
+    "darah.": 2
+  },
+  "capillaries.": {
+    "kapiler.": 1
+  },
+  "triceratops": {
+    "gigi": 1
+  },
+  "qaqia": {
+    "melumat": 1,
+    "daun,": 1
+  },
+  "tabanikau": {
+    "cabang": 1
+  },
+  "waka": {
+    "akar": 1
+  },
+  "kaukauwa.": {
+    "alot.": 1,
+    "Vietnam.": 1,
+    "kekuatan.": 1
+  },
+  "cycads,": {
+    "sagu,": 1
+  },
+  "vunikau": {
+    "tumbuhan": 1,
+    "Tanaman-tanaman": 1
+  },
+  "vakaisalataki": {
+    "daun": 1
+  },
+  "draunikau": {
+    "runcing": 1
+  },
+  "votovotoa.": {
+    "tajam.": 1
+  },
+  "Triceratops": {
+    "Seekor": 1
+  },
+  "gusuna": {
+    "paruhnya": 1
+  },
+  "drutia": {
+    "kuat": 1
+  },
+  "kania": {
+    "memakan": 3
+  },
+  "gau-ni-kau.": {
+    "batangnya.": 1
+  },
+  "vuanikau": {
+    "buah": 1
+  },
+  "paisoni.": {
+    "beracun.": 1
+  },
+  "dreti": {
+    "Bagaimana": 1,
+    "gravitasi": 1,
+    "Io": 1
+  },
+  "idre": {
+    "saya?": 1,
+    "gravitasi": 1
+  },
+  "qeteqete": {
+    "Io,": 1
+  },
+  "kemu": {
+    "berbobot": 1,
+    "ringan": 1,
+    "dibanding": 1
+  },
+  "kilo)": {
+    "Io.": 1
+  },
+  "lala.": {
+    "rendah.": 1
+  },
+  "Matanisiga": {
+    "Matahari": 3
+  },
+  "tucake": {
+    "pijak.": 1
+  },
+  "cagi,": {
+    "gas,": 1
+  },
+  "kama,": {
+    "api,": 1,
+    "kebakaran,": 1,
+    "benteng": 1
+  },
+  "palasama.": {
+    "plasma.": 1
+  },
+  "Matanisiga.": {
+    "Matahari.": 2
+  },
+  "tutuna": {
+    "bawah,": 2
+  },
+  "fotosifia,": {
+    "fotosfer,": 1
+  },
+  "\"polo": {
+    "artinya": 1,
+    "\"bola": 1
+  },
+  "rarama\".": {
+    "cahaya\".": 1
+  },
+  "Turaga": {
+    "1610,": 1
+  },
+  "Galileo": {
+    "Galilei": 1
+  },
+  "dikeva": {
+    "mengamati": 4
+  },
+  "iwase": {
+    "Fase": 2
+  },
+  "Venus,": {
+    "fase,": 1
+  },
+  "Venus": {
+    "Venus": 2
+  },
+  "(se": {
+    "(atau": 3
+  },
+  "wavokita": {
+    "planet": 2
+  },
+  "dauvakadidike": {
+    "1639,": 1,
+    "astronom": 1
+  },
+  "Jeremiah": {
+    "bernama": 1,
+    "Jeremiah": 1
+  },
+  "Horroks": {
+    "Horrocks": 1
+  },
+  "Venus.": {
+    "transit": 1,
+    "Venus.": 1
+  },
+  "Igiladi": {
+    "Inggris": 1
+  },
+  "Danelaw.": {
+    "penaklukan": 1,
+    "Danelaw.": 1
+  },
+  "Ia": {
+    "Namun,": 6
+  },
+  "Ethelred": {
+    "991": 1,
+    "Ethelred": 1
+  },
+  "matanivalu": {
+    "dihadapkan": 1
+  },
+  "kecekece": {
+    "armada": 2
+  },
+  "Viking": {
+    "Viking": 2
+  },
+  "Guthrum": {
+    "armada": 1
+  },
+  "Olaf": {
+    "Olaf": 1
+  },
+  "Trygvasson,": {
+    "Trygvasson,": 1
+  },
+  "Norway": {
+    "Norwegia": 3
+  },
+  "Denmark.": {
+    "kekuasaan": 1,
+    "Denmark.": 1
+  },
+  "taumada": {
+    "kemunduran": 1
+  },
+  "veileti": {
+    "militer,": 1,
+    "Argumen": 1
+  },
+  "mataivalu,": {
+    "Ethelred": 1
+  },
+  "Olaf,": {
+    "Olaf,": 1
+  },
+  "Hangeul": {
+    "Hangeul": 2
+  },
+  "matanivola": {
+    "alfabet": 3
+  },
+  "tauyavutaki": {
+    "sengaja": 1,
+    "diciptakan": 1,
+    "Alfabet": 1
+  },
+  "veisiga.": {
+    "sehari-hari.": 1,
+    "harian.": 1
+  },
+  "1444": {
+    "diciptakan": 1,
+    "1444": 1
+  },
+  "Sejong": {
+    "Sejong": 2
+  },
+  "(1418": {
+    "(1418": 1
+  },
+  "–": {
+    "-": 1
+  },
+  "1450).": {
+    "1450).": 1
+  },
+  "Joseon": {
+    "Joseon": 1
+  },
+  "dokai": {
+    "paling": 1
+  },
+  "vakalevu.": {
+    "dihormati.": 1,
+    "terbatas.": 1,
+    "paling": 1,
+    "umum.": 1
+  },
+  "vakayacana": {
+    "\"Awalnya": 1
+  },
+  "Hunmin": {
+    "Hunmin": 1
+  },
+  "ibalebalena": {
+    "Jeongeum,": 1
+  },
+  "irogorogo": {
+    "\"suara": 1
+  },
+  "\".": {
+    "instruksi": 1,
+    "rakyat\".\"": 1
+  },
+  "Sanskrit.": {
+    "tercipta.": 1,
+    "ditulis": 1
+  },
+  "vosa.": {
+    "bahasa": 3
+  },
+  "Sanskrit": {
+    "Bahasa": 1,
+    "Sansekerta": 1
+  },
+  "vakatautauvatataki": {
+    "sebanding": 1
+  },
+  "Latin": {
+    "Latin": 2
+  },
+  "Iurope.": {
+    "Eropa.": 4
+  },
+  "kumuni": {
+    "Sanskerta.": 1,
+    "ada,": 1,
+    "pengumpulan": 1
+  },
+  "Upanishads,": {
+    "kompilasi": 1
+  },
+  "seyavu": {
+    "Upanishad,": 1
+  },
+  "sanskrit": {
+    "memudar": 1
+  },
+  "veta": {
+    "adanya": 1,
+    "hierarki.": 1
+  },
+  "vurevure": {
+    "kaya,": 1
+  },
+  "Iurope": {
+    "Eropa": 4
+  },
+  "Varanise": {
+    "Prancis": 2
+  },
+  "Sipeni.": {
+    "Spanyol.": 2
+  },
+  "Varanise,": {
+    "Prancis,": 2
+  },
+  "ravuta": {
+    "bersiap-siap": 1,
+    "menginvasi": 1
+  },
+  "veivaluti": {
+    "\"Operasi": 1,
+    "Singa": 1
+  },
+  "Sealion”.": {
+    "senjata": 1
+  },
+  "Sotia": {
+    "hilang": 1,
+    "evakuasi": 1
+  },
+  "gogo": {
+    "tentara": 2
+  },
+  "sotia.": {
+    "lemah.": 1,
+    "melewatinya.": 1
+  },
+  "(“Kriegsmarine”)": {
+    "(\"Kriegsmarine\")": 1
+  },
+  "Igiladi.": {
+    "Selat": 1,
+    "Inggris.\"": 1
+  },
+  "vakatawana": {
+    "bermarkas": 1,
+    "silih": 1,
+    "berganti": 1
+  },
+  "kidrova": {
+    "laksamana": 1
+  },
+  "Admiral": {
+    "takut": 1
+  },
+  "vakaluvuci": {
+    "tenggelam": 1
+  },
+  "veiravuti": {
+    "serangan": 2
+  },
+  "Jamani.": {
+    "Jerman.": 1
+  },
+  "Meda": {
+    "Mari": 1
+  },
+  "ivakamacala": {
+    "penjelasan": 1,
+    "referensi": 1,
+    "ulasan": 1,
+    "asuransi,": 1
+  },
+  "Italy.": {
+    "dasarnya": 1
+  },
+  "O": {
+    "Orang": 2,
+    "Penduduk": 2
+  },
+  "Italy": {
+    "\"adik": 1
+  },
+  "\"tacina": {
+    "laki-laki\"": 1
+  },
+  "seqai": {
+    "lemah,": 1
+  },
+  "ivalu.": {
+    "dimulainya": 1,
+    "perang.": 1,
+    "pertama.": 1,
+    "pertempuran.": 1
+  },
+  "Aferika.": {
+    "Afrika.": 3
+  },
+  "Mediterranean": {
+    "Mediterania": 2
+  },
+  "vakasava": {
+    "menyingkirkan": 1
+  },
+  "ratou": {
+    "Italia": 1
+  },
+  "manua": {
+    "selam": 4
+  },
+  "buli": {
+    "tersusun": 3
+  },
+  "balavu.": {
+    "situ": 1,
+    "lama.": 1
+  },
+  "berabera": {
+    "lambat": 1
+  },
+  "vanalaka.": {
+    "terbatas.": 1
+  },
+  "laurai.": {
+    "terlihat.": 1,
+    "terpotong": 1,
+    "juga.": 1
+  },
+  "U-Boats.": {
+    "U-boat.": 1
+  },
+  "vakasakiti": {
+    "karya": 2,
+    "sastra": 2
+  },
+  "vakatasosoko": {
+    "navigasi": 1
+  },
+  "manua.": {
+    "selam.": 1
+  },
+  "manua,": {
+    "selam,": 1
+  },
+  "niutaki": {
+    "dipercaya": 1
+  },
+  "Io,": {
+    "\"Iya": 1
+  },
+  "Tutankhamun,": {
+    "Tutankhamun,": 1
+  },
+  "\"Tui": {
+    "\"Raja": 2
+  },
+  "tui": {
+    "raja": 3
+  },
+  "vou.": {
+    "modern.\"": 1,
+    "melakukannya.": 1
+  },
+  "lasa,": {
+    "Yang": 1
+  },
+  "makawa.": {
+    "kuno.": 1,
+    "lalu.": 1,
+    "reruntuhan.": 1,
+    "lawas.": 1,
+    "antik.": 1
+  },
+  "bulubulu": {
+    "makamnya": 1
+  },
+  "1922": {
+    "1922": 1
+  },
+  "Dina": {
+    "masyhur.": 1
+  },
+  "ibulubulu": {
+    "makam": 2
+  },
+  "tarai.": {
+    "terusik.": 1,
+    "benda": 1,
+    "padat.": 1
+  },
+  "buluti": {
+    "barang": 1,
+    "dikubur": 1
+  },
+  "Tutankhamun": {
+    "Tutankhamun": 3
+  },
+  "vinaka,": {
+    "diawetkan": 1,
+    "dihias,": 1
+  },
+  "liga": {
+    "artefak": 1,
+    "Tangan": 1
+  },
+  "mareqeti": {
+    "berharga": 1
+  },
+  "dredre.": {
+    "langka.": 1
+  },
+  "votovotoa": {
+    "Penemuan": 1,
+    "ruji": 1
+  },
+  "toalili": {
+    "Asiria": 1
+  },
+  "vakatotolo": {
+    "cepat,": 2
+  },
+  "sotia": {
+    "berlari": 1,
+    "mendahului": 1,
+    "tentara": 1
+  },
+  "toalili.": {
+    "lainnya.": 1
+  },
+  "imoto": {
+    "Anak": 1
+  },
+  "titi": {
+    "panah": 1
+  },
+  "veivakamatei": {
+    "busur": 1,
+    "fatal.": 1
+  },
+  "Siria": {
+    "Masehi,": 1
+  },
+  "cavalry": {
+    "bertempur": 2
+  },
+  "ose.": {
+    "menunggang": 1,
+    "kuda.": 1
+  },
+  "sebera": {
+    "pelana": 1
+  },
+  "daku": {
+    "punggung": 1
+  },
+  "saraga.": {
+    "alas.": 1
+  },
+  "Eda": {
+    "Kami": 3
+  },
+  "politiki,": {
+    "mengenal": 1
+  },
+  "vakadidike,": {
+    "politisi,": 1
+  },
+  "Kirisi.": {
+    "Yunani.": 1
+  },
+  "serekali": {
+    "Iliad": 1
+  },
+  "Odyssey.": {
+    "Odyssey.": 1
+  },
+  "voladrama": {
+    "Aristophanes": 1
+  },
+  "Aristophanes": {
+    "penulis": 1,
+    "drama": 1
+  },
+  "drama": {
+    "populer.": 1,
+    "Drama": 1
+  },
+  "volaitalanoa.": {
+    "terbesar.": 1
+  },
+  "kilai-levu": {
+    "Pythagoras,": 1
+  },
+  "erua": {
+    "teorinya": 1
+  },
+  "rivirivi.": {
+    "segitiga": 1,
+    "siku-siku.": 1
+  },
+  "vakatau": {
+    "tergantung": 4
+  },
+  "veiwekani": {
+    "dihitung": 1
+  },
+  "voleka.": {
+    "tidak.": 1
+  },
+  "340": {
+    "Estimasinya": 1,
+    "berkisar": 1
+  },
+  "vosa,": {
+    "500": 1
+  },
+  "Hindi": {
+    "Hindi": 1
+  },
+  "Urdu": {
+    "Urdu": 1
+  },
+  "duidui": {
+    "berbeda": 8
+  },
+  "volai;": {
+    "aksaranya": 1
+  },
+  "senituri,": {
+    "ke-15,": 1,
+    "wilayah": 1
+  },
+  "Estonia": {
+    "Estonia": 1,
+    "mendapat": 1
+  },
+  "vakavulici": {
+    "pengaruh": 1
+  },
+  "(monk)": {
+    "mendekatkan": 1
+  },
+  "Kalou": {
+    "asli,": 1
+  },
+  "Estonia.": {
+    "harfiah": 1,
+    "Estonia.": 1
+  },
+  "vakuri": {
+    "karakter": 1,
+    "\"Ã•/Ãµ\"": 1
+  },
+  "kerekita": {
+    "ditambahkan.": 1
+  },
+  "\"Õ/õ\".": {
+    "\"": 1
+  },
+  "kerei": {
+    "pinjaman": 1,
+    "Izin": 1
+  },
+  "itekitekivu": {
+    "mula": 1
+  },
+  "veivakararamataki.": {
+    "pencerahan.": 1
+  },
+  "itovo,": {
+    "bahasa,": 2
+  },
+  "navuci": {
+    "militer": 1
+  },
+  "vakatui.": {
+    "sekolah.": 1
+  },
+  "Charles": {
+    "Charles": 2
+  },
+  "univesiti": {
+    "Trinity": 1,
+    "mahasiswa": 1
+  },
+  "Trinity": {
+    "College,": 1
+  },
+  "College,": {
+    "Cambridge": 1
+  },
+  "vulica": {
+    "belajar": 5
+  },
+  "Anthropology": {
+    "Antropologi": 1
+  },
+  "Archaeology,": {
+    "Arkaeologi,": 1
+  },
+  "Tukutuku": {
+    "Sejarah,": 1
+  },
+  "Makawa,": {
+    "2:2": 1
+  },
+  "2:2": {
+    "(gelar": 1
+  },
+  "lailai).": {
+    "rendah).": 1
+  },
+  "isevu": {
+    "Charles": 1,
+    "merupakan": 1
+  },
+  "Vuvale": {
+    "Keluarga": 1,
+    "Kerajaan": 1
+  },
+  "Vakatui": {
+    "Inggris": 1
+  },
+  "ivolakoroi.": {
+    "diberikan": 1,
+    "gelar.": 1
+  },
+  "(vualiku": {
+    "(Trakia": 1,
+    "timur": 1
+  },
+  "Rumelia": {
+    "Rumelia": 1
+  },
+  "toba": {
+    "Semenanjung": 1
+  },
+  "Balkan)": {
+    "Balkan)": 1,
+    "mencakup": 1
+  },
+  "okata": {
+    "3%": 1,
+    "berwenang": 1
+  },
+  "3%": {
+    "negara": 1,
+    "tersebut.": 1
+  },
+  "maile)": {
+    "mil)": 2
+  },
+  "(500": {
+    "(500": 1
+  },
+  "vatuka": {
+    "kira-kira": 1
+  },
+  "rectangle.": {
+    "persegi": 1,
+    "panjang.": 1
+  },
+  "Turkey,": {
+    "Turki,": 1,
+    "danau,": 1
+  },
+  "drano,": {
+    "783.562": 1
+  },
+  "sikuwea": {
+    "persegi": 3
+  },
+  "sq": {
+    "mil": 3
+  },
+  "mi)": {
+    "persegi)": 2
+  },
+  "Kingdom.": {
+    "Raya": 1,
+    "digabungkan.": 1
+  },
+  "wasawasa:": {
+    "sisi:": 1
+  },
+  "Luxembourg": {
+    "Luksemburg": 3
+  },
+  "italanoa": {
+    "panjang,": 1,
+    "Kisah": 1,
+    "mengisahkannya": 1,
+    "cerita": 1
+  },
+  "tugalala": {
+    "merdeka": 1
+  },
+  "1839.": {
+    "1839.": 1
+  },
+  "Belgian": {
+    "Belgia": 2
+  },
+  "1830.": {
+    "1830-an.": 1
+  },
+  "1957": {
+    "1957,": 1
+  },
+  "Luxemburg": {
+    "Luksemburg": 1
+  },
+  "Drukgyal": {
+    "Drukgyal": 2
+  },
+  "Dzong": {
+    "Dzong": 1
+  },
+  "Buddha": {
+    "Buddha": 1
+  },
+  "District": {
+    "Distrik": 2
+  },
+  "Paro": {
+    "Paro": 1
+  },
+  "(ena": {
+    "(di": 1,
+    "Desa": 1
+  },
+  "Phondey).": {
+    "Phondey).": 1
+  },
+  "1649,": {
+    "1649,": 1
+  },
+  "Zhabdrung": {
+    "Zhabdrung": 2
+  },
+  "Ngawang": {
+    "Ngawang": 2
+  },
+  "Namgyel": {
+    "Namgyel": 1
+  },
+  "Tibetan-Mongol.": {
+    "Tibet-Mongolia.": 1
+  },
+  "1951,": {
+    "1951,": 1
+  },
+  "Dzong,": {
+    "contohnya": 1
+  },
+  "Namgyal.": {
+    "Namgyal.": 1
+  },
+  "bai,": {
+    "masih": 1
+  },
+  "saravanua": {
+    "turis": 4
+  },
+  "Bhutan.": {
+    "Bhutan.": 1
+  },
+  "senituri": {
+    "Selama": 2
+  },
+  "18": {
+    "abad": 2
+  },
+  "Cambodia": {
+    "Kamboja": 2,
+    "menginvasi": 2
+  },
+  "Thailand": {
+    "kuat,": 1
+  },
+  "Vietnam,": {
+    "Thailand": 1
+  },
+  "kabai": {
+    "Orang": 1,
+    "Thailand": 1,
+    "Vietnam": 1,
+    "juga": 1
+  },
+  "vakarusai": {
+    "1772": 1,
+    "Juli": 1
+  },
+  "Phen": {
+    "menghancurkan": 1
+  },
+  "Phnom": {
+    "Phnom": 2
+  },
+  "1772.": {
+    "Phen.": 1
+  },
+  "cavacava": {
+    "pengujung": 1
+  },
+  "Vietnam.": {
+    "Kamboja.": 1
+  },
+  "Tinikawalu": {
+    "Delapan": 1
+  },
+  "Venezuela": {
+    "warga": 2,
+    "Venezuela": 2
+  },
+  "vinaka.": {
+    "informal.": 1,
+    "menikmatinya.": 1
+  },
+  "sagavula": {
+    "Dari": 1
+  },
+  "teitei.": {
+    "pertanian.": 1
+  },
+  "galala,": {
+    "kemerdekaan,": 1
+  },
+  "loga": {
+    "Kebun": 2,
+    "tidur": 2
+  },
+  "vakarairai": {
+    "transformasi": 1
+  },
+  "Siti": {
+    "Kota": 2
+  },
+  "1981,": {
+    "Pada": 1
+  },
+  "Miss": {
+    "1981,": 1
+  },
+  "Joaquim,": {
+    "Vanda": 1
+  },
+  "seni": {
+    "Miss": 1
+  },
+  "okidi": {
+    "Joaquim,": 1
+  },
+  "vanua.": {
+    "lain.": 2
+  },
+  "ra,": {
+    "menyeberangi": 2
+  },
+  "lakova": {
+    "mendatangi": 1
+  },
+  "uca.": {
+    "hujan.": 1
+  },
+  "takosovi": {
+    "Mara": 1
+  },
+  "Mara,": {
+    "lagi,": 1,
+    "turun": 1
+  },
+  "Epereli.": {
+    "April.": 1
+  },
+  "Serengeti": {
+    "Serengeti": 1
+  },
+  "Rara": {
+    "Taman": 1
+  },
+  "Gade": {
+    "Serengeti,": 1
+  },
+  "Maroroi": {
+    "Ngorongoro,": 1,
+    "Maasai": 1,
+    "Mara": 1
+  },
+  "Ngorongoro": {
+    "Maswa": 1
+  },
+  "Maswa": {
+    "Game": 1,
+    "Reserve": 1
+  },
+  "Tanzania": {
+    "Cagar": 1
+  },
+  "Maasai": {
+    "Alam": 1
+  },
+  "vulici": {
+    "Belajar": 1,
+    "cerita,": 1,
+    "pengeditan": 1,
+    "satupun": 1
+  },
+  "gadreva": {
+    "memerlukan": 3
+  },
+  "kilaka": {
+    "pengetahuan": 3
+  },
+  "veivosaki": {
+    "audio": 1,
+    "kesulitan": 1,
+    "berkomunikasi.": 1
+  },
+  "vidio,": {
+    "video,": 2
+  },
+  "vakadodonutaki,": {
+    "penceritaan,": 1
+  },
+  "etc.)": {
+    "dll.)": 1
+  },
+  "droinitaki": {
+    "Desain": 2
+  },
+  "Veitalanoa": {
+    "interaktif": 2,
+    "menuntut": 2
+  },
+  "media": {
+    "berpikir": 1
+  },
+  "vakasama.": {
+    "non-linier.": 1
+  },
+  "sema": {
+    "terhubung": 3
+  },
+  "vakaibalebale": {
+    "akal": 1
+  },
+  "duadua.": {
+    "terpisah.": 1,
+    "ujung": 1,
+    "teratas,": 1
+  },
+  "zoom": {
+    "lensa": 5
+  },
+  "lense": {
+    "pembesar": 2
+  },
+  "lense.": {
+    "utama.": 1
+  },
+  "lens": {
+    "lensa": 2
+  },
+  "vakatautauvatataka": {
+    "dihasilkan": 1
+  },
+  "vadodorai.": {
+    "fokus": 1,
+    "tetap.": 1
+  },
+  "Edua": {
+    "Kerugian": 1
+  },
+  "lenses": {
+    "zum": 1,
+    "bukaan": 1
+  },
+  "aperture": {
+    "maksimum": 1,
+    "(kecepatan)": 1
+  },
+  "totolo)": {
+    "lensanya": 1
+  },
+  "era.": {
+    "lambat.": 1
+  },
+  "Qo": {
+    "Hal": 2
+  },
+  "sau": {
+    "murah": 3
+  },
+  "Dua": {
+    "Salah": 2,
+    "satu": 2
+  },
+  "veisataki": {
+    "mencoba": 1,
+    "mengonversi": 1
+  },
+  "iyaloyalo": {
+    "film": 1,
+    "Animasi": 1,
+    "penyajian": 1
+  },
+  "DVD": {
+    "format": 1
+  },
+  "ne": {
+    "DVD": 1
+  },
+  "vakasivia.": {
+    "overscan.": 1
+  },
+  "retioyaloyalo": {
+    "televisi": 1
+  },
+  "vakaloma": {
+    "menyenangkan": 1
+  },
+  "taki": {
+    "publik": 1
+  },
+  "vuna,": {
+    "Karena": 1,
+    "itulah,": 1
+  },
+  "musiki": {
+    "batas-batas": 1
+  },
+  "yasana.": {
+    "dipotong.": 1
+  },
+  "roboti": {
+    "menutupi": 1
+  },
+  "iubi": {
+    "layar.": 1,
+    "mewah,": 1
+  },
+  "retiolivaliva.": {
+    "Hal": 1
+  },
+  "dikevisivia.": {
+    "dinamakan": 1,
+    "overscan.": 1
+  },
+  "Dau": {
+    "Sayangnya,": 1
+  },
+  "DVD,": {
+    "DVD,": 1
+  },
+  "musuki": {
+    "tepinya": 1
+  },
+  "tutuna,": {
+    "terpotong,": 1
+  },
+  "vidio": {
+    "teks": 2
+  },
+  "vakatui": {
+    "Kastil": 1
+  },
+  "tauyavutaka": {
+    "mengilhami": 1
+  },
+  "Aca.": {
+    "ksatria": 1,
+    "Arthurian.": 1
+  },
+  "rawarawa": {
+    "mudah": 8
+  },
+  "valu": {
+    "suara": 2,
+    "perang": 2
+  },
+  "iboi": {
+    "aroma": 2
+  },
+  "dina?": {
+    "kenyataan?": 1,
+    "Pertama-tama,": 1
+  },
+  "vakacava?": {
+    "dibangun?": 2
+  },
+  "vakatui?": {
+    "Bagaimana": 1,
+    "kastil-kastil": 1
+  },
+  "Kirby": {
+    "Kastel": 1
+  },
+  "Muxloe": {
+    "Kirby": 1,
+    "Muxloe": 1
+  },
+  "viribaiti": {
+    "berbenteng": 1
+  },
+  "dina.": {
+    "sesungguhnya.": 1,
+    "resmi.": 1
+  },
+  "vakailoilo": {
+    "Jendela": 1
+  },
+  "lelevu": {
+    "besar": 4
+  },
+  "lalaga": {
+    "dindingnya": 1,
+    "Dinding": 1
+  },
+  "vakadede": {
+    "menahan": 1
+  },
+  "nakiti.": {
+    ".": 1,
+    "melelahkan.": 1
+  },
+  "1480,": {
+    "1480-an,": 1
+  },
+  "Hastings,": {
+    "Lord": 1
+  },
+  "vakanomodi": {
+    "Hastings,": 1
+  },
+  "tataqomaki": {
+    "pertahanan": 1
+  },
+  "butako": {
+    "perampok": 1
+  },
+  "wavoki.": {
+    "keliling.": 1,
+    "sana.": 1
+  },
+  "wasei": {
+    "Keseimbangan": 1
+  },
+  "kaukuwa": {
+    "kedaulatan": 1
+  },
+  "vakanananu": {
+    "Konsepnya": 1
+  },
+  "vakatautauvata.": {
+    "keseimbangan.": 1
+  },
+  "iveitaravi": {
+    "Penerus": 1
+  },
+  "Sipeni": {
+    "Spanyol": 5
+  },
+  "vakatautauvata": {
+    "keseimbangan": 1
+  },
+  "matalotu.": {
+    "agama.": 2
+  },
+  "soro": {
+    "Kuil": 2,
+    "dihancurkan": 2
+  },
+  "Artemis": {
+    "Efesus": 1
+  },
+  "July,": {
+    "SM": 1
+  },
+  "356": {
+    "aksi": 1
+  },
+  "B.K": {
+    "pembakaran": 1
+  },
+  "naki": {
+    "dilakukan": 1
+  },
+  "Herostratus.": {
+    "Herostratus.": 1
+  },
+  "kenai": {
+    "Menurut": 1
+  },
+  "tukutuku,": {
+    "kisah": 1
+  },
+  "nonai": {
+    "motivasinya": 1
+  },
+  "rogo": {
+    "ketenaran": 1,
+    "populer,": 1
+  },
+  "bibi.": {
+    "pun.": 1
+  },
+  "cudru": {
+    "Efesia": 1
+  },
+  "Ephesus": {
+    "gusar": 1
+  },
+  "kakua": {
+    "Herostratus": 1,
+    "Upayakan": 1
+  },
+  "Herostatus.": {
+    "dicatat.": 1
+  },
+  "Strabo": {
+    "nama": 2
+  },
+  "Alexander": {
+    "Alexander": 2
+  },
+  "Kaukauwa.": {
+    "Agung.": 1
+  },
+  "Alexander,": {
+    "Alexander,": 1
+  },
+  "bolea": {
+    "raja,": 1
+  },
+  "kerekere.": {
+    "penawarannya": 1,
+    "ditolak.": 1
+  },
+  "323": {
+    "323": 1
+  },
+  "B.K.": {
+    "BCE.": 1
+  },
+  "Mo": {
+    "Pastikan": 4
+  },
+  "tuga": {
+    "serileks": 1
+  },
+  "vakaveitalia": {
+    "jari": 1
+  },
+  "itaukuku": {
+    "gerakan": 1
+  },
+  "liga.": {
+    "ekstra.": 1,
+    "terbatas.": 1
+  },
+  "nomu": {
+    "Anda": 15
+  },
+  "oca.": {
+    "mengurangi": 1
+  },
+  "Nanuma": {
+    "lelah": 1
+  },
+  "soti": {
+    "Ingatlah": 1,
+    "perlu": 1,
+    "khawatir,": 1
+  },
+  "vakaukauwa": {
+    "tuts": 1,
+    "tekanan": 1
+  },
+  "ki,": {
+    "keras": 1
+  },
+  "rorogo": {
+    "ekstra": 1
+  },
+  "piano.": {
+    "piano.": 1
+  },
+  "accordion,": {
+    "akordion,": 1
+  },
+  "vakalevutaki": {
+    "menggunakan": 2
+  },
+  "rorogo,": {
+    "ububan": 1
+  },
+  "bellows.": {
+    "besar.": 1
+  },
+  "Mysticism": {
+    "Mistisisme": 2
+  },
+  "veitokani": {
+    "kerukunan,": 1
+  },
+  "voleka,": {
+    "beridentitas,": 1
+  },
+  "vakatakila": {
+    "kesadaran": 2
+  },
+  "dina,": {
+    "tertinggi,": 1,
+    "kebenaran": 1,
+    "sekolahan": 1
+  },
+  "kalou,": {
+    "spiritual,": 1
+  },
+  "yalo,": {
+    "keilahian,": 1
+  },
+  "Kalou.": {
+    "Tuhan.": 1
+  },
+  "vakadodo,": {
+    "langsung,": 1,
+    "intuisi,": 1
+  },
+  "vakatakila,": {
+    "wawasan": 1
+  },
+  "vakalou/na": {
+    "ketuhanan/dewa": 1
+  },
+  "veikalou.": {
+    "dewa-dewi.": 1
+  },
+  "Ira": {
+    "Pengikut": 1
+  },
+  "vakamuria": {
+    "mengikuti": 1,
+    "cara": 1
+  },
+  "vakainaki": {
+    "praktik": 1
+  },
+  "bucini": {
+    "mengembangkan": 1
+  },
+  "lakocuruma.": {
+    "tersebut.": 1
+  },
+  "vakabibi": {
+    "terutama": 5
+  },
+  "mamarau,": {
+    "damai,": 1,
+    "bahagia,": 1
+  },
+  "reki": {
+    "menggembirakan.": 1
+  },
+  "Sikhism": {
+    "Sikhisme": 1
+  },
+  "yasayasa": {
+    "wilayah": 3
+  },
+  "Punjab": {
+    "Punjab": 1
+  },
+  "sentueri": {
+    "perpecahan": 1,
+    "sektarian": 1
+  },
+  "Hindu": {
+    "tradisi": 2
+  },
+  "Sikhs": {
+    "Sikh": 2
+  },
+  "Hindu.": {
+    "Hindu.": 1
+  },
+  "vakabauta.": {
+    "Sikh.\"": 1
+  },
+  "Guru": {
+    "Guru": 1
+  },
+  "(1469–1539).": {
+    "Nanak": 1,
+    "(1469â€“1539).": 1
+  },
+  "veitaravi": {
+    "Diikuti": 1
+  },
+  "guru.": {
+    "guru.": 1
+  },
+  "yalataka": {
+    "1956,": 1
+  },
+  "Krushchev’s": {
+    "janji": 1
+  },
+  "vakatovolei": {
+    "diuji": 1
+  },
+  "Poland,": {
+    "kerusuhan": 1
+  },
+  "sau,": {
+    "upah,": 1
+  },
+  "Communism.": {
+    "Komunisme.": 1
+  },
+  "ga,": {
+    "akhirnya,": 1,
+    "Krushchev": 1
+  },
+  "Krushchev": {
+    "mengembalikan": 1,
+    "keadaan,": 1
+  },
+  "vakamalumalumu": {
+    "menyetujui": 1
+  },
+  "iyau": {
+    "Wladyslaw": 1,
+    "Gomulka": 1,
+    "Harta": 1,
+    "karun": 1
+  },
+  "Wladyslaw": {
+    "Perdana": 1,
+    "Menteri": 1
+  },
+  "Gomulka": {
+    "baru.": 1
+  },
+  "veivakararamataki": {
+    "Peradaban": 4
+  },
+  "Tokalau-Vualiku": {
+    "Afghanistan": 1
+  },
+  "Afghanistan.": {
+    "laut.": 1
+  },
+  "tete": {
+    "berkembang": 2
+  },
+  "beseni": {
+    "cekungan": 2
+  },
+  "River,": {
+    "Indus,": 1
+  },
+  "yacana.": {
+    "namanya.": 1
+  },
+  "daunivuku": {
+    "berspekulasi": 1
+  },
+  "Veivakararamataki": {
+    "Harappa,": 1
+  },
+  "Harappan": {
+    "Harappa,": 1
+  },
+  "1920s.": {
+    "1920-an.": 1
+  },
+  "vakaivalu": {
+    "Sifat": 1,
+    "militeristik": 1
+  },
+  "vakaroma": {
+    "Romawi": 1,
+    "ikut": 1
+  },
+  "vakatorocaketaki": {
+    "perkembangan": 2
+  },
+  "itabana": {
+    "kemajuan": 1
+  },
+  "vakacurumi": {
+    "Dokter-dokter": 1,
+    "direkrut": 1,
+    "reguler,": 1
+  },
+  "Emperor": {
+    "Kaisar": 1,
+    "Agustus": 1
+  },
+  "Roman": {
+    "Korps": 1,
+    "Medis": 1
+  },
+  "Medical": {
+    "Romawi": 1
+  },
+  "wainimate": {
+    "obat": 1,
+    "Minuman": 1,
+    "ilegal": 1
+  },
+  "veivakamoceri": {
+    "penenang": 1
+  },
+  "morphine": {
+    "morfin": 1
+  },
+  "gaga.": {
+    "herban.": 1
+  },
+  "isogo": {
+    "membendung": 1
+  },
+  "Roma": {
+    "kemajuan": 1
+  },
+  "daidai.": {
+    "kenal": 1,
+    "sekarang.": 1
+  },
+  "Pureland": {
+    "Origami": 1,
+    "murni": 1
+  },
+  "origami": {
+    "origami": 1
+  },
+  "ilobi": {
+    "lipatan": 4
+  },
+  "ga.": {
+    "lugas.": 1,
+    "sekalipun.": 1,
+    "mati.": 1
+  },
+  "vakamacalata": {
+    "Origami": 1
+  },
+  "Smith": {
+    "dikembangkan": 1
+  },
+  "1970": {
+    "Smith": 1
+  },
+  "vukei": {
+    "membantu": 3
+  },
+  "lobilobi": {
+    "pelipat": 1
+  },
+  "qaqalo": {
+    "motorik": 1
+  },
+  "veivakaduiduitaki": {
+    "stereotip": 3
+  },
+  "valavala": {
+    "ras": 1
+  },
+  "nodrai": {
+    "memengaruhi": 1
+  },
+  "tovo.": {
+    "perilaku.": 1
+  },
+  "Taura": {
+    "Misalnya,": 1
+  },
+  "MySpace": {
+    "MySpace": 1
+  },
+  "katolu": {
+    "terpopuler": 1
+  },
+  "kovuta": {
+    "ketiga": 3
+  },
+  "kauwaitaki": {
+    "menarik": 1,
+    "banyak": 1
+  },
+  "sara,": {
+    "perhatian,": 1
+  },
+  "vuli.": {
+    "ranah": 1,
+    "pendidikan.": 1,
+    "TK.": 1
+  },
+  "itaba,": {
+    "blog,": 1
+  },
+  "vakaraitaki.": {
+    "fitur": 1
+  },
+  "papa": {
+    "ketik": 1
+  },
+  "wilivola.": {
+    "ejaan.": 1
+  },
+  "moici": {
+    "Itu": 1,
+    "disesuaikan": 1
+  },
+  "wiliki": {
+    "dibaca": 1
+  },
+  "sobu": {
+    "warna": 1,
+    "kapal,": 1
+  },
+  "roka": {
+    "warna": 1,
+    "sesuai": 1,
+    "keinginan.": 1
+  },
+  "Attention": {
+    "\"Attention": 1
+  },
+  "Deficit": {
+    "Deficit": 1
+  },
+  "Disorder": {
+    "Disorder": 1
+  },
+  "\"e": {
+    "\"adalah": 1
+  },
+  ",": {
+    "neurologis": 1
+  },
+  "vakatakilakila": {
+    "klasik": 1,
+    "mendefinisikan": 1
+  },
+  "vakatulewa,": {
+    "impulsif,": 1
+  },
+  "yalomu,": {
+    "hiperaktif": 1
+  },
+  "igu.": {
+    "kelebihan": 1,
+    "energi\".\"": 1
+  },
+  "vakaleqa": {
+    "\"Ini": 1,
+    "bukanlah": 1,
+    "ketidakmampuan": 1,
+    "belajar,": 1,
+    "gangguan": 1,
+    "belajar;": 1,
+    "\"memengaruhi": 1,
+    "terus": 1,
+    "memperburuk": 1
+  },
+  "ADD": {
+    "ADD": 2
+  },
+  "toqai.": {
+    "baca.": 1
+  },
+  "mona": {
+    "otak": 4
+  },
+  "yavalati": {
+    "dirangsang": 1
+  },
+  "veimaliwai": {
+    "hubungan": 1,
+    "tengah-tengah": 1,
+    "Samudra": 1
+  },
+  "itagede": {
+    "kedewasaannya": 1
+  },
+  "rawati.": {
+    "berubah.": 1,
+    "diperoleh.": 1
+  },
+  "nanuma,": {
+    "ingatan": 1,
+    "individu,": 1
+  },
+  "sasagataki": {
+    "pendekatan": 1,
+    "pembelajaran": 1
+  },
+  "veiwaseiyaki": {
+    "penyebaran": 1,
+    "ilmu": 1
+  },
+  "kilaka.": {
+    "pengetahuan.": 1
+  },
+  "manumanu,": {
+    "primata": 1,
+    "hominid": 1
+  },
+  "hominids": {
+    "memakai": 1
+  },
+  "ligadra": {
+    "menahan": 2,
+    "beban": 2
+  },
+  "lilili": {
+    "bergelantungan": 1
+  },
+  "vunikau.": {
+    "pohon.": 1
+  },
+  "ligana": {
+    "Tangan": 1
+  },
+  "vakasamata": {
+    "penggunaan": 1
+  },
+  "qaqalo.": {
+    "lurus.": 1
+  },
+  "vakaimatailalai": {
+    "penggerak.": 1
+  },
+  "oca,": {
+    "mimpi": 1
+  },
+  "vuna": {
+    "Penyebab": 1
+  },
+  "veitadra": {
+    "menambah": 1,
+    "durasi": 1
+  },
+  "mona.": {
+    "keadaan": 1,
+    "REM.": 1
+  },
+  "veibogi": {
+    "malam,": 1
+  },
+  "voli,": {
+    "tertidur": 1
+  },
+  "yago": {
+    "tubuh": 4
+  },
+  "oca": {
+    "memulihkan": 1
+  },
+  "vakaoca": {
+    "sama": 1,
+    "melelahkannya": 1
+  },
+  "yadrayadra": {
+    "bangun": 1
+  },
+  "ya": {
+    "puluh": 1
+  },
+  "retioyaloyalo.": {
+    "menonton": 1,
+    "TV.": 1
+  },
+  "tadrai": {
+    "bermimpi": 1,
+    "sadar": 1
+  },
+  "veibogi.": {
+    "malam.": 1
+  },
+  "Capuzzo": {
+    "Capuzzo": 1
+  },
+  "Libia.": {
+    "Libya.": 1
+  },
+  "veiliumuri": {
+    "penyergapan": 1
+  },
+  "Bardia,": {
+    "Bardia,": 1
+  },
+  "toboki": {
+    "menangkap": 1,
+    "Kepala": 1
+  },
+  "Komada": {
+    "Darat": 1,
+    "Kesepuluh": 1
+  },
+  "Lastucci.": {
+    "Lastucci.": 1
+  },
+  "June,": {
+    "Juni,": 1
+  },
+  "Marshal": {
+    "Marsekal": 1
+  },
+  "Italo": {
+    "Italo": 1
+  },
+  "Balbo,": {
+    "Balbo,": 1
+  },
+  "Kovana-Liuliu": {
+    "Gubernur": 1
+  },
+  "yalataki": {
+    "Libia": 1
+  },
+  "vakasakasaka": {
+    "Mussolini,": 1
+  },
+  "Tobruk.": {
+    "Tobruk.": 1
+  },
+  "fencing": {
+    "Anggar": 1
+  },
+  "qitori": {
+    "dipertandingkan": 1
+  },
+  "isotasota": {
+    "profesional": 1
+  },
+  "Olympic.": {
+    "Olimpiade.": 1
+  },
+  "rua,": {
+    "duel,": 1
+  },
+  "valuta": {
+    "pemain": 2
+  },
+  "ikarua.": {
+    "lain.": 1
+  },
+  "wakoca": {
+    "menggunakan": 1,
+    "pemukul": 1
+  },
+  "ikaukamea.": {
+    "bola": 1,
+    "lubang.": 1
+  },
+  "qara,": {
+    "lubang": 2
+  },
+  "lai": {
+    "tempat": 3
+  },
+  "iotioti.": {
+    "lubang": 1,
+    "ke-18.": 1
+  },
+  "samuta": {
+    "pukulan": 1
+  },
+  "veico": {
+    "rumput,": 1,
+    "rumput": 1
+  },
+  "vakalekaleka": {
+    "lubang": 1,
+    "dipotong": 1
+  },
+  "green": {
+    "pendek": 1
+  },
+  "drokadroka.": {
+    "dinamakan": 1,
+    "hijau.": 1
+  },
+  "Mera": {
+    "orang": 1,
+    "iasosiasikan": 1
+  },
+  "vakagade.": {
+    "travelling:": 1,
+    "Wisata": 1,
+    "rekreasi.": 1
+  },
+  "veisiga": {
+    "keseharian": 1
+  },
+  "marau.": {
+    "bersenang-senang.": 1
+  },
+  "goleva": {
+    "Pantai,": 1,
+    "hburan,": 1
+  },
+  "vakagade": {
+    "berkemah": 1
+  },
+  "keba.": {
+    "berekreasi.": 1,
+    "berkemah.": 1,
+    "La": 1,
+    "makanan.": 1
+  },
+  "Ke": {
+    "Jika": 7
+  },
+  "inaki": {
+    "tujuan": 3
+  },
+  "gade": {
+    "wisatawan": 5,
+    "perjalanan": 5
+  },
+  "vakavanua": {
+    "sejarah": 2
+  },
+  "keina": {
+    "budayanya,": 1
+  },
+  "vakavanua.": {
+    "budaya.": 1,
+    "damai.": 1,
+    "bertambah": 1,
+    "drastis.": 1
+  },
+  "butuvanua": {
+    "Kolonis": 1
+  },
+  "raiwa": {
+    "meminta": 1,
+    "bala": 1
+  },
+  "qori.": {
+    "bantuan.": 1,
+    "dulu.": 1,
+    "lokalnya.": 1,
+    "diperlukan.": 1
+  },
+  "iyatu": {
+    "resimen": 1
+  },
+  "Stark": {
+    "Stark": 3
+  },
+  "James": {
+    "James": 2
+  },
+  "Reed": {
+    "Reed": 1
+  },
+  "(erau": {
+    "(keduanya": 1,
+    "nanti": 1
+  },
+  "ruarua).": {
+    "jenderal).": 1
+  },
+  "tagana": {
+    "Anak": 1,
+    "buah": 1
+  },
+  "bai": {
+    "pagar": 3
+  },
+  "butuvanua.": {
+    "posisi": 1,
+    "Kolonis.": 1
+  },
+  "mati": {
+    "celah": 1
+  },
+  "tekitaka": {
+    "Gridley": 1
+  },
+  "Gridley": {
+    "bertaruh": 1
+  },
+  "vakarota": {
+    "memerintahkan": 1
+  },
+  "viribai": {
+    "peluncuran": 1
+  },
+  "vanua,": {
+    "terkoordinasi": 1,
+    "ranjang": 1,
+    "staycation,": 1
+  },
+  "Jenerali": {
+    "Jenderal": 2
+  },
+  "Cadwalder": {
+    "Cadwalder": 1
+  },
+  "vakacalai": {
+    "melancarkan": 1,
+    "pengalihan": 1
+  },
+  "Bordentown,": {
+    "Bordentown,": 1
+  },
+  "veivuke.": {
+    "bala": 1,
+    "bantuan.": 1,
+    "seseorang.": 1
+  },
+  "Ewing": {
+    "Ewing": 1
+  },
+  "700": {
+    "700": 1
+  },
+  "Trenton": {
+    "Trenton": 1
+  },
+  "wavu": {
+    "jembatan": 2
+  },
+  "Assunpink": {
+    "Creek": 1
+  },
+  "meca": {
+    "musuh": 1
+  },
+  "rawa.": {
+    "diri.": 1,
+    "sempit.": 1,
+    "mapan.": 1
+  },
+  "matatimi": {
+    "penyerang": 1
+  },
+  "gutuwa,": {
+    "lari": 2
+  },
+  "tolotolo.": {
+    "kebutuhan": 1,
+    "mutlak.": 1
+  },
+  "macala": {
+    "Meskipun": 3
+  },
+  "vosota": {
+    "tahan": 1
+  },
+  "kece,": {
+    "bahaya.": 1
+  },
+  "vakaukaua,": {
+    "persiapan": 1
+  },
+  "tabada.": {
+    "lari.": 1
+  },
+  "bulabula": {
+    "Praktik": 1,
+    "nutrisi": 1,
+    "seharian": 1
+  },
+  "yago,": {
+    "elite,": 1
+  },
+  "dauveitaucici": {
+    "muda": 1
+  },
+  "yagodra.": {
+    "kenikmatan": 1,
+    "olahraga.": 1
+  },
+  "veitaucici": {
+    "Lari": 2
+  },
+  "basika": {
+    "ada": 3
+  },
+  "iyaya": {
+    "peralatan": 2
+  },
+  "vakaitavi.": {
+    "serta.": 1,
+    "berdampak": 1,
+    "performa.": 1
+  },
+  "voli": {
+    "dibeli": 1,
+    "sesuai": 1,
+    "liburan": 1
+  },
+  "gadrevi,": {
+    "kebutuhannya,": 1
+  },
+  ".": {
+    "manfaat": 1,
+    "nyata.": 1
+  },
+  "kasi,": {
+    "penyusun": 1,
+    "fundamental": 1,
+    "gas,": 1,
+    "zat": 1
+  },
+  "tara.": {
+    "materi.": 1
+  },
+  "cowiri": {
+    "mengorbit": 2
+  },
+  "iYaloyalo": {
+    "Gambar": 1
+  },
+  "1.1.": {
+    "1.1.": 1
+  },
+  "nucleus": {
+    "partikel": 1
+  },
+  "neutrons": {
+    "neutron": 2
+  },
+  "protons.": {
+    "proton.": 1
+  },
+  "protons": {
+    "Proton": 1
+  },
+  "igu": {
+    "mempunyai": 2,
+    "muatan": 2
+  },
+  "positive": {
+    "positif,": 1
+  },
+  "kaukaua.": {
+    "mempunyai": 1,
+    "muatan.": 1
+  },
+  "electrons": {
+    "Elektron": 1
+  },
+  "negative.": {
+    "negatif.": 1
+  },
+  "dikevi": {
+    "memeriksa": 1,
+    "dugaan": 1
+  },
+  "mavoa,": {
+    "korban,": 1
+  },
+  "veivakaleqai.": {
+    "keamanan": 1,
+    "Anda.": 1,
+    "ancaman.": 1
+  },
+  "volekati": {
+    "mendekatinya,": 1
+  },
+  "leqataki.": {
+    "bahaya": 1,
+    "otomatis.": 1
+  },
+  "ituvaki.": {
+    "semakin": 1,
+    "buruk.": 1,
+    "mobil.": 1,
+    "tertentu.": 1
+  },
+  "vakadidke": {
+    "Temuan": 1,
+    "penelitian": 1
+  },
+  "lomabibi,": {
+    "ketakutan,": 1
+  },
+  "taqaya,": {
+    "asumsi": 1
+  },
+  "mosi": {
+    "nyeri": 4
+  },
+  "suitu": {
+    "punggung": 1
+  },
+  "dakudra.": {
+    "bawah.": 1
+  },
+  "veimacawa": {
+    "bencana,": 1
+  },
+  "PA": {
+    "depresi": 1
+  },
+  "rai,": {
+    "syarat": 1
+  },
+  "lomabibi": {
+    "PA": 1,
+    "terstruktur": 1
+  },
+  "taqaya.": {
+    "mingguan": 1,
+    "reguler.": 1
+  },
+  "veitosoyaki.": {
+    "normal.": 1
+  },
+  "noda": {
+    "kemampuan": 1,
+    "melihat": 1
+  },
+  "masela": {
+    "organ": 1,
+    "sensorik": 1
+  },
+  "mata.": {
+    "mata.": 1
+  },
+  "matada,": {
+    "berdasarkan": 2
+  },
+  "n": {
+    "organismenya": 1,
+    "sendiri.": 1
+  },
+  "vinakati.": {
+    "optimal.": 1,
+    "dibutuhkan.": 1
+  },
+  "okati": {
+    "termasuk": 3
+  },
+  "tautauvata": {
+    "Ketika": 1,
+    "\"Dengan": 1,
+    "zona": 1
+  },
+  "kabula": {
+    "sifat": 2
+  },
+  "ibulicaki": {
+    "fenotipik": 1,
+    "tertentu,": 1
+  },
+  "monomorphic.": {
+    "monomorfik.": 1
+  },
+  "iwasewase,": {
+    "tertentu,": 1
+  },
+  "polymorphic.": {
+    "termasuk": 1,
+    "polimorfik.": 1
+  },
+  "maji": {
+    "semut": 2,
+    "berbaris": 2
+  },
+  "bure": {
+    "bersarang": 1,
+    "koloni": 1
+  },
+  "kadi.": {
+    "fase.": 1
+  },
+  "Nira": {
+    "Pada": 1,
+    "Ketika": 1
+  },
+  "wavoki,": {
+    "nomaden,": 1
+  },
+  "kadi": {
+    "berhenti": 1
+  },
+  "keba": {
+    "singgah": 1,
+    "tepian": 1,
+    "Grand": 1,
+    "Mendirikan": 1,
+    "tenda": 1,
+    "berkemah,": 1,
+    "kemah": 1
+  },
+  "vakalekaleka,": {
+    "sarang": 1
+  },
+  "veitokiyaki": {
+    "gerakan": 1
+  },
+  "sela?": {
+    "\"Apa": 1,
+    "sel?": 1
+  },
+  "sela": {
+    "Sel": 4
+  },
+  "lailai”,": {
+    "\"ruangan": 1
+  },
+  "oki.": {
+    "gabus.\"": 1,
+    "mikroskop.": 1
+  },
+  "kabula,": {
+    "makhluk": 1,
+    "hidup,": 1
+  },
+  "sela.": {
+    "sel.": 1
+  },
+  "bula,": {
+    "mendasar.": 1
+  },
+  "“veika": {
+    "dijuluki": 1
+  },
+  "bula”.": {
+    "penyusun": 1,
+    "kehidupan\".\"": 1
+  },
+  "veiraurau": {
+    "Sistem": 1
+  },
+  "iTuvatuva": {
+    "Saraf": 1,
+    "mempertahankan": 1
+  },
+  "vakalatilati.": {
+    "terganggu.": 1
+  },
+  "covulaca": {
+    "tornado": 2
+  },
+  "cavuraka": {
+    "mencabut": 1
+  },
+  "dede.": {
+    "jam.": 1
+  },
+  "480": {
+    "480": 1
+  },
+  "(133": {
+    "m/dtk;": 1,
+    "300": 1
+  },
+  "mph).": {
+    "jam).": 1
+  },
+  "telescope": {
+    "asli": 1,
+    "Teleskop": 1,
+    "kombinasi": 1
+  },
+  "ika16": {
+    "abad": 2
+  },
+  "nii": {
+    "ke-16.": 1
+  },
+  "vakayawa.": {
+    "besar.": 1
+  },
+  "yaga.": {
+    "bertindak": 1,
+    "egois.": 1
+  },
+  "nuitaki": {
+    "Mudah-mudahan,": 1
+  },
+  "vata.": {
+    "lain.": 1,
+    "membantu.": 1
+  },
+  "“yasana”.": {
+    "kilometer.\"": 1
+  },
+  "De": {
+    "Mungkin": 1
+  },
+  "siga,": {
+    "cicit": 1
+  },
+  "alien": {
+    "nenek": 1
+  },
+  "vakasamataki": {
+    "moyang": 1,
+    "zaman": 1,
+    "Walau": 1
+  },
+  "tubudra?": {
+    "purba": 1,
+    "mereka?": 1
+  },
+  "manumanu.": {
+    "sel.": 1
+  },
+  "ketedra": {
+    "mencernanya.": 1
+  },
+  "toso.": {
+    "bergerak.": 1
+  },
+  "(e": {
+    "(tetapi": 1
+  },
+  "kece;": {
+    "memilikinya;": 1
+  },
+  "salato": {
+    "ubur-ubur,": 1
+  },
+  "waitui,": {
+    "contoh,": 1,
+    "Semenanjung,": 1
+  },
+  "mona)": {
+    "otak).": 1
+  },
+  "an": {
+    "ditemukan": 1
+  },
+  "kelikeli,": {
+    "menggali": 1,
+    "tanah,": 1
+  },
+  "macawa.": {
+    "angkasa.": 1
+  },
+  "cella": {
+    "latin": 1
+  },
+  "rumu": {
+    "ruangan": 1,
+    "tawaran": 1
+  },
+  "iloilo": {
+    "mikroskop,": 1
+  },
+  "sikuea": {
+    "kumpulan": 1,
+    "persegi": 1
+  },
+  "lalai.": {
+    "bola-bola": 1,
+    "kecil.": 1
+  },
+  "Robert": {
+    "Robert": 1
+  },
+  "Hooke,": {
+    "Hooke,": 1,
+    "biologis": 1
+  },
+  "Igiladi,": {
+    "kotak": 1
+  },
+  "rumu.": {
+    "kamar.": 1,
+    "kamar": 1,
+    "pribadi.": 1
+  },
+  "ibulibuliu": {
+    "senyawa": 1
+  },
+  "tale.": {
+    "lainnya.": 3
+  },
+  "kasi": {
+    "Nitrogen": 1
+  },
+  "nitrogen": {
+    "gas": 1,
+    "cairnya": 1,
+    "padat,": 1
+  },
+  "nitrogen.": {
+    "nitrogen": 1
+  },
+  "mamada": {
+    "cair.": 1
+  },
+  "molecules": {
+    "molekulnya": 1
+  },
+  "ivakaraitaki.": {
+    "Air": 2
+  },
+  "atomi": {
+    "atom": 3
+  },
+  "cagi.": {
+    "oksigen.": 1
+  },
+  "irairai,": {
+    "bentuk": 2
+  },
+  "keda,": {
+    "hal": 1,
+    "lakukan,": 1
+  },
+  "lotu,": {
+    "dipelajari": 1
+  },
+  "saenitisi": {
+    "sarjana": 1,
+    "agama,": 1
+  },
+  "gauna.": {
+    "tahun.": 1,
+    "(panjang)": 1,
+    "kejadian.": 1
+  },
+  "vakatauvatana": {
+    "merupakan": 1
+  },
+  "vakaraica": {
+    "caranya": 1,
+    "amati": 1,
+    "kejadian-kejadian": 1
+  },
+  "vakadua": {
+    "lagi": 2
+  },
+  "veisau.": {
+    "teratur.": 1
+  },
+  "kompiuta": {
+    "komputer": 3
+  },
+  "iyaloyalo.": {
+    "video.": 1,
+    "film.": 1
+  },
+  "kompiuta,": {
+    "Jenis": 1,
+    "animasi": 1
+  },
+  "tivi": {
+    "televisi": 2
+  },
+  "katoni": {
+    "Musik": 1
+  },
+  "ivakatagi": {
+    "direkam": 1,
+    "menggunakan": 1
+  },
+  "wakia": {
+    "memproses": 1
+  },
+  "rorogo.": {
+    "mencampur": 1,
+    "suara.": 1
+  },
+  "senitiuri": {
+    "abad": 4
+  },
+  "nira": {
+    "puluh,": 1
+  },
+  "Maori,": {
+    "Maori,": 1
+  },
+  "vakasasataka": {
+    "berburu": 1
+  },
+  "moa.": {
+    "moas.": 1
+  },
+  "qoi": {
+    "mengawali": 1,
+    "gagasan": 1
+  },
+  "Maori": {
+    "Maori": 3,
+    "bermigrasi": 3,
+    "Selandia": 3
+  },
+  "Polinisia": {
+    "Polinesia": 1
+  },
+  "Morimori": {
+    "Moriori,": 2
+  },
+  "teivaka": {
+    "membentuk": 1,
+    "masyarakat": 1,
+    "agraris.": 1
+  },
+  "ivakadinadina": {
+    "bukti": 2
+  },
+  "Chatham": {
+    "Chatham,": 2
+  },
+  "yavusa": {
+    "suku": 1,
+    "kepulauan": 1
+  },
+  "Niusiladi.": {
+    "Baru.": 1,
+    "Pasifik": 1,
+    "Selatan.": 1
+  },
+  "maliwa,": {
+    "pertempuran": 1
+  },
+  "qeavu": {
+    "akhirnya,": 1
+  },
+  "Morimori.": {
+    "Moriori": 1,
+    "musnah": 1
+  },
+  "sotava.": {
+    "kegagalan.": 1
+  },
+  "vakarogoci": {
+    "mendengarkan": 1
+  },
+  "wasea": {
+    "berbagi": 3
+  },
+  "isoqosoqo.": {
+    "buruk.": 1,
+    "organisasi.": 1,
+    "dalam.": 1
+  },
+  "lotu.": {
+    "gereja": 1,
+    "lokal.": 1
+  },
+  "doudou": {
+    "ketakutan": 1
+  },
+  "veiuqeti": {
+    "perubahan,": 1
+  },
+  "vakaduavata": {
+    "menggabungkan": 1
+  },
+  "wali.": {
+    "solusi.": 1
+  },
+  "vakatabakiduataki": {
+    "Fokus": 1
+  },
+  "totolo,": {
+    "kecepatan,": 1
+  },
+  "dodonu,": {
+    "logika,": 1
+  },
+  "vakatakilakilataki": {
+    "identifikasi": 1
+  },
+  "tukutuku": {
+    "fakta,": 1
+  },
+  "waliwali": {
+    "penerapan": 1
+  },
+  "tukutuku.": {
+    "informasi.": 1
+  },
+  "vakasamataka": {
+    "memikirkan": 1,
+    "mempertimbangkan": 1
+  },
+  "cala.": {
+    "salah.": 1
+  },
+  "taumada.": {
+    "standar": 1,
+    "tertentu.": 1
+  },
+  "Ko": {
+    "Orang": 1
+  },
+  "kilamatata": {
+    "logis,": 1
+  },
+  "veikanukanu": {
+    "menghafal": 1
+  },
+  "valavala,": {
+    "pola,": 1
+  },
+  "cakacakataka": {
+    "mengerjakan": 1
+  },
+  "vakadidike.": {
+    "ilmiah.": 1
+  },
+  "nanuma": {
+    "pikiran": 2,
+    "manusia": 2
+  },
+  "dua,": {
+    "rasakan,": 1
+  },
+  "vinakata,": {
+    "maksudkan,": 1,
+    "yakini,": 1
+  },
+  "vakabauta,": {
+    "ketahui": 1
+  },
+  "gadreva.": {
+    "inginkan.": 1
+  },
+  "vakaycora": {
+    "sangatlah": 1
+  },
+  "walia": {
+    "ambiguitas": 1
+  },
+  "vakayacori.": {
+    "fisik.": 1
+  },
+  "ivakaraitaki,": {
+    "Misalnya,": 1
+  },
+  "voraka": {
+    "kaca": 1,
+    "jendela": 1
+  },
+  "motoka,": {
+    "mobil,": 2
+  },
+  "siqema": {
+    "mencoba": 1,
+    "mencuri": 1
+  },
+  "butako.": {
+    "mobil": 1,
+    "orang.": 1
+  },
+  "ki.": {
+    "coba": 1,
+    "masuki.": 1
+  },
+  "MRI": {
+    "MRI": 2
+  },
+  "(cakacaka": {
+    "Felix": 1
+  },
+  "Harvard)": {
+    "(dari": 1
+  },
+  "vakacaca.": {
+    "Harvard).": 1
+  },
+  "yavala": {
+    "resonansi": 2
+  },
+  "sikinala": {
+    "radio": 2
+  },
+  "1970,": {
+    "1970,": 1
+  },
+  "vuniwai,": {
+    "dokter": 1
+  },
+  "Damadian,": {
+    "penelitian,": 1
+  },
+  "makeneta": {
+    "pencitraan": 1
+  },
+  "vakavuniwai.": {
+    "diagnosis": 1,
+    "medis.": 1
+  },
+  "vakaycori": {
+    "diterbitkan": 1
+  },
+  "MRI.": {
+    "bidang": 1,
+    "MRI.": 1
+  },
+  "1977": {
+    "\"Pada": 1
+  },
+  "Vuniwai": {
+    "Dr.": 1,
+    "Damadian": 1
+  },
+  "Damian": {
+    "menyelesaikan": 1,
+    "konstruksi": 1,
+    "pemindai": 1
+  },
+  "“yago": {
+    "pertama,": 1
+  },
+  "taucoko,”": {
+    "dinamainya": 1
+  },
+  "“Indomitable”.": {
+    "\"Indomitable\".": 1,
+    "\"": 1
+  },
+  "monlivaliva": {
+    "asinkron": 1,
+    "mendorong": 1
+  },
+  "nanuma.": {
+    "lain.": 1
+  },
+  "vakarautaki.": {
+    "instruksional.": 1
+  },
+  "Kena": {
+    "Sebagai": 1,
+    "Di": 1
+  },
+  "(Bremer,": {
+    "fleksibel.": 1,
+    "(Bremer,": 1
+  },
+  "1998)": {
+    "1998)": 1
+  },
+  "Internet": {
+    "Penggunaan": 1,
+    "internet": 1,
+    "World": 1
+  },
+  "World": {
+    "Dunia": 2
+  },
+  "Wide": {
+    "Web": 1
+  },
+  "Web": {
+    "memungkinkan": 1
+  },
+  "vutuniyau": {
+    "informasi": 1
+  },
+  "veiraimata": {
+    "muka": 1
+  },
+  "cakava": {
+    "absolut.": 1,
+    "pembelajaran": 1,
+    "memuaskan": 1,
+    "menawarkan": 1
+  },
+  "vinakata.": {
+    "terpaku": 1
+  },
+  "veivakavulici.": {
+    "belajar.": 1
+  },
+  "vulica.": {
+    "disajikan.": 1
+  },
+  "qo.": {
+    "ini.\"": 1,
+    "danau.": 1,
+    "negara.": 1
+  },
+  "Peru": {
+    "Peru": 1
+  },
+  "vakavouta": {
+    "merombak": 1
+  },
+  "itokani.": {
+    "kami.": 1,
+    "lain.": 1
+  },
+  "keveli": {
+    "Berkat": 1,
+    "kabel": 1,
+    "optik": 1
+  },
+  "satellite,": {
+    "satelit": 1,
+    "pita": 1
+  },
+  "internet": {
+    "terkoneksi": 1
+  },
+  "93": {
+    "93%": 1
+  },
+  "Greenland.": {
+    "akses": 1,
+    "internet.": 1
+  },
+  "Nomu": {
+    "Hotel": 1
+  },
+  "wifi": {
+    "wifi": 2
+  },
+  "Eskimo”": {
+    "diterima": 1
+  },
+  "veibeci": {
+    "merendahkan": 1
+  },
+  "Vualikuecake,": {
+    "non-Arktik": 1,
+    "AS,": 1
+  },
+  "Kenada.": {
+    "Kanada.\"": 1
+  },
+  "Qiriniladi": {
+    "Penduduk": 1,
+    "Asli": 1
+  },
+  "qo,": {
+    "Greenland,": 1,
+    "penggunaannya": 1
+  },
+  "vakatabui": {
+    "dihindari": 1,
+    "rendah": 1
+  },
+  "vulagi.": {
+    "asing.": 2
+  },
+  "itaukeinivanua": {
+    "asli": 1,
+    "Greenland": 1
+  },
+  "Qiriniladi,": {
+    "Inuit": 1,
+    "Greenland,": 1
+  },
+  "Kalaalleq": {
+    "(jamaknya": 1,
+    "Kalaallit),": 1
+  },
+  "Qiriniladi.": {
+    "Greenland.": 1
+  },
+  "Greenland": {
+    "dengki": 1,
+    "Greenland": 1
+  },
+  "cati": {
+    "sebenarnya": 1
+  },
+  "veitaoni.": {
+    "\"daerah": 1,
+    "kasar\".\"": 1
+  },
+  "vakavakarau": {
+    "persiapan,": 2
+  },
+  "batabata.": {
+    "dingin.": 2
+  },
+  "sikovi": {
+    "mengunjungi": 1
+  },
+  "(na": {
+    "(dengan": 1,
+    "pertimbangan": 1
+  },
+  "batabata),": {
+    "suhunya),": 1
+  },
+  "vulaikatakata": {
+    "musim": 3,
+    "panas": 3
+  },
+  "vakavinaka": {
+    "gangguan": 1
+  },
+  "vakavu": {
+    "kesehatan": 1,
+    "menularkan": 1,
+    "penyakit": 1
+  },
+  "tauvimate.": {
+    "terkait.": 1,
+    "terjangkit": 1,
+    "penyakit.": 1
+  },
+  "Nordic": {
+    "Nordik.": 1
+  },
+  "vulaikatakata.": {
+    "Nyamuk": 1
+  },
+  "vakaninivaki.": {
+    "menjengkelkan.": 1
+  },
+  "ilavo.": {
+    "perekonomiannya": 1,
+    "beragam.": 1,
+    "lebih.": 1,
+    "perputaran": 1,
+    "uang.": 1
+  },
+  "veivakacakacakataki": {
+    "Sektor": 1,
+    "ketenagakerjaan": 1
+  },
+  "kenadau": {
+    "profesional,": 1
+  },
+  "veiqaravi,": {
+    "pemerintahan,": 1
+  },
+  "matanitu,": {
+    "keuangan,": 1
+  },
+  "saravanua.": {
+    "turis.": 2
+  },
+  "sere,": {
+    "musik,": 1
+  },
+  "iyaloyalo,": {
+    "film,": 1,
+    "literatur,": 1
+  },
+  "veiyasai": {
+    "keliling": 2
+  },
+  "veivale": {
+    "infrastruktur": 1
+  },
+  "vakaEsia:": {
+    "Asia": 1,
+    "lainnya:": 1
+  },
+  "vaKorea,": {
+    "Korea,": 1
+  },
+  "vakaThai,": {
+    "Thailand,": 1
+  },
+  "vakaIdia,": {
+    "India,": 1
+  },
+  "vakaJapani.": {
+    "Jepang.": 1
+  },
+  "Walt": {
+    "Berwisata": 1,
+    "Walt": 1
+  },
+  "Disney": {
+    "Disney": 3
+  },
+  "diva": {
+    "merepresentasikan": 1,
+    "ziarah": 1
+  },
+  "vuvale": {
+    "keluarga": 1,
+    "keluarga.": 1
+  },
+  "Merika.": {
+    "Amerika.": 1
+  },
+  "Orlando,": {
+    "Orlando,": 1
+  },
+  "biubiu": {
+    "meninggalkan": 1
+  },
+  "vicavata": {
+    "\"Ada": 1,
+    "variasi": 1
+  },
+  "“lako": {
+    "\"pergi": 1
+  },
+  "World”.": {
+    "World\".\"": 1
+  },
+  "website": {
+    "situs": 4
+  },
+  "Craiglist": {
+    "lelang": 1
+  },
+  "lade": {
+    "Craigslist": 1
+  },
+  "tikite.": {
+    "maskapai": 2
+  },
+  "Veibuca": {
+    "memperoleh": 1
+  },
+  "pepa": {
+    "izin": 3
+  },
+  "sikovanua.": {
+    "berwenang.": 1
+  },
+  "vakaiyalayala": {
+    "Surat": 1,
+    "Terdapat": 1,
+    "Selatan,": 1
+  },
+  "ivolatara": {
+    "izin": 4
+  },
+  "dola.": {
+    "awal.": 1
+  },
+  "sikovanua": {
+    "kunjungan": 1
+  },
+  "Janueri.": {
+    "Januari.": 1
+  },
+  "Bright": {
+    "Perkemahan": 1
+  },
+  "Angel": {
+    "Bright": 1
+  },
+  "Campground": {
+    "Angel": 1
+  },
+  "kabita": {
+    "bersebelahan": 1
+  },
+  "Phantom": {
+    "Phantom": 1
+  },
+  "Ranch,": {
+    "Ranch,": 1
+  },
+  "dola": {
+    "reservasi": 1
+  },
+  "taqomaki.": {
+    "buka.": 1
+  },
+  "kerekere": {
+    "dahulu,": 1
+  },
+  "iliu.": {
+    "mendapatkannya.": 1
+  },
+  "Nida": {
+    "Memasuki": 1
+  },
+  "Aferika,": {
+    "Afrika": 3
+  },
+  "taya": {
+    "4x4": 1,
+    "bersumbu": 1
+  },
+  "4x4.": {
+    "tinggi.": 1
+  },
+  "vakasamatataki": {
+    "Harap": 1,
+    "diingat": 1
+  },
+  "leqa.": {
+    "itu.": 1
+  },
+  "Visa": {
+    "visa": 1,
+    "bervariasi": 1
+  },
+  "yadua": {
+    "Masing-masing": 1
+  },
+  "Baranisavu": {
+    "Air": 1,
+    "Terjun": 1
+  },
+  "Victoria": {
+    "Victoria": 1
+  },
+  "Zimbabwe,": {
+    "Zimbabwe,": 1
+  },
+  "iyala": {
+    "perbatasan": 2
+  },
+  "Livingstone,": {
+    "Livingstone,": 1
+  },
+  "Zambia,": {
+    "Zambia,": 1
+  },
+  "Botswana.": {
+    "dekat": 1,
+    "Botswana.": 1
+  },
+  "Donuya": {
+    "Pada": 1
+  },
+  "iucauca": {
+    "hujan": 1,
+    "(dari": 1
+  },
+  "(Noveba": {
+    "November": 1
+  },
+  "Maji),": {
+    "Maret),": 1,
+    "volume": 1
+  },
+  "Baranisavu.": {
+    "Air": 2
+  },
+  "adua,": {
+    "lain,": 1
+  },
+  "Baranisavua": {
+    "pandangan": 1,
+    "Air": 1
+  },
+  "wai!": {
+    "air": 1,
+    "tersebut!": 1
+  },
+  "Sau": {
+    "Makam": 1
+  },
+  "Tabu": {
+    "(KV62).": 1
+  },
+  "(KV62).": {
+    "KV62": 1
+  },
+  "Carter": {
+    "1922,": 1
+  },
+  "mummy": {
+    "mumi": 1
+  },
+  "laivi": {
+    "mengeluarkannya": 1
+  },
+  "tabana.": {
+    "kelihatan.": 1
+  },
+  "biu": {
+    "dipindahkan": 1,
+    "Tas": 1
+  },
+  "iYaya": {
+    "Museum": 1,
+    "Mesir": 1
+  },
+  "Ijipita.": {
+    "Kairo.": 1
+  },
+  "vulagi": {
+    "waktu": 2
+  },
+  "Krom": {
+    "Krom": 1
+  },
+  "12": {
+    "12": 1
+  },
+  "Reap.": {
+    "Siem": 1,
+    "Reap.": 1
+  },
+  "senitiuri,": {
+    "kekuasaan": 2
+  },
+  "Yasovarman.": {
+    "Yasovarman.": 1
+  },
+  "valenisoro": {
+    "suram": 1
+  },
+  "sarava": {
+    "pemandangan": 2
+  },
+  "Tonle": {
+    "Sap": 1
+  },
+  "Sap": {
+    "pendakian": 1
+  },
+  "baba.": {
+    "berharga.": 1
+  },
+  "vodo": {
+    "mobil": 2,
+    "perahu": 2
+  },
+  "Pasi": {
+    "Angkor": 1,
+    "Pass": 1,
+    "diperlukan": 1
+  },
+  "guilecava": {
+    "lupa": 2
+  },
+  "Tonie": {
+    "Tonle": 1
+  },
+  "Sap.": {
+    "Sap.": 1
+  },
+  "Isireli,": {
+    "Israel,": 1
+  },
+  "Isireli.": {
+    "Israel.": 2
+  },
+  "Jutia": {
+    "Bukit": 1
+  },
+  "itukutukuku": {
+    "Yudea": 1
+  },
+  "vakaJiu,": {
+    "monoteistik": 1
+  },
+  "Islam,": {
+    "Yudaisme,": 1,
+    "Kristen,": 1
+  },
+  "vakayalo.": {
+    "budaya.": 1
+  },
+  "vakalotu": {
+    "makna": 1,
+    "religius": 1,
+    "kotanya,": 1
+  },
+  "Jerusalemi,": {
+    "bersejarah,": 1,
+    "arkeologi,": 1
+  },
+  "makawa,": {
+    "perbelanjaan,": 1
+  },
+  "volivoli,": {
+    "riuh": 1
+  },
+  "cafés": {
+    "rendah": 1
+  },
+  "valenikana.": {
+    "ramai.": 1
+  },
+  "Ecuador": {
+    "Ekuador": 3
+  },
+  "lewenivanua": {
+    "Kuba": 2
+  },
+  "Cuba": {
+    "undangan": 1,
+    "pemegang": 1
+  },
+  "Equador": {
+    "titik": 1
+  },
+  "Ministry": {
+    "disahkan": 1,
+    "Kementerian": 1
+  },
+  "Foreign": {
+    "Luar": 1
+  },
+  "Affaris": {
+    "Negeri": 1
+  },
+  "Ecuador,": {
+    "Ekuador,": 1
+  },
+  "matau": {
+    "arus": 1,
+    "kebal": 1,
+    "kuman": 1
+  },
+  "dui": {
+    "teratur": 1,
+    "kawasan": 1
+  },
+  "6": {
+    "6": 3
+  },
+  "yadua.": {
+    "baik.": 1
+  },
+  "veiusa.": {
+    "memenuhi": 1,
+    "mobil.": 1
+  },
+  "ilawaki": {
+    "tampaknya": 1
+  },
+  "Picchu": {
+    "menjulang": 1
+  },
+  "baba": {
+    "Machu": 1,
+    "Terlihat": 1
+  },
+  "cake,": {
+    "Picchu,": 1
+  },
+  "ririkotaki": {
+    "menakutkan": 1
+  },
+  "qiqo": {
+    "curam": 2
+  },
+  "cabeta,": {
+    "sulit,": 1
+  },
+  "45": {
+    "melakukannya": 1,
+    "kisaran": 1
+  },
+  "icake.": {
+    "45": 1,
+    "menit.": 1
+  },
+  "vatu,": {
+    "batu": 1,
+    "setapak,": 1
+  },
+  "kukube": {
+    "lebih": 1,
+    "curam.": 1
+  },
+  "namaka": {
+    "perkirakan": 2
+  },
+  "koso": {
+    "napas,": 1,
+    "berhati-hatilah": 1
+  },
+  "suasua,": {
+    "basah,": 1
+  },
+  "rerevaki.": {
+    "sekejap.": 1
+  },
+  "curuma,": {
+    "dilewati,": 1,
+    "langit-langitnya": 1
+  },
+  "Galapagos,": {
+    "perahu,": 1
+  },
+  "Darwin": {
+    "Darwin": 1
+  },
+  "1835.": {
+    "1835.": 1
+  },
+  "Galapagos": {
+    "Galapagos": 2
+  },
+  "pasidia.": {
+    "penumpang.": 1
+  },
+  "tawani": {
+    "(karena": 1
+  },
+  "donuya": {
+    "puncak": 2
+  },
+  "levu).": {
+    "liburan).": 1
+  },
+  "digitaka": {
+    "Anda": 3
+  },
+  "veivakasarasarataki": {
+    "agen": 1,
+    "spesialis": 1,
+    "tahu": 1
+  },
+  "duiduii": {
+    "jenis": 1
+  },
+  "veikau.": {
+    "kapal.": 1,
+    "musim": 1,
+    "panas.": 1
+  },
+  "Chile": {
+    "Inca,": 1,
+    "Araucanians": 1,
+    "(Mapuche)": 1,
+    "mendiami": 1
+  },
+  "(Mapuche).": {
+    "Chile.": 1
+  },
+  "Mapuche": {
+    "Mapuche": 1
+  },
+  "iawalawa": {
+    "pribumi": 1
+  },
+  "Chille.": {
+    "kemerdekaan": 1,
+    "Chile.": 1
+  },
+  "Chille": {
+    "1810": 1
+  },
+  "1818.": {
+    "1818.": 1
+  },
+  "Dominican": {
+    "Republik": 1
+  },
+  "Republic": {
+    "Dominika": 1
+  },
+  "República": {
+    "(Spanyol:": 1
+  },
+  "Dominicana)": {
+    "RepÃºblica": 1,
+    "Dominicana)": 1
+  },
+  "Keribia": {
+    "Karibia": 1
+  },
+  "babatokalau": {
+    "menempati": 1
+  },
+  "Isepaniolo,": {
+    "Hispaniola,": 1
+  },
+  "Haiti.": {
+    "Haiti": 1
+  },
+  "veinuku": {
+    "pasir": 1,
+    "putih": 1
+  },
+  "veiulunivanua": {
+    "bentang": 1
+  },
+  "Irope": {
+    "Amerika,": 1
+  },
+  "Santo": {
+    "Santo": 1
+  },
+  "Dominiko.": {
+    "Domingo.": 1
+  },
+  "Taino": {
+    "TaÃ­nos": 1,
+    "membunuh": 1
+  },
+  "Karibe.": {
+    "Caribes.": 1
+  },
+  "Karibe": {
+    "Caribes": 1
+  },
+  "Arawakana": {
+    "Arawakan": 1
+  },
+  "10,000": {
+    "10.000": 1
+  },
+  "BCE.": {
+    "SM.": 1
+  },
+  "Irope,": {
+    "penjelajah": 1
+  },
+  "musuka": {
+    "Eropa,": 1
+  },
+  "Tainos": {
+    "berkurang": 1
+  },
+  "dauvakayayanavanua": {
+    "penakluk": 2
+  },
+  "Fray": {
+    "Fray": 1,
+    "BartolomÃ©": 1
+  },
+  "las": {
+    "las": 2
+  },
+  "1492": {
+    "1492": 1
+  },
+  "1498": {
+    "1498": 1
+  },
+  "Jardín": {
+    "JardÃ­n": 1
+  },
+  "Unión.": {
+    "la": 1,
+    "UniÃ³n.": 1
+  },
+  "lomalevu": {
+    "atrium": 1
+  },
+  "dawai": {
+    "ke-17,": 1,
+    "Templo": 1
+  },
+  "Diego.": {
+    "bertahan.": 1
+  },
+  "gadivi": {
+    "Sekarang": 1,
+    "berfungsi": 1
+  },
+  "valenikana": {
+    "restoran": 3
+  },
+  "seikau": {
+    "mengelilingi": 1,
+    "taman,": 1
+  },
+  "vakayacori": {
+    "diadakan": 1,
+    "Acara": 1,
+    "ketidaksukaan": 1
+  },
+  "sarasara.": {
+    "gazebo": 1,
+    "tengah.": 1
+  },
+  "del": {
+    "Callejon": 1
+  },
+  "(iTatakoso": {
+    "del": 1
+  },
+  "Regu).": {
+    "Beso": 1
+  },
+  "vakacagicagi": {
+    "Ciuman).": 1
+  },
+  "fuloa": {
+    "balkon": 1
+  },
+  "69": {
+    "69": 1
+  },
+  "veidomoni": {
+    "legenda": 1,
+    "cinta": 1
+  },
+  "velovelo": {
+    "tamasya": 1
+  },
+  "lomanivanua,": {
+    "kayak,": 1
+  },
+  "sitoa": {
+    "toko,": 2
+  },
+  "How": {
+    "Howe": 1
+  },
+  "Sound": {
+    "Sound": 1
+  },
+  "vakalailai,": {
+    "Vancouver,": 1
+  },
+  "idinicavu": {
+    "taksi": 1,
+    "terjadwal": 1
+  },
+  "Granville": {
+    "Granville": 1
+  },
+  "Vancouver.": {
+    "Vancouver.": 1
+  },
+  "Vei": {
+    "Bagi": 2
+  },
+  "Waitui": {
+    "Laut": 2
+  },
+  "Veidelana.": {
+    "sangatlah": 1,
+    "penting.": 1
+  },
+  "Whistler": {
+    "Whistler": 1
+  },
+  "(1.5": {
+    "(1,5": 1
+  },
+  "Vancouver)": {
+    "berkendara": 1
+  },
+  "saulevu,": {
+    "Vancouver)": 1
+  },
+  "Winter": {
+    "Musim": 1
+  },
+  "2010.": {
+    "2010.": 1
+  },
+  "vulaibatabata": {
+    "musim": 3
+  },
+  "vakatasisi": {
+    "ski": 2
+  },
+  "Noca": {
+    "Utara,": 1
+  },
+  "vakailu": {
+    "dipesan": 1
+  },
+  "Sirena.": {
+    "Sirena.": 1
+  },
+  "Sirena": {
+    "Sirena": 1
+  },
+  "ivakatawa": {
+    "penjaga": 1
+  },
+  "La": {
+    "Leona,": 1
+  },
+  "Pedrillo,": {
+    "Pedrillo,": 1
+  },
+  "Jiménez,": {
+    "JimÃ©nez,": 1
+  },
+  "card.": {
+    "kredit": 1
+  },
+  "Park": {
+    "Park": 1
+  },
+  "Service": {
+    "Service": 1
+  },
+  "(MINAE)": {
+    "(MINAE)": 1
+  },
+  "El": {
+    "CafeNet": 1
+  },
+  "Sol": {
+    "El": 1
+  },
+  "Corcovado": {
+    "Corcovado": 1
+  },
+  "Yatu": {
+    "Kepulauan": 2,
+    "Cook": 2
+  },
+  "Polinisia,": {
+    "kepulauan": 1,
+    "berasosiasi": 1
+  },
+  "Pasifika,": {
+    "lokasinya": 1
+  },
+  "talawasewase": {
+    "Ini": 1
+  },
+  "yatu": {
+    "kepulauan,": 1
+  },
+  "2.2": {
+    "lautan": 1
+  },
+  "kilomita2": {
+    "2,2": 1
+  },
+  "wasawasa.": {
+    "km2.": 1
+  },
+  "Hawaii,": {
+    "Hawaii,": 1,
+    "pulau-pulau": 1
+  },
+  "“Hawaii": {
+    "\"Hawaii": 1
+  },
+  "down": {
+    "selatan": 1
+  },
+  "under”.": {
+    "khatulistiwa\".\"": 1
+  },
+  "veivakatorocaketaki": {
+    "pembangunan": 1
+  },
+  "yanuyanu.": {
+    "pulau": 1
+  },
+  "Raratonga": {
+    "Rarotonga": 1
+  },
+  "Aitutaki.": {
+    "Aitutaki.": 1
+  },
+  "duatani": {
+    "maju": 1,
+    "Visa": 1
+  },
+  "kalasi": {
+    "menyediakan": 1,
+    "tempat": 1,
+    "tidur": 1,
+    "mewah": 1
+  },
+  "katalau": {
+    "sarapan": 2
+  },
+  "vakatorocaketaki.": {
+    "bentuk": 1,
+    "seni.": 1
+  },
+  "veisivisivi": {
+    "B&B": 1,
+    "jelas": 1
+  },
+  "B&B": {
+    "bersaing,": 1,
+    "terutama": 1
+  },
+  "ka:": {
+    "utama:": 1
+  },
+  "katalau.": {
+    "sarapan.": 1
+  },
+  "cula": {
+    "selimut": 1,
+    "vaksinasi": 1
+  },
+  "veivakaicilitaki.": {
+    "tuan": 1,
+    "rumah.": 1
+  },
+  "vakaiyaya": {
+    "bersejarah": 1
+  },
+  "savasava": {
+    "perabotan": 1,
+    "antik,": 1
+  },
+  "lomanibai": {
+    "terawat,": 1
+  },
+  "tobu": {
+    "kolam": 1,
+    "ilusi": 1,
+    "keberadaan": 1
+  },
+  "sisili.": {
+    "renang.": 1
+  },
+  "cakava,": {
+    "mengendarai": 1
+  },
+  "taoni": {
+    "berapa": 1
+  },
+  "Vakalekaleka": {
+    "\"Singkatnya,": 1,
+    "menggunakan": 1
+  },
+  "lori,": {
+    "perjalanan,": 1
+  },
+  "“keba”.": {
+    "\"berkemah\".\"": 1
+  },
+  "minivan": {
+    "SUV,": 1,
+    "sedan,": 1
+  },
+  "SUV": {
+    "minivan": 1
+  },
+  "Sedan": {
+    "Station": 1
+  },
+  "Station": {
+    "Wagon": 1
+  },
+  "idabebabe.": {
+    "rebah.": 1
+  },
+  "maoroya": {
+    "riwayat": 1
+  },
+  "senitiuri.": {
+    "abad": 2
+  },
+  "veiotela": {
+    "Hotel-hotel": 1
+  },
+  "vakaicilii": {
+    "bermalam": 1
+  },
+  "veiporokaramu": {
+    "mewah": 1,
+    "kehidupan": 1
+  },
+  "vakavoutaki": {
+    "penuaan": 1
+  },
+  "itaukei,": {
+    "dimiliki": 1,
+    "pribadi,": 1
+  },
+  "isoqosoqo": {
+    "Jaringan": 1,
+    "homestay": 1,
+    "organisasi": 1
+  },
+  "veikidavaki": {
+    "organisasi": 1
+  },
+  "semai": {
+    "menghubungkan": 1
+  },
+  "vakaleweni": {
+    "Bergabung": 1,
+    "jaringan": 1
+  },
+  "fomu": {
+    "pengisian": 2,
+    "formulir": 2
+  },
+  "isoqsoqo": {
+    "daring;": 1
+  },
+  "ivakadinadina.": {
+    "verifikasi": 1,
+    "tambahan.": 1
+  },
+  "veivakaicilitaki,": {
+    "cetak": 1,
+    "daring,": 1
+  },
+  "tayavutaka": {
+    "Couchsurfing": 1,
+    "didirikan": 1
+  },
+  "Casey": {
+    "2004": 1
+  },
+  "Couchsurfing": {
+    "Casey": 1
+  },
+  "vakaicili": {
+    "akomodasi": 2
+  },
+  "imelitaki": {
+    "Dia": 1,
+    "mengirim": 1,
+    "surel": 1
+  },
+  "Hostel": {
+    "diutamakan": 1
+  },
+  "itabagone": {
+    "kaum": 1
+  },
+  "vuvale,": {
+    "langka,": 1
+  },
+  "hostle": {
+    "hostel": 1
+  },
+  "biuti": {
+    "memperbolehkan": 1
+  },
+  "dolava": {
+    "Beijing": 1
+  },
+  "aisi.": {
+    "ruangan.": 1
+  },
+  "vakatasisisi": {
+    "ski": 3
+  },
+  "Taizicheng": {
+    "Taizicheng": 1
+  },
+  "Zhangjiakou,": {
+    "Zhangjiakou,": 1
+  },
+  "220": {
+    "220": 1
+  },
+  "(140": {
+    "(": 1,
+    "140": 1
+  },
+  "Beijing.": {
+    "Beijing.": 1
+  },
+  "sokalou": {
+    "kuil": 4
+  },
+  "Me,": {
+    "Mei,": 1
+  },
+  "vulaniyabaki": {
+    "kalender": 1,
+    "tahunan": 1
+  },
+  "sokalou.": {
+    "kuil.": 1
+  },
+  "solevu": {
+    "Festival": 1,
+    "Kerala": 1
+  },
+  "matalau": {
+    "dilihat,": 1
+  },
+  "raica,": {
+    "prosesi": 1
+  },
+  "tayabe": {
+    "reguler": 1
+  },
+  "elefaniti": {
+    "gajah": 1
+  },
+  "matasere": {
+    "orkestra": 1
+  },
+  "solevu.": {
+    "perayaan": 1
+  },
+  "World’s": {
+    "Pameran": 1
+  },
+  "Fair": {
+    "(umumnya": 1
+  },
+  "(kilai": {
+    "dikenal": 2
+  },
+  "Expo)": {
+    "Eksposisi": 1
+  },
+  "vakasaenisi.": {
+    "sains.": 1
+  },
+  "Horticultural": {
+    "Pameran": 1
+  },
+  "Exposition": {
+    "Hortikultural": 1
+  },
+  "senikau,": {
+    "bunga,": 1,
+    "kebun": 1
+  },
+  "itei.": {
+    "tanaman.": 1
+  },
+  "(kevaka": {
+    "diadakan": 2
+  },
+  "cakacakataki": {
+    "berbeda),": 1
+  },
+  "toka.": {
+    "bisa.": 1,
+    "berharga.": 1
+  },
+  "50": {
+    "50": 2
+  },
+  "mita.": {
+    "hektare.": 1
+  },
+  "icibini": {
+    "35": 2,
+    "kali": 2
+  },
+  "milimita": {
+    "mm": 3
+  },
+  "veisautaki": {
+    "relatif": 1
+  },
+  "koso,": {
+    "diperbarui": 1
+  },
+  "DSLR.": {
+    "DSLR": 1,
+    "ini.": 1
+  },
+  "56": {
+    "tepatnya": 1,
+    "negatif": 1
+  },
+  "sedimita": {
+    "56": 2
+  },
+  "taba.": {
+    "mm.": 1
+  },
+  "raw": {
+    "resolusi": 1
+  },
+  "vakavataka": {
+    "nyaris": 1
+  },
+  "milimita2": {
+    "(3136": 1,
+    "mm2": 1
+  },
+  "864).": {
+    "versus": 1,
+    "864).": 1
+  },
+  "veikabula": {
+    "liar": 2
+  },
+  "veivakaocai": {
+    "motif": 1
+  },
+  "vakamamada": {
+    "Liar": 1
+  },
+  "vakamacalataki": {
+    "bernilai": 1
+  },
+  "sala.": {
+    "kata.": 1
+  },
+  "somidi.": {
+    "lain.": 1
+  },
+  "kunekunei": {
+    "Banyak": 1,
+    "binatang": 1,
+    "eksotis": 1
+  },
+  "vauca": {
+    "mengatur": 1,
+    "fotografi": 1
+  },
+  "veitaba": {
+    "pengambilan": 1
+  },
+  "bisinisitaki.": {
+    "foto": 1,
+    "komersial.": 1
+  },
+  "madua": {
+    "liar": 1,
+    "pemalu": 1
+  },
+  "cudrucudru.": {
+    "agresif.": 1,
+    "Lingkungan": 1,
+    "bersahabat.": 1
+  },
+  "katakata,": {
+    "panas": 3
+  },
+  "5,000": {
+    "Dunia": 1
+  },
+  "cavuti.": {
+    "diucapkan.": 1,
+    "berlaku": 1,
+    "diucapkan": 1,
+    "jelas.": 1
+  },
+  "taladrodro": {
+    "fasih": 1
+  },
+  "vakavalgi,": {
+    "Inggris,": 1
+  },
+  "itabagone.": {
+    "kalangan": 1,
+    "muda.": 1
+  },
+  "Vakasamataka": {
+    "Coba": 1
+  },
+  "mada,": {
+    "bayangkan,": 1
+  },
+  "rawa,": {
+    "mau,": 1
+  },
+  "Mancunia,": {
+    "Manchester,": 1
+  },
+  "Jamaica": {
+    "Boston,": 1,
+    "Jamaika,": 1
+  },
+  "Serene": {
+    "Sidney": 1,
+    "duduk": 1
+  },
+  "Toronto.": {
+    "Toronto.": 1
+  },
+  "talanoataka": {
+    "saling": 1,
+    "menghormati": 1
+  },
+  "vosavosa.": {
+    "dialek": 1,
+    "setempat.": 1
+  },
+  "volia": {
+    "makanan": 2,
+    "membeli": 2
+  },
+  "vakasaqa,": {
+    "Tanpa": 1,
+    "peluang": 1
+  },
+  "buta": {
+    "siap-saji.": 1
+  },
+  "volitaka": {
+    "variasi": 1
+  },
+  "ovani": {
+    "memanaskan": 1
+  },
+  "microwave.": {
+    "makanan.": 1
+  },
+  "kina..": {
+    "terjangkau.": 1
+  },
+  "ilavelave": {
+    "salinan": 4
+  },
+  "inisua": {
+    "detail": 1,
+    "rekan": 1
+  },
+  "inisua.": {
+    "Anda.": 1
+  },
+  "naba": {
+    "nomor": 6
+  },
+  "talevoni": {
+    "telepon": 4
+  },
+  "vakadonui/tarogi": {
+    "nasihat/otorisasi": 1
+  },
+  "iko.": {
+    "klaim.": 1,
+    "kembali.": 1
+  },
+  "maroya": {
+    "koper": 1,
+    "simpan": 1
+  },
+  "(vakabira": {
+    "alamat": 1
+  },
+  "imelitaka": {
+    "lampiran,": 1
+  },
+  "iko,": {
+    "simpan": 1
+  },
+  "“cloud”)": {
+    "\"awan\").": 1,
+    "\"": 1
+  },
+  "veitosoyaki": {
+    "bepergian": 2
+  },
+  "laptop": {
+    "laptop": 1
+  },
+  "tablet,": {
+    "tablet,": 1
+  },
+  "(o": {
+    "memori": 1
+  },
+  "veilawa).": {
+    "internet).": 1
+  },
+  "Moose": {
+    "Moose": 1,
+    "(yang": 1
+  },
+  "elk)": {
+    "elk)": 1
+  },
+  "cudrucudru,": {
+    "agresif": 1
+  },
+  "vala": {
+    "mempertahankan": 1
+  },
+  "manoa": {
+    "rusa": 1
+  },
+  "moose": {
+    "bahaya,": 1
+  },
+  "vakavoleka": {
+    "mendekat": 1,
+    "rapat": 1,
+    "menempatkan": 1
+  },
+  "rerevaki": {
+    "risiko.": 1,
+    "mengandung": 1
+  },
+  "vakarauta": {
+    "Minum": 1,
+    "minuman": 1,
+    "beralkohol": 1
+  },
+  "alakaolo": {
+    "alkohol": 2
+  },
+  "gunuva.": {
+    "Pengaruh": 1,
+    "berbeda-beda": 1
+  },
+  "alakaolo.": {
+    "sendiri.": 1
+  },
+  "mataboko": {
+    "kebutaan": 1,
+    "dosis": 1
+  },
+  "vakatabui.": {
+    "ilegal.": 1
+  },
+  "siviriti": {
+    "kotoran": 1
+  },
+  "methanol,": {
+    "metanol,": 1
+  },
+  "gunuvi": {
+    "kebutaan": 1
+  },
+  "matailoilo": {
+    "Kacamata": 1
+  },
+  "vulagi,": {
+    "asing,": 1
+  },
+  "Tovolea": {
+    "Pertimbangkan": 1
+  },
+  "matamu,": {
+    "menjalani": 1,
+    "pemeriksaan": 1
+  },
+  "inisua,": {
+    "apalagi": 1
+  },
+  "lasutaki,": {
+    "tiruan": 1
+  },
+  "saulevu": {
+    "mahal": 2
+  },
+  "Kofi": {
+    "Kopi": 1
+  },
+  "mada.": {
+    "pantas": 1,
+    "coba.": 1
+  },
+  "Canyoning": {
+    "Canyoning": 2
+  },
+  "(se:": {
+    "canyoneering)": 1
+  },
+  "veiqakilo": {
+    "ngarai,": 1
+  },
+  "veidelana,": {
+    "kering": 1
+  },
+  "mamaca": {
+    "penuh": 1
+  },
+  "suasua.": {
+    "air.": 1
+  },
+  "veka": {
+    "elemen-elemen": 1,
+    "renang,": 1
+  },
+  "qalo,": {
+    "memanjat,": 1
+  },
+  "kaba": {
+    "melompat--tetapi": 1
+  },
+  "kabata": {
+    "tebing,": 1
+  },
+  "nunu": {
+    "scuba,": 1
+  },
+  "ivakaraitaki).": {
+    "alpine": 1,
+    "misalnya).": 1
+  },
+  "tautuba,": {
+    "meliputi": 1
+  },
+  "ta": {
+    "jalur": 1,
+    "pendakian.": 1
+  },
+  "taucoko.": {
+    "hari.": 1
+  },
+  "vakavuvale": {
+    "Keluarga": 1
+  },
+  "tautuba": {
+    "ruangan": 1
+  },
+  "peipei": {
+    "bayi": 1
+  },
+  "cicivaka": {
+    "beroperasi": 1
+  },
+  "nodra.": {
+    "mandiri.": 1
+  },
+  "sosomitaka": {
+    "Penerus": 1,
+    "Global": 1
+  },
+  "Running": {
+    "Running": 2
+  },
+  "veivosakitaki": {
+    "Go": 1
+  },
+  "veitaucicici": {
+    "tontonan": 1
+  },
+  "Barcelona's": {
+    "Barcelona": 2
+  },
+  "Tours": {
+    "Lari": 2
+  },
+  "Prague": {
+    "Praha": 2
+  },
+  "“mai": {
+    "hukum,": 1
+  },
+  "vanua”.": {
+    "makanan,": 1
+  },
+  "ivakatagedege": {
+    "sebagainya": 1
+  },
+  "duatani.": {
+    "berasal.\"": 1
+  },
+  "cata": {
+    "diingat,": 1
+  },
+  "sevaka": {
+    "kekecewaan": 1
+  },
+  "tuvanaka": {
+    "perjalanan": 4
+  },
+  "ilakolako.": {
+    "tertentu.": 1
+  },
+  "vakayagataka.": {
+    "perjalanan": 1,
+    "Anda.": 1
+  },
+  "tiko,": {
+    "entah": 1
+  },
+  "sitoa.": {
+    "etalase": 1,
+    "toko.": 1
+  },
+  "rawarawa,": {
+    "gaya": 1
+  },
+  "gadreva,": {
+    "tantangan,": 1
+  },
+  "qori:": {
+    "terbagi": 1
+  },
+  "cakava.": {
+    "terakhir.": 1,
+    "salah.": 1
+  },
+  "vakatikitiki": {
+    "bersedia": 1
+  },
+  "saiva": {
+    "nol,": 1
+  },
+  "sausaumi,": {
+    "lihat": 1
+  },
+  "minimum": {
+    "anggaran": 1
+  },
+  "budget.": {
+    "minimum.": 1
+  },
+  "ivakasala": {
+    "Saran": 1,
+    "menganggap": 1
+  },
+  "butako,": {
+    "mengemis,": 1,
+    "mencuri,": 1
+  },
+  "vakaveitalia,": {
+    "keuntungan": 1
+  },
+  "basulawa,": {
+    "mengeksploitasi": 1
+  },
+  "checkpoint": {
+    "Pos": 1,
+    "periksa": 1
+  },
+  "curuvanua": {
+    "imigrasi": 3
+  },
+  "waqavuka,": {
+    "pesawat,": 1,
+    "kendaraan": 1
+  },
+  "tereni": {
+    "kereta": 7
+  },
+  "ID": {
+    "identitas": 1,
+    "sah": 1
+  },
+  "visa": {
+    "persyaratan": 2,
+    "visa": 2,
+    "umumnya": 2
+  },
+  "rejisita.": {
+    "visa.": 1
+  },
+  "curuvanua.": {
+    "imigrasi.": 1
+  },
+  "vakalawataki": {
+    "undang-undang": 1
+  },
+  "rejisitataki": {
+    "menangani": 1,
+    "pendaftaran": 1
+  },
+  "(mo": {
+    "(pastikan": 1
+  },
+  "rawa).": {
+    "bertanya).": 1
+  },
+  "taroga": {
+    "karenanya": 1,
+    "Hubungi": 1,
+    "institusi,": 1
+  },
+  "kauaitaka": {
+    "Arsitektur": 1
+  },
+  "daudroini": {
+    "Arsitektur": 2
+  },
+  "itaratara": {
+    "tarik": 1
+  },
+  "sarava,": {
+    "indah": 1
+  },
+  "vakamaqosa": {
+    "diposisikan": 1,
+    "strategis": 1
+  },
+  "vakatubuqoroqoro": {
+    "keindahan": 1
+  },
+  "raica.": {
+    "disaksikan.": 1
+  },
+  "lakolako": {
+    "bertumpang-tindih": 1
+  },
+  "pelenitaki": {
+    "sipil,": 1
+  },
+  "vakaidinia,": {
+    "desain": 2
+  },
+  "bulicaki": {
+    "tata": 1,
+    "ruang.": 1
+  },
+  "Albuquerque": {
+    "Albuquerque": 2
+  },
+  "Fe.": {
+    "Fe.": 1
+  },
+  "casino": {
+    "kasino": 2
+  },
+  "gunu,": {
+    "minuman,": 1
+  },
+  "(qo": {
+    "(terutama": 1
+  },
+  "Fe).": {
+    "Fe).": 1
+  },
+  "Qarauna:": {
+    "Hati-hati:": 1,
+    "bar-bar": 1
+  },
+  "mateni,": {
+    "mabuk,": 1
+  },
+  "draiva.": {
+    "kecil.": 1
+  },
+  "tositosi": {
+    "Mural": 1
+  },
+  "volavolai": {
+    "coretan": 1
+  },
+  "graffiti.": {
+    "graffiti.": 1
+  },
+  "spray.": {
+    "cat": 1,
+    "semprot.": 1
+  },
+  "droini,": {
+    "grafiti,": 2
+  },
+  "graffiti": {
+    "\".": 1,
+    "grafiti": 1,
+    "konteks": 1
+  },
+  "basulawa.": {
+    "terbaca.\"": 1
+  },
+  "viritaki": {
+    "Melempar": 1,
+    "bumerang": 1
+  },
+  "Boomerang": {
+    "keahlian": 1
+  },
+  "vuilca": {
+    "diperoleh": 1
+  },
+  "boomerang": {
+    "bumerang": 3
+  },
+  "veiganiti": {
+    "memadai": 1
+  },
+  "viritaka": {
+    "pemula,": 1
+  },
+  "cagicagi": {
+    "coba-coba": 1,
+    "melemparnya": 1
+  },
+  "tekviu.": {
+    "berangin": 1
+  },
+  "Hangi": {
+    "Sajian": 1,
+    "Hangi": 1,
+    "dimasak": 1
+  },
+  "vakasaqa": {
+    "lubang": 1,
+    "panas": 1
+  },
+  "qele.": {
+    "tanah.": 1,
+    "alami.": 1,
+    "tanah.\"": 1
+  },
+  "tavuni": {
+    "Lubang": 1,
+    "dipanaskan": 1
+  },
+  "lovo": {
+    "batu": 1
+  },
+  "ruku": {
+    "tanahnya": 1,
+    "panas": 1
+  },
+  "tavu": {
+    "memasak": 1,
+    "makan": 1,
+    "malam": 1
+  },
+  "vakayakavi.": {
+    "panggang": 1,
+    "tradisional.": 1
+  },
+  "hangi": {
+    "hangi": 2
+  },
+  "Christchurch,": {
+    "Christchurch,": 1
+  },
+  "Wellington": {
+    "Wellington,": 1
+  },
+  "MetroRail": {
+    "komuter": 1
+  },
+  "MetroPlus": {
+    "MetroPlus": 4
+  },
+  "(vakatokai": {
+    "(disebut": 2
+  },
+  "Third": {
+    "Kelas": 2
+  },
+  "First": {
+    "Satu)": 1
+  },
+  "Class).": {
+    "Tiga).": 1
+  },
+  "Urope.": {
+    "Eropa.": 1
+  },
+  "coach;": {
+    "Metro;": 1
+  },
+  "kelekele": {
+    "terdekat": 1
+  },
+  "Town.": {
+    "Town.": 1
+  },
+  "kauaitaki": {
+    "Membawa": 1,
+    "barang": 1
+  },
+  "lako,": {
+    "mengawasi": 1,
+    "tas": 1,
+    "tangan).": 1
+  },
+  "usana": {
+    "tiba-tiba": 1
+  },
+  "gaga": {
+    "kurir": 1,
+    "narkoba": 1
+  },
+  "kila,": {
+    "sepengetahuan": 1
+  },
+  "laini": {
+    "anjing": 1,
+    "pengendus": 1
+  },
+  "gaga,": {
+    "kapan": 1
+  },
+  "takete": {
+    "target": 1,
+    "pencurian": 1
+  },
+  "gasaukuro.": {
+    "ancaman": 1,
+    "bom.": 1
+  },
+  "yagomu": {
+    "akibat": 1,
+    "terus-menerus": 1
+  },
+  "midimidi": {
+    "fauna": 2
+  },
+  "duka.": {
+    "rumah.": 1
+  },
+  "fauna": {
+    "jauh": 1
+  },
+  "vakatauvimatetaki": {
+    "mengalami": 1,
+    "masalah.": 1
+  },
+  "yago.": {
+    "tubuh.": 1
+  },
+  "gona": {
+    "momok": 1
+  },
+  "Delhi": {
+    "Perut": 1,
+    "Delhi,": 1
+  },
+  "Belly,": {
+    "Kutukan": 1
+  },
+  "Pharaoh's": {
+    "Firaun,": 1
+  },
+  "Curse,": {
+    "Pembalasan": 1
+  },
+  "Revenge,": {
+    "Montezuma,": 1,
+    "kawan-kawannya": 1
+  },
+  "Vaka": {
+    "Layaknya": 1,
+    "masalah": 1,
+    "pernapasan": 1
+  },
+  "leka": {
+    "iklim": 1,
+    "masalah": 1
+  },
+  "batabata,": {
+    "iklim": 1
+  },
+  "leqataki": {
+    "mengganggu.": 1
+  },
+  "muloci": {
+    "cakap": 1
+  },
+  "vakamatauni": {
+    "masa-masa": 1,
+    "awal.": 1
+  },
+  "Kua": {
+    "Jangan": 2
+  },
+  "meteresi": {
+    "kasur": 1
+  },
+  "hammock": {
+    "gantung": 1
+  },
+  "gata,": {
+    "ular,": 1
+  },
+  "batibasaga": {
+    "kalajengking,": 1
+  },
+  "teteva": {
+    "Penuhi": 1
+  },
+  "veivakacegui": {
+    "teh": 1,
+    "kamomil": 1
+  },
+  "ti": {
+    "menenangkan": 1
+  },
+  "taleitaka.": {
+    "istimewa.": 1
+  },
+  "ka,": {
+    "petualang": 1,
+    "diperbolehkan,": 1
+  },
+  "blend": {
+    "cobalah": 1
+  },
+  "memu": {
+    "smoothie": 1,
+    "jus": 1
+  },
+  "vuata:": {
+    "blender:": 1
+  },
+  "gunuva,": {
+    "bervariasi,": 1,
+    "pergilah": 1
+  },
+  "bar": {
+    "pub": 1
+  },
+  "wasoma.": {
+    "kunjungi.": 1
+  },
+  "matata": {
+    "terbiasa": 1
+  },
+  "vakavuniwai,": {
+    "jargon": 1,
+    "medis,": 1
+  },
+  "infectious": {
+    "infeksius": 1,
+    "menular": 1
+  },
+  "contagious": {
+    "menular": 2
+  },
+  "ibalebale.": {
+    "arti": 1,
+    "berbeda.": 1
+  },
+  "pathoge,": {
+    "patogen,": 1,
+    "misalnya": 1
+  },
+  "virus,": {
+    "virus,": 1
+  },
+  "bacterium,": {
+    "bakteri,": 1
+  },
+  "fungus": {
+    "jamur,": 1
+  },
+  "midimidi.": {
+    "parasit": 1,
+    "lainnya.": 1
+  },
+  "lesuva": {
+    "dikunjungi": 2
+  },
+  "butuka.": {
+    "wisatawan.": 1
+  },
+  "Charlote,": {
+    "Charlotte,": 1,
+    "Carolina": 1
+  },
+  "taoni.": {
+    "anak-anak.": 1
+  },
+  "Charlotte": {
+    "Pusat": 1
+  },
+  "ganiti": {
+    "Charlotte": 1,
+    "tumbuh": 1
+  },
+  "Charlotte,": {
+    "Charlotte,": 1
+  },
+  "ivodovodo,": {
+    "opsi": 1
+  },
+  "Antarctica": {
+    "Antarktika": 2
+  },
+  "Ceva.": {
+    "Kutub": 1,
+    "Selatan.": 1
+  },
+  "levu,": {
+    "Kunjungan": 1
+  },
+  "Yanuyanu": {
+    "Pulau,": 1
+  },
+  "Ross.": {
+    "Ross.": 1
+  },
+  "vulai": {
+    "musim": 2
+  },
+  "daseni": {
+    "markas": 1
+  },
+  "oqori;": {
+    "tersebut;": 1
+  },
+  "2-3": {
+    "es": 1,
+    "setebal": 1
+  },
+  "waicevata.": {
+    "km.": 1,
+    "salju.": 1
+  },
+  "vakavudua": {
+    "Spesialis": 1,
+    "tur": 1,
+    "sesekali": 1
+  },
+  "Muana": {
+    "Spesialis": 1
+  },
+  "Pole": {
+    "Pole": 1
+  },
+  "Traverse": {
+    "Traverse": 1
+  },
+  "Gaunisala)": {
+    "Highway)": 1
+  },
+  "1600": {
+    "lintasan": 1
+  },
+  "Siteseni": {
+    "Pangkalan": 1
+  },
+  "McMurdo": {
+    "McMurdo": 1
+  },
+  "Ross": {
+    "Ross": 1
+  },
+  "Pole.": {
+    "Kutub.": 1
+  },
+  "kuila.": {
+    "diisi": 1
+  },
+  "tractor": {
+    "bendera.": 1
+  },
+  "iqavi,": {
+    "traktor": 1
+  },
+  "kakana.": {
+    "persediaan.": 1
+  },
+  "cawiritaka": {
+    "pegunungan": 1,
+    "Transantarktika": 1
+  },
+  "veiyanuyanu": {
+    "dataran": 1,
+    "tinggi.": 1
+  },
+  "gaunisala,": {
+    "jalanan,": 1,
+    "trotoar,": 1
+  },
+  "batinisala)": {
+    "tangga": 1
+  },
+  "ikabakaba.": {
+    "licin.": 1
+  },
+  "daramaka": {
+    "Minimal": 1
+  },
+  "ivava": {
+    "sepatu": 3
+  },
+  "sisisi": {
+    "licin": 1
+  },
+  "boot": {
+    "sepatu": 2,
+    "bot": 2
+  },
+  "titobu": {
+    "Polanya": 1
+  },
+  "inch)": {
+    "(1/5": 1
+  },
+  "siva": {
+    "inci)": 1
+  },
+  "titobu,": {
+    "lebih,": 1
+  },
+  "malumu": {
+    "bahannya": 1
+  },
+  "vakabatina": {
+    "paku": 1
+  },
+  "bukuna": {
+    "tapaknya": 1
+  },
+  "coba": {
+    "berpaku": 1
+  },
+  "sisisi,": {
+    "licin,": 1
+  },
+  "boot,": {
+    "tumit": 1
+  },
+  "titeqe": {
+    "tumit": 1,
+    "lebar.": 1
+  },
+  "bukuna.": {
+    "sol.": 1
+  },
+  "sova": {
+    "garam": 1,
+    "(kalsium": 1,
+    "klorida)": 1
+  },
+  "masima": {
+    "jalan": 1
+  },
+  "qereqere": {
+    "raya": 1
+  },
+  "(calcium": {
+    "jalan": 1
+  },
+  "chloride)": {
+    "setapak": 1
+  },
+  "sisi.": {
+    "cengkeram.": 1
+  },
+  "wasoma": {
+    "Salju": 1,
+    "longsor": 1
+  },
+  "ucacevata": {
+    "salju": 2
+  },
+  "qeqera": {
+    "kelebihannya": 1
+  },
+  "sisi": {
+    "salju": 3
+  },
+  "polo.": {
+    "longsor.": 1
+  },
+  "kabikabi": {
+    "Persoalannya,": 1
+  },
+  "vo.": {
+    "lainnya.": 1
+  },
+  "covulaca,": {
+    "bertekanan": 1
+  },
+  "domica": {
+    "rendah,": 1,
+    "mengisap": 1
+  },
+  "matana.": {
+    "atas.": 1
+  },
+  "100/200": {
+    "(seringkali": 1,
+    "160-320": 1
+  },
+  "aua)": {
+    "mengangkat": 1
+  },
+  "fanala": {
+    "corong": 1
+  },
+  "kumukumuni": {
+    "awan,": 1
+  },
+  "“covulaca”": {
+    "\"tornado\"": 1,
+    "menyentuh": 1
+  },
+  "VPN": {
+    "Penyedia": 1
+  },
+  "private": {
+    "VPN": 1
+  },
+  "network)": {
+    "(jaringan": 1
+  },
+  "Kabani": {
+    "politik": 1
+  },
+  "uasivi": {
+    "unggul": 1
+  },
+  "web": {
+    "proxy": 1
+  },
+  "proxy:": {
+    "alasan:": 1
+  },
+  "Internet.": {
+    "http.": 1
+  },
+  "lasutaka": {
+    "\"Perusahaan": 1,
+    "media": 1
+  },
+  "vakauitukutuku": {
+    "berbohong": 1
+  },
+  "“tarova": {
+    "mengeklaim": 1
+  },
+  "ka”.": {
+    "\"mencegah": 1,
+    "pembajakan\".\"": 1
+  },
+  "region": {
+    "kode": 1
+  },
+  "kopitaki": {
+    "penggandaan": 1,
+    "ilegal;": 1,
+    "salinan": 1,
+    "cakram": 1
+  },
+  "saravi": {
+    "manapun": 1,
+    "aslinya": 1
+  },
+  "original.": {
+    "dimainkan.": 1
+  },
+  "makete;": {
+    "pasar": 1,
+    "mereka;": 1
+  },
+  "Arizona.": {
+    "Arizona": 1,
+    "cerah.": 1
+  },
+  "qiri": {
+    "telepon": 3
+  },
+  "Real-time": {
+    "Aplikasi": 1,
+    "penerjemah": 1
+  },
+  "text": {
+    "teks": 2
+  },
+  "translator": {
+    "seketika": 1
+  },
+  "porokaramu": {
+    "aplikasi": 2
+  },
+  "vakadewataka": {
+    "menerjemahkan": 2
+  },
+  "smartphone": {
+    "pintar": 1,
+    "ponsel": 1,
+    "cerdas": 1
+  },
+  "app": {
+    "aplikasi": 1
+  },
+  "Translate,": {
+    "Google": 1
+  },
+  "dauvakadewavosa": {
+    "Translate,": 1
+  },
+  "lavetaki": {
+    "mengunduh": 1
+  },
+  "gadrevi.": {
+    "diinginkan.": 1
+  },
+  "GPS": {
+    "Memakai": 1,
+    "aplikasi": 1,
+    "navigasi": 1,
+    "GPS": 1
+  },
+  "vakabula": {
+    "Bisa": 1,
+    "menghemat": 1
+  },
+  "vou,": {
+    "GPS,": 1
+  },
+  "rental": {
+    "GPS": 2
+  },
+  "lori.": {
+    "penyewaan": 1,
+    "mobil.": 1
+  },
+  "data": {
+    "koneksi": 1,
+    "data": 1
+  },
+  "talevoni,": {
+    "performa": 1
+  },
+  "veisitoa": {
+    "toko": 1,
+    "sudut": 1
+  },
+  "kad": {
+    "kartu": 2
+  },
+  "saumi": {
+    "prabayar": 1,
+    "jumlahnya": 1
+  },
+  "talevoni.": {
+    "biasa.": 1,
+    "telepon": 1,
+    "biaya.": 1,
+    "itu.": 1
+  },
+  "vakalutuma": {
+    "menguntungkan": 1
+  },
+  "katona": {
+    "mengambil": 1
+  },
+  "vidio.": {
+    "video.": 1
+  },
+  "dron,": {
+    "drone,": 1,
+    "pastikan": 1
+  },
+  "laiseni": {
+    "dibutuhkan.": 1
+  },
+  "drone": {
+    "kerumunan": 1
+  },
+  "waqavuka.": {
+    "dahulu.": 1
+  },
+  "visa.": {
+    "visa": 1,
+    "terlebih": 1,
+    "dahulu.": 1
+  },
+  "vauci": {
+    "pengajuan": 1
+  },
+  "vakabisinisi.": {
+    "biasa.": 1
+  },
+  "vuli,": {
+    "departemen": 1
+  },
+  "Vakavo": {
+    "Kecuali": 1
+  },
+  "ivakacavacava": {
+    "pajak": 5
+  },
+  "veisaumi": {
+    "penghasilan": 2
+  },
+  "kna.": {
+    "berada.": 1
+  },
+  "musu": {
+    "negara": 2
+  },
+  "duidui.": {
+    "lain.": 1
+  },
+  "vnaua": {
+    "federal": 2
+  },
+  "Kenada,": {
+    "Kanada,": 2
+  },
+  "kidavaki": {
+    "sekadar": 1
+  },
+  "tao": {
+    "bea": 1,
+    "cukai": 1
+  },
+  "kasitaba.": {
+    "merepotkan.": 1
+  },
+  "bisini": {
+    "Cara": 1,
+    "termudah": 1
+  },
+  "vakavola": {
+    "penulisan": 1
+  },
+  "maqosataka": {
+    "mengasah": 1,
+    "keterampilan": 1
+  },
+  "yatuvosa": {
+    "mengedit": 1
+  },
+  "web,": {
+    "web,": 1,
+    "nantinya": 1
+  },
+  "website.": {
+    "sendiri.": 1
+  },
+  "bole": {
+    "Menjadi": 1,
+    "sukarelawan": 1,
+    "Hidup": 1
+  },
+  "veisau,": {
+    "perbedaan": 1
+  },
+  "vakarawarawa.": {
+    "memberi.": 1
+  },
+  "taledi": {
+    "keahlian": 1
+  },
+  "vovou.": {
+    "baru.": 1
+  },
+  "vakabalavu": {
+    "bujet": 1
+  },
+  "vakavolidia": {
+    "sukarela": 1
+  },
+  "Sea": {
+    "Laut": 3
+  },
+  "Caspian": {
+    "masih": 2
+  },
+  "takoso,": {
+    "barangkali": 1
+  },
+  "Kanala": {
+    "Bendungan": 1,
+    "Laut": 1
+  },
+  "White": {
+    "Putihâ€“Baltik": 1
+  },
+  "Sea–Baltic": {
+    "menghubungkan": 1,
+    "Samudra": 1
+  },
+  "Baltic": {
+    "Baltik,": 1
+  },
+  "Toba": {
+    "Danau": 3
+  },
+  "Ladoga": {
+    "Saint": 1
+  },
+  "Saint": {
+    "Petersburg,": 1
+  },
+  "toba.": {
+    "danau.": 1
+  },
+  "Onega": {
+    "Onega": 1
+  },
+  "Volga,": {
+    "Volga,": 1
+  },
+  "Sea.": {
+    "memungkinkan.": 1
+  },
+  "ikelekele": {
+    "pelabuhan": 1
+  },
+  "waqa,": {
+    "marina": 1
+  },
+  "loto": {
+    "penumpang": 1
+  },
+  "iota,": {
+    "membersihkan": 1
+  },
+  "dausoko": {
+    "pelaut": 1,
+    "bar,": 1
+  },
+  "gunu.": {
+    "lain-lain.": 1
+  },
+  "vakamatau": {
+    "memilih": 1
+  },
+  "Frequent": {
+    "aliansi": 1
+  },
+  "Flyer.": {
+    "hati-hati.": 1
+  },
+  "Emirates,": {
+    "Emirates,": 1
+  },
+  "Eithad": {
+    "Etihad": 1
+  },
+  "Airways,": {
+    "Airways,": 1
+  },
+  "Airways": {
+    "Qatar": 1
+  },
+  "Qatar": {
+    "Airways,": 1
+  },
+  "Aferika": {
+    "tarif": 2
+  },
+  "2014": {
+    "Turkish": 1,
+    "Airlines": 1
+  },
+  "Turkish": {
+    "39": 1
+  },
+  "39": {
+    "30": 1
+  },
+  "30": {
+    "Afrika": 1
+  },
+  "visa,": {
+    "visa,": 1
+  },
+  "Hemisphere,": {
+    "Belahan": 1
+  },
+  "waitui.": {
+    "samudra.": 1,
+    "laut.": 1
+  },
+  "waswase": {
+    "penyeberangan": 1
+  },
+  "Yasani": {
+    "samudra": 1
+  },
+  "SkyTeam).": {
+    "lintasan": 1,
+    "ini).": 1
+  },
+  "Star": {
+    "Star": 1
+  },
+  "Alliance": {
+    "Alliance": 1
+  },
+  "Ceva": {
+    "Pasifik": 2,
+    "Selatan": 2
+  },
+  "Pasifika": {
+    "Santiago": 1
+  },
+  "Santiago": {
+    "Chile": 1
+  },
+  "Tahiti,": {
+    "Tahiti,": 1,
+    "dicakup": 1
+  },
+  "LATAM": {
+    "Oneworld": 1
+  },
+  "Oneworld.": {
+    "LATAM.": 1
+  },
+  "ra)": {
+    "bawah)": 1
+  },
+  "1994,": {
+    "tahun": 1
+  },
+  "veivaluvaluti": {
+    "1994,": 1,
+    "etnis": 1
+  },
+  "itaukei": {
+    "Armenia": 1
+  },
+  "Armenian": {
+    "melancarkan": 1
+  },
+  "Nagorno-Karabakh": {
+    "perang": 1
+  },
+  "Azerbaijan.": {
+    "Azeri.": 1,
+    "Azerbaijan.": 1
+  },
+  "Armenia,": {
+    "Armenia,": 1
+  },
+  "Armenia": {
+    "Armenia": 2
+  },
+  "vakamatanitu": {
+    "diplomatik": 1
+  },
+  "Canal": {
+    "Kanal": 1
+  },
+  "(vakaDutch:": {
+    "(Belanda:": 1
+  },
+  "Grachtengordel)": {
+    "Grachtengordel)": 1
+  },
+  "ika17": {
+    "ke-17": 1
+  },
+  "Amsterdam.": {
+    "Binnenstad,": 1,
+    "Amsterdam.": 1
+  },
+  "okai": {
+    "Situs": 1
+  },
+  "UNESCO": {
+    "Warisan": 2
+  },
+  "Site": {
+    "UNESCO": 1
+  },
+  "Cinque": {
+    "Cinque": 1,
+    "Terre,": 1
+  },
+  "Lima": {
+    "Tanah,": 1
+  },
+  "kkoro": {
+    "Riomaggiore,": 1
+  },
+  "Riomaggiore,": {
+    "Corniglia,": 1
+  },
+  "Manarola,": {
+    "Vernazza,": 1
+  },
+  "Monterosso": {
+    "Monterosso": 1
+  },
+  "Liguria.": {
+    "Liguria": 1,
+    "Italia.": 1
+  },
+  "Heritage": {
+    "Dunia": 1
+  },
+  "List.": {
+    "UNESCO.": 1
+  },
+  "vakaivatavatataka": {
+    "hati-hati": 1
+  },
+  "veibaba": {
+    "teras": 1,
+    "fyord": 1
+  },
+  "cere": {
+    "lanskap": 1
+  },
+  "vakaVaranise": {
+    "Prancis": 4
+  },
+  "Belgium": {
+    "Belgia": 3
+  },
+  "Suwitisiladi": {
+    "Prancis": 2
+  },
+  "veivolekati": {
+    "saling": 1,
+    "memahami.": 1
+  },
+  "Vakauasivi,": {
+    "Khususnya,": 1
+  },
+  "icavucavuti": {
+    "katanya": 1
+  },
+  "mani": {
+    "Walaupun": 1,
+    "begitu,": 1
+  },
+  "vakaVaranise.": {
+    "standar.": 1
+  },
+  "“bula.”": {
+    "sapaan": 1,
+    "\"halo.\"": 1
+  },
+  "Malesia": {
+    "Malaysia,": 1,
+    "Melayu": 1,
+    "pedesaan,": 1
+  },
+  "(mai": {
+    "telapak": 1
+  },
+  "sureti": {
+    "menandakan": 1
+  },
+  "veikilai": {
+    "komunikasi": 1
+  },
+  "lingua": {
+    "lingua": 1,
+    "franca,": 1
+  },
+  "fancas,": {
+    "alami": 1
+  },
+  "raraba": {
+    "dominan": 1
+  },
+  "iyalyalo": {
+    "fatamorgana": 1,
+    "memunculkan": 1
+  },
+  "ka).": {
+    "lainnya).": 1
+  },
+  "mena": {
+    "airnya": 1
+  },
+  "dravuisiga": {
+    "Padang": 1,
+    "pasir": 1,
+    "terpanas": 1,
+    "sekalipun": 1
+  },
+  "qonini": {
+    "memakai": 1,
+    "baju": 1
+  },
+  "vulaikatakata,": {
+    "Jika": 1,
+    "berjalan": 1
+  },
+  "qarauna": {
+    "hutan": 1,
+    "hujan,": 1
+  },
+  "katuba": {
+    "kendaraan": 1
+  },
+  "namu.": {
+    "kendaraan": 1,
+    "Anda.": 1
+  },
+  "vukavuka,": {
+    "Flu": 1,
+    "burung,": 1
+  },
+  "influenza,": {
+    "avian": 1
+  },
+  "vakaleqai": {
+    "influenza,": 1
+  },
+  "mammals.": {
+    "mamalia.": 1
+  },
+  "tamata,": {
+    "manusia,": 1
+  },
+  "dewavi": {
+    "unggas,": 1,
+    "pengamat": 1
+  },
+  "vuka.": {
+    "risiko.": 1
+  },
+  "vakadodonu": {
+    "dataran": 2
+  },
+  "veitokaitua": {
+    "tinggi": 2
+  },
+  "sukusukura.": {
+    "tiba-tiba.": 1
+  },
+  "“vidde”": {
+    "\"vidde\"": 1,
+    "ruang": 1,
+    "terbuka": 1
+  },
+  "raba,": {
+    "luas": 1
+  },
+  "galala.": {
+    "batas.\"": 1
+  },
+  "Rogaland": {
+    "\"Di": 1,
+    "Rogaland": 1
+  },
+  "Agder": {
+    "Agder": 1
+  },
+  "“hei”": {
+    "\"hei\",": 1
+  },
+  "vuniwai": {
+    "pohon": 1
+  },
+  "isalusalu": {
+    "kerap": 1
+  },
+  "heather.": {
+    "heather.\"": 1
+  },
+  "dei": {
+    "Gletser": 1,
+    "stabil,": 1
+  },
+  "kakaca,": {
+    "retakan,": 1
+  },
+  "qakilo,": {
+    "celah,": 1
+  },
+  "ikawakawa": {
+    "telihat": 1
+  },
+  "ucacevata.": {
+    "jembatan": 1,
+    "salju.": 1
+  },
+  "qaravatu": {
+    "atap": 1
+  },
+  "solega": {
+    "gua": 1
+  },
+  "kasura": {
+    "runtuh": 1
+  },
+  "tasogo": {
+    "retakannya": 1
+  },
+  "cicila": {
+    "tertutup.": 1
+  },
+  "batibatini": {
+    "tepi": 1
+  },
+  "waicevata": {
+    "gletser,": 1,
+    "bongkahan-bongkahan": 1
+  },
+  "kaca": {
+    "terlepas,": 1,
+    "jatuh,": 1
+  },
+  "lutu,": {
+    "melompat": 1
+  },
+  "tatiki": {
+    "berguling": 1,
+    "menjauh": 1
+  },
+  "sarasara": {
+    "mencapai": 1
+  },
+  "veidelana.": {
+    "India.": 1
+  },
+  "ivodovodo": {
+    "memberikan": 2
+  },
+  "somate": {
+    "menit": 1
+  },
+  "vakasauri.": {
+    "terakhir.": 1
+  },
+  "Air": {
+    "Air": 2
+  },
+  "Lufthansa": {
+    "Lines,": 1,
+    "Lufthansa": 1
+  },
+  "WestJet.": {
+    "Westjet.": 1
+  },
+  "qirita": {
+    "kasus,": 1
+  }
+}

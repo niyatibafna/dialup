@@ -1,0 +1,1907 @@
+{
+  "izi": {
+    "dia": 0.444
+  },
+  "rehefa": {
+    "jika": 0.778
+  },
+  "aho": {
+    "aku": 0.556,
+    "saya": 0.556
+  },
+  "amin’ny": {
+    "dengan": 0.556
+  },
+  "anaty": {
+    "dalam": 0.556
+  },
+  "ary": {
+    "dan": 0.556
+  },
+  "ianao": {
+    "engkau": 0.556,
+    "kamu": 0.556
+  },
+  "ianareo": {
+    "kalian": 0.556
+  },
+  "inona": {
+    "apa": 0.556
+  },
+  "isika": {
+    "kami": 0.556,
+    "kita": 0.556
+  },
+  "ity": {
+    "ini": 0.556
+  },
+  "iza": {
+    "siapa": 0.556
+  },
+  "izahay": {
+    "kami": 0.556,
+    "kita": 0.556
+  },
+  "izany": {
+    "itu": 0.556
+  },
+  "izy": {
+    "di": 0.556,
+    "dia": 0.556
+  },
+  "mifoha": {
+    "diri": 0.556
+  },
+  "mitsangana": {
+    "diri": 0.556
+  },
+  "na": {
+    "atau": 0.778
+  },
+  "raha": {
+    "kalau": 0.556
+  },
+  "sa": {
+    "atau": 0.778
+  },
+  "satria": {
+    "karena": 0.556
+  },
+  "sy": {
+    "dan": 0.778,
+    "serta": 0.778
+  },
+  "tsia": {
+    "bukan": 0.556,
+    "tidak": 0.556
+  },
+  "tsy": {
+    "bukan": 0.778,
+    "tak": 0.778,
+    "tidak": 0.778
+  },
+  "hianaréo": {
+    "anda": 0.556,
+    "kalian": 0.556,
+    "kamu": 0.556
+  },
+  "hianáo": {
+    "anda": 0.556,
+    "kamu": 0.556
+  },
+  "isíka": {
+    "kami": 0.556,
+    "kita": 0.556
+  },
+  "iz[áho]": {
+    "aku": 0.556,
+    "saya": 0.556
+  },
+  "izaháy": {
+    "kami": 0.556,
+    "kita": 0.556
+  },
+  "izáy": {
+    "siapa": 0.556
+  },
+  "ka": {
+    "dan": 0.556
+  },
+  "ovíana": {
+    "bila": 0.556
+  },
+  "rehétra": {
+    "semua": 0.556
+  },
+  "ráha": {
+    "kalau": 0.556
+  },
+  "tónga": {
+    "serta": 0.556
+  },
+  "áiza": {
+    "dimana": 0.556
+  },
+  "ámy": {
+    "di": 0.556
+  },
+  "ány": {
+    "itu": 0.556
+  },
+  "áo": {
+    "itu": 0.556
+  },
+  "áty": {
+    "ini": 0.556
+  },
+  "ávy": {
+    "serta": 0.556
+  },
+  "ínona": {
+    "apa": 0.556
+  },
+  "ízy": {
+    "dia": 0.556,
+    "mereka": 0.556
+  },
+  "izàho": {
+    "aku": 0.778,
+    "saya": 0.778
+  },
+  "àho": {
+    "aku": 0.778,
+    "saya": 0.778
+  },
+  "ianào": {
+    "engkau": 0.778,
+    "kamu": 0.778,
+    "kau": 0.778
+  },
+  "ialàhy": {
+    "engkau": 0.778,
+    "kamu": 0.778,
+    "kau": 0.778
+  },
+  "itèna": {
+    "engkau": 0.778,
+    "kamu": 0.778,
+    "kau": 0.778
+  },
+  "ìzy": {
+    "beliau": 0.778,
+    "dia": 0.778,
+    "ia": 0.778
+  },
+  "isìka": {
+    "kita": 0.778
+  },
+  "izahày": {
+    "kami": 0.778
+  },
+  "ianarèo": {
+    "kalian": 0.778
+  },
+  "àry": {
+    "dan": 0.778,
+    "serta": 0.778
+  },
+  "tònga": {
+    "sampai": 0.778
+  },
+  "manàraka": {
+    "menurut": 0.778
+  },
+  "àvy": {
+    "sampai": 0.778
+  },
+  "aorìana": {
+    "sesudah": 0.778,
+    "setelah": 0.778
+  },
+  "anàty": {
+    "dalam": 0.778,
+    "di": 0.778
+  },
+  "aN-": {
+    "di": 0.778
+  },
+  "alòha": {
+    "sebelum": 0.778
+  },
+  "ambòny": {
+    "atas": 0.778
+  },
+  "làlina": {
+    "dalam": 0.778
+  },
+  "rèhetra": {
+    "segala": 0.778,
+    "semua": 0.778
+  },
+  "vìtsy": {
+    "beberapa": 0.778
+  },
+  "sasàny": {
+    "beberapa": 0.778
+  },
+  "vitsivìtsy": {
+    "beberapa": 0.778
+  },
+  "tòkana": {
+    "sendiri": 0.778
+  },
+  "mikàsika": {
+    "mengenai": 0.778
+  },
+  "mitsàpa": {
+    "mengenai": 0.778
+  },
+  "tìa": {
+    "ingin": 0.778,
+    "mau": 0.778
+  },
+  "mikàsa": {
+    "ingin": 0.778,
+    "mau": 0.778
+  },
+  "manìry": {
+    "ingin": 0.778,
+    "mau": 0.778
+  },
+  "dìa": {
+    "dan": 0.778,
+    "serta": 0.778
+  },
+  "satrìa": {
+    "karena": 0.778
+  },
+  "ràha": {
+    "jika": 0.778,
+    "kalau": 0.778
+  },
+  "èny": {
+    "ya": 0.778
+  },
+  "tsìa": {
+    "bukan": 0.778,
+    "tak": 0.778,
+    "tidak": 0.778
+  },
+  "ìnona": {
+    "apa": 0.778
+  },
+  "ovìana": {
+    "bila": 0.778
+  },
+  "àiza": {
+    "mana": 0.778
+  },
+  "ìzay": {
+    "mana": 0.778
+  },
+  "ìza": {
+    "siapa": 0.778
+  },
+  "man-àsa": {
+    "mengajak": 0.778
+  },
+  "mìsy": {
+    "bersama": 0.778,
+    "dengan": 0.778,
+    "serta": 0.778
+  },
+  "tsy mìsy": {
+    "tanpa": 0.778
+  },
+  "àmin’...": {
+    "bersama": 0.778,
+    "dengan": 0.778,
+    "serta": 0.778
+  },
+  "àman’...": {
+    "bersama": 0.778,
+    "dengan": 0.778,
+    "serta": 0.778
+  },
+  "èrana": {
+    "melalui": 0.778
+  },
+  "izat`y": {
+    "ini": 0.778
+  },
+  "izào": {
+    "itu": 0.778
+  },
+  "its`y": {
+    "itu": 0.778
+  },
+  "izats`y": {
+    "itu": 0.778
+  },
+  "ìo": {
+    "itu": 0.778
+  },
+  "irèo": {
+    "itu": 0.778
+  },
+  "irètsy": {
+    "itu": 0.778
+  },
+  "àto": {
+    "sini": 0.778
+  },
+  "et`y": {
+    "sini": 0.778
+  },
+  "èto": {
+    "sini": 0.778
+  },
+  "at`y": {
+    "sini": 0.778
+  },
+  "ny … rehetra": {
+    "semua": 0.556
+  },
+  "vitsivitsy": {
+    "beberapa": 0.556
+  },
+  "isy ireo": {
+    "mereka": 0.556
+  },
+  "ny": {
+    "yang": 41
+  },
+  "izay": {
+    "yang": 192
+  },
+  "afaka": {
+    "dapat": 12
+  },
+  "azo": {
+    "dapat": 8
+  },
+  "amboarina": {
+    "bisa": 2
+  },
+  "ho": {
+    "akan": 14
+  },
+  "Ireo": {
+    "ini": 7
+  },
+  "mety": {
+    "mungkin": 19
+  },
+  "any": {
+    "di": 64
+  },
+  "tahaka": {
+    "seperti": 10
+  },
+  "dia": {
+    "adalah": 43
+  },
+  "maraina": {
+    "sekitar": 4
+  },
+  "ireo": {
+    "yang": 20
+  },
+  "Ilay": {
+    "tersebut": 3
+  },
+  "nisy": {
+    "sebuah": 5
+  },
+  "tao": {
+    "di": 50
+  },
+  "am-pamaliana.": {
+    "sedang": 1
+  },
+  "i": {
+    "dengan": 5,
+    "untuk": 5
+  },
+  "teo": {
+    "di": 9
+  },
+  "eo": {
+    "di": 35
+  },
+  "taorian’ny": {
+    "setelah": 11
+  },
+  "nobahanan’ireo": {
+    "lalu": 1
+  },
+  "mianavaratra": {
+    "menuju": 2
+  },
+  "mpandeha": {
+    "para": 2
+  },
+  "fa": {
+    "bahwa": 56
+  },
+  "maintsy": {
+    "harus": 14
+  },
+  "Nadal": {
+    "asal": 1
+  },
+  "fifanandrinany": {
+    "tersebut": 1
+  },
+  "tamin'ilay": {
+    "yaitu": 1
+  },
+  "resin’i": {
+    "ini": 1
+  },
+  "Raonic": {
+    "dia": 1
+  },
+  "tamin’ny": {
+    "pada": 42
+  },
+  "nandritra": {
+    "selama": 9
+  },
+  "mba": {
+    "untuk": 44
+  },
+  "Ny": {
+    "adalah": 15
+  },
+  "no": {
+    "yang": 25
+  },
+  "hialana": {
+    "demi": 1
+  },
+  "nampiasaina": {
+    "yang": 4
+  },
+  "izao": {
+    "untuk": 4
+  },
+  "fanenjehana": {
+    "seluruh": 1
+  },
+  "bevava": {
+    "beberapa": 1
+  },
+  "nametra-pialàna": {
+    "para": 1
+  },
+  "manintona": {
+    "daripada": 1
+  },
+  "Alex": {
+    "ialah": 1
+  },
+  "5-3": {
+    "atas": 1
+  },
+  "io": {
+    "ini": 9
+  },
+  "azy": {
+    "yang": 8
+  },
+  "mihoatra": {
+    "dari": 12
+  },
+  "hatramin’ny": {
+    "hingga": 7
+  },
+  "Lemieux": {
+    "masing-masing": 1
+  },
+  "notombanana": {
+    "senilai": 1
+  },
+  "fonja": {
+    "setelah": 1
+  },
+  "tsikaritra": {
+    "terhadap": 1
+  },
+  "aorian’ny": {
+    "setelah": 4
+  },
+  "manerana": {
+    "di": 3
+  },
+  "nokendreny.": {
+    "mengenai": 1
+  },
+  "manaka-danitra": {
+    "sedang": 1
+  },
+  "miaraka": {
+    "dengan": 14
+  },
+  "mifantoka": {
+    "pada": 5
+  },
+  "alalan’ny": {
+    "lewat": 4
+  },
+  "maro.": {
+    "berbagai": 1
+  },
+  "rehetra": {
+    "semua": 8
+  },
+  "tokony": {
+    "harus": 5
+  },
+  "mankany": {
+    "ke": 9
+  },
+  "haka": {
+    "untuk": 2
+  },
+  "ilay": {
+    "yang": 12
+  },
+  "miles": {
+    "per": 4
+  },
+  "andrefan’ny": {
+    "sebelah": 1
+  },
+  "mialohan’ny": {
+    "sebelum": 2
+  },
+  "isan’ora)": {
+    "per": 1
+  },
+  "mikisaka": {
+    "menuju": 1
+  },
+  "trôpikaly": {
+    "sejauh": 1
+  },
+  "mandritra": {
+    "untuk": 4,
+    "selama": 4
+  },
+  "dolara)": {
+    "per": 1
+  },
+  "androany": {
+    "ini": 5
+  },
+  "ambonin’ny": {
+    "atas": 3,
+    "di": 3
+  },
+  "80": {
+    "dari": 2
+  },
+  "vonjimaika": {
+    "sementara": 2
+  },
+  "an’ireo": {
+    "mereka": 4
+  },
+  "voampanga": {
+    "demi": 1
+  },
+  "Peter": {
+    "seorang": 2
+  },
+  "Midika": {
+    "kita": 1
+  },
+  "fitsipika": {
+    "terhadap": 2
+  },
+  "“Nanahiran-tsaina": {
+    "serangkaian": 1
+  },
+  "adim-pandovana": {
+    "demi": 1
+  },
+  "efa": {
+    "telah": 5
+  },
+  "sady": {
+    "dan": 13
+  },
+  "Apple": {
+    "kami": 1
+  },
+  "anio,": {
+    "akan": 1
+  },
+  "niady": {
+    "itu": 1
+  },
+  "haseho": {
+    "kepada": 1
+  },
+  "hita": {
+    "tak": 2
+  },
+  "natao": {
+    "untuk": 2
+  },
+  "trano.": {
+    "dalam": 2
+  },
+  "niala": {
+    "lalu": 2,
+    "dari": 2
+  },
+  "mpankafia": {
+    "kepada": 1
+  },
+  "fitantanana": {
+    "yaitu": 1
+  },
+  "anatin’ny": {
+    "dalam": 11
+  },
+  "amin'ny": {
+    "dengan": 6
+  },
+  "momba": {
+    "tentang": 6
+  },
+  "nambarany": {
+    "sebagaimana": 1
+  },
+  "Fitsarana": {
+    "tersebut": 1
+  },
+  "Tody": {
+    "telah": 1
+  },
+  "tonta": {
+    "sudah": 1
+  },
+  "handresen’i": {
+    "sebagai": 1
+  },
+  "Velociraptor.": {
+    "layaknya": 1
+  },
+  "rakotra": {
+    "yang": 2
+  },
+  "mamotipotika,": {
+    "selain": 1
+  },
+  "vao": {
+    "akan": 3
+  },
+  "hihatsara": {
+    "sampai": 1
+  },
+  "miangona,": {
+    "menurut": 1
+  },
+  "an’i": {
+    "dari": 3
+  },
+  "amin’ilay": {
+    "ke": 4
+  },
+  "raharaha": {
+    "itu": 3
+  },
+  "zavatra": {
+    "yang": 17
+  },
+  "fanamafisana": {
+    "selain": 1
+  },
+  "ampy": {
+    "sudah": 3
+  },
+  "nahita": {
+    "sebuah": 2
+  },
+  "Nizotra": {
+    "menuju": 1
+  },
+  "nakany": {
+    "tersebut": 1
+  },
+  "Irkutsk": {
+    "menuju": 1
+  },
+  "notarihin’ny": {
+    "oleh": 1
+  },
+  "Tsy": {
+    "tidak": 11
+  },
+  "taorian’izany": {
+    "setelah": 1
+  },
+  "mahazaka": {
+    "antara": 1
+  },
+  "lavaky": {
+    "hingga": 1
+  },
+  "hafanana": {
+    "dalam": 2
+  },
+  "faritra": {
+    "di": 5
+  },
+  "tobin-tsolika": {
+    "belum": 1
+  },
+  "vokatry": {
+    "sesudah": 1
+  },
+  "mahatratra": {
+    "per": 2
+  },
+  "talohan’ny": {
+    "sebelum": 4
+  },
+  "an’ny": {
+    "untuk": 14
+  },
+  "Hitovy": {
+    "tersebut": 1
+  },
+  "miala": {
+    "dari": 6
+  },
+  "mandalo": {
+    "melalui": 3
+  },
+  "hany": {
+    "sehingga": 4
+  },
+  "sisa": {
+    "yang": 6
+  },
+  "nanaiky": {
+    "untuk": 4
+  },
+  "miankina": {
+    "pada": 4
+  },
+  "toy": {
+    "seperti": 19
+  },
+  "fananana": {
+    "adalah": 1
+  },
+  "90": {
+    "sekitar": 2
+  },
+  "kanefa": {
+    "tetapi": 6
+  },
+  "hoe": {
+    "mereka": 6,
+    "sebagai": 6
+  },
+  "anelanelan’ny": {
+    "antara": 2
+  },
+  "vita": {
+    "yang": 5
+  },
+  "vola": {
+    "untuk": 4
+  },
+  "300": {
+    "sebanyak": 1,
+    "per": 1
+  },
+  "hanamaivanana": {
+    "wajib": 1
+  },
+  "fahamaroan’ny": {
+    "demi": 1
+  },
+  "tokana.": {
+    "daripada": 1
+  },
+  "trondro.": {
+    "maupun": 1
+  },
+  "eny": {
+    "di": 12
+  },
+  "rivotra,": {
+    "ini": 1
+  },
+  "Jazz": {
+    "setelah": 1
+  },
+  "Utah": {
+    "seorang": 1
+  },
+  "mila": {
+    "harus": 6
+  },
+  "fahalalahana": {
+    "mungkin": 1
+  },
+  "taoraharaha": {
+    "akan": 1
+  },
+  "krizy": {
+    "selama": 2
+  },
+  "hampidi-doza": {
+    "dalam": 2
+  },
+  "Branson,": {
+    "agar": 1
+  },
+  "nandraisana": {
+    "sebelum": 1
+  },
+  "ety": {
+    "ke": 2
+  },
+  "000": {
+    "sekitar": 2
+  },
+  "Puerto": {
+    "sedang": 1
+  },
+  "Princesa": {
+    "menuju": 1
+  },
+  "Nampiandraiketina": {
+    "ini": 1
+  },
+  "maro,": {
+    "sejumlah": 2
+  },
+  "miisa": {
+    "telah": 3
+  },
+  "fihenjanana": {
+    "itu": 1,
+    "karena": 1
+  },
+  "fifandraisan’i": {
+    "itu": 1
+  },
+  "Nomban’ireo": {
+    "oleh": 1
+  },
+  "Perry,": {
+    "secara": 1
+  },
+  "aterak’ity": {
+    "dalam": 1
+  },
+  "governora:": {
+    "kami": 1
+  },
+  "salan-taonan’ny": {
+    "telah": 2
+  },
+  "marary.”": {
+    "dengan": 1
+  },
+  "aminay.”": {
+    "sebagaimana": 1
+  },
+  "Mushashi": {
+    "akan": 1
+  },
+  "vakivakintsambo": {
+    "itu": 1
+  },
+  "fivoarana": {
+    "sudah": 1
+  },
+  "Hall,": {
+    "bersama": 1
+  },
+  "lafin’ny": {
+    "jika": 1
+  },
+  "amin’ireo": {
+    "yang": 9
+  },
+  "nankao": {
+    "itu": 1
+  },
+  "araka": {
+    "yang": 4
+  },
+  "kosa": {
+    "di": 2
+  },
+  "kph.": {
+    "per": 1
+  },
+  "aina": {
+    "tidak": 4
+  },
+  "Formule": {
+    "sebanyak": 1
+  },
+  "taoriana": {
+    "setelah": 1
+  },
+  "toe-pahasalaman’ny": {
+    "walau": 1
+  },
+  "filoha,": {
+    "demikian": 1
+  },
+  "hatoka-monina": {
+    "harus": 1
+  },
+  "aza": {
+    "untuk": 5
+  },
+  "aretin-tenda": {
+    "saya": 1
+  },
+  "rotsak’orana": {
+    "dari": 1
+  },
+  "arahina": {
+    "oleh": 1
+  },
+  "varatra": {
+    "yang": 1
+  },
+  "saingy": {
+    "tetapi": 10
+  },
+  "anatin’ilay": {
+    "dalam": 2
+  },
+  "tena": {
+    "yang": 7
+  },
+  "iny": {
+    "yang": 3
+  },
+  "tatitra,": {
+    "berbagai": 1
+  },
+  "Tokony": {
+    "harus": 2
+  },
+  "olimpika": {
+    "maupun": 1
+  },
+  "handray": {
+    "untuk": 3
+  },
+  "mandritry": {
+    "pada": 2
+  },
+  "eritreritro": {
+    "saya": 2
+  },
+  "fanamarihany": {
+    "ia": 2
+  },
+  "Blake": {
+    "kepada": 1
+  },
+  "idivirana”": {
+    "dia": 1
+  },
+  "amin'izao": {
+    "terhadap": 1
+  },
+  "fiantraikany": {
+    "terhadap": 1
+  },
+  "fihitaran’ny": {
+    "terhadap": 1
+  },
+  "nandrakotra": {
+    "seluruh": 1
+  },
+  "nanapoaka": {
+    "telah": 1
+  },
+  "baomba,": {
+    "ia": 1
+  },
+  "vokatr’ilay": {
+    "dari": 1
+  },
+  "fantatr’ireo": {
+    "belum": 1
+  },
+  "fantany": {
+    "meskipun": 1
+  },
+  "vondrom-poko": {
+    "ia": 1
+  },
+  "amina": {
+    "sebuah": 4,
+    "di": 4
+  },
+  "tohina": {
+    "semua": 1
+  },
+  "daholo": {
+    "akan": 3
+  },
+  "fantatsika,": {
+    "kami": 1
+  },
+  "Titan,": {
+    "daripada": 1
+  },
+  "anarany”,": {
+    "yaitu": 1
+  },
+  "rehetra,": {
+    "semua": 5
+  },
+  "manodidina": {
+    "sekitar": 10
+  },
+  "nanohana": {
+    "kepada": 1
+  },
+  "toa": {
+    "seperti": 3
+  },
+  "voatatitra": {
+    "seperti": 1
+  },
+  "tamina": {
+    "dalam": 2
+  },
+  "Mety": {
+    "mungkin": 6
+  },
+  "Emirates": {
+    "tersebut": 1
+  },
+  "sovietika": {
+    "atas": 1
+  },
+  "notaritiny": {
+    "beliau": 1
+  },
+  "fotoan-dehiben’ilay": {
+    "sebelum": 1
+  },
+  "fihetsika": {
+    "ini": 2
+  },
+  "sarany": {
+    "sebesar": 1
+  },
+  "alohan’ny": {
+    "sebelum": 3
+  },
+  "famatsiana": {
+    "per": 1
+  },
+  "ambany": {
+    "dari": 4
+  },
+  "anatin'ny": {
+    "sebagai": 3
+  },
+  "Vilnius": {
+    "di": 1
+  },
+  "Valetta": {
+    "di": 1
+  },
+  "nampihemotra": {
+    "dan": 1
+  },
+  "Cruelty": {
+    "seluruh": 1
+  },
+  "ifandraisany": {
+    "dengan": 2
+  },
+  "fihetsehan’ny": {
+    "apa": 1
+  },
+  "volikano": {
+    "pun": 1
+  },
+  "ahafantarana": {
+    "sudah": 1,
+    "tidaknya": 1
+  },
+  "toratelo": {
+    "bila": 1
+  },
+  "an-dalàna": {
+    "sepanjang": 1
+  },
+  "mirefy": {
+    "sepanjang": 1
+  },
+  "neken’ny": {
+    "yang": 1
+  },
+  "antenimiera": {
+    "tersebut": 1
+  },
+  "2016": {
+    "agar": 1
+  },
+  "Vautier": {
+    "selain": 1
+  },
+  "nanoherana": {
+    "ia": 1
+  },
+  "1960": {
+    "ia": 1
+  },
+  "fanatontosana": {
+    "suatu": 1
+  },
+  "Osaka": {
+    "pada": 1
+  },
+  "Texas,": {
+    "lalu": 1
+  },
+  "niaraka": {
+    "bersama": 3
+  },
+  "rehetra”": {
+    "layaknya": 1
+  },
+  "nomena": {
+    "dari": 2
+  },
+  "Danielle": {
+    "pada": 1
+  },
+  "niarahany": {
+    "ia": 1
+  },
+  "ekipa,": {
+    "telah": 1
+  },
+  "Amboarampeon’ny": {
+    "itu": 1
+  },
+  "Dervishes": {
+    "ke": 1,
+    "atas": 1
+  },
+  "Safina": {
+    "bersama": 1
+  },
+  "taorian'ny": {
+    "setelah": 1
+  },
+  "bisikiletany": {
+    "lalu": 1
+  },
+  "Soa": {
+    "saya": 1
+  },
+  "naninona": {
+    "apa": 1
+  },
+  "aho,": {
+    "saya": 1
+  },
+  "nefa": {
+    "tetapi": 2
+  },
+  "vaky": {
+    "bisa": 1
+  },
+  "varavarankely": {
+    "lewat": 1
+  },
+  "Miasa": {
+    "sedang": 1
+  },
+  "reaktera": {
+    "kita": 1
+  },
+  "fanjaitra": {
+    "atas": 1
+  },
+  "ambony": {
+    "atas": 3
+  },
+  "aza.": {
+    "bahkan": 7
+  },
+  "makany": {
+    "ke": 2
+  },
+  "ampahana": {
+    "sebuah": 1
+  },
+  "voankazavana": {
+    "bahkan": 1
+  },
+  "famonoana": {
+    "harus": 1
+  },
+  "zavamaniry": {
+    "ini": 2
+  },
+  "hoatran’ny": {
+    "seperti": 1
+  },
+  "matsilo": {
+    "dan": 1
+  },
+  "Afaka": {
+    "dapat": 6
+  },
+  "hihinanana": {
+    "sebelum": 1
+  },
+  "manontolo": {
+    "seluruh": 2
+  },
+  "hitantsika": {
+    "kita": 1
+  },
+  "mijery": {
+    "kita": 4
+  },
+  "fotoam-pilaminana": {
+    "telah": 1
+  },
+  "991,": {
+    "pada": 1
+  },
+  "niadiany": {
+    "mana": 1,
+    "pun": 1
+  },
+  "Trygvasson": {
+    "ini": 1
+  },
+  "Norvezianina": {
+    "seorang": 1
+  },
+  "oharina": {
+    "dengan": 3
+  },
+  "nanamboatra": {
+    "telah": 1
+  },
+  "kelin’ny": {
+    "sebelum": 1
+  },
+  "hijanona": {
+    "untuk": 2,
+    "di": 2
+  },
+  "ireny": {
+    "mereka": 3
+  },
+  "matematisianina": {
+    "yaitu": 1
+  },
+  "teôrema": {
+    "mengenai": 1
+  },
+  "fifandraisan’ny": {
+    "antara": 2
+  },
+  "mifanakaiky": {
+    "atau": 1
+  },
+  "340": {
+    "antara": 1
+  },
+  "samy": {
+    "yang": 11
+  },
+  "nataon’i": {
+    "yang": 3
+  },
+  "Niainga": {
+    "ini": 1
+  },
+  "terehin-tsoratra": {
+    "pun": 1
+  },
+  "nahazoany": {
+    "sejak": 1
+  },
+  "mpanjakan’i": {
+    "yang": 1
+  },
+  "1839": {
+    "sudah": 1
+  },
+  "ampahan’i": {
+    "dari": 3
+  },
+  "matanjaka,": {
+    "yaitu": 1
+  },
+  "an’asa,": {
+    "sedangkan": 1
+  },
+  "ara-dalàna.": {
+    "yang": 1
+  },
+  "ampahefany": {
+    "per": 1
+  },
+  "ampahadiminy": {
+    "per": 1
+  },
+  "vitan’ny": {
+    "dengan": 1
+  },
+  "halavanà": {
+    "dengan": 1
+  },
+  "miova": {
+    "setiap": 1
+  },
+  "mpijery": {
+    "pada": 1
+  },
+  "Rovan’ny": {
+    "seperti": 1
+  },
+  "varavarankeliny": {
+    "mampu": 1
+  },
+  "afatsy": {
+    "sekelompok": 1
+  },
+  "rehetra.": {
+    "semua": 4
+  },
+  "Erostraty.": {
+    "oleh": 1
+  },
+  "milamina": {
+    "walaupun": 1
+  },
+  "am-panoratana": {
+    "sambil": 1
+  },
+  "amin’ny,": {
+    "atas": 1
+  },
+  "fisian’Andriamanitra": {
+    "tentang": 1
+  },
+  "fombafomba": {
+    "dalam": 2
+  },
+  "Sikhs": {
+    "mereka": 3
+  },
+  "Punjabi.": {
+    "sang": 1
+  },
+  "fototry": {
+    "dari": 3
+  },
+  "Gourou": {
+    "ini": 1
+  },
+  "(1469-1539)": {
+    "oleh": 1
+  },
+  "niavian’ny": {
+    "dari": 1
+  },
+  "mpandidy,": {
+    "tentang": 1
+  },
+  "tsara.": {
+    "yang": 1
+  },
+  "ireto": {
+    "ini": 2
+  },
+  "fahataitairana,": {
+    "serangkaian": 1
+  },
+  "atao": {
+    "mereka": 3
+  },
+  "mihanika": {
+    "atas": 1
+  },
+  "zava-mitranga": {
+    "yaitu": 1
+  },
+  "olana.": {
+    "suatu": 1
+  },
+  "isaky": {
+    "setiap": 1
+  },
+  "lucide\"": {
+    "setiap": 1
+  },
+  "Avaratra.": {
+    "sedari": 1
+  },
+  "ambaratonga": {
+    "berbagai": 2
+  },
+  "fisehon'ity": {
+    "dalam": 1
+  },
+  "ampiasan’ny": {
+    "yaitu": 1
+  },
+  "ampifandraisin’ny": {
+    "kebanyakan": 1
+  },
+  "fandehanan’ireo": {
+    "oleh": 1
+  },
+  "mpaka": {
+    "para": 1
+  },
+  "avaratry": {
+    "di": 4
+  },
+  "nitoeran’ny": {
+    "sepanjang": 1
+  },
+  "tetezana": {
+    "sepanjang": 1
+  },
+  "ankapoben’ireo": {
+    "secara": 1
+  },
+  "mahakasika": {
+    "tentang": 3
+  },
+  "tian’izy": {
+    "suatu": 1
+  },
+  "atoma": {
+    "dapat": 1
+  },
+  "tafahoatra": {
+    "bukan": 1
+  },
+  "fanaovana": {
+    "dan": 2
+  },
+  "resaka": {
+    "dalam": 4
+  },
+  "fitsapana": {
+    "pada": 1
+  },
+  "ana": {
+    "tertentu": 1
+  },
+  "endrikendrika": {
+    "semua": 1
+  },
+  "phénotype": {
+    "dalam": 2
+  },
+  "tafiky": {
+    "dalam": 1
+  },
+  "tsira-pitatitra": {
+    "seluruh": 1
+  },
+  "ambana.": {
+    "segala": 1
+  },
+  "anie": {
+    "kebanyakan": 1
+  },
+  "hisy": {
+    "kalau": 1
+  },
+  "Ahitana": {
+    "bisa": 1
+  },
+  "efitra": {
+    "seperti": 1
+  },
+  "biolojista": {
+    "seorang": 1
+  },
+  "Tahaka": {
+    "itu": 1
+  },
+  "nitirôzenina": {
+    "sebagai": 1
+  },
+  "Ohatra": {
+    "ialah": 1
+  },
+  "matsora": {
+    "maupun": 1
+  },
+  "toetrany": {
+    "kan": 1
+  },
+  "ara-fizika": {
+    "tetapi": 1
+  },
+  "ataontsika": {
+    "segala": 1
+  },
+  "mahatakatra": {
+    "demikian": 1
+  },
+  "azy.": {
+    "untuk": 4
+  },
+  "nianaran’ireo": {
+    "para": 1
+  },
+  "ara-tsiansa": {
+    "selama": 1
+  },
+  "Miaina": {
+    "melewati": 1
+  },
+  "marihina": {
+    "sendiri": 2
+  },
+  "fikirakirana": {
+    "guna": 1
+  },
+  "niantsoany": {
+    "diri": 1
+  },
+  "madinidinika": {
+    "beberapa": 1
+  },
+  "ahitam-bahaolana.": {
+    "sebuah": 1
+  },
+  "tsapan’ny": {
+    "apa": 1
+  },
+  "mamaky": {
+    "sedang": 1
+  },
+  "hitsarana": {
+    "secara": 1
+  },
+  "fiarany": {
+    "ia": 2
+  },
+  "“ho": {
+    "mengenai": 1
+  },
+  "mandrisika": {
+    "untuk": 2
+  },
+  "hamaliana": {
+    "terhadap": 1
+  },
+  "Manerana": {
+    "sepanjang": 1
+  },
+  "maoderina": {
+    "terhadap": 1
+  },
+  "iainantsika": {
+    "kami": 1
+  },
+  "hanamboatra": {
+    "akan": 2
+  },
+  "trano": {
+    "di": 4
+  },
+  "niomana.": {
+    "tak": 1
+  },
+  "fahampiana": {
+    "selama": 1
+  },
+  "ara-pahasalamana": {
+    "bisa": 2
+  },
+  "Fomba": {
+    "sudah": 1
+  },
+  "noraran’i": {
+    "tetapi": 1
+  },
+  "tapakila.": {
+    "boleh": 1
+  },
+  "voalohan’ny": {
+    "tiap": 1
+  },
+  "voalohany,": {
+    "siapa": 1
+  },
+  "lalan’ny": {
+    "lalu": 1
+  },
+  "niavianao": {
+    "asal": 1
+  },
+  "Martsa),": {
+    "sampai": 1
+  },
+  "fotoanany": {
+    "mereka": 1
+  },
+  "Siem": {
+    "sebelah": 1
+  },
+  "fitsidihana": {
+    "ke": 1
+  },
+  "arkeôlôjia": {
+    "beserta": 1
+  },
+  "hiaran’io": {
+    "terhadap": 1
+  },
+  "Silia": {
+    "sedangkan": 1
+  },
+  "nahazoan’I": {
+    "sampai": 1
+  },
+  "an-tanann-dehibe": {
+    "sebagai": 1
+  },
+  "foana,": {
+    "dan": 1
+  },
+  "zarain’ny": {
+    "oleh": 1
+  },
+  "omenao": {
+    "beberapa": 1
+  },
+  "fitaingenana": {
+    "sejumlah": 1
+  },
+  "voafandrika": {
+    "sudah": 1
+  },
+  "fahazoan-dàlana": {
+    "harus": 1
+  },
+  "vondronosy": {
+    "mana": 1
+  },
+  "2,2": {
+    "seluas": 1
+  },
+  "Hawaii”": {
+    "sebagai": 1
+  },
+  "lafo": {
+    "mungkin": 4
+  },
+  "farak’izay": {
+    "lewat": 1
+  },
+  "zatra": {
+    "dengan": 2
+  },
+  "ahoana": {
+    "pun": 1
+  },
+  "hipetrahan’ireo": {
+    "bagi": 1
+  },
+  "tanàndehibe": {
+    "mereka": 1
+  },
+  "omena": {
+    "lalu": 1
+  },
+  "an-taratasy": {
+    "melalui": 1
+  },
+  "hijanonana": {
+    "selama": 1
+  },
+  "fandraisam-bahiny": {
+    "bagi": 1
+  },
+  "tetiandron'ilay": {
+    "masing-masing": 1
+  },
+  "Ireny": {
+    "ini": 2
+  },
+  "Tsotra": {
+    "itu": 1
+  },
+  "taratasim-piantohana": {
+    "beserta": 1
+  },
+  "fandrahonana": {
+    "terhadap": 1
+  },
+  "tenany.": {
+    "diri": 2
+  },
+  "hiaro": {
+    "apabila": 1
+  },
+  "fiantraikan’ny": {
+    "setiap": 1
+  },
+  "fetranao.": {
+    "kita": 1
+  },
+  "canyoneering)": {
+    "segala": 1
+  },
+  "ankamaroan’izy": {
+    "secara": 1
+  },
+  "dinihina": {
+    "sebelum": 1
+  },
+  "mandritran’ny": {
+    "ke": 1
+  },
+  "tazoninao": {
+    "sesuatu": 1
+  },
+  "te": {
+    "ingin": 6
+  },
+  "tranobe.": {
+    "suatu": 1
+  },
+  "ipetrapetrahan’ireo": {
+    "sini": 1
+  },
+  "soratsoratra": {
+    "sebagai": 1
+  },
+  "hahay": {
+    "oleh": 1
+  },
+  "manipy": {
+    "sebaiknya": 1,
+    "jangan": 1
+  },
+  "Hangi.": {
+    "dalam": 1
+  },
+  "hafana": {
+    "secara": 1
+  },
+  "otrik’aretina": {
+    "sudah": 1
+  },
+  "traikefa": {
+    "dan": 1
+  },
+  "fananany": {
+    "ia": 1
+  },
+  "Uptown": {
+    "secara": 1
+  },
+  "Tendron-tany": {
+    "sekitar": 1
+  },
+  "Antartica": {
+    "adalah": 1
+  },
+  "mahagaga": {
+    "bukan": 1
+  },
+  "tairina": {
+    "sejumlah": 2
+  },
+  "tadio": {
+    "suatu": 1
+  },
+  "maka": {
+    "tidak": 1
+  },
+  "firenenao.": {
+    "asal": 1
+  },
+  "n’aiza": {
+    "mana": 1
+  },
+  "telefonina.": {
+    "tanpa": 1
+  },
+  "zavatra,": {
+    "maka": 1,
+    "seharusnya": 1
+  },
+  "alalan'ny": {
+    "melalui": 2
+  },
+  "sampandraharaha": {
+    "serta": 1
+  },
+  "diplaomaty": {
+    "seorang": 1
+  },
+  "Fantaro": {
+    "sudah": 1
+  },
+  "entina": {
+    "boleh": 2
+  },
+  "hahafahana": {
+    "bisa": 2
+  },
+  "Kaspiana": {
+    "melewati": 2
+  },
+  "Hifanena": {
+    "akan": 1
+  },
+  "fandehananao.": {
+    "dengan": 1
+  },
+  "indrindra,": {
+    "ingin": 2
+  },
+  "Alliance": {
+    "kecuali": 1
+  },
+  "Azeris.": {
+    "terhadap": 1
+  },
+  "manembatsembana": {
+    "mengenai": 1
+  },
+  "firesahana": {
+    "antara": 1
+  },
+  "momban’ny": {
+    "dan": 1
+  },
+  "nanorina": {
+    "telah": 1
+  },
+  "taratra": {
+    "si": 1
+  },
+  "tapa-kevitra": {
+    "terhadap": 1
+  },
+  "olombelona,": {
+    "beberapa": 1
+  },
+  "vorona.": {
+    "sejumlah": 1
+  },
+  "Norvège.": {
+    "secara": 1
+  },
+  "zohin-dranomandry": {
+    "bisa": 1
+  },
+  "hikatona": {
+    "bisa": 1
+  }
+}

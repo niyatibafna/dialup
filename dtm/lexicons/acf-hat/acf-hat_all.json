@@ -1,0 +1,15527 @@
+{
+  "lendi": {
+    "lendi": 0.556
+  },
+  "vandwèdi": {
+    "vandredi": 0.556
+  },
+  "vini": {
+    "vini": 0.333
+  },
+  "yonn": {
+    "youn": 0.444
+  },
+  "dé": {
+    "de": 0.444
+  },
+  "twa": {
+    "twa": 0.444
+  },
+  "kat": {
+    "kat": 0.444
+  },
+  "senk": {
+    "senk": 0.444
+  },
+  "sis": {
+    "sis": 0.444
+  },
+  "set": {
+    "sèt": 0.444
+  },
+  "wit": {
+    "uit": 0.444
+  },
+  "nef": {
+    "nèf": 0.444
+  },
+  "dis": {
+    "dis": 0.444
+  },
+  "mw~E*": {
+    "mw~e*": 0.333
+  },
+  "nu": {
+    "nu": 0.333
+  },
+  "o*": {
+    "yu*": 0.333
+  },
+  "yo*": {
+    "yu*": 0.333
+  },
+  "de": {
+    "de": 0.333
+  },
+  "kawaktE": {
+    "mu*": 0.333
+  },
+  "pEso*": {
+    "mu*": 0.333
+  },
+  "pw~aso*": {
+    "pw~aso*": 0.333
+  },
+  "pw~eso*": {
+    "pw~aso*": 0.333
+  },
+  "SiE*": {
+    "Se*": 0.333
+  },
+  "pu": {
+    "pu": 0.333
+  },
+  "piebw~a": {
+    "py~ebw~a": 0.333
+  },
+  "fEi": {
+    "fEy": 0.333
+  },
+  "fEi di paSmE*": {
+    "po": 0.333
+  },
+  "lapo": {
+    "po": 0.333
+  },
+  "sa*": {
+    "sa*": 0.333
+  },
+  "tepewama*": {
+    "sa*": 0.333
+  },
+  "zo": {
+    "zo": 0.333
+  },
+  "ko*": {
+    "ko*": 0.333
+  },
+  "zowEi": {
+    "zorEy": 0.333
+  },
+  "lavi": {
+    "zy~e": 0.333
+  },
+  "zie": {
+    "zy~e": 0.333
+  },
+  "ne": {
+    "ne*": 0.333
+  },
+  "da*": {
+    "da*": 0.333
+  },
+  "laN": {
+    "la*g": 0.333,
+    "laN": 0.333
+  },
+  "Zunu": {
+    "Zenu": 0.333
+  },
+  "la*mE*": {
+    "me*": 0.333
+  },
+  "siyati": {
+    "me*": 0.333
+  },
+  "sE*": {
+    "se*": 0.333,
+    "tete": 0.333
+  },
+  "tete": {
+    "se*": 0.333,
+    "tete": 0.333
+  },
+  "bw~E": {
+    "bw~E": 0.333
+  },
+  "apEsivwE": {
+    "wE": 0.333
+  },
+  "wE": {
+    "wE": 0.333
+  },
+  "tan": {
+    "ta*de": 0.333
+  },
+  "tan di": {
+    "ta*de": 0.333
+  },
+  "mo": {
+    "muri": 0.333
+  },
+  "muwi": {
+    "muri": 0.333
+  },
+  "wive": {
+    "vini": 0.333
+  },
+  "solEi": {
+    "solEy": 0.333
+  },
+  "etw~al": {
+    "etw~al": 0.333
+  },
+  "dlo": {
+    "dlo": 0.333
+  },
+  "piE": {
+    "roS": 0.333
+  },
+  "a*sa*di": {
+    "dife": 0.333
+  },
+  "dife": {
+    "dife": 0.333
+  },
+  "SimE*": {
+    "Seme*": 0.333,
+    "rut": 0.333
+  },
+  "ti ale": {
+    "Seme*": 0.333,
+    "rut": 0.333
+  },
+  "mo*": {
+    "mo*": 0.333,
+    "mo*tay": 0.333
+  },
+  "mo*tani": {
+    "mo*": 0.333,
+    "mo*tay": 0.333
+  },
+  "lanwit": {
+    "lanuit": 0.333
+  },
+  "swE": {
+    "lanuit": 0.333
+  },
+  "plE*": {
+    "ple*": 0.333
+  },
+  "wa*pli": {
+    "ple*": 0.333
+  },
+  "nEf": {
+    "nEf": 0.333,
+    "nuvo": 0.333
+  },
+  "no*": {
+    "no*": 0.333
+  },
+  "mandi": {
+    "madi": 0.556
+  },
+  "mèkwèdi": {
+    "mèkredi": 0.556
+  },
+  "jendi": {
+    "jedi": 0.556
+  },
+  "samdi": {
+    "samdi": 0.556
+  },
+  "dimanch": {
+    "dimanch": 0.556
+  },
+  "janvyé": {
+    "janvye": 0.556
+  },
+  "févwiyé": {
+    "fevriye": 0.556
+  },
+  "mas": {
+    "mas": 0.556
+  },
+  "avwi": {
+    "avril": 0.556
+  },
+  "mé": {
+    "me": 0.556
+  },
+  "jen": {
+    "jen": 0.556
+  },
+  "jwiyèt": {
+    "jiyè": 0.556
+  },
+  "au": {
+    "out": 0.556
+  },
+  "sèptanm": {
+    "septanm": 0.556
+  },
+  "òktòb": {
+    "oktòb": 0.556
+  },
+  "novanm": {
+    "novanm": 0.556
+  },
+  "désanm": {
+    "desanm": 0.556
+  },
+  "Léwòp": {
+    "Ewòp": 0.556
+  },
+  "Avan": {
+    "Lè": 3,
+    "Anvan": 3
+  },
+  "Pawòl-la": {
+    "Pawòl": 9
+  },
+  "té": {
+    "te": 2537
+  },
+  "la.": {
+    "la.": 8
+  },
+  "la": {
+    "la": 108
+  },
+  "Bondyé,": {
+    "Bondye": 87
+  },
+  "sété": {
+    "te": 114
+  },
+  "Bondyé.": {
+    "Bondye.": 78
+  },
+  "koumansman-an": {
+    "konmansman": 4
+  },
+  "an": {
+    "nan": 1848
+  },
+  "Sété": {
+    "Se": 37
+  },
+  "sèvi": {
+    "sèvi": 41
+  },
+  "Bondyé": {
+    "Bondye": 1232
+  },
+  "fè": {
+    "fè": 1066
+  },
+  "tout": {
+    "tout": 930
+  },
+  "bagay,": {
+    "bagay.": 7
+  },
+  "pa": {
+    "pa": 1552
+  },
+  "ki": {
+    "ki": 2609
+  },
+  "fèt": {
+    "fèt": 44
+  },
+  "ni": {
+    "gen": 795
+  },
+  "anyen": {
+    "anyen": 53
+  },
+  "Sé": {
+    "Se": 278
+  },
+  "li": {
+    "li": 336
+  },
+  "sala": {
+    "sa": 525
+  },
+  "sòti.": {
+    "ye.": 2
+  },
+  "Lavi": {
+    "lavi": 4
+  },
+  "ni-an": {
+    "sa": 9,
+    "genyen": 9
+  },
+  "bay": {
+    "bay": 212
+  },
+  "moun": {
+    "moun": 944
+  },
+  "klèté.": {
+    "limyè.": 2,
+    "limyè": 2
+  },
+  "Klèté-a": {
+    "a": 3
+  },
+  "kléwé": {
+    "klere": 27
+  },
+  "nwèsè": {
+    "fènwa": 11
+  },
+  "èk": {
+    "ak": 366
+  },
+  "nwèsè-a": {
+    "fènwa": 7
+  },
+  "janmen": {
+    "janm": 89
+  },
+  "étenn": {
+    "resevwa": 1
+  },
+  "klèté-a.": {
+    "li.": 1,
+    "a.": 1,
+    "moun.": 1
+  },
+  "konmisyonnè,": {
+    "voye": 1
+  },
+  "nonm": {
+    "moun": 138
+  },
+  "kwiyé": {
+    "rele": 133
+  },
+  "Batis.": {
+    "Jan.": 1
+  },
+  "di": {
+    "di": 516
+  },
+  "Batis": {
+    "Jan": 11
+  },
+  "konsèné": {
+    "sou": 87
+  },
+  "pou": {
+    "pou": 2047
+  },
+  "klèté-a": {
+    "limyè": 11
+  },
+  "lavéwité-a": {
+    "verite": 36
+  },
+  "tann": {
+    "tande": 159
+  },
+  "sa": {
+    "sa": 747
+  },
+  "kwè.": {
+    "gen": 7
+  },
+  "klèté-a,": {
+    "limyè": 7
+  },
+  "i": {
+    "li": 1539
+  },
+  "Klèté": {
+    "Limyè": 2
+  },
+  "sé": {
+    "se": 815
+  },
+  "bon": {
+    "bon": 104
+  },
+  "asou": {
+    "sou": 280
+  },
+  "latè-a": {
+    "sou": 48
+  },
+  "ka": {
+    "k'ap": 240
+  },
+  "moun.": {
+    "moun.": 19
+  },
+  "latè-a,": {
+    "sou": 18
+  },
+  "magwé": {
+    "ki": 9
+  },
+  "jan": {
+    "moun": 89
+  },
+  "konnèt": {
+    "konnen": 178
+  },
+  "li.": {
+    "li.": 75
+  },
+  "I": {
+    "Li": 207
+  },
+  "péyiʼy": {
+    "li": 7
+  },
+  "wisivwèʼy.": {
+    "resevwa": 3
+  },
+  "Mé": {
+    "Men,": 269
+  },
+  "adan": {
+    "yon": 63
+  },
+  "wisivwèʼy": {
+    "resevwa": 7
+  },
+  "li,": {
+    "li.": 30
+  },
+  "kwè": {
+    "kwè": 162
+  },
+  "yo": {
+    "yo": 2374
+  },
+  "ba": {
+    "ba": 77
+  },
+  "ich": {
+    "pitit": 68
+  },
+  "Yo": {
+    "Yo": 234
+  },
+  "mannyè": {
+    "jan": 215
+  },
+  "menm": {
+    "menm": 461
+  },
+  "tounen": {
+    "tounen": 24
+  },
+  "viv": {
+    "viv": 155
+  },
+  "anpami": {
+    "nan": 90
+  },
+  "nou.": {
+    "nou.": 44
+  },
+  "plen": {
+    "plen": 12
+  },
+  "lagwas": {
+    "favè": 32
+  },
+  "yé": {
+    "ye": 20
+  },
+  "vwé.": {
+    "vre.": 12
+  },
+  "moutwé": {
+    "moutre": 53
+  },
+  "Nou": {
+    "Nou": 73
+  },
+  "wè": {
+    "wè": 312
+  },
+  "pouvwa-a": {
+    "pouvwa": 25
+  },
+  "Papa-a": {
+    "Papa": 53
+  },
+  "sèl": {
+    "sèl": 79
+  },
+  "Gasonʼy-lan.": {
+    "Pitit": 4
+  },
+  "palé": {
+    "pale": 180
+  },
+  "lè": {
+    "lè": 337
+  },
+  "fò,": {
+    "byen": 17
+  },
+  "“Mi": {
+    "—": 20
+  },
+  "mwen": {
+    "mwen": 1062
+  },
+  "palé-a": {
+    "pale": 4
+  },
+  "di,": {
+    "di:": 132
+  },
+  "apwé": {
+    "apre": 35
+  },
+  "fèt.’": {
+    "mwen.": 3
+  },
+  "enpòtan": {
+    "gen": 10
+  },
+  "pli": {
+    "pi": 120
+  },
+  "mwen,": {
+    "m": 51
+  },
+  "pasé": {
+    "pase": 142
+  },
+  "paski": {
+    "paske": 310
+  },
+  "avan": {
+    "anvan": 37
+  },
+  "nou": {
+    "nou": 1066
+  },
+  "lagwas,": {
+    "nou": 5
+  },
+  "tout.": {
+    "tout.": 10
+  },
+  "benni": {
+    "l": 7
+  },
+  "ban": {
+    "ban": 91
+  },
+  "lòt.": {
+    "lòt.": 18
+  },
+  "Moziz": {
+    "Moyiz": 43
+  },
+  "lwa-a,": {
+    "lalwa": 16
+  },
+  "Kwi": {
+    "Jezikri": 52
+  },
+  "Pyèsonn": {
+    "Pèsonn": 9
+  },
+  "Sèl": {
+    "sèl": 3
+  },
+  "Gason-an,": {
+    "Pitit": 3
+  },
+  "koté": {
+    "kote": 103
+  },
+  "Jan": {
+    "Jan": 26
+  },
+  "Jérouzalèm": {
+    "Jerizalèm": 26
+  },
+  "Jwif-la": {
+    "yo": 141
+  },
+  "pwèt": {
+    "prèt": 21
+  },
+  "vil": {
+    "lavil": 125
+  },
+  "voyé": {
+    "voye": 165
+  },
+  "déotwa": {
+    "kèk": 29
+  },
+  "Livay": {
+    "Levi": 7
+  },
+  "mandéʼy,": {
+    "mande": 10
+  },
+  "ou": {
+    "ou": 540
+  },
+  "wifizé": {
+    "refize": 8
+  },
+  "wéponn": {
+    "reponn": 15
+  },
+  "yo,": {
+    "yo:": 80
+  },
+  "“Sé": {
+    "—": 52
+  },
+  "Mèsaya-a,": {
+    "Kris": 12
+  },
+  "pwonmèt": {
+    "pwomèt": 23
+  },
+  "diʼy,": {
+    "li:": 102
+  },
+  "“Bon,": {
+    "—": 4
+  },
+  "kilès": {
+    "moun": 12
+  },
+  "Ilaydja?”": {
+    "atò?": 1,
+    "Eli?": 1
+  },
+  "“Non,": {
+    "—": 7
+  },
+  "Ilaydja.”": {
+    "Eli.": 1
+  },
+  "“Ès": {
+    "—": 20
+  },
+  "Pwòfèt-la": {
+    "pwofèt": 3
+  },
+  "“Non.”": {
+    "Non.": 1
+  },
+  "sa,": {
+    "sa,": 79
+  },
+  "“Si": {
+    "Si": 23
+  },
+  "Ki": {
+    "Ki": 24
+  },
+  "yé.": {
+    "moun.": 3
+  },
+  "mennen": {
+    "mennen": 35
+  },
+  "moun-an": {
+    "moun": 372
+  },
+  "nou-an.": {
+    "nou": 13
+  },
+  "kòʼw?”": {
+    "ye?": 1
+  },
+  "wéponn,": {
+    "reponn": 31
+  },
+  "“Mwen": {
+    "—": 71
+  },
+  "hòtè:": {
+    "Plani": 1
+  },
+  "chimen": {
+    "chemen": 11
+  },
+  "byen": {
+    "byen": 48
+  },
+  "dwèt": {
+    "fè": 51
+  },
+  "pouʼy": {
+    "pou": 122
+  },
+  "Senyè-a": {
+    "Senyè": 100
+  },
+  "pasé!’": {
+    "(Se": 1
+  },
+  "pwòfèt": {
+    "pwofèt": 23
+  },
+  "Izaya": {
+    "Ezayi": 8
+  },
+  "di.": {
+    "sa": 10
+  },
+  "konmisyonnè-a": {
+    "Gen": 1,
+    "moun": 1,
+    "yo": 1,
+    "Delege": 1
+  },
+  "voyé-a": {
+    "voye": 4
+  },
+  "Fawizyen-an": {
+    "yo": 21
+  },
+  "Batis,": {
+    "lakay": 1,
+    "farizyen": 1,
+    "yo.": 1
+  },
+  "Ilaydja,": {
+    "ni": 3
+  },
+  "Pwòfèt-la,": {
+    "la,": 2
+  },
+  "pouki": {
+    "poukisa": 20
+  },
+  "batizé": {
+    "batize": 22
+  },
+  "moun?”": {
+    "moun?": 2
+  },
+  "dlo,": {
+    "nou": 5
+  },
+  "zòt": {
+    "nou": 1363
+  },
+  "doubout": {
+    "kanpe": 55
+  },
+  "yon": {
+    "yon": 177
+  },
+  "Moun": {
+    "ki": 6,
+    "yo": 6
+  },
+  "délasé": {
+    "demare": 2,
+    "kòd": 2,
+    "sapat": 2
+  },
+  "soulyéʼy.”": {
+    "li.": 1
+  },
+  "Tout": {
+    "Tout": 35
+  },
+  "bagay": {
+    "bagay": 198
+  },
+  "pwan": {
+    "pran": 81
+  },
+  "kou": {
+    "fwa": 4
+  },
+  "Bèfanni": {
+    "Betani,": 3
+  },
+  "Jouden-an": {
+    "lòt": 2
+  },
+  "bò": {
+    "bò": 48
+  },
+  "Lawivyè": {
+    "larivyè": 5
+  },
+  "batizé-a,": {
+    "Jouden,": 1,
+    "Janbatis": 1
+  },
+  "lévan.": {
+    "moun.": 1
+  },
+  "An": {
+    "Nan": 35
+  },
+  "denmen,": {
+    "denmen,": 11
+  },
+  "Jézi": {
+    "Jezi": 330
+  },
+  "yé-a.": {
+    "jwenn": 5,
+    "a.": 5
+  },
+  "Ti": {
+    "ti": 36
+  },
+  "Mouton": {
+    "Mouton": 7
+  },
+  "Bondyé-a.": {
+    "Bondye": 34
+  },
+  "tiwé": {
+    "wete": 24
+  },
+  "péché": {
+    "peche": 97
+  },
+  "latè-a!": {
+    "latè.": 1
+  },
+  "Mwen": {
+    "Mwen": 224
+  },
+  "wézon-an": {
+    "pou": 8
+  },
+  "Izwayèl-la": {
+    "Izrayèl": 30
+  },
+  "li.”": {
+    "li.": 8
+  },
+  "Lèspwi": {
+    "Lespri": 82
+  },
+  "sòti": {
+    "sòti": 135
+  },
+  "syèl": {
+    "syèl": 42
+  },
+  "désann": {
+    "desann": 45
+  },
+  "toutwèl,": {
+    "pijon": 1
+  },
+  "épiʼy.": {
+    "li.": 14
+  },
+  "sav": {
+    "konnen": 182
+  },
+  "pʼòkò": {
+    "pat": 31
+  },
+  "kay": {
+    "va": 271
+  },
+  "wèsté": {
+    "rete": 76
+  },
+  "diʼw": {
+    "di": 28
+  },
+  "Gason": {
+    "Bondye": 27
+  },
+  "Bondyé-a.”": {
+    "vre.": 1
+  },
+  "denmen": {
+    "denmen": 7
+  },
+  "ankò,": {
+    "ankò.": 19,
+    "ankò,": 19
+  },
+  "disip": {
+    "disip": 38
+  },
+  "li-a.": {
+    "li": 14
+  },
+  "pasé,": {
+    "te": 7
+  },
+  "Bondyé-a!”": {
+    "a.": 1
+  },
+  "Dé": {
+    "De": 4
+  },
+  "li-a": {
+    "li": 45
+  },
+  "pati": {
+    "pati": 8
+  },
+  "Jézi.": {
+    "Jezi.": 24
+  },
+  "swiv": {
+    "swiv": 43
+  },
+  "mandé": {
+    "mande": 111
+  },
+  "“Ki": {
+    "—": 34
+  },
+  "chaché?”": {
+    "chache?": 2
+  },
+  "wèsté?”": {
+    "Rabi?": 1,
+    "(Mo": 1,
+    "rabi": 1
+  },
+  "vlé": {
+    "vle": 188
+  },
+  "Titja.)": {
+    "mèt.)": 1
+  },
+  "“Vini": {
+    "—": 5
+  },
+  "épiʼy": {
+    "avè": 11
+  },
+  "wè.”": {
+    "wè.": 3
+  },
+  "katwè": {
+    "Y'ale": 1
+  },
+  "lèstan": {
+    "rès": 4
+  },
+  "wèsté,": {
+    "rete.": 2
+  },
+  "jouné-a": {
+    "katrè": 1,
+    "apremidi.)": 1
+  },
+  "Yonn": {
+    "Yonn": 10
+  },
+  "fwè": {
+    "frè": 104
+  },
+  "Androu,": {
+    "Andre,": 2
+  },
+  "Pita.": {
+    "ti": 3
+  },
+  "lè-a": {
+    "a": 23,
+    "lè": 23
+  },
+  "fwèʼy,": {
+    "Andre": 1,
+    "rankontre": 1
+  },
+  "“Nou": {
+    "—": 21
+  },
+  "jwenn": {
+    "jwenn": 123
+  },
+  "Mèsaya-a”": {
+    "Mesi": 1
+  },
+  "(an": {
+    "(ki": 1
+  },
+  "Kwis).": {
+    "la).": 1
+  },
+  "Èk": {
+    "li": 13
+  },
+  "mennenʼy": {
+    "mennen": 28
+  },
+  "Simon": {
+    "Simon": 29
+  },
+  "gadé": {
+    "l": 28
+  },
+  "kwiyéʼw": {
+    "rele": 8
+  },
+  "Jan,": {
+    "Jan": 4
+  },
+  "gason": {
+    "pitit": 43
+  },
+  "(non": {
+    "Sefas.": 1
+  },
+  "kon": {
+    "tankou": 305
+  },
+  "Pita": {
+    "Pyè": 95
+  },
+  "kayè”).": {
+    "wòch.)": 1
+  },
+  "lidé": {
+    "lide": 13,
+    "tèt": 13
+  },
+  "alé": {
+    "ale": 39
+  },
+  "Galili.": {
+    "peyi": 5,
+    "Galile.": 5
+  },
+  "Filip": {
+    "Filip": 20
+  },
+  "“Swiv": {
+    "Swiv": 2
+  },
+  "mwen!”": {
+    "mwen.": 3
+  },
+  "vil-la": {
+    "lavil": 35
+  },
+  "Bèfsayda,": {
+    "Betsayda,": 1
+  },
+  "Androu": {
+    "Andre": 1
+  },
+  "wèsté-a.": {
+    "rete": 3
+  },
+  "Natannyèl": {
+    "Natanayèl": 5
+  },
+  "ja": {
+    "te": 125
+  },
+  "liv": {
+    "liv": 29
+  },
+  "lwa-a.": {
+    "lalwa": 6
+  },
+  "ékwi": {
+    "ekri": 116
+  },
+  "pwòfèt-la": {
+    "pwofèt": 33
+  },
+  "Jézi,": {
+    "Kris": 33
+  },
+  "Jozèf,": {
+    "Jozèf": 2
+  },
+  "Nazawèt?”": {
+    "Nazarèt?": 1
+  },
+  "Lè": {
+    "Lè": 195
+  },
+  "Izwayèl": {
+    "pèp": 7,
+    "Izrayèl": 7
+  },
+  "wiz": {
+    "riz": 3
+  },
+  "mwen?”": {
+    "mwen?": 6
+  },
+  "wèʼw": {
+    "wè": 6
+  },
+  "anba": {
+    "anba": 79
+  },
+  "pyé": {
+    "pye": 41
+  },
+  "kwiyéʼw.”": {
+    "fig": 1,
+    "frans": 1,
+    "lan.": 1
+  },
+  "“Titja,": {
+    "Mèt,": 7
+  },
+  "Bondyé!": {
+    "se": 4
+  },
+  "wa": {
+    "wa": 33
+  },
+  "Izwayèl!”": {
+    "pèp": 1,
+    "Izrayèl": 1,
+    "la!": 1
+  },
+  "fwi-a": {
+    "rezen": 5
+  },
+  "sa?": {
+    "konsa?": 13
+  },
+  "Ou": {
+    "Nou": 39
+  },
+  "gwo": {
+    "gwo": 64
+  },
+  "sa!”": {
+    "toujou.": 1,
+    "li!": 1
+  },
+  "lavéwité-a,": {
+    "se": 26
+  },
+  "syèl-la": {
+    "syèl": 40
+  },
+  "ouvè": {
+    "louvri": 29
+  },
+  "nanj": {
+    "zanj": 62
+  },
+  "mouté": {
+    "moute": 41
+  },
+  "jou": {
+    "jou": 83
+  },
+  "mawiyaj": {
+    "maryaj": 2
+  },
+  "Kéna": {
+    "Kana": 4
+  },
+  "Manman": {
+    "manman": 2
+  },
+  "envité": {
+    "envite": 3
+  },
+  "épi": {
+    "ak": 919
+  },
+  "nòs-la": {
+    "nòs": 1,
+    "la": 1
+  },
+  "tou.": {
+    "tou.": 27
+  },
+  "Paditan": {
+    "t'ap": 16
+  },
+  "nòs-la,": {
+    "lè,": 1
+  },
+  "diven-an": {
+    "diven": 3,
+    "fin": 3
+  },
+  "ankò.”": {
+    "ankò.": 8
+  },
+  "Tan": {
+    "madanm?": 1
+  },
+  "wivé.”": {
+    "lan": 2,
+    "rive.": 2
+  },
+  "sèvant-lan,": {
+    "yo:": 3
+  },
+  "fè.”": {
+    "fè.": 8
+  },
+  "jè": {
+    "ja": 2
+  },
+  "kò": {
+    "kò": 82
+  },
+  "Chak": {
+    "chak": 5
+  },
+  "tjenbé": {
+    "kenbe": 31
+  },
+  "(20)": {
+    "ven": 2
+  },
+  "twant": {
+    "trant": 2
+  },
+  "galon": {
+    "galon": 1
+  },
+  "ven": {
+    "konsa.": 2
+  },
+  "sèvant-lan": {
+    "yo": 8
+  },
+  "dlo.”": {
+    "dlo.": 2
+  },
+  "Kon": {
+    "Se": 114
+  },
+  "owa": {
+    "ra": 1
+  },
+  "djòl.": {
+    "bouch.": 1
+  },
+  "fini,": {
+    "sa,": 12
+  },
+  "wèskonsab": {
+    "chèf": 5
+  },
+  "mawiyaj-la.”": {
+    "kanbiz": 1,
+    "goute.": 1
+  },
+  "mawiyaj-la.": {
+    "kanbiz": 1
+  },
+  "mèt": {
+    "mèt": 16
+  },
+  "gouté": {
+    "goute": 4
+  },
+  "dlo-a": {
+    "dlo": 21
+  },
+  "diven": {
+    "diven": 12
+  },
+  "sòti,": {
+    "bò": 3
+  },
+  "nonm-lan": {
+    "nonm": 26
+  },
+  "“Lè": {
+    "—": 10
+  },
+  "avan,": {
+    "anvan": 4,
+    "te": 4
+  },
+  "diven-an.": {
+    "diven": 4
+  },
+  "atjwèlman!”": {
+    "l.": 1
+  },
+  "pwèmyé": {
+    "premye": 43
+  },
+  "miwak": {
+    "mirak": 23
+  },
+  "pouvwaʼy": {
+    "pouvwa": 12
+  },
+  "la,": {
+    "la,": 14
+  },
+  "épiʼy-la": {
+    "li": 13
+  },
+  "disip-la": {
+    "disip": 21
+  },
+  "vin": {
+    "vin": 37
+  },
+  "Apwé": {
+    "Apre": 44
+  },
+  "Kapènéyòm.": {
+    "Kapènawòm": 2,
+    "Kapènawòm.": 2
+  },
+  "fwèʼy-la": {
+    "frè": 9
+  },
+  "jou.": {
+    "jou": 10
+  },
+  "pwèskè": {
+    "nan": 5
+  },
+  "Fèt": {
+    "fèt": 14
+  },
+  "Délivwans": {
+    "vanse": 1,
+    "verirtab": 1
+  },
+  "Jérouzalèm.": {
+    "Jerizalèm.": 17
+  },
+  "antwé": {
+    "nan": 40
+  },
+  "Kay": {
+    "tanp": 53
+  },
+  "vann": {
+    "vann": 14
+  },
+  "bèf,": {
+    "bèf,": 1
+  },
+  "mouton": {
+    "mouton": 14
+  },
+  "pijon": {
+    "pijon.": 1
+  },
+  "asid": {
+    "chita": 49
+  },
+  "tab": {
+    "tab": 3
+  },
+  "chanjé": {
+    "chanje": 17
+  },
+  "lajan.": {
+    "lajan.": 4
+  },
+  "fwèt": {
+    "kòde": 1,
+    "fredi,": 1,
+    "ankenn": 1
+  },
+  "dèwò": {
+    "deyò": 9
+  },
+  "mété": {
+    "mete": 126
+  },
+  "ansanm": {
+    "ansanm": 72
+  },
+  "mouton-an": {
+    "mouton": 7
+  },
+  "maté": {
+    "chavire": 1
+  },
+  "lajan-an": {
+    "lajan": 12
+  },
+  "atè-a.": {
+    "atè.": 2
+  },
+  "pijon-an,": {
+    "pijon": 1
+  },
+  "“Tiwé": {
+    "Demaske": 1
+  },
+  "Papa": {
+    "Papa": 78
+  },
+  "isi-a": {
+    "isit": 13
+  },
+  "Las": {
+    "Pa": 2
+  },
+  "lajan!”": {
+    "boutik.": 1
+  },
+  "Jézi-a": {
+    "yo": 64
+  },
+  "chonjé": {
+    "chonje": 40
+  },
+  "lévanjil-la": {
+    "ekri": 61
+  },
+  "di:": {
+    "di:": 15
+  },
+  "ou-a": {
+    "ou": 9
+  },
+  "bwilé": {
+    "boule": 17
+  },
+  "difé.”": {
+    "anndan": 1
+  },
+  "“Fè": {
+    "—": 3
+  },
+  "dwa": {
+    "gendwa": 6
+  },
+  "fè-a.”": {
+    "yo.": 3
+  },
+  "“Kwazé": {
+    "Kraze": 1
+  },
+  "sala,": {
+    "sa": 84
+  },
+  "batiʼy": {
+    "jou": 2,
+    "rebati": 2
+  },
+  "jou.”": {
+    "jou.": 2
+  },
+  "fèʼy.": {
+    "pou": 5
+  },
+  "jou?”": {
+    "li?": 1
+  },
+  "kòʼy": {
+    "li": 34
+  },
+  "menm.": {
+    "li.": 9
+  },
+  "wésisité,": {
+    "leve": 8
+  },
+  "sa.": {
+    "sa.": 16
+  },
+  "pawòl": {
+    "pawòl": 99
+  },
+  "Délivwans-lan,": {
+    "Pak": 3
+  },
+  "chay": {
+    "anpil": 90
+  },
+  "lafwa": {
+    "konfyans": 112
+  },
+  "miwak-la": {
+    "mirak": 8
+  },
+  "fè-a.": {
+    "fè": 18
+  },
+  "konfyé": {
+    "ladan": 1,
+    "konfyans,": 1
+  },
+  "katjilé.": {
+    "byen.": 2
+  },
+  "bizwen": {
+    "bezwen": 31
+  },
+  "pyèsonn": {
+    "moun": 50
+  },
+  "diʼy": {
+    "l": 14
+  },
+  "pyèsonn,": {
+    "pèsonn,": 2
+  },
+  "La": {
+    "Te": 21
+  },
+  "Fawizyen-an.": {
+    "farizyen": 3
+  },
+  "Nikodimòs.": {
+    "Nikodèm.": 1
+  },
+  "Yon": {
+    "Yon": 8
+  },
+  "òswè": {
+    "lannwit": 8
+  },
+  "voyé.": {
+    "anseye": 1
+  },
+  "fè-a": {
+    "fè": 36
+  },
+  "si": {
+    "si": 201
+  },
+  "épiʼy.”": {
+    "li.": 2,
+    "gras.": 2
+  },
+  "li-an": {
+    "li": 16
+  },
+  "kondwi": {
+    "wa": 16,
+    "gouvènen": 16
+  },
+  "Nikodimòs": {
+    "Nikodèm": 2
+  },
+  "gwan": {
+    "gwo": 49
+  },
+  "dézyenm": {
+    "dezyèm": 15
+  },
+  "viwé": {
+    "tounen": 43
+  },
+  "bouden": {
+    "vant": 7
+  },
+  "manmanʼy": {
+    "l": 12
+  },
+  "fwa?”": {
+    "refèt": 1,
+    "ankò.": 1
+  },
+  "manman": {
+    "manman": 16
+  },
+  "papa": {
+    "papa": 20
+  },
+  "lèspwi-a": {
+    "lespri": 13
+  },
+  "andidanʼy-lan.": {
+    "soti.": 1
+  },
+  "Pouki": {
+    "Poukisa": 6
+  },
+  "sipwi": {
+    "sezi": 14
+  },
+  "diʼw,": {
+    "nou": 6
+  },
+  "oblijé": {
+    "pou": 13
+  },
+  "ankò?’": {
+    "dezyèm": 1,
+    "fwa.": 1
+  },
+  "Van-an": {
+    "Van": 2
+  },
+  "vanté": {
+    "van": 3
+  },
+  "vlé.": {
+    "vle.": 10
+  },
+  "alé.": {
+    "prale.": 4,
+    "ale.": 4
+  },
+  "mannyè-a": {
+    "jan": 24
+  },
+  "fèt?”": {
+    "fèt": 1,
+    "menm?": 1
+  },
+  "“Ou": {
+    "—": 20
+  },
+  "titja": {
+    "dirèktè": 5
+  },
+  "Izwayèl-la,": {
+    "Izrayèl": 5
+  },
+  "sala?": {
+    "yo?": 2
+  },
+  "wè,": {
+    "wè,": 7
+  },
+  "di-a.": {
+    "di": 10
+  },
+  "latè-a.": {
+    "sou": 24
+  },
+  "syèl?": {
+    "konprann?": 1
+  },
+  "Pyès": {
+    "Pèsonn": 3
+  },
+  "antiwan": {
+    "esèpte": 3
+  },
+  "Lézòm-lan": {
+    "Moun": 10,
+    "voye": 10,
+    "lachè": 10
+  },
+  "syèl-la.": {
+    "syèl": 22
+  },
+  "Menm": {
+    "Menm": 15
+  },
+  "sèpan-an": {
+    "an": 9,
+    "dragon": 9
+  },
+  "anlè": {
+    "sou": 63
+  },
+  "savann": {
+    "dezè": 7
+  },
+  "lévé": {
+    "lwanj": 25
+  },
+  "étonnèl.”": {
+    "fini": 2,
+    "an.": 2,
+    "lavi.": 2
+  },
+  "tèlman": {
+    "sitèlman": 17
+  },
+  "enmen": {
+    "renmen": 112
+  },
+  "yo.": {
+    "yo.": 114
+  },
+  "étonnèl.": {
+    "janm": 18
+  },
+  "Gasonʼy": {
+    "Pitit": 15
+  },
+  "kondanné": {
+    "kondannen": 14
+  },
+  "sové": {
+    "delivre": 32
+  },
+  "Moun-an": {
+    "Moun": 32
+  },
+  "Gason-an": {
+    "Pitit": 20
+  },
+  "kondannasyon,": {
+    "kondannen.": 2
+  },
+  "lafwaʼy": {
+    "konfyans": 11
+  },
+  "Mi": {
+    "sa": 26
+  },
+  "simyé": {
+    "pito": 10
+  },
+  "pito": {
+    "pou": 11
+  },
+  "movèzté": {
+    "va": 6
+  },
+  "fè.": {
+    "fè.": 22
+  },
+  "mové-a": {
+    "ki": 9
+  },
+  "mové": {
+    "move": 15
+  },
+  "obéyi": {
+    "obeyi": 36
+  },
+  "Joudiya.": {
+    "peyi": 2,
+    "Jide.": 2
+  },
+  "tibwen": {
+    "kèk": 9
+  },
+  "tou": {
+    "tou": 12
+  },
+  "plas": {
+    "nan": 20
+  },
+  "lwen": {
+    "lwen": 8
+  },
+  "Salim,": {
+    "Salim,": 1
+  },
+  "dlo.": {
+    "dlo": 5
+  },
+  "(Sa": {
+    "(Lè": 1,
+    "(Sadiseyen": 1
+  },
+  "pwizon).": {
+    "prizon.)": 1
+  },
+  "chikann": {
+    "diskisyon": 7
+  },
+  "on": {
+    "yon": 221
+  },
+  "Jwif": {
+    "jwif": 48
+  },
+  "lwa": {
+    "lalwa": 63
+  },
+  "wilizyon": {
+    "relijyon": 13
+  },
+  "pwépawé": {
+    "pou": 32
+  },
+  "lòt": {
+    "lòt": 173
+  },
+  "Ében,": {
+    "Bon.": 2
+  },
+  "chak": {
+    "chak": 46
+  },
+  "Zòt": {
+    "Nou": 55
+  },
+  "avanʼy.": {
+    "li.": 1
+  },
+  "misyé-a": {
+    "nonm": 3
+  },
+  "mayé-a": {
+    "marye": 8
+  },
+  "kontan": {
+    "kontan": 55
+  },
+  "kouté,": {
+    "koute.": 2
+  },
+  "vwa": {
+    "vwa": 40
+  },
+  "atjwèlman.": {
+    "kounyeya.": 3
+  },
+  "plis": {
+    "pi": 14
+  },
+  "mwens": {
+    "mwens": 2
+  },
+  "“I": {
+    "—": 8
+  },
+  "anho": {
+    "sou": 14
+  },
+  "konnèt.": {
+    "konnen": 3
+  },
+  "lavéwité.": {
+    "verite": 9
+  },
+  "Lèspwiʼy": {
+    "Sentespri": 16
+  },
+  "san": {
+    "san": 100
+  },
+  "miziwé.": {
+    "mezi.": 1,
+    "mezire,": 1,
+    "gremesi.": 1
+  },
+  "kondwit": {
+    "pouvwa": 13
+  },
+  "dézobéyi": {
+    "dezobeyi": 14
+  },
+  "sala.": {
+    "sa": 55
+  },
+  "(Magwé": {
+    "(Men,": 1
+  },
+  "pyèsonn.": {
+    "moun.": 4
+  },
+  "li.)": {
+    "batize.)": 1,
+    "li.)": 1
+  },
+  "kité": {
+    "kite": 91
+  },
+  "Joudiya": {
+    "peyi": 6,
+    "Jide": 6
+  },
+  "déviwé": {
+    "tounen": 12
+  },
+  "Asou": {
+    "Sou": 3
+  },
+  "chimenʼy": {
+    "wout": 1
+  },
+  "Galili,": {
+    "Galile,": 4
+  },
+  "péyi": {
+    "peyi": 43
+  },
+  "Sanmariya.": {
+    "Samari.": 2
+  },
+  "wivé": {
+    "rive": 79
+  },
+  "Sayka,": {
+    "Sika,": 1
+  },
+  "tjò": {
+    "moso": 5
+  },
+  "tè-a": {
+    "yo": 7
+  },
+  "Jakòb": {
+    "Jakòb": 9
+  },
+  "Jozèf": {
+    "Jozèf": 6
+  },
+  "gasonʼy": {
+    "pitit": 3
+  },
+  "lontan-an.": {
+    "lan.": 1
+  },
+  "Pi": {
+    "la": 2
+  },
+  "pi-a": {
+    "pi": 3
+  },
+  "Jakòb-la": {
+    "Jakòb": 2
+  },
+  "las,": {
+    "bouke,": 1
+  },
+  "midi.": {
+    "midi": 1,
+    "konsa.": 1,
+    "midi.": 1
+  },
+  "On": {
+    "Yon": 7
+  },
+  "madanm": {
+    "fanm": 35
+  },
+  "Sanmariya": {
+    "Samari": 3
+  },
+  "“Ban": {
+    "m": 3
+  },
+  "tak": {
+    "ti": 9
+  },
+  "bwè.”": {
+    "a!": 2
+  },
+  "(Sé": {
+    "(Disip": 1,
+    "(Se": 1
+  },
+  "achté": {
+    "achte": 15
+  },
+  "manjé.)": {
+    "manje.)": 1
+  },
+  "Madanm-lan": {
+    "lan": 8
+  },
+  "Jwif,": {
+    "kit": 6
+  },
+  "(Jwif": {
+    "Samari?": 1,
+    "(Paske,": 1
+  },
+  "vésèl": {
+    "krich": 2
+  },
+  "Sanmariya.)": {
+    "Samari.)": 1
+  },
+  "kado-a": {
+    "kado": 19
+  },
+  "mandéʼw": {
+    "mande": 7
+  },
+  "mandéʼy": {
+    "mande": 16
+  },
+  "baʼw": {
+    "nou": 31
+  },
+  "“Misyé,": {
+    "—": 7
+  },
+  "bonm,": {
+    "veso": 1,
+    "tire": 1
+  },
+  "Koté": {
+    "Ki": 3
+  },
+  "lavi-a?": {
+    "a?": 1
+  },
+  "gwanpapa": {
+    "zansèt": 35
+  },
+  "lontan": {
+    "nou": 21
+  },
+  "bwè": {
+    "bwè": 30
+  },
+  "gasonʼy-lan": {
+    "pitit": 3
+  },
+  "la-a,": {
+    "la": 4
+  },
+  "“Népòt": {
+    "Moun": 4
+  },
+  "swèf": {
+    "swaf": 5
+  },
+  "Dlo-a": {
+    "dlo": 4
+  },
+  "ankò.": {
+    "ankò.": 29
+  },
+  "kontiné": {
+    "kontinye": 16
+  },
+  "sous": {
+    "sous": 8
+  },
+  "sala!": {
+    "mesye,": 1,
+    "kapab": 1,
+    "jije.": 1
+  },
+  "“Alé": {
+    "Ale": 2,
+    "—": 2
+  },
+  "mawiʼw,": {
+    "mari": 2
+  },
+  "vini.”": {
+    "isit": 1,
+    "la.": 1,
+    "yo.": 1,
+    "non!": 1
+  },
+  "mawi.”": {
+    "mari.": 1
+  },
+  "“Sa": {
+    "—": 8
+  },
+  "mawi,": {
+    "anvè": 2
+  },
+  "mawiʼw": {
+    "mari": 4
+  },
+  "épiʼw": {
+    "ou": 6
+  },
+  "atjwèlman-an": {
+    "kounyeya,": 2
+  },
+  "lavéwité-a.”": {
+    "manti.": 1
+  },
+  "sanm": {
+    "yon": 17
+  },
+  "pwòfèt.": {
+    "pwofèt,": 1,
+    "mesye?": 1
+  },
+  "Lafanmi": {
+    "Zansèt": 1
+  },
+  "adowé": {
+    "sèvi": 30
+  },
+  "mòn": {
+    "mòn": 6
+  },
+  "sipozé": {
+    "pou": 120
+  },
+  "“Madanm,": {
+    "—": 4,
+    "Madanm,": 4
+  },
+  "pé": {
+    "ka": 27
+  },
+  "wivé,": {
+    "rive,": 11
+  },
+  "lèspwi": {
+    "lespri": 26
+  },
+  "yé,": {
+    "ye,": 10
+  },
+  "vwé.”": {
+    "laverite.": 1,
+    "klè.": 1
+  },
+  "vini,": {
+    "vini,": 11
+  },
+  "bagay.”": {
+    "bagay.": 4
+  },
+  "pyès": {
+    "okenn": 48
+  },
+  "épiʼy?”": {
+    "li?": 2
+  },
+  "vlé?”": {
+    "Osinon:": 1,
+    "isit": 1,
+    "la?": 1
+  },
+  "“Pouki": {
+    "—": 4
+  },
+  "jèʼy-la,": {
+    "krich": 1,
+    "dlo": 1
+  },
+  "vil-la,": {
+    "lavil": 10
+  },
+  "Mèsaya-a?”": {
+    "la?": 1
+  },
+  "flaté": {
+    "cho": 1,
+    "flate": 1
+  },
+  "manjé,": {
+    "manje": 8
+  },
+  "koumansé": {
+    "pran": 37
+  },
+  "kéchòy,": {
+    "kichòy": 1,
+    "kichòy.": 1
+  },
+  "on!”": {
+    "non!": 2
+  },
+  "manjé": {
+    "manje": 105
+  },
+  "konnèt.”": {
+    "konnen.": 1
+  },
+  "fin": {
+    "fin": 15
+  },
+  "fè-a,": {
+    "fè": 21
+  },
+  "twavay-la": {
+    "travay": 35
+  },
+  "mwen.": {
+    "mwen.": 88
+  },
+  "zyéʼw": {
+    "je": 3
+  },
+  "jaden-an": {
+    "jaden": 2
+  },
+  "byen.": {
+    "byen.": 5
+  },
+  "wékòlté": {
+    "ranmase": 4,
+    "rekòlte": 4
+  },
+  "péyé": {
+    "peye": 10
+  },
+  "étonnèl-la.": {
+    "lavi": 9
+  },
+  "planté-a": {
+    "simen": 3
+  },
+  "tjè": {
+    "kè": 93
+  },
+  "Sa": {
+    "sa": 40
+  },
+  "di-a": {
+    "di": 23
+  },
+  "planté,": {
+    "se": 3
+  },
+  "‘Yon": {
+    "vre": 1
+  },
+  "wékòlté.’": {
+    "ranmase.": 1
+  },
+  "voyéʼw": {
+    "voye": 4
+  },
+  "jaden": {
+    "jaden": 6
+  },
+  "pwofi": {
+    "pwofite": 1,
+    "gany.": 1
+  },
+  "Sanmariya-a": {
+    "Samari": 2
+  },
+  "madanm-lan": {
+    "fanm": 23
+  },
+  "“Souplé,": {
+    "l": 6
+  },
+  "pil": {
+    "anpil": 46
+  },
+  "lézòt": {
+    "lòt": 85
+  },
+  "ankò": {
+    "ankò": 12,
+    "ankò,": 12
+  },
+  "lapéti": {
+    "poutèt": 29
+  },
+  "yo-a,": {
+    "yo.": 9
+  },
+  "madanm-lan,": {
+    "fanm": 6
+  },
+  "tousèl,": {
+    "sèlman": 16
+  },
+  "nou-an": {
+    "nou": 31
+  },
+  "latè-a.”": {
+    "latè.": 8
+  },
+  "wèspé": {
+    "krentif": 5,
+    "y'ap": 5
+  },
+  "menm.”": {
+    "li.": 2
+  },
+  "Délivwans-lan": {
+    "yo": 6
+  },
+  "fèt-la.": {
+    "la.": 6
+  },
+  "wèʼy,": {
+    "wè": 17
+  },
+  "wa-a": {
+    "la": 14
+  },
+  "malad": {
+    "malad": 7
+  },
+  "ti": {
+    "ti": 60
+  },
+  "Joudiya,": {
+    "peyi": 4
+  },
+  "Galili": {
+    "Galile,": 4
+  },
+  "djéwi": {
+    "geri": 12
+  },
+  "gasonʼy,": {
+    "pitit": 4
+  },
+  "mò.": {
+    "mouri.": 30
+  },
+  "“Zòt": {
+    "—": 12
+  },
+  "twavay.”": {
+    "kwè.": 1
+  },
+  "Ofisyé-a": {
+    "Fonksyonè": 1,
+    "a": 1
+  },
+  "mwen-an": {
+    "mwen": 37
+  },
+  "mò.”": {
+    "mouri.": 3
+  },
+  "“Alé,": {
+    "—": 4
+  },
+  "gasonʼw-lan": {
+    "mèt": 1,
+    "al": 1
+  },
+  "Nonm-lan": {
+    "Nonm": 10
+  },
+  "pati.": {
+    "l": 5
+  },
+  "chimen,": {
+    "tte": 1
+  },
+  "sèvant": {
+    "sèvitè": 28
+  },
+  "“Gasonʼw-lan": {
+    "Pitit": 2
+  },
+  "byen.”": {
+    "wi.": 1,
+    "geri.": 1
+  },
+  "gason-an": {
+    "gason": 3,
+    "pitit": 3
+  },
+  "byen?”": {
+    "refè?": 1
+  },
+  "yonnè": {
+    "Yè": 1
+  },
+  "apwémidi": {
+    "apremidi,": 2,
+    "konsa,": 2
+  },
+  "yè": {
+    "inè": 1
+  },
+  "lafyèv-la": {
+    "lafyèb": 1
+  },
+  "tonbé.”": {
+    "tonbe.": 2
+  },
+  "fanmiʼy": {
+    "fanmi": 3
+  },
+  "Jwif-la.": {
+    "jwif": 26
+  },
+  "sélébwé": {
+    "fèt": 7
+  },
+  "Bayè": {
+    "Pòtay": 2
+  },
+  "Mouton-an": {
+    "Mouton": 19
+  },
+  "twou": {
+    "nan": 5
+  },
+  "langaj": {
+    "lang": 20
+  },
+  "Bèfsafa": {
+    "Betzata.": 1
+  },
+  "—": {
+    "pou": 20
+  },
+  "avèg,": {
+    "avèg,": 2
+  },
+  "èspéyé": {
+    "tann": 37
+  },
+  "soukwé,": {
+    "tranble.": 4
+  },
+  "tanzantan": {
+    "tanzantan,": 1
+  },
+  "soukwé.": {
+    "anmouvman.": 2
+  },
+  "Pwèmyé": {
+    "Premye": 10
+  },
+  "djéwi.]": {
+    "gerizon.]": 1
+  },
+  "ywit": {
+    "wit": 4
+  },
+  "(38)": {
+    "tranntwitan.": 1
+  },
+  "kouché": {
+    "ak": 8
+  },
+  "tan.": {
+    "tan.": 20
+  },
+  "nonm-lan,": {
+    "l,": 2
+  },
+  "djéwizonʼw?”": {
+    "geri?": 1
+  },
+  "malad-la": {
+    "Malad": 1
+  },
+  "fèʼy": {
+    "fè": 57
+  },
+  "dlo-a,": {
+    "dlo": 3
+  },
+  "mwen.”": {
+    "mwen.": 18
+  },
+  "“Doubout,": {
+    "—": 1,
+    "Leve": 1
+  },
+  "matlaʼw": {
+    "nat": 1
+  },
+  "maché.”": {
+    "ale.": 2
+  },
+  "djéwi.": {
+    "geri.": 2
+  },
+  "anmasé": {
+    "ranmase": 10
+  },
+  "matlaʼy": {
+    "nat": 1,
+    "paralize": 1
+  },
+  "maché.": {
+    "mache.": 4
+  },
+  "Jou": {
+    "jou": 3
+  },
+  "sabaf-la,": {
+    "saba.": 1
+  },
+  "djéwi-a,": {
+    "Jodi": 1
+  },
+  "kont": {
+    "kont": 34
+  },
+  "pòté": {
+    "pote": 14
+  },
+  "matlaʼw.”": {
+    "chay.": 1
+  },
+  "matla": {
+    "ranmase": 1
+  },
+  "sala?”": {
+    "a?": 3
+  },
+  "djéwi-a": {
+    "geri": 2
+  },
+  "“Gadé,": {
+    "—": 7
+  },
+  "wivéʼw.”": {
+    "ou.": 1
+  },
+  "djéwiʼy-la.": {
+    "geri": 1,
+    "li.": 1
+  },
+  "pèsikité": {
+    "pèsekite": 17
+  },
+  "sabaf-la.": {
+    "saba.": 3
+  },
+  "toujou": {
+    "toujou": 62
+  },
+  "tou.”": {
+    "tou.": 5
+  },
+  "tjwéʼy.": {
+    "li.": 9
+  },
+  "kasé": {
+    "dezobeyi": 9
+  },
+  "fè,": {
+    "fè": 23
+  },
+  "moutwéʼy": {
+    "l": 12
+  },
+  "bouch": {
+    "bouch": 18
+  },
+  "ouvè.": {
+    "be.": 1,
+    "fè.": 1,
+    "leve.": 1
+  },
+  "mò": {
+    "mouri": 81
+  },
+  "lavi.": {
+    "lavi.": 6
+  },
+  "jijé": {
+    "jije": 45
+  },
+  "lanmen": {
+    "men": 75
+  },
+  "Gason-an.": {
+    "Pitit": 4
+  },
+  "onnowé": {
+    "lwanj": 11
+  },
+  "Papa-a.": {
+    "Papa": 16
+  },
+  "Népòt": {
+    "Moun": 16
+  },
+  "lanmò": {
+    "lanmò": 25
+  },
+  "viv.": {
+    "lavi.": 4
+  },
+  "mò-a": {
+    "yo": 15
+  },
+  "tann-an": {
+    "tande": 4
+  },
+  "pouvwa": {
+    "pouvwa": 99
+  },
+  "mannyè-a,": {
+    "tou,": 14
+  },
+  "jijé,": {
+    "jije,": 2
+  },
+  "Lézòm-lan.": {
+    "lachè": 2,
+    "a.": 2
+  },
+  "vwaʼy": {
+    "vwa": 2
+  },
+  "wésisité": {
+    "leve": 42
+  },
+  "étonnèl,": {
+    "p'ap": 7
+  },
+  "kondannasyon.": {
+    "kondannasyon": 1
+  },
+  "vlé,": {
+    "vle,": 7,
+    "vle": 7
+  },
+  "menm,": {
+    "menm,": 23
+  },
+  "zòt-la,": {
+    "nou": 19
+  },
+  "sové.": {
+    "sove.": 5
+  },
+  "lanp": {
+    "lanp": 10
+  },
+  "tan,": {
+    "tan,": 5
+  },
+  "“Mé": {
+    "Men,": 3,
+    "—": 3
+  },
+  "bagay-la": {
+    "sa": 101
+  },
+  "Twavay": {
+    "travay": 4
+  },
+  "fidjiʼy": {
+    "figi": 4
+  },
+  "vwaʼy,": {
+    "li.": 1
+  },
+  "zòt,": {
+    "nou": 44
+  },
+  "voyé-a.": {
+    "voye": 3
+  },
+  "étidyé": {
+    "N'ap": 1,
+    "etidye": 1,
+    "fouye": 1
+  },
+  "lévanjil-la,": {
+    "Liv": 15
+  },
+  "étonnèl": {
+    "lavi": 6
+  },
+  "andidanʼy.": {
+    "li.": 5
+  },
+  "lévanjil": {
+    "Liv": 3
+  },
+  "mwen!": {
+    "mwen.": 4
+  },
+  "chaché": {
+    "chache": 28
+  },
+  "non": {
+    "non": 79
+  },
+  "lanmityé": {
+    "renmen": 87
+  },
+  "zòt.": {
+    "nou.": 52
+  },
+  "wisivwè": {
+    "resevwa": 89
+  },
+  "Tjè": {
+    "Epitou": 1
+  },
+  "a": {
+    "lòt,": 23,
+    "yonn": 23
+  },
+  "lòt,": {
+    "yonn": 13
+  },
+  "akizé": {
+    "akize": 7
+  },
+  "douvan": {
+    "devan": 100
+  },
+  "Moziz-la": {
+    "Moyiz": 9
+  },
+  "apiyé": {
+    "ki": 6
+  },
+  "Si": {
+    "Si": 121
+  },
+  "vwé,": {
+    "tout": 10,
+    "bon": 10
+  },
+  "tou,": {
+    "tou,": 10
+  },
+  "di-a?”": {
+    "nou?": 1,
+    "sa?": 1
+  },
+  "twavèsé": {
+    "pase": 4
+  },
+  "lanmè": {
+    "lanmè": 6
+  },
+  "Galili-a,": {
+    "Galile": 1,
+    "a.": 1
+  },
+  "lanmè-a": {
+    "lanmè": 21
+  },
+  "Taybiriyòs-la.": {
+    "Tiberyad": 2
+  },
+  "latilyé": {
+    "foul": 3
+  },
+  "malad-la.": {
+    "tou.": 1
+  },
+  "Tan-an": {
+    "Jou": 1,
+    "Domestik": 1
+  },
+  "pwé.": {
+    "rive.": 3
+  },
+  "Filip,": {
+    "Filip,": 3
+  },
+  "“Koté": {
+    "—": 4,
+    "Ki": 4
+  },
+  "pen": {
+    "pen": 16
+  },
+  "manjé?”": {
+    "n": 2,
+    "manje?": 2
+  },
+  "asé": {
+    "gen": 12
+  },
+  "pen.”": {
+    "kal.": 1
+  },
+  "“La": {
+    "—": 4
+  },
+  "tibway": {
+    "gason": 4
+  },
+  "pwéson.": {
+    "farenn": 1,
+    "lòj,": 1
+  },
+  "sala.”": {
+    "sa": 4,
+    "a.": 4
+  },
+  "zèb": {
+    "zèb": 2,
+    "zèb,": 2
+  },
+  "(5,000)": {
+    "senkmil": 2,
+    "(5.000)": 2
+  },
+  "pen-an,": {
+    "pen": 4
+  },
+  "pwéson-an": {
+    "pwason": 2
+  },
+  "plen.": {
+    "vle.": 1
+  },
+  "plen,": {
+    "plen,": 1
+  },
+  "li-a,": {
+    "li": 10
+  },
+  "“Anmasé": {
+    "Ranmase": 1
+  },
+  "mòso": {
+    "manm": 7
+  },
+  "wèsté-a,": {
+    "rete": 3
+  },
+  "kitéʼy": {
+    "l": 16
+  },
+  "gaspiyé.”": {
+    "anyen": 1,
+    "gaspiye.": 1
+  },
+  "wèsté-a": {
+    "rete": 3
+  },
+  "pen-an": {
+    "pen": 17
+  },
+  "douz": {
+    "douz": 17
+  },
+  "panyen": {
+    "panyen": 1,
+    "fennèt": 1
+  },
+  "mòso-a.": {
+    "ale.": 1
+  },
+  "fòséʼy": {
+    "li": 4
+  },
+  "mòn-an": {
+    "mòn": 7
+  },
+  "yonn.": {
+    "yon": 8
+  },
+  "sòlèy": {
+    "solèy": 7
+  },
+  "kouché,": {
+    "fin": 2,
+    "kouche,": 2
+  },
+  "lanmè-a.": {
+    "lanmè": 5
+  },
+  "kannòt": {
+    "kannòt,": 1
+  },
+  "diwèksyon": {
+    "direksyon": 1
+  },
+  "pwan,": {
+    "nwit": 1,
+    "nèt,": 1
+  },
+  "lanmè-a,": {
+    "lanmè": 7
+  },
+  "mové.": {
+    "fò.": 1,
+    "ankòlè.": 1,
+    "pwòp.": 1,
+    "tò.": 1
+  },
+  "najé": {
+    "naje": 3
+  },
+  "saviyon": {
+    "zaviwon": 1,
+    "senk": 1
+  },
+  "kannòt-la,": {
+    "kannòt": 3
+  },
+  "maché": {
+    "mache": 15
+  },
+  "pè": {
+    "pè": 31
+  },
+  "“Pa": {
+    "—": 14
+  },
+  "pè,": {
+    "menm.": 1,
+    "pè,": 1
+  },
+  "la!”": {
+    "bezwen": 1,
+    "pè.": 1
+  },
+  "vléʼy": {
+    "vle": 7,
+    "l": 7
+  },
+  "andidan": {
+    "nan": 60
+  },
+  "atè": {
+    "yo": 5
+  },
+  "alé-a.": {
+    "taprale": 1
+  },
+  "kannòt-la": {
+    "kannòt": 8
+  },
+  "Lézòt": {
+    "Gen": 7
+  },
+  "Taybiriyòs,": {
+    "Tiberyad": 1
+  },
+  "plas-la": {
+    "kote": 22
+  },
+  "wimèsyé": {
+    "di": 40
+  },
+  "isi-a?”": {
+    "isit": 1,
+    "la?": 1
+  },
+  "twavay": {
+    "travay": 121
+  },
+  "manjé-a": {
+    "manje": 12
+  },
+  "tan-an.": {
+    "tan": 6
+  },
+  "vlé-a?”": {
+    "Bondye?": 1
+  },
+  "voyé-a.”": {
+    "voye": 1,
+    "a.": 1
+  },
+  "fè?": {
+    "kwè?": 1
+  },
+  "Gwan": {
+    "Zansèt": 2
+  },
+  "manna": {
+    "lamàn": 2
+  },
+  "manjé.’": {
+    "manje.": 1
+  },
+  "zòt-la": {
+    "nou": 19
+  },
+  "Paski": {
+    "Paske,": 44
+  },
+  "syèl-la,": {
+    "syèl": 19
+  },
+  "lézòm": {
+    "lèzòm": 4
+  },
+  "swèf.": {
+    "swaf.": 1,
+    "dlo,": 1
+  },
+  "toujou.": {
+    "toujou.": 10
+  },
+  "kouwi": {
+    "kouri": 17
+  },
+  "syèl,": {
+    "syèl": 12
+  },
+  "pèd": {
+    "pèdi": 15
+  },
+  "mwen-an,": {
+    "m": 13
+  },
+  "dènyé": {
+    "dènye": 18
+  },
+  "jou-a.": {
+    "a.": 4
+  },
+  "bougonnen": {
+    "pa": 4
+  },
+  "“Nonm": {
+    "—": 8
+  },
+  "syèl?”": {
+    "Bondye?": 1
+  },
+  "“Las": {
+    "Nou": 1,
+    "bezwen": 1
+  },
+  "wésisitéʼy": {
+    "nan": 3,
+    "leve": 3,
+    "sòti": 3
+  },
+  "ékwi,": {
+    "ekri": 5
+  },
+  "enstwi": {
+    "moutre": 40
+  },
+  "aksèpté": {
+    "asepte": 14
+  },
+  "lavi-a.": {
+    "lavi": 4
+  },
+  "vyé": {
+    "move": 33
+  },
+  "lavi-a,": {
+    "lavi": 5
+  },
+  "Pen": {
+    "Pen": 3
+  },
+  "lachè": {
+    "kò": 19
+  },
+  "lachèʼy": {
+    "kò": 4
+  },
+  "manjé-a,": {
+    "bon,": 1
+  },
+  "bwè-a.": {
+    "bwason": 1,
+    "bon.": 1
+  },
+  "manché": {
+    "fè": 33
+  },
+  "anpéché": {
+    "anpeche": 12
+  },
+  "tan.”": {
+    "tan.": 4
+  },
+  "légliz": {
+    "legliz": 29
+  },
+  "twò": {
+    "di.": 2,
+    "koze": 2
+  },
+  "Kilès": {
+    "Ki": 4
+  },
+  "sa?”": {
+    "konsa?": 3
+  },
+  "ofwansé": {
+    "ofiske": 1
+  },
+  "zòt?": {
+    "nou?": 3
+  },
+  "Bon,": {
+    "Se": 12
+  },
+  "sòti-a?": {
+    "anvan": 1,
+    "an?": 1
+  },
+  "pawòl-la": {
+    "nan": 25
+  },
+  "Lèspwi-a": {
+    "Lespri": 23
+  },
+  "dépi": {
+    "depi": 46
+  },
+  "konpanni": {
+    "ki": 11
+  },
+  "twayiʼy.": {
+    "trayi": 3
+  },
+  "wézon": {
+    "poutèt": 27
+  },
+  "Pou": {
+    "Se": 14
+  },
+  "di-a,": {
+    "sa": 17
+  },
+  "tou?”": {
+    "ale": 1,
+    "tou?": 1,
+    "li?": 1
+  },
+  "“Senyè,": {
+    "Senyè,": 13,
+    "—": 13
+  },
+  "jwenn?": {
+    "jwenn?": 1
+  },
+  "Apwézan": {
+    "Kounyeya,": 7
+  },
+  "kwè,": {
+    "te": 6
+  },
+  "chwazi": {
+    "chwazi": 41
+  },
+  "douz,": {
+    "touledouz?": 1
+  },
+  "djab.”": {
+    "dyab.": 1
+  },
+  "Jida,": {
+    "Jida,": 3
+  },
+  "Iskariyòt-la.": {
+    "Iskaryòt": 2,
+    "la.": 2
+  },
+  "Jida": {
+    "Jida": 11
+  },
+  "disip-la,": {
+    "disip": 4
+  },
+  "toupatou": {
+    "nan": 13
+  },
+  "djè": {
+    "lontan": 4
+  },
+  "Kay-la.": {
+    "pre": 1,
+    "rive.": 1
+  },
+  "(Pa": {
+    "(Men,": 1
+  },
+  "“Tan": {
+    "Lè": 1
+  },
+  "wivé.": {
+    "lè": 7
+  },
+  "hayi": {
+    "rayi": 24
+  },
+  "movèzté.": {
+    "ki": 8
+  },
+  "sigwé.": {
+    "kachèt.": 2
+  },
+  "Adan": {
+    "Gen": 14
+  },
+  "zòwèy": {
+    "zòrèy": 15
+  },
+  "“An,": {
+    "debyen": 1
+  },
+  "moun-an.”": {
+    "pete": 2
+  },
+  "tann,": {
+    "tande": 5
+  },
+  "fèt-la": {
+    "sa": 7
+  },
+  "enstwi.": {
+    "pale.": 1,
+    "fè.": 1,
+    "pastè": 1,
+    "dirèktè.": 1
+  },
+  "otan": {
+    "nou": 10
+  },
+  "alè": {
+    "Epoutan": 1
+  },
+  "lékòl": {
+    "etid.": 1
+  },
+  "enstwi-a": {
+    "moutre": 5
+  },
+  "ében": {
+    "ni": 75
+  },
+  "on?": {
+    "vre?": 2
+  },
+  "tjwé": {
+    "touye": 58
+  },
+  "andidanʼw!": {
+    "ou?": 1
+  },
+  "tjwéʼw?”": {
+    "a?": 1
+  },
+  "sipwi.": {
+    "sezi": 1,
+    "sa!": 1
+  },
+  "sikonsayz": {
+    "sikonsi": 25
+  },
+  "sabaf-la": {
+    "repo": 3,
+    "Jou": 3,
+    "saba": 3
+  },
+  "fèʼy).": {
+    "yo.)": 1
+  },
+  "Moziz-la,": {
+    "Moyiz": 5
+  },
+  "faché": {
+    "kòlè": 5
+  },
+  "sabaf-la?": {
+    "repo.": 1
+  },
+  "dwèt.”": {
+    "dwat.": 2
+  },
+  "Jérouzalèm-lan": {
+    "Jerizalèm": 10
+  },
+  "tjwé-a?": {
+    "touye": 1,
+    "a?": 1
+  },
+  "Mi,": {
+    "Gade": 1
+  },
+  "moun,": {
+    "moun,": 25
+  },
+  "vwé": {
+    "se": 12
+  },
+  "Mèsaya-a.": {
+    "ye!": 1
+  },
+  "Mèsaya-a": {
+    "la": 7
+  },
+  "sòti.”": {
+    "sòti.": 1
+  },
+  "yé-a.”": {
+    "a.": 2
+  },
+  "awétéʼy,": {
+    "arete": 2,
+    "l,": 2
+  },
+  "anlèʼy,": {
+    "sou": 4
+  },
+  "chèf": {
+    "chèf": 40
+  },
+  "pwèt-la": {
+    "prèt": 22
+  },
+  "gad": {
+    "gad": 7
+  },
+  "awété": {
+    "arete": 13
+  },
+  "mwen-an.": {
+    "mwen": 9
+  },
+  "li?": {
+    "li?": 6
+  },
+  "simen": {
+    "gaye": 13
+  },
+  "péyi-a,": {
+    "Lagrès": 2
+  },
+  "Jwif-la?": {
+    "bagay?": 1
+  },
+  "la-a?”": {
+    "menm?": 1
+  },
+  "fèt-la,": {
+    "te": 9
+  },
+  "enpòtan-an,": {
+    "enpòtan.": 1
+  },
+  "népòt": {
+    "tout": 28
+  },
+  "bwè.": {
+    "bwè.": 2
+  },
+  "andidanʼy.’": {
+    "Liv": 1
+  },
+  "syèl.": {
+    "syèl": 14
+  },
+  "la-a": {
+    "yo": 8
+  },
+  "vwé!”": {
+    "la!": 1,
+    "ye": 1,
+    "vre.": 1
+  },
+  "Galili!": {
+    "Galile.": 1
+  },
+  "Lévanjil-la": {
+    "Liv": 7
+  },
+  "Wa": {
+    "wa": 8,
+    "Seza": 8
+  },
+  "désandan": {
+    "pitit": 34
+  },
+  "David": {
+    "David": 13
+  },
+  "Bèfléyenm": {
+    "Betleyèm": 1
+  },
+  "sòti-a.”": {
+    "a.": 1
+  },
+  "divizyon": {
+    "divizyon": 2,
+    "mitan": 2
+  },
+  "Déotwa": {
+    "Kèk": 3
+  },
+  "anlèʼy.": {
+    "sou": 6
+  },
+  "gad-la": {
+    "gad": 7
+  },
+  "nou?”": {
+    "nou?": 1
+  },
+  "“Pyès": {
+    "poko": 1
+  },
+  "sala!”": {
+    "a!": 2
+  },
+  "kwennen": {
+    "twonpe": 22
+  },
+  "tou?": {
+    "tou?": 1,
+    "valè?": 1
+  },
+  "Ès": {
+    "Eske": 31
+  },
+  "kouyon": {
+    "fou": 4,
+    "fou.": 4
+  },
+  "Bondyé!”": {
+    "Bondye.": 2
+  },
+  "Nikodimòs,": {
+    "Nikodèm": 2
+  },
+  "pasé-a.": {
+    "pase.": 1
+  },
+  "“Lwa": {
+    "—": 2
+  },
+  "-": {
+    "ki": 16,
+    "te": 16,
+    "nou": 16
+  },
+  "Galili.”": {
+    "yo.": 1
+  },
+  "Mòn": {
+    "Mòn": 5
+  },
+  "Òliv.": {
+    "Olivye.": 1
+  },
+  "bonnè,": {
+    "maten,": 2,
+    "bonè,": 2
+  },
+  "asanblé": {
+    "sanble": 15
+  },
+  "adiltè.": {
+    "adiltè.": 3
+  },
+  "konmandé": {
+    "lòd": 37
+  },
+  "kalité": {
+    "kalite": 31
+  },
+  "tjwéʼy,": {
+    "touye": 5
+  },
+  "wòch": {
+    "wòch": 18
+  },
+  "di?”": {
+    "sa?": 1,
+    "di?": 1
+  },
+  "bésé": {
+    "bese": 7
+  },
+  "kwèsyon,": {
+    "kèsyon.": 2
+  },
+  "wòch-la.”": {
+    "la.": 2
+  },
+  "avan.": {
+    "te": 9
+  },
+  "kòʼy,": {
+    "li": 3
+  },
+  "douvanʼy.": {
+    "l.": 1
+  },
+  "akizéʼw-la?": {
+    "Madanm,": 1
+  },
+  "kondannéʼw?”": {
+    "kondannen": 1,
+    "ou?": 1
+  },
+  "misyé.”": {
+    "Mèt.": 1
+  },
+  "kondannéʼw": {
+    "kondannen": 2
+  },
+  "Alé,": {
+    "ale.": 1
+  },
+  "ankò.”]": {
+    "ankò.]": 1
+  },
+  "lavi-a": {
+    "lavi": 13
+  },
+  "nwèsè.”": {
+    "fènwa.": 1
+  },
+  "kòʼw": {
+    "nou": 36
+  },
+  "anyen.”": {
+    "valè.": 1,
+    "anyen.": 1
+  },
+  "“Menm": {
+    "—": 3
+  },
+  "lavéwité,": {
+    "ki": 7
+  },
+  "jijman": {
+    "jije": 12
+  },
+  "Lwa": {
+    "Lalwa": 5
+  },
+  "témwen": {
+    "temwen": 7
+  },
+  "tèl,": {
+    "depozisyon": 1
+  },
+  "bwèt-la": {
+    "bwat": 3
+  },
+  "alé-a.”": {
+    "a.": 3
+  },
+  "kòʼy?”": {
+    "prale": 1
+  },
+  "latè": {
+    "sou": 17,
+    "lemonn": 17
+  },
+  "yé?”": {
+    "ye?": 3
+  },
+  "koumansman-an.": {
+    "an.": 6
+  },
+  "tousèl": {
+    "se": 18
+  },
+  "lavéwité": {
+    "verite": 14
+  },
+  "di.”": {
+    "di.": 3
+  },
+  "palé,": {
+    "pale,": 6,
+    "pale": 6
+  },
+  "konpwann": {
+    "konprann": 37
+  },
+  "Papaʼy": {
+    "Papa": 3
+  },
+  "palé-a.": {
+    "t'ap": 5
+  },
+  "plèʼy.”": {
+    "plezi.": 1
+  },
+  "fèʼw": {
+    "nou": 47
+  },
+  "lib.”": {
+    "libète.": 1
+  },
+  "èslav": {
+    "esklav": 33
+  },
+  "lib?”": {
+    "libète": 1,
+    "nou?": 1
+  },
+  "kay-la": {
+    "kay": 17
+  },
+  "lib": {
+    "lib": 2
+  },
+  "Abrahanm,": {
+    "Abraram": 4
+  },
+  "toujou,": {
+    "n'ap": 7
+  },
+  "Abrahanm": {
+    "Abraram": 42
+  },
+  "Bondyé-a,": {
+    "Bondye": 27
+  },
+  "bata.": {
+    "pitit": 2
+  },
+  "Bondyé.”": {
+    "Bondye.": 5
+  },
+  "isi-a.": {
+    "isit": 2,
+    "la.": 2
+  },
+  "di-a?": {
+    "a?": 3
+  },
+  "kouté": {
+    "koute": 33
+  },
+  "Dépi": {
+    "Se": 10
+  },
+  "péché?": {
+    "peche?": 2
+  },
+  "mwen?": {
+    "mwen?": 5
+  },
+  "Bondyé-a": {
+    "Bondye": 130
+  },
+  "kouté.”": {
+    "koute.": 1,
+    "[": 1
+  },
+  "andidanʼw?”": {
+    "ou.": 1
+  },
+  "apwézan": {
+    "kounyeya": 19
+  },
+  "asiwé": {
+    "gen": 20
+  },
+  "mò,": {
+    "mouri,": 15
+  },
+  "vo": {
+    "vo": 10
+  },
+  "anyen.": {
+    "anyen.": 16
+  },
+  "zòt-la.": {
+    "nou": 26
+  },
+  "tan-an": {
+    "lè": 9,
+    "tan": 9
+  },
+  "wèʼy": {
+    "wè": 17
+  },
+  "tjèʼy": {
+    "kè": 4
+  },
+  "pil.”": {
+    "nèt.": 1,
+    "jalouzi": 1,
+    "li.": 1
+  },
+  "senkant": {
+    "gen": 3
+  },
+  "(50)": {
+    "senkantan,": 1
+  },
+  "Abrahanm?”": {
+    "Abraram?": 1
+  },
+  "fèt,": {
+    "rive": 5,
+    "kreye": 5
+  },
+  "la.”": {
+    "deja.": 1
+  },
+  "séwé": {
+    "kache": 4
+  },
+  "koté,": {
+    "yon": 4
+  },
+  "avèg.": {
+    "avèg": 2
+  },
+  "papaʼy?”": {
+    "lakòz": 1,
+    "sa?": 1
+  },
+  "papaʼy": {
+    "papa": 10
+  },
+  "avèg": {
+    "avèg,": 3
+  },
+  "lajouné,": {
+    "klè": 1,
+    "toujou,": 1
+  },
+  "twavay.": {
+    "a.": 2
+  },
+  "klèté": {
+    "limyè": 27
+  },
+  "kwacha-a.": {
+    "krache": 1
+  },
+  "atè-a": {
+    "atè,": 2
+  },
+  "labou": {
+    "labou": 4
+  },
+  "fwoté": {
+    "krache": 1
+  },
+  "zyé": {
+    "je": 25
+  },
+  "labou-a": {
+    "labou": 2
+  },
+  "fidjiʼw": {
+    "Al": 1
+  },
+  "lavé": {
+    "lave": 17
+  },
+  "Silowanm-lan.”": {
+    "Siloe": 2
+  },
+  "(Non": {
+    "(Mo": 1
+  },
+  "Voyé).": {
+    "Avèg": 1
+  },
+  "fidjiʼy,": {
+    "tounen,": 1
+  },
+  "klè.": {
+    "je": 3
+  },
+  "lachawité-a": {
+    "charite": 1
+  },
+  "lachawité-a?”": {
+    "charite": 1,
+    "a!": 1
+  },
+  "la-a.”": {
+    "menm.": 1
+  },
+  "atjwèlman?”": {
+    "avèg": 1,
+    "ankò": 1,
+    "a?": 1,
+    "kounyeya?": 1
+  },
+  "ay": {
+    "l'al": 8
+  },
+  "fidji": {
+    "figi": 12
+  },
+  "klè.”": {
+    "wè.": 2
+  },
+  "“Kotéʼy?”": {
+    "Kote": 1,
+    "nonm": 1,
+    "a?": 1
+  },
+  "sav.”": {
+    "konnen": 1,
+    "non.": 1
+  },
+  "avèg-la": {
+    "avèg": 4
+  },
+  "Jou-a": {
+    "Se": 1
+  },
+  "pwòfèt.”": {
+    "ye.": 1
+  },
+  "papaʼy.": {
+    "keksyon.": 1
+  },
+  "Manmanʼy": {
+    "Papa": 2
+  },
+  "kòʼy!”": {
+    "menm.": 1
+  },
+  "dakò": {
+    "dakò": 21
+  },
+  "météʼy": {
+    "l": 14
+  },
+  "asé,": {
+    "menm.": 1,
+    "Nou": 1,
+    "mèt": 1
+  },
+  "mandéʼy!”": {
+    "mande": 1,
+    "li.": 1
+  },
+  "fwa": {
+    "fwa": 15
+  },
+  "péchè.”": {
+    "mal.": 1
+  },
+  "atjwèlman": {
+    "kounyeya": 16
+  },
+  "pouʼw": {
+    "pou": 107
+  },
+  "zyéʼw?”": {
+    "yo?": 1
+  },
+  "kouté.": {
+    "koute.": 2
+  },
+  "ankò?": {
+    "ankò?": 4
+  },
+  "ensilté": {
+    "joure": 12
+  },
+  "Moziz.": {
+    "Moyiz.": 2
+  },
+  "sòti!”": {
+    "sòti.": 1
+  },
+  "pyès!": {
+    "dwòl": 1,
+    "en!": 1
+  },
+  "klè!": {
+    "yo!": 1
+  },
+  "lapwiyè": {
+    "lapriyè": 8
+  },
+  "obéyiʼy.": {
+    "volonte": 2
+  },
+  "koumansman": {
+    "poko": 1
+  },
+  "sa.”": {
+    "sa.": 2
+  },
+  "péché,": {
+    "peche": 15
+  },
+  "légliz-la.": {
+    "legliz": 12
+  },
+  "Lézòm-lan?”": {
+    "a?": 1
+  },
+  "li!”": {
+    "li?": 2
+  },
+  "épiʼw-la.”": {
+    "wi.": 1
+  },
+  "kwè!”": {
+    "kwè.": 2
+  },
+  "ajounou": {
+    "ajenou": 9
+  },
+  "adowéʼy.": {
+    "li.": 3,
+    "adore": 3
+  },
+  "klè": {
+    "avèg": 2,
+    "klè": 2
+  },
+  "avèg.”": {
+    "avèg.": 1
+  },
+  "tou!”": {
+    "avèg?": 1
+  },
+  "koupab": {
+    "koupab": 3,
+    "m'pa": 3
+  },
+  "toujou.”": {
+    "toujou.": 1
+  },
+  "lapòt-la": {
+    "pòt": 6
+  },
+  "pak": {
+    "mouton": 3
+  },
+  "vòlè": {
+    "vòlè,": 3
+  },
+  "lapòt-la,": {
+    "pòt": 5
+  },
+  "bèwjé-a.": {
+    "ye.": 1
+  },
+  "véyé": {
+    "Di": 7,
+    "konsa:": 7
+  },
+  "lapòt": {
+    "pòt": 9
+  },
+  "dèwò.": {
+    "deyò.": 3
+  },
+  "fini": {
+    "fin": 43
+  },
+  "vwaʼy.": {
+    "vwa": 1
+  },
+  "Okontwè,": {
+    "Okontrè,": 5
+  },
+  "vwaʼy.”": {
+    "vwa": 1,
+    "li.": 1
+  },
+  "pawabòl": {
+    "parabòl": 1,
+    "anparabòl.": 1,
+    "daki": 1,
+    "ekri,": 1
+  },
+  "yo-a.": {
+    "yo.": 17
+  },
+  "vòlè.": {
+    "vòlè": 2
+  },
+  "lapòt-la.": {
+    "pòt": 2
+  },
+  "antwé,": {
+    "l'a": 4
+  },
+  "manjé.": {
+    "manje.": 9
+  },
+  "vòlè-a": {
+    "vòlò": 2
+  },
+  "vòlè,": {
+    "touye": 6
+  },
+  "tjwé,": {
+    "touye,": 1
+  },
+  "alabondans.": {
+    "kantite.": 1
+  },
+  "bèwjé-a,": {
+    "gadò": 2
+  },
+  "pawé": {
+    "pare": 20
+  },
+  "mouton-an.": {
+    "mouton": 2,
+    "li.": 2
+  },
+  "bèt": {
+    "bèt": 25
+  },
+  "anplowé": {
+    "met": 2
+  },
+  "lézòt-la": {
+    "lòt": 9,
+    "yo": 9
+  },
+  "mélé": {
+    "mele": 5
+  },
+  "bèwjé.": {
+    "gadò.": 1
+  },
+  "“Papa-a": {
+    "—": 1,
+    "Papa": 1
+  },
+  "andidanʼy,": {
+    "fou!": 1,
+    "Sàn": 1
+  },
+  "fwédi-a,": {
+    "sezon": 3
+  },
+  "Dèdikasyon": {
+    "Dedikas": 1
+  },
+  "balkon-an": {
+    "anba": 2
+  },
+  "Balkon": {
+    "Galeri": 3,
+    "Salomon": 3
+  },
+  "Sòlomonn-an": {
+    "an": 1
+  },
+  "aklè": {
+    "sa": 5,
+    "prèv": 5
+  },
+  "Mèsaya-a.”": {
+    "kare": 1,
+    "kare.": 1
+  },
+  "yonn.”": {
+    "a.": 6
+  },
+  "bondyé": {
+    "bondye": 7
+  },
+  "yé.’": {
+    "ye.": 1
+  },
+  "konmisyonʼy-lan.": {
+    "di.": 1
+  },
+  "Bondyé?": {
+    "Bondye": 5
+  },
+  "fòs": {
+    "pou": 9
+  },
+  "chapé": {
+    "delivre": 15
+  },
+  "“Jan": {
+    "—": 8
+  },
+  "miwak,": {
+    "mirak,": 2
+  },
+  "tonbé": {
+    "tonbe": 40
+  },
+  "malad.": {
+    "malad.": 4
+  },
+  "Mari": {
+    "Mari": 8
+  },
+  "séséʼy": {
+    "ansanm": 2,
+    "sè": 2,
+    "l": 2,
+    "la,": 2
+  },
+  "Mari-a": {
+    "te": 4
+  },
+  "vidé": {
+    "vide": 11
+  },
+  "losyon-an": {
+    "odè": 3
+  },
+  "swiyéʼy": {
+    "siye": 3
+  },
+  "chivéʼy-la.": {
+    "Laza,": 1
+  },
+  "fwèʼy": {
+    "frè": 7
+  },
+  "sésé-a": {
+    "De": 1,
+    "sè": 1
+  },
+  "konmisyon": {
+    "mesay": 30
+  },
+  "janʼw-lan": {
+    "zanmi": 1,
+    "lan": 1
+  },
+  "malad.”": {
+    "malad.": 1
+  },
+  "“Maladi": {
+    "Maladi": 1
+  },
+  "Mafa,": {
+    "Mat,": 2
+  },
+  "Lazaròs.": {
+    "Laza.": 1
+  },
+  "Lazaròs": {
+    "Laza": 11
+  },
+  "yé-a": {
+    "ye": 9
+  },
+  "“Annou": {
+    "Ann": 5
+  },
+  "Joudiya.”": {
+    "Jide.": 1
+  },
+  "“On": {
+    "douzèdtan": 1
+  },
+  "nèditan-an,": {
+    "jounen,": 1
+  },
+  "lajouné": {
+    "kou": 8
+  },
+  "òswè,": {
+    "lannwit,": 1
+  },
+  "konyen": {
+    "frape": 4
+  },
+  "pyéʼy,": {
+    "pye": 2
+  },
+  "klèté.”": {
+    "li.": 1
+  },
+  "lévéʼy.”": {
+    "li.": 1
+  },
+  "“Mèt,": {
+    "li:": 3
+  },
+  "dòmi,": {
+    "dòmi,": 1
+  },
+  "dòmi": {
+    "dòmi": 6
+  },
+  "dòmi.": {
+    "fè.": 1
+  },
+  "aklè,": {
+    "klè:": 1,
+    "kareman:": 1,
+    "kare.": 1
+  },
+  "Annou": {
+    "pou": 13
+  },
+  "Tonmas": {
+    "Toma": 6
+  },
+  "(yo": {
+    "(yo": 4
+  },
+  "Jimo-a)": {
+    "Jimo": 1,
+    "a)": 1
+  },
+  "Mèt-la,": {
+    "Mèt": 1
+  },
+  "téwé": {
+    "antere": 7
+  },
+  "pasé.": {
+    "pase.": 2
+  },
+  "lyé": {
+    "kilomèt": 4
+  },
+  "hòd": {
+    "nan": 26
+  },
+  "Mafa": {
+    "Mat": 7
+  },
+  "konsolé": {
+    "resevwa": 6
+  },
+  "kay-la.": {
+    "kay": 2,
+    "la.": 2
+  },
+  "pou.”": {
+    "li.": 1
+  },
+  "“Fwèʼw": {
+    "Frè": 1
+  },
+  "vivan": {
+    "vivan": 12
+  },
+  "jou-a.”": {
+    "leve.": 1
+  },
+  "“Wi": {
+    "Wi,": 3
+  },
+  "Senyè,": {
+    "Senyè,": 4
+  },
+  "Mari.": {
+    "zòrèy:": 1
+  },
+  "vitman": {
+    "kouri": 1
+  },
+  "li-an.": {
+    "la.)": 1,
+    "koule.": 1
+  },
+  "twou-a": {
+    "fon": 7,
+    "twou": 7
+  },
+  "yé-a,": {
+    "ye": 6
+  },
+  "pyéʼy": {
+    "l": 13
+  },
+  "mò!”": {
+    "mouri.": 2
+  },
+  "pléwé": {
+    "kriye": 7
+  },
+  "chay.": {
+    "kè": 6,
+    "anpil.": 6,
+    "la.": 6
+  },
+  "distwéʼy": {
+    "fann.": 1
+  },
+  "téwéʼy?”": {
+    "antere": 1,
+    "li?": 1
+  },
+  "pléwé.": {
+    "je": 1,
+    "Jezi.": 1,
+    "kriye.": 1,
+    "u": 1
+  },
+  "“Gadé": {
+    "—": 2,
+    "Gade": 2
+  },
+  "enmenʼy,": {
+    "renmen": 1,
+    "l": 1
+  },
+  "mò?”": {
+    "mouri?": 1
+  },
+  "twou-a,": {
+    "pi": 3
+  },
+  "kayè-a": {
+    "gwòt": 1
+  },
+  "djòl": {
+    "bouch": 15
+  },
+  "“Débouché": {
+    "Wete": 1
+  },
+  "sésé": {
+    "sè": 7
+  },
+  "santi!”": {
+    "kavo": 1
+  },
+  "kwè?”": {
+    "Bondye?": 1
+  },
+  "wòch-la.": {
+    "wòch": 1
+  },
+  "zyéʼy": {
+    "je": 6,
+    "l": 6
+  },
+  "wimèsyéʼw": {
+    "dèske": 2
+  },
+  "“Papa,": {
+    "Papa,": 6
+  },
+  "“Lazaròs,": {
+    "Laza,": 1
+  },
+  "dèwò!”": {
+    "deyò!": 1
+  },
+  "Lanmenʼy": {
+    "Mò": 1,
+    "sòti,": 1
+  },
+  "voplé": {
+    "bann": 4
+  },
+  "vopléʼy-la,": {
+    "twal,": 1
+  },
+  "had-la": {
+    "twal": 4
+  },
+  "sèvyèt.": {
+    "twal.": 1
+  },
+  "“Démawéʼy": {
+    "Demare": 1
+  },
+  "alé.”": {
+    "ale.": 1,
+    "wout": 1
+  },
+  "fè-a!": {
+    "mirak.": 1
+  },
+  "Ronm-lan": {
+    "women": 6,
+    "an": 6
+  },
+  "détwi": {
+    "detwi": 12
+  },
+  "nasyon": {
+    "nasyon": 20
+  },
+  "Kayafas,": {
+    "Kayif.": 1,
+    "bòpè": 1,
+    "Kayif": 1,
+    "Kayif,": 1
+  },
+  "ho": {
+    "granprèt": 27
+  },
+  "moun-an,": {
+    "pèp": 6
+  },
+  "détwi?”": {
+    "sove.": 1
+  },
+  "davans": {
+    "davans": 5
+  },
+  "manm": {
+    "yo": 9
+  },
+  "plan": {
+    "plan": 6
+  },
+  "Ifréyim,": {
+    "Efrayim.": 1
+  },
+  "péyi-a": {
+    "peyi": 6
+  },
+  "sèvis": {
+    "sèvis": 11
+  },
+  "paditan": {
+    "pandan": 5
+  },
+  "Délivwans-lan?”": {
+    "la?": 1
+  },
+  "awétéʼy.": {
+    "arete": 2
+  },
+  "Sis": {
+    "Sis": 2
+  },
+  "wésisité-a.": {
+    "lanmò": 4
+  },
+  "boutèy": {
+    "boutèy": 1,
+    "demi": 1,
+    "lit": 1
+  },
+  "losyon": {
+    "odè": 2,
+    "sant": 2
+  },
+  "chè": {
+    "koute": 4
+  },
+  "lavalè": {
+    "n'a.": 1,
+    "Odè": 1
+  },
+  "twayiʼy-la,": {
+    "trayi": 4,
+    "la,": 4
+  },
+  "(300)": {
+    "(300)": 1,
+    "goud?": 1,
+    "rivay": 1,
+    "(100)": 1
+  },
+  "dòla": {
+    "ta": 1,
+    "pòv": 1
+  },
+  "maléwé": {
+    "lajan": 1
+  },
+  "lajan-an?”": {
+    "a.": 1
+  },
+  "maléwé-a": {
+    "pòv": 6
+  },
+  "sak": {
+    "kès": 1
+  },
+  "adanʼy": {
+    "ladan": 2
+  },
+  "mizèʼy!": {
+    "Kite": 2
+  },
+  "jou-a": {
+    "jou": 26
+  },
+  "Bèfanni,": {
+    "Betani.": 1
+  },
+  "do": {
+    "do": 8
+  },
+  "koupé": {
+    "koupe": 9
+  },
+  "wanmo": {
+    "fèy": 2
+  },
+  "“Tout": {
+    "—": 6,
+    "Tout": 6
+  },
+  "“Benni": {
+    "la!": 2
+  },
+  "Izwayèl-la!”": {
+    "Izrayèl": 1
+  },
+  "jenn": {
+    "jenn": 9
+  },
+  "Zayonn,": {
+    "pè,": 1,
+    "Siyon": 1
+  },
+  "pè!": {
+    "Siyon": 1,
+    "Fòk": 1
+  },
+  "waʼw": {
+    "Gade,": 1
+  },
+  "bouwik.”": {
+    "bourik.": 1
+  },
+  "twou-a.": {
+    "a.": 6
+  },
+  "toupatou.": {
+    "wè.": 1,
+    "nou.": 1
+  },
+  "Gris": {
+    "Lagrès": 3
+  },
+  "Bèfsayda": {
+    "Betsayda": 1,
+    "Galile),": 1
+  },
+  "Jézi.”": {
+    "Jezi.": 4
+  },
+  "dé-a": {
+    "de": 5
+  },
+  "“Atjwèlman": {
+    "Kounyeya,": 3,
+    "—": 3
+  },
+  "gwenn": {
+    "grenn": 9
+  },
+  "mi": {
+    "Men": 11
+  },
+  "ladjéʼy": {
+    "l": 7
+  },
+  "gwenn.": {
+    "grenn.": 2
+  },
+  "laviʼy": {
+    "lavi": 6
+  },
+  "soufwans": {
+    "soufri": 5
+  },
+  "Papa,": {
+    "Papa,": 3
+  },
+  "pouvwaʼw!”": {
+    "non!": 1
+  },
+  "kout": {
+    "kout": 3
+  },
+  "loway,": {
+    "loray!": 1
+  },
+  "vwa-a": {
+    "vwa": 3
+  },
+  "Satan,": {
+    "chèf": 2,
+    "dominen": 2
+  },
+  "lézè": {
+    "anlè": 2
+  },
+  "lézè?": {
+    "anlè?": 1
+  },
+  "Kontiné": {
+    "Pa": 3
+  },
+  "Mété": {
+    "Mete": 2
+  },
+  "klèté-a.”": {
+    "limyè": 2
+  },
+  "Magwé": {
+    "atout": 4
+  },
+  "ankò:": {
+    "ankò:": 7
+  },
+  "“Bondyé": {
+    "Bondye": 13
+  },
+  "fèmé": {
+    "yo,": 6
+  },
+  "davans.": {
+    "li.": 1
+  },
+  "nwèsè.": {
+    "fènwa.": 1,
+    "fènwa!": 1,
+    "fèmen.": 1
+  },
+  "jijéʼy.": {
+    "li.": 3
+  },
+  "Délivwans-lan.": {
+    "jwif": 4
+  },
+  "dinen.": {
+    "swa": 1
+  },
+  "Denmou": {
+    "Satan": 7
+  },
+  "twayi": {
+    "trayi": 2
+  },
+  "bagay.": {
+    "bagay.": 16
+  },
+  "anlèʼy-la,": {
+    "sèvyèt,": 1
+  },
+  "mawé": {
+    "mare": 15
+  },
+  "sèvyèt": {
+    "ren": 1
+  },
+  "wenʼy.": {
+    "li.": 1
+  },
+  "bésin": {
+    "kivèt.": 1
+  },
+  "sèvyèt-la": {
+    "sèvyèt": 1
+  },
+  "wenʼy-lan.": {
+    "ren": 1,
+    "lan.": 1
+  },
+  "Pita,": {
+    "konsa:": 7
+  },
+  "Senyè?”": {
+    "mwen?": 1,
+    "a?": 1
+  },
+  "ta.”": {
+    "pita.": 1
+  },
+  "kitéʼw": {
+    "kite": 3
+  },
+  "lavé,": {
+    "lave.": 1,
+    "Lave": 1
+  },
+  "tèt": {
+    "tèt": 53
+  },
+  "benyen,": {
+    "benyen,": 1
+  },
+  "nèt.”": {
+    "pwòp.": 2
+  },
+  "lavé.": {
+    "lave.": 1
+  },
+  "anpami-an": {
+    "ki": 4
+  },
+  "gòl": {
+    "rad": 9
+  },
+  "anlèʼy": {
+    "sou": 10
+  },
+  "zòt-la?": {
+    "a?": 1
+  },
+  "Titja": {
+    "Mèt,": 1
+  },
+  "Senyè.": {
+    "Senyè.": 1
+  },
+  "Senyèʼw": {
+    "Senyè,": 1
+  },
+  "ègzanp": {
+    "egzanp": 14
+  },
+  "konmisyonnè": {
+    "voye": 5
+  },
+  "Atjwèlman": {
+    "Kounyeya,": 4
+  },
+  "fèʼy!": {
+    "an": 1,
+    "tou.": 1
+  },
+  "mwen.’": {
+    "mwen.": 3
+  },
+  "fèt.": {
+    "bagay": 6
+  },
+  "enmen-an,": {
+    "renmen": 4
+  },
+  "sin": {
+    "siy": 6
+  },
+  "panché": {
+    "panche": 1
+  },
+  "“Kilès": {
+    "Senyè,": 1
+  },
+  "palé-a,": {
+    "sa": 2
+  },
+  "sòs-la,": {
+    "tranpe": 2,
+    "lonje": 2
+  },
+  "fouyé": {
+    "yon": 4
+  },
+  "pen,": {
+    "pen,": 2
+  },
+  "Satan": {
+    "Satan": 14
+  },
+  "fè-a!”": {
+    "vit.": 1
+  },
+  "òswè.": {
+    "nwa": 1,
+    "deyò": 1,
+    "a.": 1
+  },
+  "pati,": {
+    "fin": 2,
+    "Apre": 2
+  },
+  "Ich": {
+    "Pitit": 2
+  },
+  "Jwif-la,": {
+    "jwif": 20
+  },
+  "‘Zòt": {
+    "deja:": 1
+  },
+  "konmandman": {
+    "kòmandman": 21
+  },
+  "nèf:": {
+    "nouvo:": 1
+  },
+  "enmenʼw.": {
+    "an.": 1
+  },
+  "alé?”": {
+    "prale?": 1
+  },
+  "apwé.”": {
+    "pita.": 1
+  },
+  "apwézan?": {
+    "kounyeya?": 1,
+    "menm?": 1
+  },
+  "baʼw.”": {
+    "ou.": 2
+  },
+  "chanté,": {
+    "Kòk": 1
+  },
+  "twakasé.": {
+    "toumante.": 1
+  },
+  "chimen-an": {
+    "chemen": 7
+  },
+  "la?”": {
+    "an?": 1
+  },
+  "chimen-an,": {
+    "chemen": 2
+  },
+  "wèʼy.”": {
+    "tou.": 1
+  },
+  "‘Moutwé": {
+    "Moutre": 1
+  },
+  "jis": {
+    "jouk": 54
+  },
+  "lavéwité-a.": {
+    "verite": 18
+  },
+  "viv,": {
+    "viv,": 2
+  },
+  "enmenʼy": {
+    "renmen": 3
+  },
+  "yé.”": {
+    "mwen.": 3
+  },
+  "Épi": {
+    "Se": 56
+  },
+  "lapé": {
+    "kè": 20
+  },
+  "lapé-a": {
+    "poze": 5
+  },
+  "Pa": {
+    "Pa": 27
+  },
+  "‘Mwen": {
+    "Mwen": 5
+  },
+  "Papa-a,": {
+    "Papa": 5
+  },
+  "vini.": {
+    "vini.": 7
+  },
+  "“Vini,": {
+    "Vini": 2
+  },
+  "annou": {
+    "Ann": 14
+  },
+  "lyenn-an,": {
+    "rezen": 2
+  },
+  "otjipéʼy.": {
+    "an.": 2
+  },
+  "bwanch": {
+    "branch": 13
+  },
+  "fwi,": {
+    "donnen.": 1
+  },
+  "nétwayé": {
+    "anba": 5
+  },
+  "diʼw-la": {
+    "kondisyon": 1
+  },
+  "nétwayéʼw.": {
+    "n": 1,
+    "volonte": 1,
+    "Bondye.": 1
+  },
+  "fwi": {
+    "donnen": 6
+  },
+  "bwanch-lan.": {
+    "branch": 3
+  },
+  "épiʼy,": {
+    "avè": 7
+  },
+  "jété": {
+    "jete": 10
+  },
+  "sèk": {
+    "cheche": 3
+  },
+  "bwa": {
+    "bwa": 4,
+    "an": 4
+  },
+  "difé-a,": {
+    "dife,": 2
+  },
+  "enmenʼw": {
+    "renmen": 4
+  },
+  "kontan-an": {
+    "kontan": 3
+  },
+  "ni-an,": {
+    "nou": 14
+  },
+  "mantjé": {
+    "manke": 6
+  },
+  "zòt:": {
+    "nou:": 4
+  },
+  "fò": {
+    "byen": 22
+  },
+  "kanmawad": {
+    "zanmi": 8
+  },
+  "kanmawad,": {
+    "zanmi": 2
+  },
+  "diwé-a.": {
+    "donn": 1,
+    "konsève.": 1
+  },
+  "konmandéʼw:": {
+    "mande": 1,
+    "nou:": 1
+  },
+  "obliyé": {
+    "bliye": 8
+  },
+  "Chonjé": {
+    "Chonje": 5
+  },
+  "yo-a": {
+    "yo": 36
+  },
+  "péché.": {
+    "peche": 14
+  },
+  "wézon.’": {
+    "anyen.": 1
+  },
+  "“Lèspwi-a,": {
+    "pwotektè": 1
+  },
+  "voyéʼy": {
+    "l": 8
+  },
+  "lapenn.": {
+    "lapenn": 2,
+    "lapenn.": 2
+  },
+  "mèyè": {
+    "bon": 7
+  },
+  "alé,": {
+    "ale,": 4
+  },
+  "édé": {
+    "ede": 26
+  },
+  "lèwè": {
+    "lerè": 4
+  },
+  "Bondyé.’": {
+    "kesyon": 3
+  },
+  "dwèt,": {
+    "gen": 11
+  },
+  "“Adan": {
+    "—": 1,
+    "Talè": 1
+  },
+  "mouman": {
+    "konsa": 4
+  },
+  "di?": {
+    "sa": 4
+  },
+  "kwèsyon": {
+    "kèsyon": 2
+  },
+  "pléwé,": {
+    "kriye,": 3
+  },
+  "kontan.": {
+    "kontan.": 7
+  },
+  "lapenn,": {
+    "lapenn,": 4,
+    "lapenn": 4
+  },
+  "lapenn": {
+    "lapenn": 11
+  },
+  "manmay-la": {
+    "pitit": 2,
+    "devwa": 2
+  },
+  "lajwa-a": {
+    "kè": 3,
+    "kontan": 3
+  },
+  "lajwa,": {
+    "kontantman": 2
+  },
+  "atjwèlman,": {
+    "kounyeya,": 4
+  },
+  "mandé-a.": {
+    "ale.": 1
+  },
+  "Papa-a.”": {
+    "a.": 1
+  },
+  "pawabòl.": {
+    "parabòl.": 1
+  },
+  "kwè?": {
+    "kwè": 1,
+    "kounyeya?": 1,
+    "kwè?": 1
+  },
+  "Lè-a": {
+    "Gade,": 1
+  },
+  "Fè": {
+    "Fè": 7
+  },
+  "ou,": {
+    "ou": 24
+  },
+  "Kwi,": {
+    "Jezikri,": 21
+  },
+  "Atjwèlman,": {
+    "Kounyeya,": 1
+  },
+  "douvanʼw-lan,": {
+    "pouvwa": 2
+  },
+  "ou.": {
+    "ou": 8
+  },
+  "ni.": {
+    "genyen.": 3
+  },
+  "konmisyon-an": {
+    "pawòl": 11
+  },
+  "pwédyé": {
+    "lapriyè": 44
+  },
+  "pwotèkté": {
+    "pwoteje": 7
+  },
+  "non-an": {
+    "non": 5
+  },
+  "yonn,": {
+    "fè": 8
+  },
+  "pèd,": {
+    "pèdi,": 1
+  },
+  "méchan-an.": {
+    "Satan.": 1
+  },
+  "Sèvi": {
+    "Fè": 1,
+    "Pale": 1
+  },
+  "viv-la": {
+    "se": 7
+  },
+  "pwédyé,": {
+    "lapriyè,": 6,
+    "lapriyè": 6
+  },
+  "nou,": {
+    "nou": 76
+  },
+  "Kidronn-an.": {
+    "ravin": 1,
+    "Sedwon": 1
+  },
+  "plizyè": {
+    "anpil": 6
+  },
+  "sòlda": {
+    "sòlda": 12
+  },
+  "sòlda-a": {
+    "yo": 10
+  },
+  "flanbo.": {
+    "chandèl": 1,
+    "limen.": 1
+  },
+  "pou?”": {
+    "n'ap": 2,
+    "chache?": 2
+  },
+  "Nazawèt-la.”": {
+    "Nazarèt": 2,
+    "la.": 2
+  },
+  "li,”": {
+    "renka": 1
+  },
+  "bak": {
+    "dèyè,": 1
+  },
+  "chaché,": {
+    "chache,": 1
+  },
+  "pèd.”": {
+    "pèdi.": 2
+  },
+  "sab": {
+    "nepe": 9
+  },
+  "hédi": {
+    "rale": 5
+  },
+  "pwèt-la.": {
+    "granprèt": 4,
+    "la.": 4
+  },
+  "lavòl.": {
+    "(Yo": 1
+  },
+  "Non": {
+    "rele": 3,
+    "Yo": 3,
+    "gen": 3
+  },
+  "Malkas.": {
+    "Malkis.)": 1
+  },
+  "“Mété": {
+    "Mete": 5
+  },
+  "li!": {
+    "djenn": 1
+  },
+  "pòt": {
+    "gode": 5
+  },
+  "soufwans-lan": {
+    "soufrans": 8
+  },
+  "mwen-an.”": {
+    "mwen": 5
+  },
+  "konmandè": {
+    "kòmandan": 3
+  },
+  "lanmenʼy.": {
+    "men": 10
+  },
+  "Annas.": {
+    "Àn.": 1
+  },
+  "bopè": {
+    "Àn": 1
+  },
+  "lanné-a.": {
+    "lanne": 1,
+    "a.": 1
+  },
+  "Kayafas": {
+    "Kayif": 1
+  },
+  "moun-an.": {
+    "pèp": 6,
+    "yo.": 6
+  },
+  "olwen.": {
+    "disip.": 1
+  },
+  "byen,": {
+    "konn": 7
+  },
+  "lakou": {
+    "lakou": 1
+  },
+  "bayè-a.": {
+    "pòt": 4,
+    "la.": 4
+  },
+  "bayè-a,": {
+    "la,": 3,
+    "mezi": 3
+  },
+  "antwé.": {
+    "antre.": 1
+  },
+  "Tifi-a": {
+    "Li": 2
+  },
+  "bayè-a": {
+    "pòtay": 5
+  },
+  "chèbon": {
+    "limen": 2,
+    "dife": 2
+  },
+  "chofé": {
+    "chofe": 3
+  },
+  "fwèt,": {
+    "frèt.": 2
+  },
+  "Pli": {
+    "la": 8
+  },
+  "kwèsyonnen": {
+    "poze": 5
+  },
+  "pwèt-la?”": {
+    "la?": 1
+  },
+  "bon,": {
+    "sa": 25
+  },
+  "souflé": {
+    "frape": 1,
+    "mwen?": 1,
+    "soufle": 1
+  },
+  "Annas": {
+    "Àn": 1
+  },
+  "fanmi": {
+    "fanmi": 10
+  },
+  "épiʼy-la?”": {
+    "li?": 1
+  },
+  "mwen,”": {
+    "pati": 4
+  },
+  "kòk-la": {
+    "kòk": 1
+  },
+  "chanté.": {
+    "chante.": 1
+  },
+  "lakay": {
+    "lakay": 32
+  },
+  "gouvènè-a.": {
+    "granmtimaten.": 1
+  },
+  "nèt": {
+    "pou": 34
+  },
+  "tjenn": {
+    "kenbe": 17
+  },
+  "Pilat": {
+    "Pilat": 26
+  },
+  "kwim.”": {
+    "ou.": 1
+  },
+  "“Ében,": {
+    "—": 5
+  },
+  "pwanʼy": {
+    "l": 8
+  },
+  "lanmò.”": {
+    "pèsonn.": 1
+  },
+  "gouvènè-a": {
+    "gouvènè": 4
+  },
+  "Jwif-la?”": {
+    "ye?": 1
+  },
+  "ès": {
+    "se": 24
+  },
+  "mwenʼy?”": {
+    "sa?": 1
+  },
+  "é,": {
+    "Eske": 3
+  },
+  "ou-an": {
+    "ou": 4
+  },
+  "kondwi-a": {
+    "peyi": 6
+  },
+  "goumen": {
+    "goumen": 11
+  },
+  "palé.": {
+    "pale.": 6
+  },
+  "lavéwité?”": {
+    "Laverite?": 1,
+    "ye?": 1
+  },
+  "twadisyon": {
+    "koutim": 6
+  },
+  "ladjé": {
+    "lage": 21
+  },
+  "pwizonnyé": {
+    "prizonye": 4
+  },
+  "hélé": {
+    "t'ap": 21
+  },
+  "Barabas": {
+    "Barabas": 2
+  },
+  "bat": {
+    "bat": 15
+  },
+  "pikan": {
+    "trese": 1,
+    "pikan": 1
+  },
+  "kouwonn": {
+    "kouwòn": 12
+  },
+  "lila": {
+    "wouj": 3
+  },
+  "bòʼy": {
+    "Bonjou,": 1
+  },
+  "souflé.": {
+    "souflete": 1
+  },
+  "“Kouté,": {
+    "Koute.": 2
+  },
+  "kondannéʼy.”": {
+    "kondannen": 2,
+    "menm.": 2
+  },
+  "dèwò,": {
+    "deyò": 2
+  },
+  "pikan-an": {
+    "pikan": 1
+  },
+  "nonm-lan!”": {
+    "lan!": 1
+  },
+  "Kwisifyéʼy!”": {
+    "Kloure": 3
+  },
+  "“Kwisifyéʼy!": {
+    "kwa!": 2
+  },
+  "kwisifyéʼy.": {
+    "kloure": 3
+  },
+  "sòti?”": {
+    "sòti?": 1
+  },
+  "wéponn.": {
+    "li.": 2
+  },
+  "kwisifyéʼw.”": {
+    "kwa?": 1
+  },
+  "hélé,": {
+    "—": 8
+  },
+  "lèlmi": {
+    "lènmi": 8
+  },
+  "Siza": {
+    "tande": 4,
+    "kòz": 4
+  },
+  "Lakou": {
+    "Lakou": 1
+  },
+  "Wòch-la": {
+    "Pave": 1
+  },
+  "Jwif-la).": {
+    "Gabata).": 1
+  },
+  "midi,": {
+    "lavèy": 1
+  },
+  "zòt-la!”": {
+    "an!": 1
+  },
+  "“Tjwéʼy!": {
+    "Touye": 3
+  },
+  "Tjwéʼy!": {
+    "li!": 3
+  },
+  "kwisifyé": {
+    "sou": 10
+  },
+  "nou!”": {
+    "nou.": 2
+  },
+  "kwaʼy": {
+    "deyò": 1
+  },
+  "Tèt-la.": {
+    "Zo": 1,
+    "Tèt": 1
+  },
+  "Gòlgòfa": {
+    "ebre,": 1
+  },
+  "kwisifyéʼy": {
+    "kloure": 2
+  },
+  "nonm,": {
+    "gason.": 2
+  },
+  "kotéʼy": {
+    "bò,": 1
+  },
+  "mitan-an.": {
+    "mitan": 1,
+    "yo.": 1
+  },
+  "Ékwiti-a": {
+    "pankat": 2
+  },
+  "kwa-a.": {
+    "kwa": 13
+  },
+  "Nazawèt-la.": {
+    "Jezi,": 2,
+    "Nazarèt": 2
+  },
+  "Jwif-la.”": {
+    "jwif": 2,
+    "yo.": 2
+  },
+  "vil-la.": {
+    "lavil": 17
+  },
+  "pwé": {
+    "bò": 7
+  },
+  "Laten": {
+    "lang:": 1,
+    "laten": 1
+  },
+  "Grik.": {
+    "grèk.": 1
+  },
+  "Jwif-la.’": {
+    "yo.": 3
+  },
+  "‘Nonm": {
+    "pito:": 1
+  },
+  "ékwi.”": {
+    "nèt.": 1,
+    "a!": 1
+  },
+  "had": {
+    "rad": 30
+  },
+  "jwé": {
+    "mizik": 4
+  },
+  "gwenndé": {
+    "tirajosò": 2
+  },
+  "“Yo": {
+    "Yo": 5
+  },
+  "sépawé": {
+    "separe": 9
+  },
+  "Bò": {
+    "Bò": 1
+  },
+  "kwa-a": {
+    "kwa": 6
+  },
+  "Klopas,": {
+    "Kleopas": 1
+  },
+  "Magdala-a.": {
+    "Magdala": 1
+  },
+  "gasonʼw": {
+    "pitit": 4
+  },
+  "atjwèlman,”": {
+    "ou.": 1
+  },
+  "swèf.”": {
+    "swaf.": 1
+  },
+  "wak,": {
+    "vinèg": 2
+  },
+  "léponj": {
+    "eponj": 1
+  },
+  "hisòp,": {
+    "izòp,": 1
+  },
+  "lèv": {
+    "bouch": 2
+  },
+  "“Twavay-la": {
+    "vinèg": 1
+  },
+  "fini!”": {
+    "rive!": 1
+  },
+  "pèwmisyon": {
+    "pa": 6
+  },
+  "sabaf": {
+    "kadav": 2
+  },
+  "janm": {
+    "kraze": 4
+  },
+  "dézyenm-lan": {
+    "lan": 3
+  },
+  "pitjé": {
+    "pèse": 1
+  },
+  "kòt": {
+    "kòt": 4
+  },
+  "pitjèt": {
+    "lans.": 1
+  },
+  "zoʼy.”": {
+    "zo": 1,
+    "kò": 1,
+    "li.": 1
+  },
+  "pèsé-a.”": {
+    "pèse": 1,
+    "a.": 1
+  },
+  "lanmi": {
+    "senkant": 1
+  },
+  "lalwé": {
+    "lwil": 1,
+    "lami": 1,
+    "melanje": 1
+  },
+  "kò-a.": {
+    "a": 4
+  },
+  "téwé.": {
+    "antere": 2
+  },
+  "Jézi-a,": {
+    "yo,": 11
+  },
+  "nèf": {
+    "yon": 15
+  },
+  "jaden-an.": {
+    "nèf.": 1,
+    "jaden": 1
+  },
+  "tonm-lan,": {
+    "kavo": 1
+  },
+  "simenn-an,": {
+    "dimanch": 1
+  },
+  "Madlenn": {
+    "Magdala": 2
+  },
+  "wòch-la": {
+    "wòch": 7
+  },
+  "météʼy.”": {
+    "mete": 2,
+    "li.": 2
+  },
+  "kouwi,": {
+    "ansanm,": 1
+  },
+  "vit": {
+    "rapid": 1,
+    "mize": 1
+  },
+  "twèl": {
+    "twal": 5
+  },
+  "kò-a,": {
+    "pil": 1
+  },
+  "kòʼy.": {
+    "kote.": 1
+  },
+  "wésisité.": {
+    "vivan": 11
+  },
+  "abiyé": {
+    "abiye": 7
+  },
+  "blan": {
+    "blan": 9
+  },
+  "pyé-a": {
+    "pye": 2
+  },
+  "Senyè": {
+    "Senyè": 107
+  },
+  "pwanʼy.”": {
+    "v'al": 1
+  },
+  "“Mari!”": {
+    "Mari!": 1,
+    "Mari": 1
+  },
+  "“Rabonni!”": {
+    "ebre:": 1,
+    "Rabouni": 1
+  },
+  "(sa": {
+    "(sa": 1,
+    "(fwa": 1
+  },
+  "Titja).": {
+    "Mèt).": 1
+  },
+  "ansanm,": {
+    "tout": 6
+  },
+  "zòt.”": {
+    "Lapè": 3
+  },
+  "lanmenʼy": {
+    "men": 16
+  },
+  "Senyè-a.": {
+    "Senyè": 32
+  },
+  "“Wisivwè": {
+    "Resevwa": 1
+  },
+  "pawdonnen": {
+    "padonnen": 19
+  },
+  "pawdonnen.”": {
+    "padon.": 2
+  },
+  "Jimo-a,": {
+    "Jimo,": 1
+  },
+  "mak": {
+    "mak": 12
+  },
+  "klou-a": {
+    "klou": 2
+  },
+  "Ywit": {
+    "senmenn": 1
+  },
+  "laklé,": {
+    "akle.": 1
+  },
+  "Tonmas,": {
+    "Toma:": 1
+  },
+  "“Fouyé": {
+    "Mete": 1
+  },
+  "vléʼw": {
+    "nou": 10
+  },
+  "tjèʼw": {
+    "kè": 13
+  },
+  "kwè.”": {
+    "tande.": 1,
+    "wè!": 1
+  },
+  "lafwaʼw": {
+    "nou": 9
+  },
+  "Jimo-a),": {
+    "a),": 1
+  },
+  "Zèbèdi-a": {
+    "Zebede": 1
+  },
+  "péché.”": {
+    "lapèch.": 1
+  },
+  "kannòt-la.": {
+    "kannòt.": 1,
+    "pwason.": 1
+  },
+  "swè-a": {
+    "nwit": 2
+  },
+  "anyen?”": {
+    "pwason?": 1
+  },
+  "sadin.”": {
+    "pran": 1,
+    "anyen.": 1
+  },
+  "lèpèvyé": {
+    "privye": 5
+  },
+  "Disip-la": {
+    "Disip": 1
+  },
+  "Senyè-a,": {
+    "Senyè": 20
+  },
+  "“Senyè-a": {
+    "sa": 7
+  },
+  "soté": {
+    "li": 3
+  },
+  "tè.": {
+    "konsa.": 1,
+    "Asòs": 1,
+    "apye.": 1,
+    "tè.": 1
+  },
+  "atè,": {
+    "atè.": 2
+  },
+  "difé": {
+    "dife": 15
+  },
+  "limen": {
+    "limen": 2
+  },
+  "pwéson": {
+    "pwason": 5
+  },
+  "“Mennen": {
+    "Pote": 1,
+    "Mennen": 1
+  },
+  "tjenbé-a": {
+    "fenk": 1,
+    "sot": 1,
+    "pran": 1
+  },
+  "déchiwé.": {
+    "chire.": 1
+  },
+  "manjé!”": {
+    "Vin": 1,
+    "manje.": 1
+  },
+  "bwav": {
+    "kouray": 2,
+    "lasirans,": 2
+  },
+  "yoʼy,": {
+    "ba": 1
+  },
+  "twazyenm": {
+    "twazyèm": 9
+  },
+  "“Simon": {
+    "Simon,": 3,
+    "Jan,": 3
+  },
+  "enmenʼw.”": {
+    "ou.": 3
+  },
+  "kou-a,": {
+    "fwa:": 3
+  },
+  "“Swen": {
+    "gadò": 1
+  },
+  "kou.": {
+    "twzyèm": 1
+  },
+  "sanng": {
+    "sentiwon": 6
+  },
+  "mennenʼw": {
+    "ou": 6
+  },
+  "lanmòʼy": {
+    "mouri": 4
+  },
+  "twayiʼy-la.": {
+    "la?": 1
+  },
+  "gadéʼw.": {
+    "gade": 1,
+    "ou?": 1
+  },
+  "liv-la": {
+    "liv": 14
+  },
+  "Tjofilòs,": {
+    "Teyofil": 1,
+    "monchè:": 1
+  },
+  "èvèk": {
+    "ak": 25
+  },
+  "pawèt": {
+    "parèt": 13
+  },
+  "kawant": {
+    "pandan": 6
+  },
+  "Èspéyé": {
+    "Rete": 1
+  },
+  "pwonmèt-la.": {
+    "pwomès": 3,
+    "nou": 3
+  },
+  "batizéʼw": {
+    "nan": 5
+  },
+  "Lèspwiʼy.”": {
+    "Sentespri.": 1
+  },
+  "ankò?”": {
+    "pye": 1,
+    "ankò?": 1
+  },
+  "Jérouzalèm,": {
+    "Jerizalèm,": 6
+  },
+  "nwaj": {
+    "nyaj": 8
+  },
+  "fiksé": {
+    "fikse": 3
+  },
+  "mouté-a,": {
+    "retounen": 1
+  },
+  "zapòt-la": {
+    "yo": 43
+  },
+  "Òliv": {
+    "Olivye,": 1
+  },
+  "dimi": {
+    "distans": 1
+  },
+  "Jémz": {
+    "Jak": 5
+  },
+  "Alfiyòs,": {
+    "Matye,": 1
+  },
+  "politik-la": {
+    "Alfe,": 1,
+    "zelòt": 1
+  },
+  "Simon,": {
+    "Simon,": 2
+  },
+  "Jémz.": {
+    "Jid,": 1,
+    "Jak.": 1
+  },
+  "Mari,": {
+    "Medam": 1
+  },
+  "ansanm.": {
+    "yo": 2,
+    "tou.": 2
+  },
+  "“Fwè": {
+    "yo,": 18
+  },
+  "Lajan-an": {
+    "(Avèk": 1
+  },
+  "tè,": {
+    "tè.": 2
+  },
+  "boudenʼy": {
+    "zantray": 1
+  },
+  "Akèldanma,": {
+    "Akèldama,": 1
+  },
+  "Savann": {
+    "jaden": 1,
+    "san": 1
+  },
+  "San-an.": {
+    "an.)": 1
+  },
+  "Samz-la:": {
+    "Sòm": 1
+  },
+  "‘An": {
+    "jwenn:": 1
+  },
+  "Basabas,": {
+    "Basabas": 1
+  },
+  "Jòstòs,": {
+    "non": 2,
+    "Jistis,": 2
+  },
+  "Matayas.": {
+    "Matyas.": 1
+  },
+  "zapòt": {
+    "apòt": 17
+  },
+  "sak-la,": {
+    "tirajosò.": 1,
+    "Matyas": 1
+  },
+  "Matayas": {
+    "soti.": 1
+  },
+  "wonz": {
+    "onz": 2
+  },
+  "Jézi-a.": {
+    "la.": 7
+  },
+  "Pentikòs-la": {
+    "Lapannkòt": 1
+  },
+  "annèk": {
+    "rete": 5
+  },
+  "son": {
+    "bri": 5
+  },
+  "van,": {
+    "soufle.": 1,
+    "van.": 1
+  },
+  "flanm": {
+    "flanm": 5
+  },
+  "lanng,": {
+    "yonn": 1
+  },
+  "pozé": {
+    "poze": 6,
+    "antre": 6,
+    "kote": 6
+  },
+  "wilizyèz": {
+    "devwe": 1
+  },
+  "dézòd": {
+    "bri": 2,
+    "dezòd": 2
+  },
+  "chak.": {
+    "chak.": 1
+  },
+  "“É,": {
+    "gade,": 1
+  },
+  "Galili?": {
+    "Galile": 1,
+    "ye?": 1
+  },
+  "nou?": {
+    "nou?": 3
+  },
+  "Pafya,": {
+    "moun": 2
+  },
+  "Médiya": {
+    "Pat,": 1
+  },
+  "Ilanm.": {
+    "Medi": 1,
+    "moun": 1
+  },
+  "Mèsopotémiya,": {
+    "Elam,": 1,
+    "moun": 1,
+    "Mezopotami,": 1
+  },
+  "Kapadosiya.": {
+    "moun": 2
+  },
+  "Pontòs": {
+    "moun": 2
+  },
+  "Écha,": {
+    "Lazi.": 2
+  },
+  "Frigiya": {
+    "zòn": 2
+  },
+  "Panfiliya.": {
+    "moun": 3
+  },
+  "Éjip": {
+    "peyi": 6
+  },
+  "Libya-a": {
+    "teritwa": 1,
+    "Libi": 1
+  },
+  "Sayrini-an.": {
+    "Sirèn.": 1,
+    "Genyen": 1
+  },
+  "Ronm.": {
+    "Wòm.": 3
+  },
+  "Anpami": {
+    "Nan": 3
+  },
+  "Krit": {
+    "Lakrèt,": 1,
+    "Krèt": 1,
+    "Krèt,": 1
+  },
+  "Arébiya.": {
+    "Arabi": 1
+  },
+  "fè-a?”": {
+    "fè?": 1
+  },
+  "twòp": {
+    "sa": 7
+  },
+  "sou!”": {
+    "sou.": 1
+  },
+  "névè": {
+    "nevè": 1,
+    "dimaten": 1
+  },
+  "bonmaten": {
+    "ye": 2
+  },
+  "Jowèl": {
+    "rive": 1
+  },
+  "wèv.": {
+    "rèv.": 1
+  },
+  "fanm,": {
+    "kou": 3
+  },
+  "san,": {
+    "san,": 3
+  },
+  "épé.": {
+    "nyaj": 1,
+    "lafimen.": 1
+  },
+  "Sòlèy-la": {
+    "la": 3
+  },
+  "lalin-an": {
+    "lan": 5
+  },
+  "wouj": {
+    "koulè": 5
+  },
+  "bèl": {
+    "bèl": 26
+  },
+  "witounen.": {
+    "tou!": 1,
+    "vini.": 1
+  },
+  "asouʼy.’": {
+    "va": 1,
+    "delivre.": 1
+  },
+  "Izwayèl,": {
+    "Izrayèl,": 5
+  },
+  "Nazawèt-la": {
+    "Jezi,": 3
+  },
+  "tjwéʼy": {
+    "touye": 8
+  },
+  "délivwéʼy": {
+    "doulè": 1
+  },
+  "lanmò-a,": {
+    "lanmò": 2
+  },
+  "enposib": {
+    "mwayen": 3
+  },
+  "tjenbéʼy.": {
+    "li.": 3
+  },
+  "twakasé": {
+    "m.": 2
+  },
+  "kontan,": {
+    "kontan": 5,
+    "kontan,": 5
+  },
+  "lachè,": {
+    "kò": 4
+  },
+  "konfyans": {
+    "konfyans": 22
+  },
+  "pouwi": {
+    "pouri": 2,
+    "anba": 2
+  },
+  "David,": {
+    "David,": 4
+  },
+  "fòs-la": {
+    "Tonm": 1
+  },
+  "sèman": {
+    "sèmante": 3
+  },
+  "tou.’": {
+    "li.": 2
+  },
+  "wézèwèksyon": {
+    "leve": 3,
+    "vivan": 3
+  },
+  "twou-a.’": {
+    "pouriti.": 1,
+    "tè.": 1
+  },
+  "onnowéʼy": {
+    "resevwa": 6
+  },
+  "pwonmèt.": {
+    "pwomèt": 3
+  },
+  "wè-a": {
+    "wè": 13
+  },
+  "Asid": {
+    "Chita": 1
+  },
+  "lèlmiʼw": {
+    "lènmi": 6
+  },
+  "pyéʼw.’": {
+    "lonje": 1,
+    "pye": 1,
+    "ou.": 1
+  },
+  "zapòt-la,": {
+    "apòt": 8
+  },
+  "“Fwè,": {
+    "Frè": 2
+  },
+  "fè?”": {
+    "kisa": 2,
+    "fè?": 2
+  },
+  "kado": {
+    "kado": 17
+  },
+  "lwen,": {
+    "lwen,": 3
+  },
+  "pawòl.": {
+    "kwè,": 1
+  },
+  "pinisyon-an": {
+    "yo": 5
+  },
+  "apipwé": {
+    "konsa": 5
+  },
+  "(3,000)": {
+    "twamil": 1,
+    "(3.000)": 1
+  },
+  "gany": {
+    "legliz": 10
+  },
+  "tè": {
+    "tè": 12
+  },
+  "bizwen.": {
+    "bezwen.": 4
+  },
+  "Toulé": {
+    "Chak": 5
+  },
+  "tjè,": {
+    "kè": 4
+  },
+  "kontantman": {
+    "kontan": 3
+  },
+  "gwandi.": {
+    "gwoup": 1
+  },
+  "twazè": {
+    "vè": 3
+  },
+  "apwémidi,": {
+    "twazè": 2
+  },
+  "pwédyé.": {
+    "lapriyè.": 12
+  },
+  "enfim": {
+    "enfim": 3
+  },
+  "lachawité.": {
+    "lacharite.": 1
+  },
+  "kéchòy.": {
+    "kichòy.": 1
+  },
+  "lajan,": {
+    "lajan": 2,
+    "lajan,": 2
+  },
+  "Nazawèt-la,": {
+    "Nazarèt": 3
+  },
+  "maché!”": {
+    "mache.": 1
+  },
+  "doubout,": {
+    "pla": 1
+  },
+  "pyéʼy.": {
+    "pye": 4
+  },
+  "kouway": {
+    "fòs": 5
+  },
+  "bon!”": {
+    "Letènèl!": 1,
+    "lwanj.": 1
+  },
+  "lajan-an,": {
+    "lacharite": 1
+  },
+  "Sòlomonn-an.": {
+    "an.": 2
+  },
+  "maché!": {
+    "Bondye?": 1
+  },
+  "Ayzak": {
+    "Izarak": 9
+  },
+  "widjèktéʼy": {
+    "jete,": 1
+  },
+  "kwiminèl": {
+    "ansasen": 1
+  },
+  "wésisitéʼy,": {
+    "leve": 3,
+    "vivan": 3
+  },
+  "étonnèl-la,": {
+    "nan": 5,
+    "ki": 5
+  },
+  "Kwi-a": {
+    "nou": 19
+  },
+  "soufè.": {
+    "soufri.": 2,
+    "Bay": 2,
+    "mechanste.": 2,
+    "te": 2
+  },
+  "éfasi": {
+    "efase": 1,
+    "chire": 1
+  },
+  "péchéʼw.": {
+    "yo.": 1
+  },
+  "wéfwéchi": {
+    "rafrechi": 1
+  },
+  "lèspwiʼw": {
+    "nanm": 1
+  },
+  "chwazi-a": {
+    "chwazi": 8
+  },
+  "baʼw.": {
+    "nou": 3
+  },
+  "lontan.": {
+    "lontan.": 3
+  },
+  "tjwéʼy.’": {
+    "touye": 1,
+    "li.": 1
+  },
+  "Sanmyèl": {
+    "Samyèl": 2
+  },
+  "pwonmèt-la": {
+    "pwomès": 10
+  },
+  "agwéman-an": {
+    "kontra": 14
+  },
+  "désandanʼw": {
+    "pitit": 3
+  },
+  "latè-a.’": {
+    "benediksyon.": 1
+  },
+  "ofisyé-a": {
+    "chèf": 7
+  },
+  "pwizon": {
+    "prizon": 12
+  },
+  "kouché.": {
+    "kouche.": 1
+  },
+  "mil": {
+    "a,": 5,
+    "an,": 5
+  },
+  "ofisyé": {
+    "chèf": 13
+  },
+  "konsilté": {
+    "Ladan": 1,
+    "diskite": 1
+  },
+  "Annas,": {
+    "gen:": 1
+  },
+  "Alèkzanda": {
+    "Aleksann": 2
+  },
+  "“Ofisyé": {
+    "chèf": 2
+  },
+  "jòdi-a": {
+    "a": 10
+  },
+  "enfim-lan,": {
+    "enfim,": 1
+  },
+  "Ében": {
+    "Eske": 7
+  },
+  "sav,": {
+    "nou": 6
+  },
+  "douvanʼw": {
+    "devan": 7
+  },
+  "djéwizonʼy": {
+    "gaya,": 1
+  },
+  "bati": {
+    "bati": 8
+  },
+  "nou.”": {
+    "nou.": 4
+  },
+  "konsèy": {
+    "Gran": 12,
+    "Konsèy": 12
+  },
+  "mizi": {
+    "jan": 26
+  },
+  "òdinè": {
+    "mas": 1
+  },
+  "endikasyon.": {
+    "enstriksyon.": 1
+  },
+  "chanm": {
+    "anlè": 2
+  },
+  "inyowé": {
+    "vre.": 1
+  },
+  "“Jijé": {
+    "Jije": 1
+  },
+  "obéyi,": {
+    "obeyi": 3
+  },
+  "tann-an.”": {
+    "tande.": 1
+  },
+  "(40)": {
+    "karantan": 3,
+    "karantan.": 3
+  },
+  "lanné.": {
+    "pandan": 3
+  },
+  "“Bondyé,": {
+    "O": 3
+  },
+  "anyen?": {
+    "konsa?": 2
+  },
+  "batay": {
+    "batay": 5
+  },
+  "chwazi-a.’": {
+    "do": 2
+  },
+  "Hèròd": {
+    "Ewòd": 11
+  },
+  "lapè.": {
+    "avèk": 2,
+    "konviksyon.": 2
+  },
+  "Lonjé": {
+    "Lonje": 1
+  },
+  "lanmenʼw": {
+    "men": 3,
+    "ou": 3
+  },
+  "ou-a.”": {
+    "ou": 3
+  },
+  "sépawéʼy": {
+    "chak": 1
+  },
+  "Saypròs.": {
+    "Chip.": 3
+  },
+  "kwiyéʼy": {
+    "rele": 8
+  },
+  "Bannabas": {
+    "Banabas": 29
+  },
+  "Ankouwajé).": {
+    "ankouraje": 1
+  },
+  "zapòt-la.": {
+    "apòt": 5
+  },
+  "Annannayas": {
+    "Ananyas": 6
+  },
+  "Safayra.": {
+    "Safira": 1
+  },
+  "“Annannayas,": {
+    "Ananyas,": 1
+  },
+  "manti": {
+    "bay": 12
+  },
+  "kòʼw.": {
+    "tèt": 3
+  },
+  "tè-a,": {
+    "tè": 2
+  },
+  "fwèt.": {
+    "frèt.": 4
+  },
+  "kò-a": {
+    "kò": 20
+  },
+  "pòtéʼy": {
+    "l,": 3
+  },
+  "nèditan": {
+    "moman": 2
+  },
+  "“Wi,": {
+    "Wi,": 4
+  },
+  "désidé": {
+    "deside": 8
+  },
+  "lè-a,": {
+    "lè": 6,
+    "a,": 6
+  },
+  "mawiʼy.": {
+    "mari": 3,
+    "li.": 3
+  },
+  "Gany": {
+    "legliz": 2
+  },
+  "lonbwaj": {
+    "lonbray": 4
+  },
+  "Jérouzalèm-lan.": {
+    "Jerizalèm.": 2
+  },
+  "jalou": {
+    "fè": 5
+  },
+  "Sadisyen-an": {
+    "sadiseyen": 2
+  },
+  "lajòl-la": {
+    "prizon": 3
+  },
+  "viv-la.”": {
+    "kounyeya.": 1
+  },
+  "nanj-lan": {
+    "zanj": 61
+  },
+  "pwizon-an,": {
+    "prizon": 8
+  },
+  "konsèy-la": {
+    "Konsèy": 6
+  },
+  "lajòl-la.”": {
+    "an.": 2
+  },
+  "moun-an!”": {
+    "la.": 1
+  },
+  "dèyè": {
+    "yo": 9
+  },
+  "viwé,": {
+    "tounen,": 1,
+    "bak,": 1
+  },
+  "nonm.": {
+    "moun.": 4,
+    "li": 4
+  },
+  "klouwéʼy": {
+    "kloure": 2
+  },
+  "konsèy-la,": {
+    "Gran": 2,
+    "Konsèy": 2
+  },
+  "antansyon": {
+    "nou": 4
+  },
+  "simen,": {
+    "gaye.": 2
+  },
+  "Kité": {
+    "pou": 11
+  },
+  "plan-an": {
+    "lan": 3
+  },
+  "genyen": {
+    "genyen": 22
+  },
+  "twouvé": {
+    "annafè": 1
+  },
+  "Ganmalyèl.": {
+    "Gamalyèl.": 1
+  },
+  "konsidiwé": {
+    "konsidere": 7
+  },
+  "pwéché": {
+    "anonse": 45
+  },
+  "Bon": {
+    "bòn": 63
+  },
+  "Nouvèl-la": {
+    "nouvèl": 32
+  },
+  "péyi-a.": {
+    "peyi": 3
+  },
+  "Grik-la": {
+    "grèk": 4
+  },
+  "mawi": {
+    "mari": 15
+  },
+  "sèt": {
+    "sèt": 55
+  },
+  "Stivann,": {
+    "Etyèn,": 3
+  },
+  "Prokoròs,": {
+    "Pwokò,": 1
+  },
+  "Nikanò,": {
+    "Nikanò,": 1
+  },
+  "Panmennas": {
+    "Timon,": 1
+  },
+  "Nikolas,": {
+    "Nikola,": 1
+  },
+  "Antiyòk": {
+    "Antyòch": 8
+  },
+  "Kwi.": {
+    "nan": 18
+  },
+  "Stivann": {
+    "Etyèn": 4,
+    "—": 4,
+    "sou": 4
+  },
+  "Silisiya": {
+    "peyi": 3
+  },
+  "Écha.": {
+    "pwovens": 4
+  },
+  "Stivann.": {
+    "Etyèn.": 2
+  },
+  "lasajès,": {
+    "se": 8
+  },
+  "malpalé": {
+    "pale": 6
+  },
+  "Kay-la": {
+    "tanp": 3
+  },
+  "kwazé": {
+    "kraze": 5
+  },
+  "nanj.": {
+    "zanj": 2
+  },
+  "vwé?”": {
+    "vre?": 1
+  },
+  "Harann,": {
+    "Mezopotami,": 1
+  },
+  "Mèsopotémiya.": {
+    "Karan.": 1
+  },
+  "fanmiʼw": {
+    "Kite": 1
+  },
+  "“Épi": {
+    "Se": 2,
+    "konsa,": 2,
+    "Epi": 2
+  },
+  "apwézan-an.": {
+    "kounyeya.": 2
+  },
+  "ich.": {
+    "pitit.": 1
+  },
+  "maltwété": {
+    "maltrete": 5
+  },
+  "(400)": {
+    "katsanzan": 1,
+    "(400": 1,
+    "an).": 1
+  },
+  "nasyon-an": {
+    "nasyon": 17
+  },
+  "pini": {
+    "pini": 10
+  },
+  "agwéman-an,": {
+    "kontra": 4
+  },
+  "twakaʼy.": {
+    "Jozèf.": 2
+  },
+  "èslavay": {
+    "esklav": 4
+  },
+  "Éjip.": {
+    "peyi": 4
+  },
+  "Féro,": {
+    "farawon": 2
+  },
+  "Éjip-la": {
+    "Lejip": 4
+  },
+  "dwèt.": {
+    "l": 7,
+    "ki": 7
+  },
+  "lafen": {
+    "grangou": 3
+  },
+  "soufè": {
+    "soufri": 40
+  },
+  "Éjip,": {
+    "peyi": 3
+  },
+  "fwa-a": {
+    "fwa.": 2
+  },
+  "vizité": {
+    "al": 2,
+    "wè": 2
+  },
+  "fwè-a": {
+    "yo": 36
+  },
+  "lafanmi": {
+    "branch": 12
+  },
+  "Jozèf.": {
+    "Jozèf": 2
+  },
+  "fanmi-an": {
+    "fanmi": 2
+  },
+  "(75)": {
+    "swasannkenz": 1
+  },
+  "Chèkenm": {
+    "Sichèm,": 1,
+    "y'": 1
+  },
+  "Hanmò-a": {
+    "eritye": 1
+  },
+  "pòsyon": {
+    "tyè": 6
+  },
+  "“Apwé": {
+    "—": 4
+  },
+  "Izwayèl-la.": {
+    "pèp": 7
+  },
+  "fòsé": {
+    "fòse": 7
+  },
+  "manmay": {
+    "pitit": 19
+  },
+  "otjipéʼy": {
+    "l": 5
+  },
+  "mwa": {
+    "mwa": 5
+  },
+  "tifi": {
+    "fi": 1,
+    "farawon": 1
+  },
+  "lévéʼy": {
+    "l": 5
+  },
+  "Éjipsyen-an": {
+    "peyi": 2,
+    "Lejip": 2
+  },
+  "lidéʼy": {
+    "li": 9
+  },
+  "wivanj": {
+    "revanj": 1
+  },
+  "délivwé": {
+    "delivre": 7,
+    "a": 7
+  },
+  "pyès.": {
+    "sa.": 4
+  },
+  "goumen.": {
+    "goumen.": 2
+  },
+  "sa?’": {
+    "konsa?": 1
+  },
+  "météʼw": {
+    "Kilès": 2
+  },
+  "yè?’": {
+    "ayè": 1,
+    "a?": 1
+  },
+  "Midiyann": {
+    "Madyan.": 1
+  },
+  "twanblé": {
+    "tranble": 4
+  },
+  "afòs": {
+    "sitèlman": 4
+  },
+  "gadé.": {
+    "gade.": 1
+  },
+  "soulyéʼw": {
+    "ankò:": 1
+  },
+  "pyéʼw,": {
+    "Wete": 1,
+    "sapat": 1
+  },
+  "plenn": {
+    "plenn,": 2,
+    "chaje": 2
+  },
+  "Éjip.’": {
+    "Lejip.": 1
+  },
+  "“Sété": {
+    "—": 3
+  },
+  "édéʼy.": {
+    "konkou": 2
+  },
+  "Lanmè": {
+    "Wouj": 3
+  },
+  "savann-an.": {
+    "dezè": 3
+  },
+  "Éjip!’": {
+    "Lejip.": 1
+  },
+  "Éronn,": {
+    "Arawon:": 1
+  },
+  "‘Fè": {
+    "Fè": 2
+  },
+  "Éjip-la.’": {
+    "Lejip": 1
+  },
+  "imaj": {
+    "estati": 12
+  },
+  "bèf": {
+    "bèf": 6
+  },
+  "fòm": {
+    "bèf,": 1
+  },
+  "sakwifis": {
+    "ofrann": 24
+  },
+  "doʼy": {
+    "do": 2
+  },
+  "étwal": {
+    "zetwal": 10
+  },
+  "zannimo-a": {
+    "bèt": 7
+  },
+  "lanné": {
+    "lanne": 8
+  },
+  "Pito": {
+    "se": 10,
+    "Okontrè,": 10
+  },
+  "tant": {
+    "tant": 4
+  },
+  "fo": {
+    "zidòl": 7,
+    "fo": 7
+  },
+  "Babilonn.’": {
+    "Babilòn.": 1
+  },
+  "mòdèl-la": {
+    "modèl": 2
+  },
+  "Jòchwa": {
+    "Jozye": 2
+  },
+  "Tant-lan": {
+    "Tant": 3
+  },
+  "David.": {
+    "David.": 1
+  },
+  "favè": {
+    "favè": 8
+  },
+  "Sòlomonn,": {
+    "Salomon": 1
+  },
+  "‘Syèl": {
+    "Syèl": 1
+  },
+  "lonjé": {
+    "lonje": 2
+  },
+  "wèsté-a?": {
+    "m?": 1
+  },
+  "sala?’": {
+    "yo?": 1
+  },
+  "“Tèt": {
+    "di!": 1
+  },
+  "wèd": {
+    "pou": 9
+  },
+  "annonsé": {
+    "Sèvitè": 1
+  },
+  "Dwèt-la": {
+    "Sèvitè": 1
+  },
+  "twayiʼy": {
+    "trayi,": 1
+  },
+  "nanj-lan,": {
+    "zanj": 6
+  },
+  "kwatjé": {
+    "yo": 3
+  },
+  "Stivann-an,": {
+    "chenn,": 1
+  },
+  "dan": {
+    "dan": 2
+  },
+  "faché.": {
+    "kòlè.": 3
+  },
+  "lonnè": {
+    "lwanj": 15
+  },
+  "“Mi,": {
+    "—": 3
+  },
+  "bouwé": {
+    "ansanm.": 1
+  },
+  "twennenʼy": {
+    "trennen": 2
+  },
+  "akizéʼy-la": {
+    "l": 6,
+    "akize": 6
+  },
+  "wòch.": {
+    "wòch.": 2
+  },
+  "Sòl": {
+    "Sòl": 18
+  },
+  "“Senyè": {
+    "Senyè": 3
+  },
+  "vwa,": {
+    "—": 2
+  },
+  "twennen": {
+    "trennen": 5
+  },
+  "lajòl.": {
+    "prizon.": 2
+  },
+  "djéwizon": {
+    "geri": 2
+  },
+  "majò": {
+    "enpòtan.": 1,
+    "Pou": 1,
+    "mwen,": 1
+  },
+  "piti,": {
+    "kou": 5
+  },
+  "gadèʼy.": {
+    "maji": 1,
+    "fè.": 1
+  },
+  "fanm.": {
+    "batèm.": 1
+  },
+  "ofè": {
+    "ofri": 41
+  },
+  "lajan": {
+    "lajan": 12
+  },
+  "“Ay": {
+    "Al": 1
+  },
+  "péwi": {
+    "kò": 8
+  },
+  "lajanʼw!": {
+    "lan!": 1
+  },
+  "lajan?": {
+    "lajan?": 1
+  },
+  "Tounen": {
+    "Wete": 1
+  },
+  "pawdonnenʼw": {
+    "ou": 3
+  },
+  "katjilé-a.": {
+    "a.": 1
+  },
+  "anvyèj": {
+    "kòryas": 1,
+    "lenkondit,": 1,
+    "(moun": 1,
+    "zidòl),": 1
+  },
+  "pwizonnyéʼy.”": {
+    "antòtiye": 1,
+    "nanm": 1,
+    "nèt.": 1
+  },
+  "Gaza-a,": {
+    "Gaza.": 1
+  },
+  "Ifiyopiya.": {
+    "peyi": 2
+  },
+  "wichès": {
+    "richès": 9
+  },
+  "Izaya-a.": {
+    "Ezayi": 2,
+    "a.": 2
+  },
+  "kawòs-la.”": {
+    "cha": 1,
+    "a.": 1
+  },
+  "li-a?”": {
+    "a?": 1
+  },
+  "pwèl": {
+    "lenn": 2
+  },
+  "lonmen": {
+    "nonmen": 2
+  },
+  "désandanʼy": {
+    "pitit": 4
+  },
+  "Chèf-la": {
+    "peyi": 2,
+    "Letyopi": 2
+  },
+  "batenm?”": {
+    "batèm?": 1
+  },
+  "kawòs-la,": {
+    "cha": 1
+  },
+  "batizéʼy.": {
+    "batize": 1,
+    "li.": 1
+  },
+  "Azotis": {
+    "Azòt.": 1
+  },
+  "Sizariya.": {
+    "Sezare.": 3
+  },
+  "lèt": {
+    "lèt": 41
+  },
+  "Danmaskòs.": {
+    "Damas.": 4
+  },
+  "Chimen": {
+    "chemen": 5
+  },
+  "Danmaskòs,": {
+    "Damas,": 2
+  },
+  "“Sòl,": {
+    "Sòl,": 1
+  },
+  "Sòl,": {
+    "Sòl,": 7
+  },
+  "Mèt?”": {
+    "Mèt?": 1
+  },
+  "Vwa-a": {
+    "a": 4
+  },
+  "pèsikité-a.": {
+    "w'ap": 2,
+    "pèsekite": 2,
+    "a.": 2
+  },
+  "Lévé": {
+    "Leve": 3,
+    "non,": 3
+  },
+  "Sòl-la": {
+    "Sòl": 1
+  },
+  "mo.": {
+    "pèsonn.": 1
+  },
+  "anyen,": {
+    "anyen.": 3,
+    "anyen,": 3
+  },
+  "“Annannayas!”": {
+    "Ananyas.": 2
+  },
+  "Senyè.”": {
+    "Senyè.": 1
+  },
+  "Dwèt-la.": {
+    "Ri": 1,
+    "Dwat": 1
+  },
+  "Tasòs": {
+    "Tas": 2
+  },
+  "vizyon": {
+    "yon": 6
+  },
+  "kway": {
+    "kal": 1
+  },
+  "pwéché,": {
+    "se": 8
+  },
+  "oliwon": {
+    "te": 16
+  },
+  "filé": {
+    "file": 7
+  },
+  "bawad-la": {
+    "miray": 4
+  },
+  "panyen.": {
+    "lavil": 1,
+    "la.": 1
+  },
+  "pèʼy.": {
+    "vre.": 1
+  },
+  "Danmaskòs-la.": {
+    "konviksyon.": 1
+  },
+  "dispité": {
+    "t'ap": 6
+  },
+  "Sizariya": {
+    "Sezare": 4
+  },
+  "Tasòs.": {
+    "Tas.": 1
+  },
+  "lapé.": {
+    "kè": 17
+  },
+  "Lida.": {
+    "Lida,": 1
+  },
+  "“Enniyas,": {
+    "Ene,": 1
+  },
+  "djéwiʼw": {
+    "geri": 1
+  },
+  "matlaʼw,”": {
+    "ou.": 2
+  },
+  "lévé.": {
+    "pouse.": 2
+  },
+  "Lida": {
+    "Lida": 1,
+    "laplenn": 1,
+    "Sawon": 1
+  },
+  "Jopa": {
+    "Jope": 7
+  },
+  "Tabifa,": {
+    "(Nan": 1
+  },
+  "benyen": {
+    "benyen": 2
+  },
+  "èspozéʼy": {
+    "chanmòt": 1
+  },
+  "Vil": {
+    "Lavil": 2
+  },
+  "Lida,": {
+    "Lida.": 1
+  },
+  "apwann": {
+    "aprann": 7
+  },
+  "“Tabifa,": {
+    "Tabita,": 1
+  },
+  "asid.": {
+    "chita.": 2
+  },
+  "Tabifa": {
+    "Tabita": 1
+  },
+  "vivan.": {
+    "vivan.": 3
+  },
+  "Jopa,": {
+    "Jope.": 1
+  },
+  "tjwi.": {
+    "Simon.": 1
+  },
+  "(100)": {
+    "Itali": 1
+  },
+  "Kòniliyòs": {
+    "Kònèy": 8,
+    "l": 8
+  },
+  "vizyon.": {
+    "yon": 5
+  },
+  "“Kòniliyòs!”": {
+    "Kònèy!": 1
+  },
+  "Nanj-lan": {
+    "lan": 11
+  },
+  "lapwiyèʼw": {
+    "lapriyè": 2
+  },
+  "chawité-a": {
+    "pòv": 2
+  },
+  "nonʼy": {
+    "non": 7
+  },
+  "tjwi": {
+    "tanè": 2
+  },
+  "lanmè-a.”": {
+    "a.": 1
+  },
+  "Jopa.": {
+    "Jope.": 2
+  },
+  "fen": {
+    "grangou,": 3
+  },
+  "bout": {
+    "yo": 3
+  },
+  "sòt": {
+    "ak": 12
+  },
+  "zannimo": {
+    "bèt": 14
+  },
+  "jibyé.": {
+    "ladan": 1,
+    "li.": 1,
+    "zwazo.": 1
+  },
+  "“Lévé,": {
+    "Leve": 2,
+    "non,": 2
+  },
+  "manjé.”": {
+    "manje.": 2
+  },
+  "manjéʼy.”": {
+    "bon.": 1
+  },
+  "fwa,": {
+    "fwa": 3
+  },
+  "katjilé": {
+    "tèt": 12
+  },
+  "vizyon-an": {
+    "te": 3
+  },
+  "andjélé": {
+    "rele": 2
+  },
+  "mandé,": {
+    "mande:": 2
+  },
+  "Pita?”": {
+    "Pyè": 2
+  },
+  "yo.”": {
+    "yo.": 5
+  },
+  "wèspèktéʼy": {
+    "anpil.": 2
+  },
+  "janʼy": {
+    "zanmi": 2
+  },
+  "envité.": {
+    "envite": 1,
+    "lakay": 1,
+    "li.": 1
+  },
+  "“Doubout!": {
+    "Kanpe": 1,
+    "monchè.": 1
+  },
+  "ou!”": {
+    "ye": 1,
+    "tou.": 1
+  },
+  "kwèsyon.": {
+    "de,": 1,
+    "twouble.": 1
+  },
+  "‘Kòniliyòs,": {
+    "mwen:": 1,
+    "Kònèy,": 1
+  },
+  "fè-a.’": {
+    "yo.": 1
+  },
+  "pwézans": {
+    "devan": 27
+  },
+  "konmandéʼw": {
+    "ou": 4
+  },
+  "pwéféwans": {
+    "gade": 6,
+    "sou": 6,
+    "figi": 6
+  },
+  "pouvwa.": {
+    "tout": 4
+  },
+  "Denmou,": {
+    "Satan": 2
+  },
+  "wèʼy.": {
+    "l": 5
+  },
+  "péchéʼy": {
+    "peche": 4
+  },
+  "konmisyon-an.": {
+    "mesay": 1,
+    "la.": 1
+  },
+  "kadoʼy,": {
+    "kantite.": 1
+  },
+  "glowifyé": {
+    "lwanj": 12
+  },
+  "dlo?”": {
+    "dlo": 1,
+    "tou?": 1
+  },
+  "yo!”": {
+    "met": 1,
+    "sou": 1,
+    "li!": 1
+  },
+  "‘Pita,": {
+    "konsa:": 1,
+    "Leve": 1
+  },
+  "lévé,": {
+    "non,": 1
+  },
+  "manjé!’": {
+    "Pyè,": 1,
+    "touye,": 1,
+    "manje.": 1
+  },
+  "“Vwa-a": {
+    "Menm": 1
+  },
+  "lidé.": {
+    "kalkile.": 1
+  },
+  "Kòniliyòs.": {
+    "Kònèy.": 1
+  },
+  "sovéʼw": {
+    "ou": 3
+  },
+  "fanmiʼw.’": {
+    "fanmi": 1,
+    "ou.": 1
+  },
+  "Kwi-a.": {
+    "la.": 7
+  },
+  "chans": {
+    "chans": 5
+  },
+  "Saypròs": {
+    "Chip": 2
+  },
+  "Antiyòk.": {
+    "Antyòch.": 5
+  },
+  "tousèl.": {
+    "pou": 15
+  },
+  "ankouwajé": {
+    "ankouraje": 16
+  },
+  "lafwa.": {
+    "konfyans": 8
+  },
+  "Sòl.": {
+    "Sòl.": 1
+  },
+  "“Kwityen.”": {
+    "kretyen.": 1
+  },
+  "Agabòs.": {
+    "Agabis,": 1
+  },
+  "(Épi": {
+    "(Grangou": 1
+  },
+  "Ronm.)": {
+    "reny": 1,
+    "Klòd.)": 1
+  },
+  "Antiyòk-la": {
+    "yo": 5
+  },
+  "Joudiya-a.”": {
+    "Jide.": 1
+  },
+  "légliz-la": {
+    "legliz": 36
+  },
+  "Joudiya-a.": {
+    "Jide.": 2
+  },
+  "Jémz,": {
+    "Jak,": 4
+  },
+  "sab.": {
+    "nepe.": 1
+  },
+  "Lèlven-an.": {
+    "ledven": 1
+  },
+  "lajòl,": {
+    "siveyans": 1
+  },
+  "òswè-a": {
+    "Lavèy": 1
+  },
+  "mitan": {
+    "nan": 14
+  },
+  "anchenné": {
+    "prizon": 4
+  },
+  "touché": {
+    "manyen": 2
+  },
+  "“Lévé": {
+    "vit.": 1
+  },
+  "vitman!”": {
+    "Chenn": 1
+  },
+  "soulyéʼw.”": {
+    "sapat": 1
+  },
+  "lajòl-la,": {
+    "kacho": 2
+  },
+  "wévé": {
+    "reve": 1
+  },
+  "wévé.": {
+    "reve.": 1
+  },
+  "gad-la,": {
+    "pòs": 2
+  },
+  "bayè": {
+    "pòtay": 6
+  },
+  "lawi,": {
+    "lari.": 1
+  },
+  "Mak.)": {
+    "Mak.": 1
+  },
+  "Roda": {
+    "sèvant": 1
+  },
+  "dèwò-a.": {
+    "wi.": 1
+  },
+  "Roda,": {
+    "Gen": 1
+  },
+  "fòl!”": {
+    "pèdi": 1,
+    "ou?": 1
+  },
+  "“Pitèt": {
+    "bonnanj": 1
+  },
+  "tiwéʼy": {
+    "l": 8
+  },
+  "wakonté": {
+    "rakonte": 3
+  },
+  "pwizon-an.": {
+    "prizon": 2
+  },
+  "koté.": {
+    "kote.": 2
+  },
+  "gad-la.": {
+    "pakèt": 1,
+    "chaje.": 1
+  },
+  "Taya": {
+    "lavil": 4
+  },
+  "Sidon-an,": {
+    "Sidon": 1
+  },
+  "Anlè": {
+    "te": 6
+  },
+  "waʼy": {
+    "kostim": 1
+  },
+  "chèz": {
+    "fòtèy": 29
+  },
+  "bondyé!”": {
+    "bondye.": 2
+  },
+  "Hèròd,": {
+    "Ewòd,": 1
+  },
+  "Mak": {
+    "Mak": 6
+  },
+  "(ki": {
+    "Sirèn,": 1,
+    "Manayèn": 1
+  },
+  "Gouvènè": {
+    "gouvènè": 4
+  },
+  "Sélousya": {
+    "Selesi.": 1
+  },
+  "batiman": {
+    "batiman": 13
+  },
+  "Salanmis,": {
+    "Salamin": 1,
+    "tanmen": 1
+  },
+  "Sèjòs": {
+    "Sèjiyis": 1
+  },
+  "Saypròs-la": {
+    "Polis,": 1
+  },
+  "Palòs,": {
+    "Sèjiyis": 1
+  },
+  "gadè-a": {
+    "majisyen": 2
+  },
+  "(nonʼy": {
+    "(se": 1
+  },
+  "Élimas)": {
+    "grèk)": 1
+  },
+  "éséyé": {
+    "chache": 12
+  },
+  "Pòl),": {
+    "tou),": 1
+  },
+  "bon.": {
+    "bon.": 10,
+    "byen.": 10
+  },
+  "mansonj?": {
+    "lanvè?": 1
+  },
+  "apwézan,": {
+    "Kounyeya,": 3
+  },
+  "piniʼw": {
+    "koute:": 1
+  },
+  "tan!”": {
+    "tan.": 3
+  },
+  "Pòl": {
+    "Pòl": 155
+  },
+  "Pèga": {
+    "Pèj,": 1,
+    "pousib": 1
+  },
+  "Pisidya.": {
+    "Pisidi.": 1,
+    "Pisidi).": 1
+  },
+  "étwanjé": {
+    "etranje": 6
+  },
+  "pasyans": {
+    "pasyans": 18
+  },
+  "sèk-la.": {
+    "a.": 1
+  },
+  "Kénann": {
+    "Kanaran,": 1
+  },
+  "(450)": {
+    "lanne.": 1
+  },
+  "jij": {
+    "tribinal": 3
+  },
+  "Kich-la": {
+    "Sayil,": 1
+  },
+  "Bennjamin.": {
+    "branch": 4
+  },
+  "tiwéʼy,": {
+    "Sayil,": 1
+  },
+  "‘David,": {
+    "David:": 1
+  },
+  "chay,": {
+    "fè": 17
+  },
+  "fè.’": {
+    "fè.": 2
+  },
+  "“Jézi": {
+    "—": 2
+  },
+  "sovè": {
+    "Sovè": 4
+  },
+  "batenm.": {
+    "batèm.": 3
+  },
+  "‘Ki": {
+    "Ki": 3,
+    "mande:": 3
+  },
+  "toulé": {
+    "chak": 13
+  },
+  "lanmò.": {
+    "lanmò.": 14
+  },
+  "kayè-a.": {
+    "kavo.": 1
+  },
+  "témwenʼy": {
+    "l": 3
+  },
+  "sam-lan:": {
+    "Sòm": 1,
+    "Ou": 1
+  },
+  "bennédiksyon-an": {
+    "eritaj": 8
+  },
+  "David-la.": {
+    "David": 2
+  },
+  "konté": {
+    "konte": 2
+  },
+  "‘Ou": {
+    "Ou": 2
+  },
+  "téwéʼy": {
+    "antere": 2
+  },
+  "pouwi.": {
+    "pouri": 2,
+    "anba": 2,
+    "tè.": 2
+  },
+  "wésisité-a": {
+    "lanmò": 1,
+    "a,": 1
+  },
+  "Pwan": {
+    "Pa": 3
+  },
+  "sa:": {
+    "Men": 9
+  },
+  "‘Gadé": {
+    "Gade": 1
+  },
+  "tjwéʼw!": {
+    "sezisman": 1
+  },
+  "légliz-la,": {
+    "legliz": 6
+  },
+  "konvèti": {
+    "konvèti": 3
+  },
+  "jiwé": {
+    "t'ap": 6
+  },
+  "toubonnman": {
+    "de-": 1,
+    "anpare": 1
+  },
+  "yo.’": {
+    "delivrans.": 1
+  },
+  "Bannabas,": {
+    "Banabas:": 1,
+    "Banabas.": 1
+  },
+  "soukwé": {
+    "souke": 4
+  },
+  "lapousyè": {
+    "pousyè": 3
+  },
+  "Ikonnyòm.": {
+    "Ikonyòm.": 2
+  },
+  "Ikonnyòm,": {
+    "Ikonyòm,": 1
+  },
+  "Dèbé,": {
+    "Likaoni,": 1,
+    "Dèb.": 1
+  },
+  "Listra": {
+    "List": 2
+  },
+  "oliwon-an": {
+    "Dèb": 1,
+    "vwazinay": 1
+  },
+  "djéwizonʼy.": {
+    "geri.": 1
+  },
+  "“Doubout": {
+    "Leve,": 1
+  },
+  "Likònya": {
+    "likaonyen,": 1
+  },
+  "bondyé-a": {
+    "Zeyis,": 1
+  },
+  "Zous-la,": {
+    "Emès": 1
+  },
+  "Pwèt-la": {
+    "Prèt": 1
+  },
+  "towo": {
+    "towo": 3
+  },
+  "Zous-la": {
+    "kolye": 1
+  },
+  "flè": {
+    "flè": 2
+  },
+  "lapli": {
+    "lapli": 5
+  },
+  "sézon": {
+    "sezon": 6
+  },
+  "alabondans": {
+    "kantite,": 2
+  },
+  "ézé": {
+    "resi": 1,
+    "lapoula.": 1
+  },
+  "sakwifis-la": {
+    "ofrann": 6
+  },
+  "Pisidya": {
+    "Pisidi)": 1
+  },
+  "Dèbé.": {
+    "Dèb.": 1
+  },
+  "Listra,": {
+    "List,": 2
+  },
+  "Ikonnyòm": {
+    "(ki": 1
+  },
+  "kwè-a": {
+    "konfyans": 6
+  },
+  "légliz,": {
+    "legliz,": 2
+  },
+  "Pisidya,": {
+    "travèse": 1,
+    "peyi": 1,
+    "Pisidi,": 1
+  },
+  "Panfiliya": {
+    "Panfili.": 1
+  },
+  "Pèga,": {
+    "Pèj.": 1
+  },
+  "Atalya,": {
+    "Atali.": 1
+  },
+  "Antiyòk,": {
+    "Antyòch,": 4
+  },
+  "Fènisiya": {
+    "Fenisi": 1
+  },
+  "Moziz-la.”": {
+    "tou.": 2
+  },
+  "lwa-a": {
+    "lalwa": 56
+  },
+  "diféwans": {
+    "ki": 6
+  },
+  "ant": {
+    "ant": 8
+  },
+  "faché?": {
+    "teste": 1
+  },
+  "kwè:": {
+    "ankò:": 1
+  },
+  "silans": {
+    "pe": 2
+  },
+  "‘Senyè-a": {
+    "retounen.": 1
+  },
+  "déviwé,": {
+    "pale.)": 1
+  },
+  "mwen-an.’": {
+    "mwen.": 1
+  },
+  "koumansman-an.”": {
+    "lontan.": 1
+  },
+  "wipinyon": {
+    "Jak,": 1
+  },
+  "anbété": {
+    "antrave": 1
+  },
+  "imaj,": {
+    "zidòl,": 6
+  },
+  "lavi,": {
+    "k'ap": 16
+  },
+  "vyann": {
+    "vyann": 11
+  },
+  "twanglé.": {
+    "san.": 1
+  },
+  "Saylas,": {
+    "Silas,": 2
+  },
+  "wèspèkté": {
+    "gen": 6
+  },
+  "Lèt": {
+    "ale:": 1
+  },
+  "bonjou": {
+    "bonjou": 23
+  },
+  "nou-an,": {
+    "nou": 9
+  },
+  "Saylas": {
+    "ak": 10
+  },
+  "ékwiʼw-la.": {
+    "bouch": 1,
+    "yo.": 1
+  },
+  "obéyi:": {
+    "sàn": 1,
+    "dwe": 1,
+    "mete.": 1
+  },
+  "lèt-la.": {
+    "lèt": 2
+  },
+  "lèt-la,": {
+    "lèt": 2
+  },
+  "pwòfèt,": {
+    "pwofèt.": 1
+  },
+  "[": {
+    "[": 1
+  },
+  "la.]": {
+    "te": 1,
+    "rete.]": 1
+  },
+  "Tibwen": {
+    "apre,": 2
+  },
+  "osi),": {
+    "yo.": 1
+  },
+  "Siriya": {
+    "Siri": 3
+  },
+  "Timòfi.": {
+    "Timote.": 2
+  },
+  "Gris.": {
+    "Lagrès.": 1,
+    "grèk.": 1
+  },
+  "Ikonnyòm-lan": {
+    "Ikonyòm": 1
+  },
+  "disizyon-an.": {
+    "desizyon": 2
+  },
+  "Galécha.": {
+    "Galasi": 2
+  },
+  "Misya,": {
+    "Mizi,": 1
+  },
+  "Misya": {
+    "vle": 1,
+    "ale": 1,
+    "Bitini,": 1
+  },
+  "Trowas.": {
+    "Twowas.": 1,
+    "Twoas.": 1,
+    "Twoas,": 1
+  },
+  "Masédonnya": {
+    "peyi": 4,
+    "Masedouàn": 4,
+    "Masedwàn": 4
+  },
+  "“Tanpwi": {
+    "Masedouàn,": 1
+  },
+  "isi-a!”": {
+    "sekou.": 1,
+    "la.": 1
+  },
+  "Masédonnya,": {
+    "Masedouàn,": 4
+  },
+  "Trowas": {
+    "lavil": 3
+  },
+  "Sanmotras,": {
+    "Samotras.": 1
+  },
+  "Néyapolis.": {
+    "Neyapolis.": 1
+  },
+  "Filipay,": {
+    "Filip,": 1,
+    "distrik": 1
+  },
+  "Masédonnya.": {
+    "Masedouàn": 2,
+    "Masedouàn.": 2,
+    "pati": 2,
+    "Masedwàn": 2
+  },
+  "chè.": {
+    "bijou": 3
+  },
+  "Lidya": {
+    "batèm,": 1
+  },
+  "tifi-a": {
+    "tifi": 2
+  },
+  "zòt!”": {
+    "delivrans.": 1
+  },
+  "jou,": {
+    "jou,": 6,
+    "jou": 6
+  },
+  "annòvé.": {
+    "vire,": 1
+  },
+  "majèstwa-a": {
+    "yo": 9
+  },
+  "majèstwa": {
+    "chèf": 4
+  },
+  "twaka": {
+    "traka": 6
+  },
+  "baton.": {
+    "fwèt.": 1
+  },
+  "lajòl": {
+    "prizon": 5
+  },
+  "pwizon-an": {
+    "prizon": 6
+  },
+  "laklé": {
+    "mesye": 1
+  },
+  "chanm-lan": {
+    "mete": 5
+  },
+  "fon": {
+    "fwon": 7
+  },
+  "bwa.": {
+    "sèp.": 1,
+    "pyebwa.": 1
+  },
+  "mennwit": {
+    "Vè": 2,
+    "menwi": 2
+  },
+  "chanté": {
+    "chante": 17
+  },
+  "pwizonnyé-a": {
+    "prizonye": 4
+  },
+  "twanblanntè": {
+    "tranble": 2
+  },
+  "chapé.": {
+    "sove.": 2
+  },
+  "héléʼy": {
+    "kriye": 1
+  },
+  "kòʼw!": {
+    "mal.": 1
+  },
+  "Saylas.": {
+    "pè.": 1
+  },
+  "“Mésyé,": {
+    "Mesye,": 3
+  },
+  "salvasyon?”": {
+    "delivre?": 1
+  },
+  "ou.”": {
+    "ou.": 2
+  },
+  "pansé": {
+    "renmèd": 1
+  },
+  "bonmaten,": {
+    "solèy": 1,
+    "leve,": 1
+  },
+  "polis-la": {
+    "gad": 1,
+    "Gad": 1
+  },
+  "“Ladjé": {
+    "Lage": 2
+  },
+  "Pòl,": {
+    "Pòl,": 15
+  },
+  "tjèʼw.”": {
+    "poze.": 1
+  },
+  "Ronm": {
+    "sitwayen": 7
+  },
+  "sa!": {
+    "sa.": 2
+  },
+  "Lidya.": {
+    "Lidi.": 1
+  },
+  "fwè-a,": {
+    "ankourajman,": 1,
+    "pati,": 1,
+    "y": 1
+  },
+  "Apolonnya": {
+    "lavil": 2
+  },
+  "Anmfipolis": {
+    "Anfipolis": 1
+  },
+  "Jwif.": {
+    "jwif.": 2
+  },
+  "lévanjil-la.": {
+    "Liv": 5
+  },
+  "nèg": {
+    "vakabon": 1
+  },
+  "Jason": {
+    "Jazon": 3
+  },
+  "Ronm-lan,": {
+    "Seza:": 1
+  },
+  "kontwayé": {
+    "avèk": 1,
+    "pawòl": 1
+  },
+  "Bèriya.": {
+    "Bere.": 2
+  },
+  "Bèriya-a": {
+    "Bere": 1
+  },
+  "vit,": {
+    "traka.": 1,
+    "bonè,": 1
+  },
+  "Bèriya": {
+    "Bere": 1
+  },
+  "Timòfi": {
+    "Timote": 11
+  },
+  "Pòl-la": {
+    "Pòl": 4
+  },
+  "Afenz": {
+    "Atèn.": 2
+  },
+  "pé.": {
+    "touswit.": 1
+  },
+  "Afenz,": {
+    "Atèn,": 2
+  },
+  "Misyé": {
+    "paladò": 1
+  },
+  "avoudwé": {
+    "ta": 4
+  },
+  "dwòl": {
+    "dwòl": 2
+  },
+  "Afenz-lan": {
+    "abitid": 1,
+    "Atèn": 1
+  },
+  "nèf-la.)": {
+    "fenk": 1,
+    "parèt.)": 1
+  },
+  "Ariyopagòs-la": {
+    "Ayewopaj": 1
+  },
+  "imaj.": {
+    "fanatik": 1,
+    "anpil.": 1
+  },
+  "lotèl": {
+    "lotèl": 9
+  },
+  "lèspiwasyon": {
+    "respire,": 1
+  },
+  "wèsté.": {
+    "rete.": 2
+  },
+  "dajan": {
+    "lajan": 2,
+    "lajan,": 2,
+    "osinon": 2
+  },
+  "abilité": {
+    "moso": 2
+  },
+  "méwité-a,": {
+    "linyorans.": 1
+  },
+  "movèzté-a": {
+    "yo": 6
+  },
+  "jistis.": {
+    "patipri:": 1
+  },
+  "chwazi-a,": {
+    "chwazi": 4
+  },
+  "widitjil,": {
+    "betiz.": 1
+  },
+  "konsèy-la.": {
+    "mitan": 1,
+    "yo.": 1
+  },
+  "Ariyopagòs-la,": {
+    "Deni,": 1,
+    "Aewopaj": 1
+  },
+  "Danmaris,": {
+    "Damaris": 1
+  },
+  "Kòrint.": {
+    "Korent.": 1
+  },
+  "Akwila": {
+    "Akilas": 4
+  },
+  "Itali": {
+    "Prisil,": 1
+  },
+  "Klòdiyòs": {
+    "Klòd": 2
+  },
+  "létaʼy": {
+    "metye": 1
+  },
+  "pwéché.": {
+    "predikasyon": 1
+  },
+  "asouʼy,": {
+    "li,": 4
+  },
+  "Krispòs,": {
+    "Krispis,": 1
+  },
+  "pè.": {
+    "pè": 2
+  },
+  "silans,": {
+    "fèmen": 1,
+    "bouch": 1,
+    "ou.": 1
+  },
+  "épiʼw.": {
+    "avèk": 2,
+    "nou.": 2
+  },
+  "é": {
+    "twazan": 2,
+    "sis": 2
+  },
+  "Galyo": {
+    "Galyon": 3
+  },
+  "gouvènè": {
+    "gouvènè": 2
+  },
+  "Akéya,": {
+    "Lakayi,": 1
+  },
+  "lodyans.": {
+    "tribinal": 1,
+    "la,": 1,
+    "tribinal?": 1
+  },
+  "kwim": {
+    "krim": 1,
+    "movezak": 1
+  },
+  "pawòl,": {
+    "mo,": 1
+  },
+  "lodyans-lan.": {
+    "tribinal": 1,
+    "la.": 1
+  },
+  "Sòstennèz": {
+    "Sostèn,": 2
+  },
+  "volé": {
+    "vole": 4
+  },
+  "lodyans-lan,": {
+    "tribinal": 2
+  },
+  "Prisilya": {
+    "Prisil": 3
+  },
+  "Èfésòs,": {
+    "Efèz,": 3
+  },
+  "vlé.”": {
+    "vle.": 2
+  },
+  "Èfésòs.": {
+    "lavil": 6
+  },
+  "Sizariya,": {
+    "Sezare,": 2
+  },
+  "bonjou.": {
+    "pou": 12
+  },
+  "Apòlòs": {
+    "Apolòs": 3
+  },
+  "Alèkzandriya": {
+    "Aleksandri.": 1,
+    "Aleksandri": 1
+  },
+  "enstwiʼy": {
+    "chemen": 2
+  },
+  "batenm": {
+    "batèm": 3
+  },
+  "Akéya.": {
+    "Lakayi.": 2
+  },
+  "Èfésòs-la": {
+    "yo": 4
+  },
+  "Jézi?”": {
+    "kwè?": 1
+  },
+  "zòt?”": {
+    "resevwa?": 1
+  },
+  "batenm-lan": {
+    "Batèm": 2,
+    "batèm": 2
+  },
+  "palé-a.”": {
+    "an.": 1
+  },
+  "lékòl-la.": {
+    "Tiranis": 1
+  },
+  "Écha": {
+    "Lazi": 5
+  },
+  "miwak.": {
+    "gwo": 3
+  },
+  "mouchwè": {
+    "mouchwa": 1
+  },
+  "san.": {
+    "san.": 6
+  },
+  "Èfésòs": {
+    "Efèz": 5
+  },
+  "tjenbwa-a": {
+    "pratike": 1
+  },
+  "Valè": {
+    "kalkil": 1
+  },
+  "(50,000)": {
+    "desansenkanntmil": 1,
+    "(250.000)": 1,
+    "goud": 1
+  },
+  "dajan.": {
+    "antou.": 1
+  },
+  "Èrastòs,": {
+    "Eras,": 1
+  },
+  "Démétriyòs": {
+    "ouvriye": 3
+  },
+  "fèʼy-la.": {
+    "sove.": 2
+  },
+  "ni-an.": {
+    "nou": 12
+  },
+  "Écha-a.": {
+    "Lazi": 2
+  },
+  "Talè": {
+    "Talè": 1,
+    "metye": 1
+  },
+  "“Atémis,": {
+    "Atemis": 1
+  },
+  "Èfésòs-la,": {
+    "Efèz": 2
+  },
+  "pil!”": {
+    "nègès!": 1,
+    "dezèdetan:": 1,
+    "Atemis": 1,
+    "Efèz": 1
+  },
+  "Dézòd-la": {
+    "Dezòd": 1
+  },
+  "asanblé-a.": {
+    "Estad": 1,
+    "limen.": 1
+  },
+  "plédé": {
+    "mande": 11
+  },
+  "défans": {
+    "defann": 5
+  },
+  "nèditan.": {
+    "nègès.": 1
+  },
+  "Alafen,": {
+    "Bout": 1,
+    "bout,": 1,
+    "sekretè": 1,
+    "lakomin": 1
+  },
+  "fanm-lan,": {
+    "nègès,": 1
+  },
+  "kòlèʼw": {
+    "anplas": 1
+  },
+  "mal": {
+    "derespektan": 1
+  },
+  "isi-a?": {
+    "deyès": 1
+  },
+  "plent": {
+    "pou": 6
+  },
+  "jòdi-a,": {
+    "jòdi": 6
+  },
+  "dézòd-la": {
+    "dezòd": 1
+  },
+  "bésé,": {
+    "sispann,": 1
+  },
+  "oplèz": {
+    "orevwa,": 2,
+    "epi": 2
+  },
+  "ankouwajman.": {
+    "ankouraje": 2
+  },
+  "mwa.": {
+    "mwa.": 5
+  },
+  "Sopatè": {
+    "Sopatè,": 1
+  },
+  "Piris,": {
+    "Piris,": 1
+  },
+  "Aristakòs,": {
+    "Aristak": 2
+  },
+  "Tèsalonnika,": {
+    "de": 2,
+    "Tesalonik,": 2
+  },
+  "Titjikòs": {
+    "Tichik": 2
+  },
+  "San": {
+    "San": 2,
+    "fèt": 2
+  },
+  "Lèlven-an,": {
+    "Ledven": 1
+  },
+  "Filipay.": {
+    "Filip.": 1
+  },
+  "simenn": {
+    "senmenn": 1
+  },
+  "mennwit,": {
+    "minwi,": 1
+  },
+  "denmen.": {
+    "toujou.": 1
+  },
+  "Youtikòs": {
+    "Etich,": 1
+  },
+  "sonmèy": {
+    "dòmi": 2
+  },
+  "étay-la": {
+    "etaj": 1
+  },
+  "anbwaséʼy.": {
+    "bra": 1
+  },
+  "ouvè,": {
+    "solèy": 3
+  },
+  "konfòté": {
+    "ankourajman": 1
+  },
+  "Asòs,": {
+    "Asòs.": 1
+  },
+  "anmaséʼy": {
+    "Asòs,": 1
+  },
+  "batiman-an": {
+    "batiman": 14
+  },
+  "abò": {
+    "abò": 3
+  },
+  "Mitilin.": {
+    "n'ale": 1,
+    "Mitilèn.": 1
+  },
+  "Kiyòs.": {
+    "Chyo.": 1
+  },
+  "Sanmòs,": {
+    "Samòs.": 1
+  },
+  "Militis.": {
+    "debake": 1,
+    "Milè.": 1
+  },
+  "pèdi": {
+    "pèdi": 6
+  },
+  "Militis,": {
+    "Milè,": 1
+  },
+  "enstwiʼw,": {
+    "bagay,": 2
+  },
+  "piblik": {
+    "kit": 2
+  },
+  "vèti": {
+    "m'ap": 9
+  },
+  "pousé": {
+    "pouse": 3
+  },
+  "péwi,": {
+    "peri,": 2
+  },
+  "fòt": {
+    "reskonsab.": 1
+  },
+  "dèyè.": {
+    "anyen.": 1,
+    "dezanpare.": 1
+  },
+  "Véyé": {
+    "kò": 3
+  },
+  "chyen": {
+    "chen": 1
+  },
+  "mawon": {
+    "mawon": 1
+  },
+  "twipo": {
+    "bann": 2
+  },
+  "mouton.": {
+    "mouton.": 1
+  },
+  "lagwas-la": {
+    "favè": 4
+  },
+  "lò": {
+    "lò": 15
+  },
+  "bizwen-an.": {
+    "bezwen.": 1,
+    "mwen.": 1
+  },
+  "moutwéʼw": {
+    "moutre": 10,
+    "ou": 10
+  },
+  "wisivwè.’": {
+    "resevwa.": 1
+  },
+  "anbwaséʼy": {
+    "t'ap": 1,
+    "di": 1
+  },
+  "boʼy.": {
+    "orevwa.": 1
+  },
+  "lapenn-an": {
+    "lapenn,": 1
+  },
+  "batiman-an.": {
+    "batiman": 4,
+    "an.": 4
+  },
+  "Patara.": {
+    "Patara.": 1
+  },
+  "Patara,": {
+    "La,": 1
+  },
+  "Fènisiya,": {
+    "Fenisi,": 1
+  },
+  "batjéʼy": {
+    "abò": 1
+  },
+  "Taya,": {
+    "Siri.": 1
+  },
+  "débatjé": {
+    "Tir": 1
+  },
+  "batiman-an,": {
+    "batiman": 4
+  },
+  "atè.": {
+    "pote.": 1
+  },
+  "oplèz,": {
+    "orevwa.": 1
+  },
+  "batjé": {
+    "anbake": 2
+  },
+  "voyaj": {
+    "vwayaj": 4
+  },
+  "fi": {
+    "fi": 4
+  },
+  "Agabòs": {
+    "Agabis": 1,
+    "desann": 1
+  },
+  "mizèʼy": {
+    "pèsiste": 1
+  },
+  "fèt-la.”": {
+    "repiyans.": 1
+  },
+  "Nason,": {
+    "Nazon,": 1
+  },
+  "cho": {
+    "ou": 4
+  },
+  "fè:": {
+    "pral": 2
+  },
+  "wazé": {
+    "kale": 2,
+    "cheve": 2
+  },
+  "lavi.”": {
+    "toufe.": 1
+  },
+  "bout,": {
+    "prèt": 3
+  },
+  "nou!": {
+    "konkou!": 1
+  },
+  "(Yo": {
+    "(Yo": 1
+  },
+  "Bondyé-a.)": {
+    "tou.)": 1
+  },
+  "konmandè-a": {
+    "kòmandan": 7,
+    "an": 7
+  },
+  "sòlda-a,": {
+    "kòmandan": 2
+  },
+  "Pòl.": {
+    "Pòl.": 7
+  },
+  "Konmandè-a": {
+    "Kòmandan": 8,
+    "an": 8
+  },
+  "sòlda-a.": {
+    "kazèn": 2,
+    "lan.": 2
+  },
+  "mach-la,": {
+    "eskalye": 1
+  },
+  "dèyèʼy": {
+    "swiv": 1
+  },
+  "Tjwéʼy!”": {
+    "li.": 1
+  },
+  "alò!": {
+    "grèk?": 1
+  },
+  "gouvèdman-an": {
+    "ejipsyen": 1
+  },
+  "Asasen-an,": {
+    "katsan": 1,
+    "bandi": 1
+  },
+  "savann-an.”": {
+    "a?": 1
+  },
+  "Silisiya,": {
+    "Silisi.": 2
+  },
+  "palé.”": {
+    "pèmisyon.": 1
+  },
+  "mach-la": {
+    "eskalye": 1
+  },
+  "dézòd,": {
+    "loray": 2
+  },
+  "dous": {
+    "dousman.": 1
+  },
+  "isi-a,": {
+    "isit": 3
+  },
+  "Ganmalyèl": {
+    "pwofesè": 1
+  },
+  "pwizon.": {
+    "prizon.": 3,
+    "an.": 3
+  },
+  "‘Sòl,": {
+    "m:": 1,
+    "Sòl,": 1
+  },
+  "mwen?’": {
+    "konsa?": 1
+  },
+  "Mèt?’": {
+    "Senyè?": 2
+  },
+  "pèsikité-a.’": {
+    "pèsekite": 1,
+    "a.": 1
+  },
+  "gadéʼy.": {
+    "gade": 1
+  },
+  "chwaziʼw": {
+    "ou": 5
+  },
+  "tann-an.": {
+    "tande.": 1
+  },
+  "batizé,": {
+    "batèm": 2
+  },
+  "viv!”": {
+    "ankò!": 1
+  },
+  "dibwi": {
+    "rèd,": 1
+  },
+  "lézè-a": {
+    "syèl": 3
+  },
+  "lodyans": {
+    "devan": 4
+  },
+  "fè-a?": {
+    "tande!": 1,
+    "tou?": 1,
+    "sa?": 1
+  },
+  "Ronm!”": {
+    "ye": 1,
+    "wi.": 1
+  },
+  "“Wi.”": {
+    "Wi.": 1
+  },
+  "Ronm.”": {
+    "women.": 2
+  },
+  "anchennéʼy.": {
+    "chenn.": 1
+  },
+  "Annannayas,": {
+    "Ananyas,": 2
+  },
+  "fwapéʼy": {
+    "souflèt.": 1
+  },
+  "masonn": {
+    "blanchi!": 1
+  },
+  "Bondyé-a?”": {
+    "a?": 1
+  },
+  "pwèt-la,": {
+    "granprèt": 3
+  },
+  "ou-an.’": {
+    "mal.": 1
+  },
+  "Fawizyen": {
+    "farizyen": 4
+  },
+  "Fawizyen,": {
+    "farizyen.": 2
+  },
+  "babyé": {
+    "diskite": 3
+  },
+  "halé": {
+    "Asanble": 1
+  },
+  "twa.)": {
+    "sa.)": 1
+  },
+  "dwé": {
+    "dwe": 6
+  },
+  "Chikann-an": {
+    "Diskisyon": 1
+  },
+  "déchiwé": {
+    "yo": 2
+  },
+  "miyèt.": {
+    "dechèpiye": 1
+  },
+  "konplo": {
+    "konplo": 3
+  },
+  "konmkwéki": {
+    "egzaminen": 2
+  },
+  "asouʼy.": {
+    "byen.": 2
+  },
+  "isi-a.”": {
+    "isit.": 1
+  },
+  "konmandè-a.": {
+    "kòmandan": 1,
+    "an:": 1
+  },
+  "diʼy.”": {
+    "li.": 1
+  },
+  "tibway-la,": {
+    "Ofisye": 1
+  },
+  "diʼw.”": {
+    "kichòy.": 1
+  },
+  "mwen-an?”": {
+    "mwen?": 1
+  },
+  "Tibway-la": {
+    "reponn:": 1
+  },
+  "enfòmasyon": {
+    "mesye": 1,
+    "enfòmasyon": 1
+  },
+  "disizyonʼw.”": {
+    "tann.": 1
+  },
+  "mwen-an,”": {
+    "Epi": 1
+  },
+  "tibway-la": {
+    "al": 1,
+    "wout": 1
+  },
+  "(70)": {
+    "swasanndis": 1
+  },
+  "amé": {
+    "pikèt.": 1
+  },
+  "òswè-a.": {
+    "nevè.": 1
+  },
+  "chouval": {
+    "chwal": 15
+  },
+  "Filiks.”": {
+    "san": 2,
+    "okenn": 2
+  },
+  "Lisiyas": {
+    "Lizyas": 2
+  },
+  "Èksélans": {
+    "chèf": 1,
+    "li,": 1
+  },
+  "Filiks:": {
+    "Feliks.": 1
+  },
+  "akizéʼy,": {
+    "jwif": 2
+  },
+  "méwité": {
+    "merite": 12
+  },
+  "Antipatròs.": {
+    "Antipatris": 1,
+    "menm.": 1
+  },
+  "lèt-la": {
+    "lèt": 7
+  },
+  "Gouvènè-a": {
+    "Gouvènè": 2
+  },
+  "Silisiya.": {
+    "Silisi": 1,
+    "Silisi.": 1
+  },
+  "akizéʼy.": {
+    "Tètilis": 1
+  },
+  "“Èksélans": {
+    "Ekselans,": 1
+  },
+  "chanjman": {
+    "refòm": 1
+  },
+  "ofon": {
+    "w'ap": 1
+  },
+  "souplé,": {
+    "tanpri": 3
+  },
+  "tèlman.": {
+    "anpil.": 1
+  },
+  "patizan-an": {
+    "gwoup": 1,
+    "Nazareyen": 1
+  },
+  "Nazawiyen-an.": {
+    "ye.": 1
+  },
+  "douvanʼw.]": {
+    "ou.]": 1
+  },
+  "chikannen": {
+    "diskite": 2
+  },
+  "èspwa": {
+    "espwa": 17
+  },
+  "konsyans": {
+    "konsyans": 24
+  },
+  "lézòm.": {
+    "moun.": 2
+  },
+  "twaka.": {
+    "yo.": 2
+  },
+  "Filiks,": {
+    "Feliks": 1,
+    "okouran": 1
+  },
+  "anvoyé": {
+    "ranvwaye": 1
+  },
+  "janʼy-lan": {
+    "libète,": 1
+  },
+  "Filiks": {
+    "Feliks": 4
+  },
+  "Drousila,": {
+    "Drisil,": 1
+  },
+  "jijman-an": {
+    "jijman": 3
+  },
+  "vini-an,": {
+    "gen": 10
+  },
+  "kontanʼy,": {
+    "plezi": 2
+  },
+  "Fèstòs": {
+    "Festis": 11
+  },
+  "Twa": {
+    "twa": 2,
+    "Twa": 2
+  },
+  "chimen.": {
+    "wout": 1
+  },
+  "“Pòl": {
+    "yo:": 1
+  },
+  "touswit.": {
+    "anvan": 5
+  },
+  "bon.”": {
+    "laba": 1,
+    "gran!": 1
+  },
+  "Siza.”": {
+    "Seza.": 2
+  },
+  "lanmò,": {
+    "lanmò,": 5
+  },
+  "Agripa": {
+    "Agripa": 7
+  },
+  "Bènis": {
+    "Berenis": 3
+  },
+  "Fèstòs.": {
+    "bonjou.": 1
+  },
+  "wa-a.": {
+    "la.": 7
+  },
+  "kondannéʼy.": {
+    "li.": 3
+  },
+  "akizéʼy-la.": {
+    "akizasyon": 1
+  },
+  "Fèstòs,": {
+    "Festis": 2,
+    "konsa:": 2
+  },
+  "asanblé-a": {
+    "kòtèj.": 1
+  },
+  "“Wa": {
+    "Wa": 3
+  },
+  "Agripa,": {
+    "Agripa,": 4
+  },
+  "akizéʼy": {
+    "laba": 1
+  },
+  "Agripa.": {
+    "sitou,": 1
+  },
+  "Siza.": {
+    "kèsyon.": 1
+  },
+  "kòʼw.”": {
+    "ou.": 3
+  },
+  "kwèsyon-an": {
+    "kèsyon": 2
+  },
+  "byen-an.": {
+    "an.": 1
+  },
+  "lannwit": {
+    "lajounen": 4
+  },
+  "èspéyé-a.": {
+    "monwa.": 1
+  },
+  "mò?": {
+    "mouri?": 1
+  },
+  "midi": {
+    "monwa,": 1
+  },
+  "sòlèy-la": {
+    "solèy": 3
+  },
+  "voyajé": {
+    "vwayaje": 2
+  },
+  "nasyon-an.": {
+    "nasyon": 7,
+    "yo.": 7
+  },
+  "klèté,": {
+    "limyè,": 2
+  },
+  "chanjé.": {
+    "chanje": 3
+  },
+  "“Pòl,": {
+    "fou,": 1
+  },
+  "fou!": {
+    "Pòl!": 1,
+    "Twòp": 1
+  },
+  "fou!”": {
+    "ou.": 1
+  },
+  "fou,": {
+    "fou": 1,
+    "ekselans.": 1
+  },
+  "vwé!": {
+    "klè,": 1
+  },
+  "kouyon!": {
+    "sans.": 1,
+    "ala": 1,
+    "sòt": 1
+  },
+  "séwan.": {
+    "kachèt.": 1
+  },
+  "ékwi-a?": {
+    "di?": 1
+  },
+  "ézé?”": {
+    "kretyen?": 1
+  },
+  "chenn": {
+    "chenn": 3,
+    "mare": 3
+  },
+  "mwen-an!”": {
+    "yo!": 1
+  },
+  "wa-a,": {
+    "a,": 3
+  },
+  "pwizon.”": {
+    "prizon,": 1,
+    "lanmò.": 1
+  },
+  "Batalyon": {
+    "Jiliyis,": 1,
+    "batayon": 1
+  },
+  "Siza-a.": {
+    "Seza.": 1
+  },
+  "Aristakòs": {
+    "Aristak,": 1
+  },
+  "Sidon,": {
+    "Sidon.": 1
+  },
+  "Jouliyòs": {
+    "Jiliyis": 1
+  },
+  "van-an": {
+    "van": 6
+  },
+  "Panfiliya,": {
+    "Silisi": 1
+  },
+  "kòsté": {
+    "Panfili,": 1
+  },
+  "Mira": {
+    "Mira": 1
+  },
+  "Lisya.": {
+    "Lisi.": 1
+  },
+  "Itali,": {
+    "Itali.": 1
+  },
+  "abò-a.": {
+    "li.": 1
+  },
+  "vanté-a": {
+    "Kap": 1,
+    "Salome": 1
+  },
+  "Krit,": {
+    "zile": 2
+  },
+  "Salmonn.": {
+    "Krèt.": 1
+  },
+  "Lawad,": {
+    "Pò,": 1
+  },
+  "Lasi-a.": {
+    "Laze.": 1
+  },
+  "konsèy,": {
+    "vwayaje.": 1,
+    "konsèy.": 1
+  },
+  "kaptenn-an": {
+    "kaptenn": 2
+  },
+  "Lawad-la": {
+    "Pò": 1
+  },
+  "fwédi-a": {
+    "fredi": 4
+  },
+  "chans-lan": {
+    "chans": 4
+  },
+  "Finiks": {
+    "Feniks,": 1,
+    "pò": 1
+  },
+  "gòch": {
+    "zile": 2
+  },
+  "van": {
+    "van": 5
+  },
+  "désann,": {
+    "desann": 2
+  },
+  "lilèt-la": {
+    "zile": 2
+  },
+  "Kòda-a,": {
+    "Kloda.": 1
+  },
+  "soulajman,": {
+    "souf.": 1
+  },
+  "abò-a,": {
+    "abò.": 1
+  },
+  "kòd": {
+    "kòd,": 1,
+    "sonn": 1
+  },
+  "Van": {
+    "Gwo": 1,
+    "van": 1
+  },
+  "ikwipman-an": {
+    "aparèj": 1
+  },
+  "konmen": {
+    "zetwal.": 1
+  },
+  "pèd.": {
+    "pèdi.": 1
+  },
+  "mèt-la": {
+    "mèt": 3
+  },
+  "sèvi-a,": {
+    "mwen,": 2
+  },
+  "‘Pòl,": {
+    "pè,": 1
+  },
+  "mésyé,": {
+    "mesye,": 1
+  },
+  "tè.”": {
+    "zile.": 1
+  },
+  "katòz": {
+    "katòz": 2
+  },
+  "nwit": {
+    "nwit": 2
+  },
+  "plon": {
+    "liny,": 1
+  },
+  "kenz": {
+    "kenz": 2
+  },
+  "bwas": {
+    "bras": 1,
+    "ase.": 1
+  },
+  "kayè-a,": {
+    "resif.": 1
+  },
+  "navidjé": {
+    "Maren": 1
+  },
+  "chapé!”": {
+    "sove.": 1
+  },
+  "kòd-la": {
+    "kòd": 2
+  },
+  "Souplé,": {
+    "Tanpri,": 1,
+    "kounyeya,": 1
+  },
+  "bizwenʼy": {
+    "N'a": 1
+  },
+  "chivé": {
+    "cheve": 3
+  },
+  "kaséʼy": {
+    "kase": 3
+  },
+  "swasant": {
+    "desanswasannsèz": 1,
+    "swasantan.": 1
+  },
+  "sèz": {
+    "(276)": 1,
+    "(72)": 1
+  },
+  "(276)": {
+    "antou": 1
+  },
+  "gwenn-an": {
+    "pouse": 2
+  },
+  "léjè.": {
+    "deleste": 1,
+    "an.": 1
+  },
+  "lans": {
+    "lans": 1
+  },
+  "sab,": {
+    "plaj.": 1
+  },
+  "douvan.": {
+    "rivaj": 1
+  },
+  "plat.": {
+    "sab": 2
+  },
+  "douvan-an": {
+    "kouran,": 1,
+    "chwe.": 1
+  },
+  "lanm-lan": {
+    "lanm": 1
+  },
+  "dèyè-a.": {
+    "fin": 2
+  },
+  "planch": {
+    "kèk": 2
+  },
+  "chapé,": {
+    "sove": 3
+  },
+  "Malta,": {
+    "Malt.": 1
+  },
+  "kwévé": {
+    "Lapli": 1
+  },
+  "boukan": {
+    "boukan": 1
+  },
+  "patjé": {
+    "pakèt": 1,
+    "fachin,": 1
+  },
+  "difé-a.": {
+    "dife": 5
+  },
+  "sèpan": {
+    "sèpan": 2
+  },
+  "bwa-a": {
+    "a,": 9
+  },
+  "Jistis": {
+    "pousib": 1
+  },
+  "Tou": {
+    "Toupre": 1
+  },
+  "bitasyon": {
+    "Pibliyis,": 1
+  },
+  "janʼy.": {
+    "jou.": 1
+  },
+  "Poublyòs": {
+    "Pibliyis": 1
+  },
+  "lafyèv": {
+    "lafyèb": 1
+  },
+  "mwa,": {
+    "mwa,": 2
+  },
+  "Sirakyouz": {
+    "Sirakiz,": 1
+  },
+  "Poutiyoli.": {
+    "Pouzòl.": 1
+  },
+  "fwè,": {
+    "frè": 4
+  },
+  "Apiyòs": {
+    "Apiyis": 1
+  },
+  "Kabawé-a.": {
+    "Kalfou": 1,
+    "Kafe.": 1
+  },
+  "Ronm,": {
+    "Wòm,": 1
+  },
+  "véyéʼy.": {
+    "veye": 1
+  },
+  "akizasyon": {
+    "plent": 2
+  },
+  "nouvèl,": {
+    "nouvèl,": 1
+  },
+  "gany-lan": {
+    "gwoup": 1
+  },
+  "andidanʼy-lan.”": {
+    "pati": 1,
+    "a.": 1
+  },
+  "‘Alé": {
+    "Ale": 1
+  },
+  "gadé,": {
+    "gade,": 4
+  },
+  "konpwann,": {
+    "konprann": 3
+  },
+  "[Lè": {
+    "Lè": 1
+  },
+  "yo.]": {
+    "lòt.]": 1
+  },
+  "lwé,": {
+    "lwe.": 1
+  },
+  "kont.": {
+    "kont.": 1
+  },
+  "Nouvèl-la.": {
+    "la.": 6
+  },
+  "pwivilaj-la": {
+    "menm": 4
+  },
+  "zapòt,": {
+    "apòt,": 4
+  },
+  "osi": {
+    "pou": 26
+  },
+  "menm-lan.": {
+    "fanmi": 1,
+    "a.": 1
+  },
+  "Pwèmyéman": {
+    "Anvan": 2
+  },
+  "bennédiksyon": {
+    "benediksyon": 11
+  },
+  "fò.": {
+    "fòs.": 2
+  },
+  "osi.": {
+    "tou.": 35
+  },
+  "sè,": {
+    "yo,": 59
+  },
+  "obligasyon": {
+    "Reskonsablite": 1,
+    "m'anonse": 1,
+    "Bonnouvèl": 1,
+    "obligasyon": 1
+  },
+  "savan": {
+    "kit": 3
+  },
+  "endiké": {
+    "eklere.": 1,
+    "Kit": 1,
+    "save,": 1
+  },
+  "endiké.": {
+    "save.": 1
+  },
+  "anvi": {
+    "anvi": 9
+  },
+  "hont": {
+    "wont": 15
+  },
+  "wévélé": {
+    "sekrè": 6
+  },
+  "waj": {
+    "kòlè": 24
+  },
+  "senp": {
+    "parèt": 2,
+    "aklè": 2,
+    "aklè,": 2
+  },
+  "vwéman": {
+    "tout": 14
+  },
+  "èskiz": {
+    "eskiz": 2
+  },
+  "ki.": {
+    "fin": 1,
+    "fou.": 1
+  },
+  "jibyé,": {
+    "pòtre": 2,
+    "zwazo,": 2
+  },
+  "sèpan.": {
+    "vant.": 1,
+    "aspik.": 1,
+    "dragon.": 1
+  },
+  "malpwòpté": {
+    "bagay": 6
+  },
+  "adowéʼy": {
+    "li": 5
+  },
+  "Ensiswatil.": {
+    "Amèn.": 13
+  },
+  "osi,": {
+    "tou,": 8
+  },
+  "malpalé,": {
+    "tripòt": 1
+  },
+  "movèzté,": {
+    "ki": 7
+  },
+  "kouyon,": {
+    "konsyans,": 1,
+    "fou": 1
+  },
+  "pasyans,": {
+    "pasyans": 6
+  },
+  "wannman": {
+    "anpil?": 1
+  },
+  "dwèt-la.": {
+    "patipri.": 1
+  },
+  "twibilasyon": {
+    "anpil": 2
+  },
+  "lapé,": {
+    "kè": 6
+  },
+  "twété": {
+    "ak": 9
+  },
+  "mannyè.": {
+    "moun.": 2,
+    "kè.": 2,
+    "kondisyon.": 2
+  },
+  "Konsyans": {
+    "Konsyans": 3,
+    "repwoche": 3
+  },
+  "bavadé": {
+    "tèt": 11
+  },
+  "wilasyon-an": {
+    "deske": 1
+  },
+  "bon-an": {
+    "ki": 3
+  },
+  "nwèsè-a,": {
+    "fènwa,": 2
+  },
+  "lézòt-la,": {
+    "lòt": 5
+  },
+  "kòʼw?": {
+    "leson,": 1
+  },
+  "vòlè?": {
+    "leson": 1,
+    "tou?": 1
+  },
+  "kouman.": {
+    "vòlò:": 1
+  },
+  "sipòté": {
+    "ou": 5
+  },
+  "bondyé-a,": {
+    "adiltè!": 1
+  },
+  "yo?": {
+    "yo!": 1
+  },
+  "lwa-a?": {
+    "lalwa": 5
+  },
+  "sinifyéʼy": {
+    "sikonsi.": 1
+  },
+  "sikonsayz.": {
+    "sikonsi.": 3,
+    "sikonsi": 3
+  },
+  "sikonsayz-la": {
+    "sikonsi": 5
+  },
+  "sikonsayz,": {
+    "sikonsi,": 3
+  },
+  "Ni": {
+    "pa": 4
+  },
+  "tjèʼw.": {
+    "kè": 8
+  },
+  "Lwa-a": {
+    "lalwa": 4
+  },
+  "lonnè.": {
+    "lwanj": 4
+  },
+  "lavantay": {
+    "avantaj": 4
+  },
+  "valè": {
+    "wòch": 5
+  },
+  "sikonsizyon?": {
+    "itilite": 1,
+    "sikonsizyon": 1,
+    "an?": 1
+  },
+  "Pwèmyéman,": {
+    "Pou": 4,
+    "konmanse,": 4
+  },
+  "pwézèvéʼy.": {
+    "yo.": 1
+  },
+  "Awa!": {
+    "Non,": 5,
+    "Eske": 5
+  },
+  "(Mwen": {
+    "tò?": 1,
+    "(Eskize": 1
+  },
+  "palé.)": {
+    "moun.)": 1
+  },
+  "latè-a?": {
+    "moun?": 1
+  },
+  "péchè?": {
+    "mal?": 1
+  },
+  "bonté": {
+    "nou": 12
+  },
+  "méwité.": {
+    "rezon.": 1
+  },
+  "tout,": {
+    "jwif,": 7
+  },
+  "lévanjil,": {
+    "la:": 2
+  },
+  "lanng": {
+    "lang": 3
+  },
+  "vlen": {
+    "venen": 1
+  },
+  "jiwé,": {
+    "madichon": 1
+  },
+  "anmè.": {
+    "jouman.": 1
+  },
+  "Toupatou": {
+    "Kote": 1
+  },
+  "ling": {
+    "dega,": 1,
+    "malè": 1
+  },
+  "mizè": {
+    "kite": 1
+  },
+  "soufwans.": {
+    "dèyè.": 1,
+    "tan.": 1
+  },
+  "matjé": {
+    "pou": 7,
+    "sa": 7
+  },
+  "èskiz,": {
+    "pèsonn:": 1
+  },
+  "diféwans,": {
+    "menm.": 1
+  },
+  "aksèptéʼy.": {
+    "do.": 1
+  },
+  "libèté": {
+    "libète": 5
+  },
+  "valè-a": {
+    "vrè": 1
+  },
+  "bavadé,": {
+    "tèt": 6
+  },
+  "jwenn-an": {
+    "Lajan": 1
+  },
+  "kado,": {
+    "kado": 4
+  },
+  "pou-a.": {
+    "li.": 2
+  },
+  "favèʼy.": {
+    "beni:": 1
+  },
+  "Wi,": {
+    "bon": 2
+  },
+  "péchéʼy-la": {
+    "kont": 1
+  },
+  "chay.”": {
+    "mal!": 1
+  },
+  "“Abrahanm": {
+    "Abraram": 4
+  },
+  "aksèptéʼy": {
+    "te": 12
+  },
+  "kou?": {
+    "rive?": 1
+  },
+  "sikonsayz?": {
+    "apre?": 1
+  },
+  "lafwa-a": {
+    "konfyans": 22
+  },
+  "sikonsayz-la.": {
+    "sikonsi.": 2
+  },
+  "Pwonmèt": {
+    "eritaj.": 1
+  },
+  "ében,": {
+    "pa": 13
+  },
+  "sou": {
+    "vo": 3
+  },
+  "lwa,": {
+    "lalwa,": 1
+  },
+  "Mannyè": {
+    "pou": 28
+  },
+  "Abrahanm.": {
+    "pitit": 6
+  },
+  "fèʼy,": {
+    "fè": 5
+  },
+  "bwanhany,": {
+    "tchoule,": 1
+  },
+  "Sara": {
+    "Sara": 4
+  },
+  "lafwaʼy.": {
+    "pitit.": 1,
+    "geri.": 1
+  },
+  "Okontwè": {
+    "Okontrè,": 5
+  },
+  "posib": {
+    "nou": 9
+  },
+  "widjèwté": {
+    "kontan": 4,
+    "fè": 4
+  },
+  "wèd,": {
+    "soufri.": 1,
+    "goumen": 1,
+    "soufrans.": 1,
+    "Michèl.": 1
+  },
+  "èspwa.": {
+    "espwa.": 1
+  },
+  "Lèspwiʼy.": {
+    "Sentespri": 3
+  },
+  "Byen": {
+    "fasil": 1
+  },
+  "djèwté": {
+    "nou": 7
+  },
+  "lwa.": {
+    "sanksyon": 1,
+    "peche.": 1
+  },
+  "Kanmenm,": {
+    "Men,": 4
+  },
+  "Adanm": {
+    "Adan": 5
+  },
+  "jik": {
+    "yo": 17
+  },
+  "bay-la": {
+    "Bondye": 5
+  },
+  "kadoʼy.": {
+    "toujou.": 2
+  },
+  "diféwan": {
+    "divès": 7
+  },
+  "ho?": {
+    "toujou?": 1
+  },
+  "osi?": {
+    "lanmò": 1,
+    "li.": 1
+  },
+  "nèf.": {
+    "lòt": 5
+  },
+  "lanmòʼy,": {
+    "li": 3
+  },
+  "lanmò-a": {
+    "lanmò": 9
+  },
+  "labitid": {
+    "lakwa.": 1
+  },
+  "péché-a": {
+    "peche": 12
+  },
+  "Lanmò": {
+    "Lanmò!": 2
+  },
+  "déziʼy-la.": {
+    "anvi": 1,
+    "fè.": 1
+  },
+  "lagwas?": {
+    "sa?": 1
+  },
+  "obéyiʼy": {
+    "obeyi": 8
+  },
+  "mèsi": {
+    "mèsi": 3
+  },
+  "libéwé": {
+    "delivre": 3
+  },
+  "fèb": {
+    "fèb": 9
+  },
+  "apwézan-an?": {
+    "jòdi": 1
+  },
+  "nèt,": {
+    "nan": 5
+  },
+  "péyiman": {
+    "rekonpans": 5
+  },
+  "Fwè": {
+    "Frè": 30
+  },
+  "sè": {
+    "yo,": 19
+  },
+  "lotowité": {
+    "otorite": 10
+  },
+  "ègzanp.": {
+    "egzanp:": 1
+  },
+  "mayé,": {
+    "marye": 2
+  },
+  "mawiʼy": {
+    "mari": 8
+  },
+  "mawi-a": {
+    "mari": 12
+  },
+  "dézi": {
+    "viv": 10
+  },
+  "nèf-la": {
+    "tan": 6
+  },
+  "konmandman-an": {
+    "kòmandman": 12
+  },
+  "alò,": {
+    "ankò.": 1
+  },
+  "Péché": {
+    "Peche": 2
+  },
+  "pwensip": {
+    "mwen": 3
+  },
+  "ladjè": {
+    "goumen": 5
+  },
+  "Mésyé!": {
+    "Ala": 1,
+    "malere": 1
+  },
+  "mizéwab,": {
+    "malere,": 1
+  },
+  "i!": {
+    "mezanmi!": 1
+  },
+  "mwen-an?": {
+    "lanmò?": 1
+  },
+  "lachè-a,": {
+    "egzijans": 6
+  },
+  "lachè-a": {
+    "egzijans": 12
+  },
+  "vlé-a": {
+    "okipasyon": 1
+  },
+  "lidéʼw": {
+    "nou": 10
+  },
+  "abésé": {
+    "soumèt": 20
+  },
+  "plè": {
+    "fè": 33
+  },
+  "lachèʼw": {
+    "vre,": 1,
+    "akoz": 1,
+    "eta": 1
+  },
+  "andidanʼw": {
+    "ou": 5
+  },
+  "lachè-a.": {
+    "wout": 1,
+    "mouri.": 1
+  },
+  "apwézan-an": {
+    "kounyeya": 2
+  },
+  "Anfen": {
+    "Sa": 2
+  },
+  "kwiyasyon": {
+    "kreyasyon": 3,
+    "an": 3
+  },
+  "akouché.": {
+    "doulè": 3
+  },
+  "pyès,": {
+    "tann": 4
+  },
+  "wè?": {
+    "deja?": 1
+  },
+  "pasyans.": {
+    "pasyans.": 5
+  },
+  "Lèspwi-a,": {
+    "Lespri": 3
+  },
+  "planʼy-lan.": {
+    "rele.": 1,
+    "riz": 1,
+    "Satan.": 1
+  },
+  "Gasonʼy,": {
+    "kab": 1
+  },
+  "Gasonʼy-lan": {
+    "li": 8
+  },
+  "sè-a.": {
+    "frè.": 1
+  },
+  "bizwen?": {
+    "gremesi?": 1
+  },
+  "chwazi-a?": {
+    "Pèsonn.": 1
+  },
+  "lanmityé-a": {
+    "renmen": 22
+  },
+  "fen,": {
+    "grangou,": 3
+  },
+  "tjwé.”": {
+    "labatwa.": 1
+  },
+  "asiwé,": {
+    "lasirans": 1
+  },
+  "ta,": {
+    "tan": 2
+  },
+  "anho-a": {
+    "pouvwa": 3
+  },
+  "anba-a,": {
+    "zantray": 1
+  },
+  "manti.": {
+    "bay": 6
+  },
+  "modi": {
+    "madichon": 3
+  },
+  "gwan.": {
+    "li": 5
+  },
+  "agwéman": {
+    "kontra": 13
+  },
+  "gason.”": {
+    "gason.": 1
+  },
+  "tousèl:": {
+    "koze": 1
+  },
+  "Ribèka-a": {
+    "Rebeka": 1
+  },
+  "Isò.”": {
+    "pase": 1,
+    "Ezayi.": 1
+  },
+  "aji": {
+    "lenjistis?": 1
+  },
+  "dwèt?": {
+    "Men": 1
+  },
+  "Moziz,": {
+    "Moyiz:": 1
+  },
+  "mizéwikòd": {
+    "pitye": 3
+  },
+  "konpasyon": {
+    "pou": 16
+  },
+  "konté,": {
+    "regade": 1
+  },
+  "konpasyon.": {
+    "kè": 3
+  },
+  "désidé?”": {
+    "Bondye?": 1
+  },
+  "gwa-a": {
+    "krich,": 1
+  },
+  "Hozéya": {
+    "Oze": 1
+  },
+  "gasonʼy.”": {
+    "vivan": 1,
+    "an.": 1
+  },
+  "lanmè,": {
+    "lanmè,": 1,
+    "ponyen": 1
+  },
+  "jijmanʼy": {
+    "l": 4
+  },
+  "fò-a": {
+    "anvan:": 1
+  },
+  "Sòdonm,": {
+    "Sodòm,": 1
+  },
+  "Gomòra.”": {
+    "Gomò.": 1
+  },
+  "wézon?": {
+    "Poukisa?": 1
+  },
+  "zòtèy": {
+    "bite": 3
+  },
+  "tonbé.": {
+    "tonbe.": 4
+  },
+  "hont.”": {
+    "sòti": 3,
+    "wont.": 3
+  },
+  "tèstifyé": {
+    "di": 6
+  },
+  "“ében": {
+    "Ou": 1,
+    "ankò:": 1,
+    "Kilès": 1
+  },
+  "mò-a,”": {
+    "(Sa": 1
+  },
+  "déviwé.": {
+    "pami": 1,
+    "mò": 1,
+    "yo.)": 1
+  },
+  "pwéʼw.": {
+    "ou,": 2
+  },
+  "“Moun-an": {
+    "la:": 2
+  },
+  "nasyon.": {
+    "jwif:": 1,
+    "nasyon,": 1
+  },
+  "nonʼy.”": {
+    "jwenn": 1,
+    "delivrans.": 1
+  },
+  "Nouvèl-la.”": {
+    "vini!": 1
+  },
+  "mennen-an?”": {
+    "la?": 1
+  },
+  "faché.”": {
+    "konprann.": 1
+  },
+  "“Moun": {
+    "t'ap": 6
+  },
+  "widjèkté": {
+    "voye": 7
+  },
+  "Ilaydja": {
+    "Eli": 2
+  },
+  "osi.”": {
+    "tou?": 1
+  },
+  "Bal.”": {
+    "Baal.": 1
+  },
+  "jòdi-a.”": {
+    "jòdi": 1
+  },
+  "fèsten": {
+    "resèpsyon": 1
+  },
+  "zatwap": {
+    "pèlen": 5
+  },
+  "méwité-a.”": {
+    "chatiman": 1
+  },
+  "lou-a": {
+    "do": 1
+  },
+  "pòté-a.”": {
+    "tan.": 1
+  },
+  "twapé": {
+    "tonbe": 3
+  },
+  "nasyon-an,": {
+    "nasyon": 4
+  },
+  "wasin": {
+    "rasin": 2
+  },
+  "bwanch-lan": {
+    "branch": 5,
+    "yo": 5
+  },
+  "òliv": {
+    "oliv": 3,
+    "lakou": 3
+  },
+  "magòté": {
+    "yo": 5
+  },
+  "wasin-an,": {
+    "rasin": 1
+  },
+  "wasin-an": {
+    "rasin": 1
+  },
+  "bwanch-lan.”": {
+    "yo?": 1
+  },
+  "lògèy,": {
+    "lògèy": 4
+  },
+  "mové,": {
+    "yo,": 8
+  },
+  "nonplis.": {
+    "dousman.": 1,
+    "nonplis.": 1
+  },
+  "òliv-la": {
+    "oliv": 4
+  },
+  "“Sovè-a": {
+    "esklavaj": 1
+  },
+  "Jakòb.": {
+    "lwen.": 1
+  },
+  "chwazi-a.": {
+    "moun.": 1
+  },
+  "dézobéyiʼy.": {
+    "li.": 2
+  },
+  "konpasyon-an": {
+    "pitye": 3
+  },
+  "konpasyonʼy.": {
+    "pitye": 2
+  },
+  "Wichès": {
+    "O,": 1,
+    "gade": 1,
+    "rich": 1,
+    "non!": 1
+  },
+  "lasajès": {
+    "konprann": 20,
+    "bon": 20
+  },
+  "tèlman!": {
+    "li,": 2
+  },
+  "bagay!": {
+    "depase": 1
+  },
+  "mannyèʼy.": {
+    "Liv": 1,
+    "la:": 1
+  },
+  "katjilé?": {
+    "Mèt": 2,
+    "la?": 2
+  },
+  "édéʼy": {
+    "li": 9
+  },
+  "disizyon?": {
+    "konsèy?": 1
+  },
+  "déviwé?”": {
+    "sa?": 1
+  },
+  "laviʼw": {
+    "ak": 6
+  },
+  "kò,": {
+    "kò,": 3
+  },
+  "mòso-a": {
+    "manm": 5
+  },
+  "twavay-la,": {
+    "apa.": 1
+  },
+  "sèvis,": {
+    "l": 2
+  },
+  "wann": {
+    "pou": 5
+  },
+  "enstwi,": {
+    "moutre": 4
+  },
+  "ipokwit": {
+    "ak": 2
+  },
+  "Hayi": {
+    "Rayi": 1
+  },
+  "tenn": {
+    "parese.": 1
+  },
+  "lèspwiʼy": {
+    "Mèt": 2
+  },
+  "sè-a": {
+    "yo": 4
+  },
+  "pèsikitéʼw-la.": {
+    "Mande": 2
+  },
+  "Mandéʼy": {
+    "benediksyon,": 1
+  },
+  "lapenn-an.": {
+    "kriye.": 1
+  },
+  "chay-la,": {
+    "yo,": 17
+  },
+  "paséʼy.": {
+    "mal.": 1
+  },
+  "gouvèdman": {
+    "otorite": 3,
+    "refize": 3
+  },
+  "Ba": {
+    "Peye": 1,
+    "lavalè.": 1,
+    "Plen": 1
+  },
+  "taks": {
+    "Peye": 2
+  },
+  "gouvèdman-an,": {
+    "enpo.": 1
+  },
+  "péyéʼy,": {
+    "taks": 1
+  },
+  "adiltè,": {
+    "Piga": 4
+  },
+  "pwochenʼw": {
+    "ou": 6
+  },
+  "sonmèy-la": {
+    "sonnen,": 1
+  },
+  "Òswè": {
+    "Nwit": 1
+  },
+  "wonm": {
+    "nan": 8
+  },
+  "antanmé": {
+    "lage": 4
+  },
+  "sou,": {
+    "debòch,": 2
+  },
+  "malpwòpté.": {
+    "nan": 5
+  },
+  "jalou.": {
+    "jalouzi.": 1
+  },
+  "lédjim": {
+    "legim": 1,
+    "ase.": 1
+  },
+  "fwèʼw": {
+    "frè": 6
+  },
+  "Pito,": {
+    "Pito": 1,
+    "benefis": 1
+  },
+  "annékòz": {
+    "nan": 6
+  },
+  "wipwoché": {
+    "devan": 2
+  },
+  "bon-an.": {
+    "mal.": 1
+  },
+  "vyann,": {
+    "vyann,": 1,
+    "diven,": 1
+  },
+  "santi": {
+    "santi": 4
+  },
+  "fò-a,": {
+    "feblès": 1
+  },
+  "pwochen": {
+    "parèy": 1
+  },
+  "Aksèpté": {
+    "Se": 1,
+    "asepte": 1
+  },
+  "Fèʼy": {
+    "asepte": 1
+  },
+  "chwazi-a.”": {
+    "chwazi": 1,
+    "a.": 1
+  },
+  "Ankò": {
+    "Li": 1
+  },
+  "“Bay": {
+    "Fè": 1,
+    "lwanj": 1
+  },
+  "lonnè.”": {
+    "lwanj": 1,
+    "li!": 1
+  },
+  "pwofité": {
+    "grandi": 6
+  },
+  "abilité-a": {
+    "don": 8
+  },
+  "chonjé-a.": {
+    "pèmèt": 2
+  },
+  "apa": {
+    "apa": 10
+  },
+  "pwéché-a": {
+    "pa": 5,
+    "anonse": 5
+  },
+  "anbisyon-an": {
+    "lanbisyon": 1
+  },
+  "fondasyon": {
+    "fondasyon": 6
+  },
+  "konpwann.”": {
+    "konprann.": 1
+  },
+  "la-a.": {
+    "sèvis.": 1
+  },
+  "Akéya-a": {
+    "Lakayi": 2
+  },
+  "Èspany": {
+    "m'a": 3
+  },
+  "Pwédyé": {
+    "Lapriyè": 6,
+    "pou": 6
+  },
+  "Joudiya-a": {
+    "Jide": 3
+  },
+  "afwéchi": {
+    "repo": 1
+  },
+  "Fébi": {
+    "Febe,": 1
+  },
+  "Senkré-a.": {
+    "Sankre": 1,
+    "a.": 1
+  },
+  "Édéʼy": {
+    "Ede": 1
+  },
+  "Di": {
+    "Di": 19
+  },
+  "Priska": {
+    "Priska": 2
+  },
+  "danjé": {
+    "riske": 2,
+    "lavi": 2
+  },
+  "pawès": {
+    "peyi": 5
+  },
+  "Jounyas,": {
+    "Andwonikis": 1,
+    "Jinyas,": 1
+  },
+  "Anpliyatòs": {
+    "Anplyatis,": 1
+  },
+  "Òbannòs": {
+    "Iben,": 1,
+    "kanmarad": 1
+  },
+  "Stakis": {
+    "Estakis,": 1
+  },
+  "Apèlès": {
+    "Apelès": 1
+  },
+  "Aristobòlòs": {
+    "Aristobil": 1
+  },
+  "Hèrodiyonn": {
+    "Ewòdyon,": 1
+  },
+  "Nasisòs": {
+    "Nasis": 1
+  },
+  "Tripenna": {
+    "Trifèn": 1
+  },
+  "Trifosa": {
+    "Trifòz,": 1
+  },
+  "Pèsis": {
+    "Pèsid,": 1
+  },
+  "Roufòs": {
+    "Rifis,": 1
+  },
+  "Asinkritòs,": {
+    "Asenkrit,": 1
+  },
+  "Flégòn,": {
+    "Flegon,": 1
+  },
+  "Hèmiz,": {
+    "Emès,": 1
+  },
+  "Patrobas,": {
+    "Patwobas,": 1
+  },
+  "Hémas": {
+    "Emas": 1
+  },
+  "Filgòs": {
+    "Di": 1,
+    "Filològ": 1
+  },
+  "Nèréyòs": {
+    "Jili,": 1,
+    "Nere": 1
+  },
+  "Olimpas": {
+    "sè": 1
+  },
+  "difisil": {
+    "an": 2
+  },
+  "touswit": {
+    "lontan,": 2
+  },
+  "lagwas.": {
+    "nou.": 2
+  },
+  "Louchòs,": {
+    "Liziyis,": 1,
+    "Sozipatè,": 1
+  },
+  "Tètiyòs,": {
+    "Tèsiyis": 1
+  },
+  "bagay-la,": {
+    "konprann!": 1
+  },
+  "wich": {
+    "rich": 10
+  },
+  "Konmisyon-an": {
+    "Bon": 1,
+    "Nouvèl": 1
+  },
+  "établi": {
+    "fin": 1,
+    "rasin": 1
+  },
+  "jou-a,": {
+    "kaba.": 1
+  },
+  "katjil.": {
+    "panse.": 1
+  },
+  "Klowé": {
+    "aprann": 1
+  },
+  "nètaman,": {
+    "Kloye": 1
+  },
+  "kouman?": {
+    "moun?": 2,
+    "an?": 2
+  },
+  "Pòl?": {
+    "nou?": 1
+  },
+  "Mèsi": {
+    "mèsi": 2
+  },
+  "Krispòs": {
+    "anwetan": 1,
+    "Krispis": 1
+  },
+  "Gayòs,": {
+    "Gayis.": 1
+  },
+  "Évwé": {
+    "(Mwen": 1,
+    "bliye": 1
+  },
+  "Stèfanòs": {
+    "Estefanas": 1
+  },
+  "kwa": {
+    "lakwa": 1
+  },
+  "pèd-la": {
+    "anfouraye": 1
+  },
+  "lakonpwann": {
+    "konprann": 5
+  },
+  "lézòt-la.”": {
+    "save": 1,
+    "jete.": 1
+  },
+  "kouyontwi.": {
+    "fou?": 1
+  },
+  "kouyon-an": {
+    "moun": 5
+  },
+  "lakonpwann.": {
+    "konprann.": 1,
+    "konesans.": 1
+  },
+  "kwisifyé.": {
+    "krisifye": 1
+  },
+  "Konmisyon": {
+    "lakwa": 1
+  },
+  "tonbé,": {
+    "choke": 1,
+    "plis,": 1,
+    "okontrè": 1
+  },
+  "bétiz,": {
+    "foli.": 1
+  },
+  "kouyontwi": {
+    "fou": 2
+  },
+  "fèblès": {
+    "feblès": 1
+  },
+  "fanmi.": {
+    "fanmi.": 1
+  },
+  "lasajès-la": {
+    "bon": 10
+  },
+  "hont.": {
+    "wont.": 5
+  },
+  "baka": {
+    "meprize,": 1
+  },
+  "Anfen,": {
+    "Konsa,": 1,
+    "jan": 1
+  },
+  "sigwé": {
+    "plan": 7
+  },
+  "enmenʼy-lan.": {
+    "renmen": 3
+  },
+  "fon-an.": {
+    "sekrè": 1,
+    "Bondye.": 1
+  },
+  "sèlman": {
+    "sèlman": 5
+  },
+  "akwèdi": {
+    "tankou": 24
+  },
+  "A": {
+    "Okontrè,": 1,
+    "Bagay": 1,
+    "An": 1,
+    "tan,": 1
+  },
+  "lèt.": {
+    "senp,": 1,
+    "deja!": 1
+  },
+  "jalouzi": {
+    "jalouzi": 4
+  },
+  "swiv,”": {
+    "Apòlòs,": 1
+  },
+  "Apòlòs?": {
+    "la?": 2
+  },
+  "gwenn-an,": {
+    "plante,": 1,
+    "Apòlòs": 1
+  },
+  "plan-an,": {
+    "wouze,": 1
+  },
+  "wouzé-a": {
+    "wouze": 1
+  },
+  "planté": {
+    "simen": 7
+  },
+  "wouzé": {
+    "wouze": 3
+  },
+  "pokosyon": {
+    "sou": 6
+  },
+  "fondasyon.": {
+    "Jezikri.": 1
+  },
+  "jon.": {
+    "ak": 3
+  },
+  "lègzanmé": {
+    "sonde": 2
+  },
+  "bwilé,": {
+    "boule": 3
+  },
+  "péyimanʼy.": {
+    "rekonpans": 1,
+    "li.": 1
+  },
+  "difé-a": {
+    "dife": 9
+  },
+  "péyiman.": {
+    "fwi": 1
+  },
+  "difé.": {
+    "dife.": 5
+  },
+  "taché": {
+    "kraze": 2
+  },
+  "katjil": {
+    "lide": 5
+  },
+  "Apòlòs,": {
+    "ni": 3
+  },
+  "wèskonsabilité-a": {
+    "jeran": 1
+  },
+  "avan-an.": {
+    "kache.": 1
+  },
+  "onnèt.": {
+    "serye.": 1,
+    "sensè": 1
+  },
+  "nètaman.": {
+    "inonsan": 1
+  },
+  "méwité-a.": {
+    "merite": 3
+  },
+  "lézòt?": {
+    "ou": 7
+  },
+  "wisivwè?": {
+    "li?": 2
+  },
+  "lonnè?": {
+    "ale?": 1,
+    "klere": 1,
+    "toujou.": 1,
+    "gras.": 1
+  },
+  "Jik": {
+    "Jouk": 1,
+    "Jòdi": 1
+  },
+  "hanyon,": {
+    "rad,": 1
+  },
+  "diwé": {
+    "pou": 10
+  },
+  "pèsikasyon": {
+    "pèsekisyon": 3
+  },
+  "zòdi.": {
+    "fatra": 2
+  },
+  "bantjé.": {
+    "latè.": 1
+  },
+  "hont,": {
+    "wont": 3
+  },
+  "gadyenn": {
+    "dimil": 1,
+    "(10.000)": 1
+  },
+  "ègzanp-lan": {
+    "egzanp": 3
+  },
+  "asouʼy": {
+    "pou": 7
+  },
+  "janti.": {
+    "dousè": 3
+  },
+  "simyé?": {
+    "nou?": 1
+  },
+  "jijman-an.": {
+    "va": 3
+  },
+  "bavadé.": {
+    "vante": 2,
+    "tèt": 2
+  },
+  "“An": {
+    "la:": 2
+  },
+  "lèlven": {
+    "zoranj": 1,
+    "pouri": 1,
+    "kal": 1,
+    "ledven": 1
+  },
+  "lapat-la": {
+    "kontaminen": 1
+  },
+  "lapat": {
+    "pat": 2
+  },
+  "lèlven.": {
+    "ledven": 4
+  },
+  "nèt.": {
+    "ki": 5
+  },
+  "nanj,": {
+    "zanj": 3
+  },
+  "ditò": {
+    "lenjistis,": 1,
+    "piye": 1
+  },
+  "dwa-a": {
+    "gendwa": 7
+  },
+  "èslav.": {
+    "esklav": 3
+  },
+  "bouden-an": {
+    "fèt": 2
+  },
+  "fanm": {
+    "fanm": 9
+  },
+  "lawi?": {
+    "jennès?": 1,
+    "posib!": 1
+  },
+  "lèspwiʼy.": {
+    "avèk": 1,
+    "li.": 1
+  },
+  "pwi": {
+    "chè": 2
+  },
+  "glowifyéʼy.": {
+    "lwanj": 1,
+    "Bondye.": 1
+  },
+  "abilité.": {
+    "favè.": 1
+  },
+  "mayé": {
+    "marye": 8,
+    "jenn": 8,
+    "marye,": 8
+  },
+  "chalè": {
+    "lanvi": 2
+  },
+  "Konmandman-an": {
+    "Kanta": 1
+  },
+  "Senyè-a:": {
+    "-:": 1
+  },
+  "mawiʼy,": {
+    "li": 3
+  },
+  "dévosé": {
+    "kite": 2
+  },
+  "Senyè-a):": {
+    "a):": 1
+  },
+  "dévoséʼy.": {
+    "deyò.": 1
+  },
+  "kwè-a,": {
+    "ou": 6
+  },
+  "ou?": {
+    "ou?": 2
+  },
+  "opa,": {
+    "kit": 3
+  },
+  "kwiyéʼy.": {
+    "a.": 1
+  },
+  "èslav,": {
+    "esklav,": 2
+  },
+  "popyétè": {
+    "Pa": 1,
+    "tounen": 1,
+    "esklav": 1
+  },
+  "sitiwasyon": {
+    "difisil": 1
+  },
+  "madanm?": {
+    "bezwen": 2
+  },
+  "mayé.": {
+    "madanm.": 1,
+    "maryaj": 1,
+    "Lamarye": 1,
+    "pare.": 1
+  },
+  "mayé;": {
+    "marye.": 1
+  },
+  "wi,": {
+    "pou": 3
+  },
+  "zafè": {
+    "se": 4
+  },
+  "entéwésé": {
+    "okipe": 4,
+    "zafè": 4,
+    "enterese": 4
+  },
+  "sav.": {
+    "sa.": 2
+  },
+  "fi-a": {
+    "fyanse": 2,
+    "lamarye": 2
+  },
+  "tjantjil,": {
+    "l": 8
+  },
+  "mèyè.": {
+    "toujou.": 1
+  },
+  "bondyé.": {
+    "reprezante": 1,
+    "zidòl).": 1,
+    "zidòl!": 1
+  },
+  "“bondyé”": {
+    "mèt": 2
+  },
+  "latè,": {
+    "(sa": 1,
+    "manke:": 1
+  },
+  "“senyè”": {
+    "vre),": 1
+  },
+  "wilasyon": {
+    "pre": 1
+  },
+  "pokosyon,": {
+    "atansyon": 1
+  },
+  "imaj-la?": {
+    "zidòl.": 1
+  },
+  "mèyè-a.": {
+    "a.": 1
+  },
+  "Senyè-a?": {
+    "ye?": 1
+  },
+  "mwen-an:": {
+    "mwen:": 1
+  },
+  "manjé?": {
+    "bwè": 1,
+    "travay": 1,
+    "mwen?": 1
+  },
+  "jouné": {
+    "viv?": 1
+  },
+  "bagay-la.": {
+    "tou.": 1
+  },
+  "ékwi-a": {
+    "ekri": 5
+  },
+  "bèf-la": {
+    "bèf": 1
+  },
+  "pilé": {
+    "kabwèt": 1
+  },
+  "gwenn-an.”": {
+    "baboukèt.": 1
+  },
+  "bèf?": {
+    "bèf": 1,
+    "atò?": 1
+  },
+  "èspwa-a": {
+    "espwa": 5
+  },
+  "wékòlté-a.": {
+    "pwa": 1
+  },
+  "bizwen-an": {
+    "materyèl": 1
+  },
+  "lotèl-la": {
+    "lotèl": 7
+  },
+  "éklamé": {
+    "reklamasyon": 1
+  },
+  "bavadé-a.": {
+    "mwen!": 1
+  },
+  "Nouvèl-la,": {
+    "nouvèl": 2
+  },
+  "téwib": {
+    "Malè": 2
+  },
+  "wèskonsabilité": {
+    "reskonsabilite": 1
+  },
+  "Péyiman-an": {
+    "m": 4
+  },
+  "genyen.": {
+    "Kris.": 1,
+    "an!": 1
+  },
+  "posib.": {
+    "posib.": 1
+  },
+  "kous-la.": {
+    "kous": 1
+  },
+  "diwant.": {
+    "tout": 6,
+    "tan.": 6
+  },
+  "batay.": {
+    "lonbray": 1
+  },
+  "nwaj-la": {
+    "nyaj": 3
+  },
+  "pouvwaʼy-la,": {
+    "a.": 1
+  },
+  "Wòch": {
+    "Wòch": 2
+  },
+  "maché-a.": {
+    "a.": 2
+  },
+  "déziwasyon": {
+    "kaye": 1
+  },
+  "bwè,": {
+    "n'ap": 7
+  },
+  "dansé.”": {
+    "plezi": 1
+  },
+  "miziwé": {
+    "mezire": 4
+  },
+  "nonplis,": {
+    "bougonnen.": 1
+  },
+  "finisman-an.": {
+    "lafen": 1,
+    "rive.": 1
+  },
+  "tantasyon": {
+    "tantasyon": 4
+  },
+  "diwé,": {
+    "nou": 8
+  },
+  "kouway-la": {
+    "fòs": 5
+  },
+  "pen-an.": {
+    "moun.": 1
+  },
+  "sakwifis-la.": {
+    "lotèl": 2
+  },
+  "Non!": {
+    "Non!": 1
+  },
+  "denmou.": {
+    "denmon": 4
+  },
+  "jalou?": {
+    "eksite": 1,
+    "jalouzi": 1,
+    "a?": 1
+  },
+  "libèté-a": {
+    "lib": 2
+  },
+  "“Latè-a": {
+    "la:": 1
+  },
+  "ni?": {
+    "fè?": 1
+  },
+  "benni-an?": {
+    "konsa?": 1
+  },
+  "Swiv": {
+    "Chache": 2
+  },
+  "viv-la.": {
+    "la.": 3
+  },
+  "konmisyonʼy": {
+    "l'ap": 4
+  },
+  "kouvè": {
+    "la": 7
+  },
+  "kawaktè": {
+    "se": 5
+  },
+  "nonm-lan.": {
+    "gason": 5
+  },
+  "madanm-lan.": {
+    "fanm.": 1
+  },
+  "dézobéyi.": {
+    "mari": 1
+  },
+  "Kanmenm": {
+    "Men,": 2
+  },
+  "dépan": {
+    "bezwen": 3
+  },
+  "Jijé": {
+    "Dapre": 1
+  },
+  "lonng": {
+    "cheve": 3
+  },
+  "lonnéʼy": {
+    "wont.": 1
+  },
+  "kouvèti": {
+    "vwal": 1
+  },
+  "dinen": {
+    "manje": 3
+  },
+  "kous": {
+    "prese": 1
+  },
+  "sou.": {
+    "bwè.": 1
+  },
+  "“Diven": {
+    "Gode": 1
+  },
+  "ègzanminé": {
+    "egzaminen": 2,
+    "tèt": 2,
+    "byen": 2
+  },
+  "pòt-la.": {
+    "a.": 1
+  },
+  "diven-an,": {
+    "l'ap": 3
+  },
+  "malad,": {
+    "feblès,": 1,
+    "konte": 1
+  },
+  "kowijé": {
+    "pini": 10
+  },
+  "sèviʼy": {
+    "sèvi": 4
+  },
+  "lésisyon.": {
+    "konesans.": 1
+  },
+  "lafwa,": {
+    "lafwa,": 3
+  },
+  "déchifwé": {
+    "esplike": 5
+  },
+  "mòso,": {
+    "kò.": 1,
+    "manm,": 1
+  },
+  "mòso.": {
+    "kò.": 1,
+    "kalite": 1,
+    "manm.": 1
+  },
+  "“Paski": {
+    "ye,": 2
+  },
+  "zòwèy-la": {
+    "zòrèy": 1
+  },
+  "sèlman,": {
+    "l": 5
+  },
+  "tann?": {
+    "tande?": 1
+  },
+  "lòdè?": {
+    "sant?": 1
+  },
+  "kanmenm,": {
+    "divès": 1
+  },
+  "kò.": {
+    "kò.": 1
+  },
+  "zyé-a": {
+    "grenn": 1
+  },
+  "bizwenʼw!”": {
+    "bezwen": 2
+  },
+  "tèt-la": {
+    "Tèt": 1
+  },
+  "fèb-la.": {
+    "nesesè.": 1
+  },
+  "lonnè-a,": {
+    "konsiderasyon,": 1
+  },
+  "bèl-la,": {
+    "lasosyete,": 1
+  },
+  "bèl-la": {
+    "prezantab,": 1
+  },
+  "adanʼy.": {
+    "a.": 2
+  },
+  "maladi,": {
+    "Tout": 2,
+    "don": 2
+  },
+  "étwanj,": {
+    "pou": 6
+  },
+  "étwanj": {
+    "siy": 7
+  },
+  "ho-a.": {
+    "enpòtan": 1
+  },
+  "langaj-la": {
+    "lang": 3
+  },
+  "lanmityé,": {
+    "m'pa": 3,
+    "kè": 3,
+    "renmen": 3,
+    "gen": 3
+  },
+  "zenk": {
+    "vaksin,": 1
+  },
+  "vid,": {
+    "klòch": 1
+  },
+  "klòch.": {
+    "bri.": 1
+  },
+  "Lanmityé": {
+    "Lamou": 4
+  },
+  "lògèy.": {
+    "kòlèt": 1,
+    "moun.": 1,
+    "lògèy.": 1
+  },
+  "Anyen": {
+    "anyen": 3
+  },
+  "lantéwéʼy": {
+    "pa": 1
+  },
+  "tjèʼy.": {
+    "moun.": 2
+  },
+  "èspwa,": {
+    "espwa,": 1
+  },
+  "konnèt,": {
+    "Konesans": 1
+  },
+  "pawfé-a": {
+    "bon": 2
+  },
+  "manmay,": {
+    "m'te": 3
+  },
+  "manmay.": {
+    "timoun": 3
+  },
+  "wèsté:": {
+    "rete:": 1,
+    "lesperans,": 1
+  },
+  "lanmityé.": {
+    "renmen": 2,
+    "renmen.": 2
+  },
+  "klè?": {
+    "klè?": 2
+  },
+  "twonpèt-la": {
+    "klewon": 5
+  },
+  "soufléʼy": {
+    "son": 1,
+    "klè,": 1
+  },
+  "batay-la?": {
+    "l'al": 1,
+    "goumen?": 1
+  },
+  "van-an.": {
+    "pale!": 1
+  },
+  "pwofité-a.": {
+    "konfyans.": 1
+  },
+  "vid.": {
+    "travay.": 1
+  },
+  "ensiswatil": {
+    "\"amèn\"": 1
+  },
+  "Lapwiyè-a": {
+    "Mwen": 1,
+    "dakò": 1,
+    "avèk": 1,
+    "nou,": 1
+  },
+  "étwanj.": {
+    "langay.": 2
+  },
+  "fou?": {
+    "ye?": 1
+  },
+  "jounouʼy": {
+    "l'a": 3
+  },
+  "konfizyon": {
+    "dezòd,": 1
+  },
+  "légliz.": {
+    "asanble": 2
+  },
+  "sòti?": {
+    "sòti?": 2
+  },
+  "annòd.": {
+    "avèk": 2
+  },
+  "fò-a.": {
+    "fèm.": 1
+  },
+  "chay-la:": {
+    "konsekan.": 1
+  },
+  "Apwé,": {
+    "Yon": 1,
+    "lòt": 1,
+    "fwa": 1
+  },
+  "lanmò?": {
+    "ankò?": 1
+  },
+  "ven.": {
+    "kwè.": 1,
+    "pèdi.": 1,
+    "rezilta.": 1
+  },
+  "mò-a.": {
+    "mouri": 5
+  },
+  "finisman": {
+    "dènye": 2,
+    "jou": 2,
+    "lwen": 2
+  },
+  "lèlmiʼy": {
+    "l": 4
+  },
+  "Dènyé": {
+    "Nan": 1,
+    "tout": 1
+  },
+  "déklawé": {
+    "nou": 2
+  },
+  "dézagwéman.”": {
+    "levasyon.": 1
+  },
+  "ni?”": {
+    "genyen?": 1
+  },
+  "Sòt!": {
+    "Ou": 1,
+    "konprann": 1,
+    "anyen,": 1
+  },
+  "gwenn,": {
+    "tè,": 1
+  },
+  "pitèt": {
+    "ka": 4
+  },
+  "lévé-a.": {
+    "mayi,": 1
+  },
+  "kò:": {
+    "vyann,": 1
+  },
+  "kalité,": {
+    "vyann,": 2
+  },
+  "jibyé": {
+    "zwazo": 3
+  },
+  "latè.": {
+    "fèt": 2
+  },
+  "bèltéʼy": {
+    "bèlte": 2
+  },
+  "bèlté,": {
+    "bèlte": 1
+  },
+  "bèlté.": {
+    "pa": 3
+  },
+  "étwal-la": {
+    "zetwal": 8
+  },
+  "téwé,": {
+    "kò": 4
+  },
+  "péwi.": {
+    "pouri.": 2
+  },
+  "fèb;": {
+    "tou": 2
+  },
+  "“Pwèmyé": {
+    "sans": 1
+  },
+  "Adanm-lan": {
+    "Adan": 3
+  },
+  "vivan.”": {
+    "Adan,": 1
+  },
+  "Kò-a": {
+    "kò": 3
+  },
+  "apwé,": {
+    "labou": 1,
+    "anvan,": 1
+  },
+  "latè-a;": {
+    "an,": 1
+  },
+  "Adanm,": {
+    "te": 1,
+    "jenerasyon": 1
+  },
+  "wéyòm-lan": {
+    "Peyi": 1
+  },
+  "kondwi-a.": {
+    "a.": 6
+  },
+  "Kouté": {
+    "M'ap": 1,
+    "devwale": 1,
+    "Tande": 1
+  },
+  "sigwé-a:": {
+    "sekrè:": 1
+  },
+  "souflé,": {
+    "fòm": 1
+  },
+  "chanjé,": {
+    "chanje,": 2
+  },
+  "toujou-a": {
+    "fòm.": 1
+  },
+  "pitjé-a.”": {
+    "lapenn": 1,
+    "lan?": 1
+  },
+  "pitjé,": {
+    "lapenn.": 1
+  },
+  "Galécha-a": {
+    "Galasi": 1
+  },
+  "Dimanch": {
+    "senmenn": 1
+  },
+  "pasan": {
+    "anpasan": 1
+  },
+  "Pentikòs-la,": {
+    "Lapannkòt.": 1
+  },
+  "fwè-a.": {
+    "frè": 4
+  },
+  "Doubout": {
+    "nou.": 5
+  },
+  "byen!": {
+    "bliye": 1,
+    "pwòp.": 1,
+    "tande!": 1
+  },
+  "bwav,": {
+    "nou.": 2
+  },
+  "Stèfannas": {
+    "Estefanas": 1
+  },
+  "fanmiʼy.": {
+    "fanmi": 3
+  },
+  "Stèfannas,": {
+    "Este-": 1,
+    "fanas,": 1
+  },
+  "Fòtinatòs": {
+    "Fòtinatis,": 1
+  },
+  "Achaykòs": {
+    "Akaykis": 1
+  },
+  "Écha-a": {
+    "Lazi": 2
+  },
+  "Gadé!": {
+    "M'ap": 1,
+    "Gade.": 1
+  },
+  "malédisyon.": {
+    "madichon": 1
+  },
+  "soufè-a,": {
+    "tou": 7
+  },
+  "lison": {
+    "aprann": 2
+  },
+  "èspwèsman": {
+    "sitou": 5
+  },
+  "fwa.": {
+    "fwa.": 1
+  },
+  "Non!”": {
+    "pawòl?": 1
+  },
+  "“non”": {
+    "wi": 2
+  },
+  "“ensiswatil”": {
+    "amèn": 1
+  },
+  "stanp": {
+    "letanp": 3
+  },
+  "djèwté,": {
+    "ta": 3
+  },
+  "lapenn-an?": {
+    "yo?": 1
+  },
+  "gwav": {
+    "lapenn.": 2
+  },
+  "Pinisyon-an": {
+    "Pifò": 1
+  },
+  "pawdonnenʼy": {
+    "padonnen": 2
+  },
+  "twòp,": {
+    "pito,": 1,
+    "twò": 1
+  },
+  "dékouwajé": {
+    "pa": 6
+  },
+  "(si": {
+    "mwen": 5
+  },
+  "Titòs": {
+    "Tit": 13
+  },
+  "Losyon": {
+    "Sant": 1
+  },
+  "pèd-la.": {
+    "peri.": 1
+  },
+  "sové,": {
+    "k'ap": 4
+  },
+  "lòdè": {
+    "k'ap": 3
+  },
+  "téwib.": {
+    "konsa?": 1
+  },
+  "liʼy.": {
+    "li": 2
+  },
+  "wòch,": {
+    "wòch,": 2
+  },
+  "lonnè,": {
+    "aklè": 3,
+    "parèt": 3
+  },
+  "véwité,": {
+    "Nou": 1
+  },
+  "fini.": {
+    "genyen.": 1,
+    "kòlè.": 1
+  },
+  "anyen-an.": {
+    "klate": 2
+  },
+  "patan": {
+    "Israyèl": 1
+  },
+  "toub,": {
+    "Jouk": 1
+  },
+  "kouvèti-a": {
+    "vwal": 3
+  },
+  "libèté.": {
+    "l'a": 1,
+    "libète.": 1
+  },
+  "séwé,": {
+    "klè": 2
+  },
+  "matwiyo": {
+    "veso": 1
+  },
+  "Twaka": {
+    "Mwen": 2
+  },
+  "pézé": {
+    "difikilte.": 1
+  },
+  "fasad,": {
+    "kwense": 1
+  },
+  "twoublé,": {
+    "ni": 2
+  },
+  "kouwi.": {
+    "espwa.": 1
+  },
+  "abandonnen": {
+    "lage": 2
+  },
+  "fésé": {
+    "sò,": 1
+  },
+  "tousèl-la.": {
+    "mouri.": 1
+  },
+  "bennéfis": {
+    "sa": 3
+  },
+  "twakasman": {
+    "sibi": 1
+  },
+  "tant;": {
+    "demoli,": 1
+  },
+  "Tant": {
+    "sou": 4
+  },
+  "wè.": {
+    "kwè.": 1,
+    "wè.": 1
+  },
+  "ankouwajman,": {
+    "demenaje": 1
+  },
+  "wépwézanté": {
+    "se": 13
+  },
+  "twétéʼy": {
+    "trete": 3
+  },
+  "jennen": {
+    "kritike": 1
+  },
+  "soufwans,": {
+    "kalite": 3
+  },
+  "wèd.": {
+    "sere.": 1
+  },
+  "vwé-a,": {
+    "verite": 2
+  },
+  "fèman": {
+    "Zam": 2
+  },
+  "Délè": {
+    "Yon": 2,
+    "lè": 2
+  },
+  "pòv": {
+    "pòv,": 1
+  },
+  "wich.": {
+    "rich.": 2
+  },
+  "Denmou-an": {
+    "Satan": 5
+  },
+  "dakò?": {
+    "Satan?": 1
+  },
+  "“Sòti": {
+    "Sòti": 1
+  },
+  "sali-a,": {
+    "manyen.": 1
+  },
+  "pèwèz": {
+    "pè": 3
+  },
+  "dékouwajé-a": {
+    "kouray": 2
+  },
+  "ékwiʼy.": {
+    "regrèt": 1
+  },
+  "igwétéʼy": {
+    "regrèt": 1
+  },
+  "Gadé": {
+    "Gade": 11
+  },
+  "pozé.": {
+    "ankourajman.": 2
+  },
+  "lanmityéʼy": {
+    "renmen": 6
+  },
+  "wisivwéʼy": {
+    "dispoze": 1,
+    "obeyi,": 1
+  },
+  "bay,": {
+    "kapab,": 1
+  },
+  "bonn": {
+    "kapab.": 1,
+    "San": 1
+  },
+  "koumansé-a.": {
+    "kè": 4
+  },
+  "bay.": {
+    "genyen.": 1
+  },
+  "kantité.": {
+    "jan,": 1
+  },
+  "bizwen.”": {
+    "anyen.": 1
+  },
+  "chwaziʼy": {
+    "chwazi": 4
+  },
+  "Moutwé": {
+    "Fè": 1
+  },
+  "édé,": {
+    "sekou": 3
+  },
+  "kozé.": {
+    "wont!": 1
+  },
+  "tizing": {
+    "ti": 3
+  },
+  "wékòt,": {
+    "rekòlte": 1
+  },
+  "wékòt.": {
+    "rekòlte": 1,
+    "anpil.": 1
+  },
+  "lézòt.": {
+    "zèv.": 1,
+    "tripotaj.": 1
+  },
+  "potjiwé": {
+    "bay": 4
+  },
+  "èspliké-a.": {
+    "parèy": 1,
+    "li!": 1
+  },
+  "fèman-an": {
+    "m'ap": 2
+  },
+  "goumen-an": {
+    "zam": 1
+  },
+  "lèlmi-an.": {
+    "esplikasyon": 1,
+    "bon,": 1
+  },
+  "lògèy": {
+    "lògèy": 3
+  },
+  "lapawans": {
+    "Korent,": 1
+  },
+  "sav!": {
+    "konsa.": 1
+  },
+  "tjiv.”": {
+    "pale.": 1
+  },
+  "soulyé": {
+    "wotè": 1
+  },
+  "tanbou": {
+    "tèt": 4
+  },
+  "aksèpté.": {
+    "travay": 2
+  },
+  "Souplé": {
+    "Mwen": 1,
+    "ta": 1
+  },
+  "délè": {
+    "pèmèt": 2
+  },
+  "kouyon.": {
+    "sa.": 1,
+    "betiz.": 1
+  },
+  "malenʼy-lan,": {
+    "pèvèti,": 1
+  },
+  "fasad.": {
+    "sa.": 1
+  },
+  "soté,": {
+    "anyen": 1
+  },
+  "bavadé-a,": {
+    "latè,": 1
+  },
+  "kouman!": {
+    "manke": 1
+  },
+  "lasajès!": {
+    "tolere": 1,
+    "fou!": 1
+  },
+  "kanmenm": {
+    "wi!),": 1
+  },
+  "Hibrou-a?": {
+    "Ebè?": 1
+  },
+  "Abrahanm?": {
+    "Abraram?": 1
+  },
+  "Senk": {
+    "An": 1,
+    "senk": 1,
+    "Senk": 1
+  },
+  "koul": {
+    "kout": 1,
+    "fwèt.": 1
+  },
+  "danjéwé": {
+    "manke": 3
+  },
+  "fèb,": {
+    "fèb,": 4
+  },
+  "bouwi": {
+    "rann": 1,
+    "malad.": 1,
+    "lapenn": 1
+  },
+  "fèb.": {
+    "m": 5
+  },
+  "Awitas-la": {
+    "gad,": 1
+  },
+  "kanmenm.": {
+    "konnen.)": 1
+  },
+  "wépété.": {
+    "repete.": 2
+  },
+  "zèl": {
+    "zèl": 2
+  },
+  "Pawdonnen": {
+    "pou": 4,
+    "lòt,": 4
+  },
+  "zòt-la!": {
+    "nou?": 1
+  },
+  "dépansé": {
+    "m": 6
+  },
+  "otan-an?": {
+    "konsa?": 1
+  },
+  "dakò,": {
+    "admèt": 1
+  },
+  "jès-la,": {
+    "malen": 1
+  },
+  "antansyon-an.": {
+    "an?": 1
+  },
+  "babyé,": {
+    "kont,": 3
+  },
+  "jalouzi,": {
+    "jalouzi,": 3
+  },
+  "divizyon,": {
+    "bouyay,": 1
+  },
+  "nésésè": {
+    "depozisyon": 1
+  },
+  "akizasyon.”": {
+    "temwen.": 1
+  },
+  "dékouvè": {
+    "mwen": 3
+  },
+  "lapéʼy.": {
+    "poze.": 1
+  },
+  "tan!": {
+    "tan.": 4
+  },
+  "Amèn.": {
+    "Amèn.": 6
+  },
+  "nouvèl.": {
+    "Bòn": 2,
+    "Nouvèl.": 2
+  },
+  "lanfè.": {
+    "madichon": 2,
+    "li!": 2
+  },
+  "nouvèl": {
+    "levanjil": 2
+  },
+  "kondannéʼy": {
+    "tonbe": 2
+  },
+  "mwenʼy.": {
+    "te": 4
+  },
+  "laj": {
+    "laj": 1
+  },
+  "Arébiya": {
+    "Arabi.": 2
+  },
+  "Katòz": {
+    "Apre": 1,
+    "katòz": 1
+  },
+  "Konpany": {
+    "Enben,": 1
+  },
+  "ouʼy": {
+    "Galasi.": 1
+  },
+  "pwéché-a.": {
+    "egzijans.": 1,
+    "menm.": 1
+  },
+  "ipokwizi": {
+    "ipokrizi": 1
+  },
+  "Jwif?”": {
+    "jwif?": 1
+  },
+  "“péchè.”": {
+    "peche.": 1
+  },
+  "soutiwé": {
+    "travay?": 1
+  },
+  "péchè": {
+    "dezobeyi": 2
+  },
+  "Galécha,": {
+    "Galasi,": 3
+  },
+  "vèglé": {
+    "sòt!": 1
+  },
+  "pouvwaʼw": {
+    "kouray": 1
+  },
+  "menm?": {
+    "nou?": 1
+  },
+  "lapétiʼw.”": {
+    "benediksyon.": 1
+  },
+  "jwenn.": {
+    "Abraram.": 1
+  },
+  "lwa-a.”": {
+    "l.": 1
+  },
+  "désandanʼy-lan.": {
+    "pitit": 4
+  },
+  "“désandanʼy.”": {
+    "ekri:": 2
+  },
+  "“sé": {
+    "pitit": 2
+  },
+  "Ich-la": {
+    "Pitit": 2
+  },
+  "piti": {
+    "toujou,": 2
+  },
+  "mété-a": {
+    "a": 5
+  },
+  "Gasonʼy.": {
+    "li.": 2
+  },
+  "manman,": {
+    "fanm,": 1
+  },
+  "Papa.”": {
+    "nou.": 1
+  },
+  "lézòt-la.": {
+    "lòt?": 1,
+    "pè.": 1
+  },
+  "lavéwité-a?": {
+    "laverite?": 1
+  },
+  "pito.": {
+    "ase.": 1
+  },
+  "èslav-la": {
+    "esklav": 3
+  },
+  "lib-la": {
+    "esklav": 2
+  },
+  "èslav-la,": {
+    "fèt": 3
+  },
+  "Héga": {
+    "Aga": 1
+  },
+  "andidanʼy": {
+    "la": 3
+  },
+  "Sara,": {
+    "lib.": 1
+  },
+  "lévanjil-la:": {
+    "Liv": 3,
+    "la:": 3
+  },
+  "lib-la.": {
+    "la.": 2
+  },
+  "pouʼw.": {
+    "anyen.": 1
+  },
+  "vètiʼw": {
+    "deja": 3
+  },
+  "anpéchéʼw": {
+    "kous": 1,
+    "anpeche": 1
+  },
+  "Kwi?": {
+    "a?": 1
+  },
+  "lévé.”": {
+    "leve.": 1
+  },
+  "chatwé": {
+    "chatre": 1
+  },
+  "“Enmen": {
+    "parèy": 2
+  },
+  "sovay,": {
+    "sovay,": 1
+  },
+  "vis,": {
+    "vis.": 1
+  },
+  "tjèʼw,": {
+    "renmen,": 2,
+    "kè": 2
+  },
+  "kwennen.": {
+    "twonpe": 2
+  },
+  "wékòlté.": {
+    "rekòt": 3
+  },
+  "planté-a.": {
+    "rive.": 1
+  },
+  "jwenn,": {
+    "okazyon,": 1
+  },
+  "gwòsè": {
+    "Gade": 1,
+    "gwosè": 1,
+    "fòm": 1
+  },
+  "ékwiʼw": {
+    "nou": 3
+  },
+  "menm-lan?": {
+    "ekri": 1,
+    "nou!": 1
+  },
+  "enpòtan-an": {
+    "konte.": 1
+  },
+  "défo": {
+    "san": 4
+  },
+  "lanmityéʼy,": {
+    "renmen": 3
+  },
+  "adòpté": {
+    "adopte": 1
+  },
+  "chay-la.": {
+    "anpil": 5
+  },
+  "sakwifis,": {
+    "pou": 3
+  },
+  "Vwéman": {
+    "nou": 8
+  },
+  "kouman,": {
+    "anpil.": 1
+  },
+  "nouʼy": {
+    "ban": 2
+  },
+  "fini-an.": {
+    "reyalize": 1
+  },
+  "planʼy": {
+    "plan": 7
+  },
+  "anho-a.": {
+    "syèl": 2
+  },
+  "vini-an.": {
+    "vini": 5
+  },
+  "Légliz-la": {
+    "Legliz": 2
+  },
+  "jòdi-a.": {
+    "ki,": 1
+  },
+  "dézobéyisans": {
+    "akoz": 2
+  },
+  "Kwi-a,": {
+    "nou": 4
+  },
+  "Apwézan,": {
+    "Men": 1,
+    "kounyeya,": 1
+  },
+  "sanʼy": {
+    "san": 7
+  },
+  "koulé": {
+    "koule": 5
+  },
+  "aboli": {
+    "aboli": 1
+  },
+  "(Fini": {
+    "sere": 1
+  },
+  "moutwé-a.)": {
+    "la.": 1
+  },
+  "sèviʼy-la.": {
+    "pwofèt.": 1
+  },
+  "planʼy.": {
+    "lontan.": 1
+  },
+  "mòd-la": {
+    "fòm": 1
+  },
+  "konfyans.": {
+    "sote.": 1
+  },
+  "mandéʼw,": {
+    "mande": 4
+  },
+  "katjilé-a,": {
+    "lide": 1,
+    "nou.": 1
+  },
+  "janti": {
+    "avèk": 4
+  },
+  "lilyon": {
+    "ak": 3
+  },
+  "niʼy.": {
+    "la,": 1
+  },
+  "makpat": {
+    "Li": 4
+  },
+  "dèyèʼy-la,": {
+    "prizonye,": 1
+  },
+  "kado.”": {
+    "kado.": 1
+  },
+  "anho,": {
+    "anwo?": 1
+  },
+  "tit": {
+    "devlòpman": 1
+  },
+  "lanm": {
+    "tankou": 3
+  },
+  "Lidé": {
+    "Lespri": 1
+  },
+  "nwèsè,": {
+    "Y'ap": 2
+  },
+  "vis": {
+    "vis,": 1
+  },
+  "dézi-a": {
+    "move": 5
+  },
+  "twansfòmé": {
+    "ni": 2
+  },
+  "faché,": {
+    "ankòlè,": 1
+  },
+  "maléwé-a.": {
+    "meprize": 2
+  },
+  "Tiwé": {
+    "Piga": 2
+  },
+  "antanmé.": {
+    "dezi.": 1
+  },
+  "dézobéyiʼy-la.": {
+    "yo.": 2
+  },
+  "lè.": {
+    "konsa.": 1
+  },
+  "bonté,": {
+    "Paske,": 1,
+    "limyè": 1
+  },
+  "pwodwi.": {
+    "vre.": 1
+  },
+  "Apwann": {
+    "Chache": 1,
+    "konnen": 1
+  },
+  "honté": {
+    "kachèt,": 1
+  },
+  "sigwé-a.": {
+    "sa.": 1
+  },
+  "inyowan,": {
+    "sòt,": 1
+  },
+  "lasajès.": {
+    "konprann.": 2
+  },
+  "Samz-la": {
+    "sòm": 1
+  },
+  "Chanté": {
+    "ak": 1,
+    "konseye": 1
+  },
+  "tach": {
+    "okenn": 4
+  },
+  "défo,": {
+    "tach,": 2
+  },
+  "gatéʼy.": {
+    "okenn": 1,
+    "mank.": 1
+  },
+  "swenʼy": {
+    "manje,": 1
+  },
+  "moun.”": {
+    "sèl.": 1,
+    "konsa!": 1
+  },
+  "“Wèspèkté": {
+    "ou": 2
+  },
+  "manmanʼw": {
+    "manman": 4
+  },
+  "papaʼw.”": {
+    "avèk": 2
+  },
+  "papa-a": {
+    "manman": 2,
+    "papa,": 2
+  },
+  "wenʼw-lan,": {
+    "Pwoteje": 1
+  },
+  "lèstonmak": {
+    "lestonmak": 6
+  },
+  "pyéʼw-la.": {
+    "poze": 1,
+    "a.": 1
+  },
+  "Apa": {
+    "Toujou": 1,
+    "Gen": 1
+  },
+  "Lafwa": {
+    "flèch": 1
+  },
+  "salvasyon": {
+    "delivrans": 3
+  },
+  "Pawòl": {
+    "pawòl": 2
+  },
+  "lapwiyèʼw,": {
+    "sikonstans": 2
+  },
+  "apwézan.": {
+    "la.": 3
+  },
+  "Tichikòs": {
+    "Tichik": 2
+  },
+  "oti": {
+    "espre": 2
+  },
+  "Timòfi,": {
+    "Timote,": 6
+  },
+  "asouʼw,": {
+    "frape": 1,
+    "sou": 1,
+    "nou.": 1
+  },
+  "nonʼy.": {
+    "Bondye.": 1
+  },
+  "twaka,": {
+    "konkirans.": 1,
+    "eprèv.": 1
+  },
+  "tjè.": {
+    "santiman.": 1
+  },
+  "chwazi.": {
+    "m'chwazi.": 1
+  },
+  "lapétiʼw": {
+    "akoz": 1,
+    "menm,": 1
+  },
+  "lèlmiʼw-lan.": {
+    "lènmi": 2
+  },
+  "lapétiʼy": {
+    "nou": 2
+  },
+  "Kwi-a:": {
+    "la:": 1
+  },
+  "sèvant.": {
+    "sèvitè.": 1
+  },
+  "pozisyon": {
+    "li": 7
+  },
+  "non.": {
+    "non.": 2
+  },
+  "lapè": {
+    "soumisyon": 1
+  },
+  "chikannen,": {
+    "diskite,": 1
+  },
+  "péché-a.": {
+    "malonèt": 1
+  },
+  "anpamiʼw-lan": {
+    "gremesi,": 1
+  },
+  "kotéʼw.": {
+    "mwen.": 1
+  },
+  "konfyans-lan": {
+    "sa": 4
+  },
+  "chyen.": {
+    "Veye": 1
+  },
+  "Jwif-la!": {
+    "pale:": 1
+  },
+  "lidé,": {
+    "diferan": 1
+  },
+  "aklè.": {
+    "klè.": 1
+  },
+  "pouvwa-a.": {
+    "pouvwa.": 2
+  },
+  "ho.": {
+    "a.": 2
+  },
+  "Youdiya": {
+    "M'ap": 1,
+    "ekri": 1
+  },
+  "Sintiki,": {
+    "de": 2
+  },
+  "kontan!": {
+    "anpil.": 1
+  },
+  "wimèsyéʼy": {
+    "di": 4
+  },
+  "Lapé": {
+    "La": 1
+  },
+  "satisfè": {
+    "kontante": 1,
+    "pouse": 1
+  },
+  "kouway-la.": {
+    "fòs": 1,
+    "kouray.": 1
+  },
+  "Kadoʼw-la": {
+    "Kado": 1
+  },
+  "plèʼy.": {
+    "l": 3
+  },
+  "bonjou,": {
+    "palè": 1
+  },
+  "Épafras": {
+    "Epafras,": 1
+  },
+  "pyès-la.": {
+    "premyene,": 1
+  },
+  "Nouvèl": {
+    "nouvèl": 6
+  },
+  "soufè-a": {
+    "soufri": 6
+  },
+  "wévéléʼy": {
+    "devwale": 1
+  },
+  "Léyodisiya": {
+    "Lawodise": 3
+  },
+  "séwé.": {
+    "kache.": 2
+  },
+  "lotowité.": {
+    "pouvwa.": 1
+  },
+  "lanmò-a.": {
+    "lanmò": 2
+  },
+  "katyé": {
+    "nouvèl,": 1
+  },
+  "nouwi": {
+    "nouri": 1
+  },
+  "manjéʼy,": {
+    "sa,": 2
+  },
+  "goutéʼy,": {
+    "manyen": 1
+  },
+  "touchéʼy.”": {
+    "sa?": 1
+  },
+  "épiʼy-la.": {
+    "adwat": 1
+  },
+  "pawèt,": {
+    "parèt,": 2,
+    "n'a": 2
+  },
+  "klètéʼy.": {
+    "bèl": 2,
+    "pouvwa": 2
+  },
+  "sal.": {
+    "gwomo": 1
+  },
+  "simanté": {
+    "kòd": 1
+  },
+  "maltwétéʼy.": {
+    "yo.": 1
+  },
+  "papaʼw,": {
+    "nou": 4
+  },
+  "kwititjé": {
+    "twò": 1,
+    "rèd": 1
+  },
+  "Onèsimòs": {
+    "Onezim": 2
+  },
+  "kouzen": {
+    "kouzen": 1
+  },
+  "apwéʼy": {
+    "nou.)": 1
+  },
+  "Épafras,": {
+    "Epafras,": 1,
+    "Epafras": 1
+  },
+  "Èrapolis-la.": {
+    "Yerapolis": 1
+  },
+  "Louk,": {
+    "Lik,": 1
+  },
+  "kanmawad-la": {
+    "bon": 1,
+    "dòktè": 1
+  },
+  "dòktè-a,": {
+    "Demas": 1
+  },
+  "Nimfa": {
+    "Nenfas": 1
+  },
+  "Léyodisiya-a": {
+    "Lawodise": 2
+  },
+  "Akipòs,": {
+    "Achip": 1,
+    "mwen:": 1,
+    "Fè": 1,
+    "atansyon.": 1,
+    "Sèvis": 1
+  },
+  "Tèsalonnika-a,": {
+    "Tesalonik": 2
+  },
+  "chonjéʼw": {
+    "bliye": 1
+  },
+  "Akéya-a.": {
+    "Bondye.": 1
+  },
+  "vizit-la": {
+    "vizit": 1
+  },
+  "kwennenʼw,": {
+    "pèsonn.": 1
+  },
+  "baʼw,": {
+    "mwen": 6
+  },
+  "fòt.": {
+    "repwòch.": 2
+  },
+  "viwé.": {
+    "anpeche": 1,
+    "mwen.": 1,
+    "parèt.": 1
+  },
+  "satisfaksyon": {
+    "satilfaksyon,": 1
+  },
+  "Tèsalonnika": {
+    "Tesalonik,": 1
+  },
+  "lapétiʼw.": {
+    "li.": 1
+  },
+  "Lajouné": {
+    "Lajounen": 1
+  },
+  "wèʼw.": {
+    "nou.": 1
+  },
+  "wipwòch": {
+    "volonte": 1
+  },
+  "sa-a.": {
+    "konsa.": 1
+  },
+  "twonpèt": {
+    "klewon": 7,
+    "kònen": 7,
+    "lan.": 7
+  },
+  "diʼw-la.": {
+    "yo.": 1
+  },
+  "lannwit.": {
+    "lannwit.": 1
+  },
+  "èspéyé.": {
+    "atann.": 1
+  },
+  "lajouné.": {
+    "lajounen.": 2
+  },
+  "plas.": {
+    "anplas.": 2
+  },
+  "kondwiʼw": {
+    "dirije": 2
+  },
+  "enstwiʼw.": {
+    "ankouraje": 1
+  },
+  "èstimé": {
+    "konsiderasyon": 1
+  },
+  "Toujou": {
+    "Pa": 2
+  },
+  "Ègzanminé": {
+    "Egzaminen": 1
+  },
+  "Tjenbé": {
+    "kenbe": 1
+  },
+  "lam": {
+    "nanm": 10
+  },
+  "plézi": {
+    "plezi": 3
+  },
+  "pouvwaʼy-la.": {
+    "a.": 2
+  },
+  "ou-a.": {
+    "an.": 2,
+    "nou": 2
+  },
+  "kwennenʼw": {
+    "woule": 1,
+    "jan.": 1
+  },
+  "méchan-an": {
+    "an": 5
+  },
+  "lanfè-a.": {
+    "anvan.": 1
+  },
+  "Nonm": {
+    "Mechan": 3
+  },
+  "Movèzté": {
+    "Wi,": 1
+  },
+  "sigwé,": {
+    "anbachal.": 1
+  },
+  "bawéʼy-la": {
+    "baryè": 1
+  },
+  "chimen-an.": {
+    "disparèt.": 1,
+    "laverite": 1
+  },
+  "pwèmyé-a": {
+    "premye": 6
+  },
+  "mennen-an.": {
+    "kwè.": 1
+  },
+  "tjenbéʼw": {
+    "fòs,": 1
+  },
+  "fenyan-an": {
+    "konfòme": 1
+  },
+  "fenyan": {
+    "parese": 1
+  },
+  "lajanʼw": {
+    "yonn.": 1
+  },
+  "laviʼw.": {
+    "swiv.": 1
+  },
+  "las": {
+    "l": 2
+  },
+  "fwè.": {
+    "frè.": 1,
+    "frè,": 1
+  },
+  "siyé": {
+    "siyen": 3
+  },
+  "padan": {
+    "nan": 5
+  },
+  "sipozé.": {
+    "avè": 1,
+    "la.": 1,
+    "lapriyè.": 1
+  },
+  "Lavéwité": {
+    "Verite": 1
+  },
+  "Lagwas": {
+    "Jezikri,": 1,
+    "Senyè": 1
+  },
+  "abondantman,": {
+    "favè:": 1
+  },
+  "péchè-a.": {
+    "pechè": 1
+  },
+  "konsyans.": {
+    "anpè.": 1
+  },
+  "Iménéyòs": {
+    "Imene": 2
+  },
+  "Alèkzanda.": {
+    "Aleksann.": 1
+  },
+  "Satan.": {
+    "satan": 2
+  },
+  "chikann.": {
+    "diskisyon.": 1
+  },
+  "wèspèktab.": {
+    "endesans.": 1
+  },
+  "pèwmi": {
+    "pmwen": 1,
+    "anseye,": 1
+  },
+  "silans.": {
+    "reterete": 1,
+    "dousman.": 1
+  },
+  "Èv": {
+    "Ev.": 1
+  },
+  "kwennen;": {
+    "twonpe.": 1
+  },
+  "ich,": {
+    "pitit,": 2
+  },
+  "vwé:": {
+    "kach:": 1
+  },
+  "wèspé.": {
+    "merite.": 2
+  },
+  "fwé,": {
+    "konvèti.": 1
+  },
+  "Denmou-an.": {
+    "Satan.": 2,
+    "an.": 2
+  },
+  "Denmou.": {
+    "satan.": 1
+  },
+  "lafwa-a.": {
+    "pwòp.": 1
+  },
+  "ofisyé.": {
+    "dyak.": 1
+  },
+  "onnèt": {
+    "seryèz": 1
+  },
+  "tadé,": {
+    "reta,": 1,
+    "twòp": 1,
+    "reta": 1
+  },
+  "vivan-an,": {
+    "vivan": 3
+  },
+  "pilotwi": {
+    "poto": 1,
+    "soutni": 1
+  },
+  "cho.": {
+    "cho.": 1
+  },
+  "lésisyon": {
+    "moutre": 5
+  },
+  "listwa": {
+    "istwa": 4
+  },
+  "tizing,": {
+    "espò": 1
+  },
+  "kwèʼy.": {
+    "dwe": 2
+  },
+  "lézòm,": {
+    "moun,": 2
+  },
+  "Konmandé": {
+    "Se": 1,
+    "tout": 1,
+    "bagay": 1
+  },
+  "asouʼw-la.": {
+    "ou.": 1
+  },
+  "pwogwéʼw.": {
+    "pwogrè.": 1
+  },
+  "fwèʼw,": {
+    "frè": 3
+  },
+  "papaʼw.": {
+    "Aji": 1,
+    "jennjan": 1
+  },
+  "séséʼw,": {
+    "Ak": 1
+  },
+  "kozé": {
+    "okenn": 1,
+    "lide.": 1
+  },
+  "lokazyon": {
+    "repwòch": 1
+  },
+  "mayé-a.": {
+    "fwa.": 1
+  },
+  "tjenn-an.": {
+    "la.": 1
+  },
+  "enstwi-a.": {
+    "enstriksyon": 1
+  },
+  "gwenn-an”": {
+    "ankò:": 1
+  },
+  "“Twavayè-a": {
+    "Ouvriye": 1
+  },
+  "salèʼy.”": {
+    "salè": 1,
+    "li.": 1
+  },
+  "témwen.": {
+    "temwen": 1,
+    "avè": 1,
+    "li.": 1
+  },
+  "péché-a,": {
+    "peche": 3
+  },
+  "konplis": {
+    "Evite": 1
+  },
+  "épi-a.": {
+    "dijesyon.": 1
+  },
+  "pété.": {
+    "mal.": 1
+  },
+  "diféwan,": {
+    "doktrin": 1
+  },
+  "enstwi-a,": {
+    "an,": 2
+  },
+  "Goumen": {
+    "Mennen": 1
+  },
+  "konmandéʼw,": {
+    "Devan": 1
+  },
+  "konfèsyon": {
+    "lafwa,": 1
+  },
+  "Pilat,": {
+    "ou:": 1
+  },
+  "senyè.": {
+    "chèf.": 1
+  },
+  "Kitéʼy": {
+    "pou": 5
+  },
+  "djèwté.": {
+    "kontan": 2
+  },
+  "Kalité": {
+    "Gen": 1
+  },
+  "gwanmanmanʼw": {
+    "Lòyis,": 1,
+    "grann": 1
+  },
+  "Lowis": {
+    "Enis,": 1
+  },
+  "konpòté": {
+    "kontwole": 3
+  },
+  "Tjenn": {
+    "Ak": 1,
+    "lasistans": 1,
+    "Rete": 1
+  },
+  "Fijèl": {
+    "Fijèl": 1
+  },
+  "Émojenn.": {
+    "Emojèn.": 1
+  },
+  "souvan": {
+    "Onezifò": 2
+  },
+  "Pwanʼy": {
+    "Tankou": 1,
+    "yon": 1
+  },
+  "kous-la": {
+    "respekte": 1,
+    "règ": 1
+  },
+  "kotjen.": {
+    "jwèt": 1,
+    "la.": 1
+  },
+  "wékòt-la.": {
+    "rekòt": 1,
+    "la.": 1
+  },
+  "Katjilé": {
+    "Fè": 1
+  },
+  "kwim.": {
+    "malfektè.": 1
+  },
+  "salvasyon-an": {
+    "resevou": 1
+  },
+  "adanʼy:": {
+    "nèt:": 1
+  },
+  "twavayè": {
+    "travayè": 2
+  },
+  "malenng": {
+    "maladi": 1
+  },
+  "fondasyon-an": {
+    "solid": 2
+  },
+  "mézon": {
+    "kay,": 1
+  },
+  "babyé.": {
+    "kont.": 2
+  },
+  "abizé": {
+    "y'ap": 4
+  },
+  "malonnèt,": {
+    "y'ap": 2
+  },
+  "lézòt,": {
+    "y'ap": 4
+  },
+  "twèt,": {
+    "trèt,": 1
+  },
+  "katjilé,": {
+    "gonfle": 1,
+    "lestomak": 1
+  },
+  "apwann,": {
+    "konnen.": 1
+  },
+  "Jannès": {
+    "Janès": 2
+  },
+  "Janbrès": {
+    "Janbrès": 1
+  },
+  "Janbrès-la.": {
+    "Janbrès.": 1
+  },
+  "pèsikasyon,": {
+    "soufri": 1,
+    "pèsekisyon.": 1
+  },
+  "anfen": {
+    "ou": 2
+  },
+  "batay,": {
+    "mennen,": 1
+  },
+  "kous-la,": {
+    "kous": 1
+  },
+  "vitman.": {
+    "touswit.": 1
+  },
+  "Démas": {
+    "Demas": 1
+  },
+  "pwézantman-an.": {
+    "Tesalonik.": 1,
+    "Kresan": 1
+  },
+  "Dalmasiya.": {
+    "Dalmasi.": 1
+  },
+  "Louk": {
+    "Lik": 1
+  },
+  "gòl-la": {
+    "manto": 1
+  },
+  "Kapòs-la": {
+    "Kapis,": 1
+  },
+  "Alèkzanda,": {
+    "Aleksann,": 1,
+    "bòs": 1
+  },
+  "fòjon-an,": {
+    "fòjon": 1
+  },
+  "ditò,": {
+    "tò.": 1
+  },
+  "piniʼy": {
+    "l": 3
+  },
+  "Onézifò": {
+    "Onezifò": 1
+  },
+  "Èrastòs": {
+    "Eras": 1
+  },
+  "Trofimòs": {
+    "Twofim": 1
+  },
+  "Milétòs": {
+    "Milè": 1
+  },
+  "Ébilòs,": {
+    "Ebilis,": 1
+  },
+  "Pidans,": {
+    "Pidans,": 1
+  },
+  "Linòs,": {
+    "Linis,": 1
+  },
+  "Klòdiya": {
+    "Klodya": 1
+  },
+  "ògannizé": {
+    "òganize": 1
+  },
+  "vil.": {
+    "Sonje": 1
+  },
+  "moutwéʼw-la:": {
+    "ou:": 1
+  },
+  "titja-a": {
+    "demanti": 1
+  },
+  "lanvè-a.": {
+    "lanvè.": 1
+  },
+  "manti,": {
+    "mantè!": 1
+  },
+  "bèt,": {
+    "Move": 1,
+    "bèt!": 1,
+    "Vant": 1
+  },
+  "vowas.”": {
+    "plen!": 1
+  },
+  "sivotjé": {
+    "degoutans,": 1
+  },
+  "sèwyé": {
+    "serye:": 1
+  },
+  "Sovè": {
+    "Delivrans": 1
+  },
+  "pawèt.": {
+    "parèt.": 1
+  },
+  "kochi,": {
+    "fin": 1,
+    "pèdi.": 1,
+    "pwòp": 1
+  },
+  "Atimas": {
+    "Atemas": 1
+  },
+  "Nikopolis,": {
+    "Nikopolis,": 1
+  },
+  "avoka-a,": {
+    "Zenas,": 1
+  },
+  "Lanmityéʼw": {
+    "ti": 1
+  },
+  "soulajé": {
+    "remoute": 1
+  },
+  "Onèsimòs,": {
+    "Onezim,": 1
+  },
+  "sèvis.": {
+    "mwen.": 1
+  },
+  "disizyon": {
+    "sèvis.": 1
+  },
+  "Pitèt": {
+    "Ou": 1
+  },
+  "pazdwa,": {
+    "kèk": 1
+  },
+  "(Chonjé": {
+    "ou": 3
+  },
+  "menm.)": {
+    "lavi.": 1
+  },
+  "lajwa": {
+    "Soulaje": 1
+  },
+  "Mak,": {
+    "Mak,": 2
+  },
+  "Démas,": {
+    "voye": 1
+  },
+  "Louk.": {
+    "tou.": 1
+  },
+  "lontan,": {
+    "lontan,": 3
+  },
+  "Papaʼw.”": {
+    "papa": 3
+  },
+  "adowéʼy.”": {
+    "adore": 1,
+    "li.": 1
+  },
+  "had.": {
+    "rad.": 1
+  },
+  "pliyé": {
+    "W'ap": 2
+  },
+  "chimiz,": {
+    "chemiz": 1
+  },
+  "bout.”": {
+    "mouri.": 1
+  },
+  "li-a:": {
+    "Chita": 1
+  },
+  "pyéʼw.”": {
+    "ou.": 1
+  },
+  "salvasyon-an.": {
+    "delivrans": 1
+  },
+  "wa.": {
+    "respè.": 1,
+    "egzèse": 1
+  },
+  "nèt-la": {
+    "netwaye": 2
+  },
+  "ansanm.”": {
+    "ansanm.": 1
+  },
+  "Abrahanm-lan.”": {
+    "yo.": 2
+  },
+  "tantasyon,": {
+    "tantasyon,": 2
+  },
+  "batiʼy,": {
+    "bati": 1
+  },
+  "sèman,": {
+    "sèman:": 1,
+    "sèman,": 1
+  },
+  "vivan-an.": {
+    "vivan": 5
+  },
+  "bout-la.": {
+    "an.": 3
+  },
+  "Éjip-la.": {
+    "Lejip": 2
+  },
+  "Kont": {
+    "Sou": 1
+  },
+  "sèwmanté": {
+    "sèman": 3
+  },
+  "pozé-a": {
+    "antre": 3,
+    "kote": 3,
+    "poze": 3
+  },
+  "sètyenm": {
+    "setyèm": 4
+  },
+  "pozé-a.”": {
+    "an.": 1
+  },
+  "pozé,": {
+    "repo": 3
+  },
+  "bizwenʼy.": {
+    "nesesite.": 1
+  },
+  "pwèt.": {
+    "la.": 4
+  },
+  "Éronn.": {
+    "Arawon.": 1
+  },
+  "Mèlkizidèk.”": {
+    "ak": 2,
+    "Mèlkisedèk.": 2
+  },
+  "Mèlkizidèk.": {
+    "Mèlkisedèk": 3
+  },
+  "matwité": {
+    "granmoun": 3
+  },
+  "koumansman-an,": {
+    "nou": 5
+  },
+  "douvan!": {
+    "devan!": 1
+  },
+  "wazyé,": {
+    "pengwen,": 1
+  },
+  "modiʼy": {
+    "madichon.": 1
+  },
+  "détwiʼy": {
+    "boule": 2
+  },
+  "bout-la": {
+    "kaba,": 1
+  },
+  "konfyans-lan.": {
+    "vre.": 1
+  },
+  "fenyan,": {
+    "parès.": 1
+  },
+  "pwonmèt-la,": {
+    "pwomèt": 2
+  },
+  "benniʼw": {
+    "beni": 2
+  },
+  "désandan.”": {
+    "pitit": 1,
+    "pitit.": 1
+  },
+  "sèman-an": {
+    "sèman": 2
+  },
+  "wido-a": {
+    "chouke": 1
+  },
+  "Mèlkizidèk": {
+    "Mèlkisedèk": 5
+  },
+  "Salèm": {
+    "Salèm,": 2
+  },
+  "benniʼy.": {
+    "benediksyon.": 1
+  },
+  "ladjè-a.": {
+    "Nonb": 1
+  },
+  "Livay-la": {
+    "Levi": 2
+  },
+  "Livay,": {
+    "Levi.": 1,
+    "malgre": 1
+  },
+  "wisivwèʼy-la.": {
+    "vre.": 1
+  },
+  "péyéʼy": {
+    "kounyeya.": 1
+  },
+  "Jouda": {
+    "Jida.": 1
+  },
+  "pwèt,": {
+    "prèt": 3
+  },
+  "détwiʼy.": {
+    "prèt.": 1
+  },
+  "Sèman-an": {
+    "Konsa,": 1,
+    "avèk": 1
+  },
+  "Anba": {
+    "Gen": 1
+  },
+  "mòdèl": {
+    "kopye": 4
+  },
+  "Agwéman-an": {
+    "tant": 3
+  },
+  "wanjé": {
+    "ranje": 2
+  },
+  "Jouda-a.": {
+    "Jida": 1
+  },
+  "ékwiʼy": {
+    "lwa": 4
+  },
+  "nèf-la,": {
+    "kontra,": 1
+  },
+  "vyé,": {
+    "mòd.": 1
+  },
+  "izé": {
+    "mòd,": 1
+  },
+  "dispawèt": {
+    "disparèt": 3
+  },
+  "chanm.": {
+    "tant:": 1
+  },
+  "Chanm-lan": {
+    "kote": 8
+  },
+  "Dèyè": {
+    "Dèyè": 1
+  },
+  "wido": {
+    "rido": 1
+  },
+  "Sen-an.": {
+    "lan.": 1
+  },
+  "lò-a": {
+    "lò": 5
+  },
+  "baton": {
+    "baton": 7
+  },
+  "pawfé": {
+    "bon": 6
+  },
+  "kabwit": {
+    "ofri.": 2,
+    "towo": 2
+  },
+  "papyé": {
+    "yon": 3
+  },
+  "byenʼy": {
+    "testaman,": 1
+  },
+  "papyé-a.": {
+    "bon.": 1
+  },
+  "zannimo.": {
+    "bon.": 1
+  },
+  "obéyi-a.”": {
+    "kenbe": 1,
+    "a.": 1
+  },
+  "koulé,": {
+    "koule,": 1
+  },
+  "tant-lan": {
+    "modèl": 1
+  },
+  "kou,": {
+    "fwa,": 1
+  },
+  "lanné-a": {
+    "lanne": 2
+  },
+  "Bondyé:": {
+    "Bondye:": 2
+  },
+  "péché-a.”": {
+    "plezi.": 1,
+    "mal.": 1
+  },
+  "lavé-a.": {
+    "tan.": 1
+  },
+  "apwoché.": {
+    "pwoche.": 1
+  },
+  "èspwé": {
+    "efase": 1
+  },
+  "témwen,": {
+    "depoze": 1
+  },
+  "pinisyon!": {
+    "chatiman.": 1
+  },
+  "“Wivanj": {
+    "revanj,": 1
+  },
+  "viwé.”": {
+    "merite.": 1
+  },
+  "vivan-an!": {
+    "vivan": 2
+  },
+  "maltwétéʼw": {
+    "lè,": 2
+  },
+  "maltwété-a.": {
+    "maltrete": 1
+  },
+  "dékouwajé,": {
+    "lasirans": 1,
+    "kouraj.": 1
+  },
+  "tadé.": {
+    "pran": 2
+  },
+  "pyès.”": {
+    "kontan.": 1
+  },
+  "lontan-an": {
+    "lontan": 3
+  },
+  "Inòk": {
+    "Enòk": 2
+  },
+  "Nowa": {
+    "Noye": 2
+  },
+  "batiʼy.": {
+    "bati": 1
+  },
+  "Isò,": {
+    "Ezayi": 2
+  },
+  "batonʼy": {
+    "Jozèf": 1
+  },
+  "zoʼy.": {
+    "zo": 1
+  },
+  "Féro-a,": {
+    "farawon": 1
+  },
+  "Lanmò-a": {
+    "premyene": 1
+  },
+  "Wouj-la": {
+    "sèk.": 1
+  },
+  "néyé.": {
+    "anglouti": 1,
+    "tout.": 1
+  },
+  "bawad": {
+    "miray": 3
+  },
+  "oliwonʼy": {
+    "wonn": 1
+  },
+  "Gidiyonn,": {
+    "Gedeyon,": 1
+  },
+  "Barak,": {
+    "Barak,": 1
+  },
+  "Sanmsin,": {
+    "Samson,": 1
+  },
+  "Jèfta,": {
+    "Jefte,": 1
+  },
+  "pwòfèt-la.": {
+    "pwofèt": 4
+  },
+  "genyen,": {
+    "patipri,": 1
+  },
+  "lyon,": {
+    "lyon": 2
+  },
+  "difé,": {
+    "dife,": 2
+  },
+  "étwanjé-a.": {
+    "etranje": 1
+  },
+  "widitjil": {
+    "betiz,": 1
+  },
+  "sab-la.": {
+    "nepe.": 2
+  },
+  "kabwit,": {
+    "tèlman": 3
+  },
+  "pòv,": {
+    "pòv.": 2,
+    "pòv,": 2
+  },
+  "mòn-an.": {
+    "mòn": 2
+  },
+  "kayè": {
+    "wòch": 3
+  },
+  "tè-a.": {
+    "tè.": 1
+  },
+  "honté-a": {
+    "wont": 2
+  },
+  "soufè,": {
+    "soufri": 4
+  },
+  "hayiʼy": {
+    "sibi": 1
+  },
+  "soufè-a.": {
+    "li.": 2
+  },
+  "batay-la": {
+    "batay": 16
+  },
+  "li-a.”": {
+    "bat.": 1
+  },
+  "kowijéʼy?": {
+    "li?": 1
+  },
+  "léjitim": {
+    "bon,": 1
+  },
+  "twanblé!": {
+    "nou.": 2
+  },
+  "jounou": {
+    "fatig": 1
+  },
+  "pwézonnen": {
+    "anpwazonnen": 1
+  },
+  "pla": {
+    "plat": 1
+  },
+  "twonpèt,": {
+    "klewon": 2
+  },
+  "ankò,”": {
+    "pale.": 2
+  },
+  "wòch.”": {
+    "kout": 1,
+    "wòch.": 1
+  },
+  "téwib,": {
+    "terib.": 1
+  },
+  "pè!”": {
+    "pè.": 1
+  },
+  "okontwè,": {
+    "pwoche": 1
+  },
+  "Sanʼy": {
+    "san": 2
+  },
+  "Ébèl.": {
+    "Abèl": 1,
+    "la.": 1
+  },
+  "dispawèt.": {
+    "disparèt.": 2
+  },
+  "lapè,": {
+    "avèk": 2
+  },
+  "chimenʼy.": {
+    "bagay.": 1
+  },
+  "mawiyaj,": {
+    "Maryaj": 1,
+    "respekte": 1
+  },
+  "misyé": {
+    "fidèl": 1
+  },
+  "konfyans:": {
+    "konfyans:": 1
+  },
+  "avan-an": {
+    "ayè,": 1
+  },
+  "kanp-lan": {
+    "lakou": 1
+  },
+  "koupab,": {
+    "anpè.": 1
+  },
+  "Fwé": {
+    "Tanpri,": 1
+  },
+  "lonng.": {
+    "long.": 1
+  },
+  "Itali-a": {
+    "Itali": 1
+  },
+  "anlèʼw.": {
+    "pasyans.": 1
+  },
+  "lidé-a": {
+    "doutans,": 1
+  },
+  "ba.": {
+    "rabese": 1
+  },
+  "wich-la": {
+    "rich": 3
+  },
+  "flè-a": {
+    "flè": 2
+  },
+  "chalèʼy.": {
+    "chalè": 1
+  },
+  "zèb-la,": {
+    "zèb": 1
+  },
+  "flèʼy": {
+    "Flè": 1
+  },
+  "tantéʼy.": {
+    "tante": 1
+  },
+  "tanté": {
+    "tante": 2,
+    "mal.": 2
+  },
+  "Tantasyon": {
+    "Men,": 1
+  },
+  "apwé.": {
+    "lanmò.": 1
+  },
+  "chonjé:": {
+    "sonje:": 1
+  },
+  "pwésé": {
+    "prese": 1
+  },
+  "andidanʼw.": {
+    "kras": 1
+  },
+  "sovéʼw.": {
+    "sove": 2
+  },
+  "miwè.": {
+    "glas.": 1
+  },
+  "doʼy,": {
+    "ale,": 1,
+    "lamenm": 1
+  },
+  "Sipozé": {
+    "Sipoze": 1
+  },
+  "asanblé-a,": {
+    "a.Yonn": 1
+  },
+  "abiyé,": {
+    "bag": 1
+  },
+  "abiyé-a": {
+    "salwe": 1,
+    "rechanj": 1
+  },
+  "atè-a.”": {
+    "lan,": 2
+  },
+  "benniʼw,": {
+    "Chofe": 1
+  },
+  "wi!": {
+    "Gade": 1
+  },
+  "Ayzak,": {
+    "Izarak,": 1
+  },
+  "kitéʼy.": {
+    "kadav,": 1
+  },
+  "titja.": {
+    "dirèktè.": 1
+  },
+  "bwid": {
+    "mò": 1
+  },
+  "Gwo": {
+    "Dragon": 2
+  },
+  "kondwiʼy": {
+    "gouvènay": 1
+  },
+  "gouvènay": {
+    "gouvènay": 1
+  },
+  "Piti": {
+    "Piti": 1
+  },
+  "lafowé.": {
+    "rakbwa!": 1
+  },
+  "lanmè.": {
+    "lanmè.": 1
+  },
+  "dous.": {
+    "donte": 2,
+    "karaktè": 2
+  },
+  "lanng-lan": {
+    "lang": 3
+  },
+  "obéyi.": {
+    "kontwole,": 1
+  },
+  "pwézon": {
+    "pwazon": 1
+  },
+  "bouch-la.": {
+    "madichon": 1
+  },
+  "salé": {
+    "sale": 2
+  },
+  "fig": {
+    "sikren": 1
+  },
+  "mango,": {
+    "kenèp,": 1
+  },
+  "ennitil": {
+    "nou,": 6
+  },
+  "ipokwit.": {
+    "ipokrit.": 1
+  },
+  "déziʼw-la": {
+    "sèlman.": 1
+  },
+  "Débann": {
+    "Ala": 1
+  },
+  "Vini": {
+    "Pwoche": 2,
+    "Achte": 2
+  },
+  "vonmyé": {
+    "Pase": 2
+  },
+  "Abésé": {
+    "Desann": 1
+  },
+  "lévéʼw": {
+    "leve": 1
+  },
+  "anlè.": {
+    "nou.": 1
+  },
+  "tèl": {
+    "jòdi": 1
+  },
+  "lajan.”": {
+    "benefis.": 1
+  },
+  "Laviʼw": {
+    "denmen.": 1,
+    "Lavi": 1
+  },
+  "vapè": {
+    "nyaj,": 1
+  },
+  "zafèʼw.": {
+    "vante": 3
+  },
+  "anlèʼw-la.": {
+    "yo.": 1
+  },
+  "pouwi,": {
+    "fin": 2
+  },
+  "wavèt": {
+    "pouri.": 1,
+    "Vèmin": 1
+  },
+  "Lò-a": {
+    "Lò": 1
+  },
+  "lawouj,": {
+    "wouye.": 1
+  },
+  "jijman-an,": {
+    "Lawouy": 1
+  },
+  "Tann": {
+    "jaden.": 1
+  },
+  "Vwa": {
+    "rele!": 2
+  },
+  "gwa": {
+    "gra": 1
+  },
+  "tjwé.": {
+    "labatwa.": 1
+  },
+  "inosan,": {
+    "sasinen": 1
+  },
+  "pwodwi": {
+    "bèl": 2,
+    "lapli": 2
+  },
+  "talè.": {
+    "lontan": 1,
+    "vini.": 1,
+    "talè": 1,
+    "konsa.": 1
+  },
+  "jijéʼw": {
+    "jijman": 1
+  },
+  "jij-la": {
+    "jij": 1
+  },
+  "santé": {
+    "sante": 2
+  },
+  "konfésé": {
+    "konfese": 1
+  },
+  "obliyé,": {
+    "Pwofèt": 1
+  },
+  "dimi.": {
+    "mwa.": 2
+  },
+  "fwiʼy.": {
+    "rekòt.": 1
+  },
+  "Pontòs,": {
+    "Pon,": 1
+  },
+  "Kapadosiya,": {
+    "Kapadòs,": 1
+  },
+  "Bifiniya.": {
+    "Bitini.": 1
+  },
+  "salvasyonʼy.": {
+    "nou.": 1
+  },
+  "wèʼy-la.": {
+    "parèt.": 1
+  },
+  "movèzté.”": {
+    "bon": 2
+  },
+  "dajan,": {
+    "lò.": 1
+  },
+  "lonnè-a.": {
+    "lwanj.": 1
+  },
+  "sè-a,": {
+    "pou": 4
+  },
+  "bèlté": {
+    "zèb,": 1
+  },
+  "Zèb-la": {
+    "bèlte": 1,
+    "Zèb": 1
+  },
+  "zèb.": {
+    "zèb,": 1
+  },
+  "ipokwit,": {
+    "Sispann": 1
+  },
+  "sové-a.": {
+    "nèt.": 1
+  },
+  "vivan-an": {
+    "vivan": 11
+  },
+  "widjèkté-a,": {
+    "jete": 2
+  },
+  "chèf-la,": {
+    "chèf.": 1
+  },
+  "inyowan-an": {
+    "anyen,": 1,
+    "konprann.": 1
+  },
+  "Viv": {
+    "Se": 2,
+    "viv": 2
+  },
+  "paspò": {
+    "kouvèti": 1
+  },
+  "wézonnab-la": {
+    "mèt": 3
+  },
+  "méwité-a": {
+    "lafliksyon": 1
+  },
+  "gadyenn-an": {
+    "gadò": 1
+  },
+  "bijou": {
+    "bèl": 7
+  },
+  "chivéʼw": {
+    "kwafi,": 1
+  },
+  "bèlté-a": {
+    "bèlte": 2
+  },
+  "sè.": {
+    "sè,": 1
+  },
+  "dwèt-la,": {
+    "dwat": 4
+  },
+  "bon?": {
+    "fè?": 1
+  },
+  "twoubléʼw.": {
+    "anyen.": 1
+  },
+  "fasad": {
+    "domennen": 1
+  },
+  "anmizé": {
+    "libètinay,": 1
+  },
+  "Finisman": {
+    "Tout": 1
+  },
+  "mennajé": {
+    "jeran,": 1
+  },
+  "wévélé.": {
+    "parèt.": 1
+  },
+  "apwoché": {
+    "dat": 1
+  },
+  "koumansé,": {
+    "konmanse.": 1
+  },
+  "kolonm": {
+    "maltrete": 1
+  },
+  "swiv.": {
+    "mouton": 1,
+    "sa.": 1
+  },
+  "apwéʼw.": {
+    "swen": 1,
+    "nou.": 1
+  },
+  "Denmou-an,": {
+    "dyab": 4
+  },
+  "détwi.": {
+    "devore.": 1
+  },
+  "Silas": {
+    "Silven,": 1
+  },
+  "pli-a.": {
+    "ye.": 1
+  },
+  "lanfè": {
+    "touman.": 1
+  },
+  "Sòdonm": {
+    "Sodòm": 3
+  },
+  "Lòt,": {
+    "Lòt,": 1
+  },
+  "aksyon": {
+    "fann,": 1
+  },
+  "Béyò,": {
+    "Balaram,": 1,
+    "Bozò": 1
+  },
+  "mové-a.": {
+    "lajan.": 1
+  },
+  "bouwik": {
+    "bourik": 1
+  },
+  "“Chyen-an": {
+    "pwovèb": 1
+  },
+  "vonmiʼy": {
+    "vre:": 1
+  },
+  "menm,”": {
+    "Chen": 1
+  },
+  "woulé": {
+    "Lave": 1,
+    "kochon,": 1,
+    "woule": 1,
+    "gwonde": 1
+  },
+  "wizib.": {
+    "genyen.": 1
+  },
+  "déliz-la.": {
+    "bagay.": 1
+  },
+  "èkzisté": {
+    "sann.": 1
+  },
+  "fonn": {
+    "dife.": 2
+  },
+  "pasyans-lan": {
+    "Konprann": 1
+  },
+  "mantè,": {
+    "mantò:": 1,
+    "mantò,": 1
+  },
+  "konmandmanʼy.": {
+    "li.": 1,
+    "fè.": 1
+  },
+  "konmandmanʼy,": {
+    "mande": 3
+  },
+  "kléwé.": {
+    "klere.": 1
+  },
+  "apa,": {
+    "nou": 3
+  },
+  "mantè?": {
+    "manti": 1
+  },
+  "vini-an": {
+    "toutespre": 1
+  },
+  "fwèʼy-la.": {
+    "ye.": 2
+  },
+  "fwèʼy?": {
+    "atò?": 1
+  },
+  "lanmityé:": {
+    "ye:": 2
+  },
+  "konmandmanʼy": {
+    "fè": 3
+  },
+  "lanmityéʼy.": {
+    "an.": 1
+  },
+  "konmandmanʼy-lan": {
+    "twò": 1,
+    "difisil": 1
+  },
+  "san-an,": {
+    "a": 1
+  },
+  "dakò.": {
+    "touletwa": 1,
+    "dakò.": 1
+  },
+  "témwenyaj": {
+    "pawòl": 2
+  },
+  "témwenyaj-la": {
+    "verite.": 2,
+    "pawòl": 2
+  },
+  "touchéʼy.": {
+    "anyen.": 1
+  },
+  "Lagwas,": {
+    "Mwen": 1,
+    "mande": 1
+  },
+  "épiʼw,": {
+    "swete": 2
+  },
+  "kwennad": {
+    "k'ap": 4
+  },
+  "konmisyon,": {
+    "bagay,": 1
+  },
+  "lèt,": {
+    "ak": 3
+  },
+  "séséʼw-la": {
+    "sè": 2
+  },
+  "santé-a.": {
+    "ou.": 2
+  },
+  "lawout": {
+    "pousib": 1
+  },
+  "Diyotrèf,": {
+    "Dyotrèf": 1
+  },
+  "Démétriyòs,": {
+    "Demetriyis.": 1
+  },
+  "konsènéʼy,": {
+    "epitou": 1
+  },
+  "Joud": {
+    "Jid,": 1
+  },
+  "pwézèvé-a.": {
+    "pwoteksyon": 1
+  },
+  "Michèl,": {
+    "Akanj": 1,
+    "Michèl,": 1
+  },
+  "mawon,": {
+    "konprann.se": 1
+  },
+  "Balanm": {
+    "Balaram": 2
+  },
+  "Kora": {
+    "Kore": 1,
+    "rebèl": 1
+  },
+  "lakoutim,": {
+    "gate": 2
+  },
+  "tjim": {
+    "kim": 1,
+    "salte": 1
+  },
+  "Inòk,": {
+    "Depi": 1,
+    "lontan,": 1
+  },
+  "jennenwasyon": {
+    "Enòk,": 1
+  },
+  "“Gadé!": {
+    "Koute.": 1
+  },
+  "wizib": {
+    "betiz,": 1
+  },
+  "dézagwéman": {
+    "divizyon.": 1
+  },
+  "toujou-a.": {
+    "doutans": 1,
+    "toujou.": 1
+  },
+  "Hapé": {
+    "Lonje": 1
+  },
+  "Oméga,": {
+    "jiska": 4
+  },
+  "Alfa": {
+    "A": 3,
+    "Z.": 3
+  },
+  "kòné.": {
+    "twonpèt.": 1
+  },
+  "Smèna,": {
+    "Esmin,": 1,
+    "Pègam,": 1
+  },
+  "Pèganmòs,": {
+    "Tiyati,": 1
+  },
+  "Tayatayra,": {
+    "Sad,": 1
+  },
+  "Filadèlfiya": {
+    "Filadèlfi": 1
+  },
+  "Léyodisiya.”": {
+    "Lawodise.": 1
+  },
+  "blan!": {
+    "blan.": 2
+  },
+  "koton!": {
+    "koton.": 1,
+    "Je": 1
+  },
+  "tjwiv.": {
+    "chofe": 1,
+    "fòj.": 1
+  },
+  "lawivyè": {
+    "larivyè": 4
+  },
+  "gwo,": {
+    "falèz.": 1
+  },
+  "Fidjiʼy": {
+    "Figi": 2
+  },
+  "dènyé.": {
+    "dènye.": 1
+  },
+  "Sèt": {
+    "Sèt": 4
+  },
+  "pyès:": {
+    "ou:": 3
+  },
+  "bon:": {
+    "bon:": 1
+  },
+  "Nikolayt-la": {
+    "Nikolayit": 2
+  },
+  "lanm-lan.": {
+    "ou:": 1
+  },
+  "tjwiv-la.": {
+    "poli.": 1
+  },
+  "kouwi-a.": {
+    "a.": 1
+  },
+  "Tayatayra-a": {
+    "Tiyati": 1
+  },
+  "Satan-an.": {
+    "chay": 1
+  },
+  "kannawi.’": {
+    "miyèt": 1
+  },
+  "lé": {
+    "maten": 2
+  },
+  "bonmaten-an.": {
+    "tou.": 1
+  },
+  "légliz-la!”": {
+    "ap": 4,
+    "legliz": 4,
+    "yo.": 4
+  },
+  "Sadis": {
+    "Sad": 1
+  },
+  "laklé-a": {
+    "kle": 2
+  },
+  "touswit,": {
+    "mapral": 1,
+    "vini.": 1
+  },
+  "kwachéʼw": {
+    "vonmi": 1,
+    "ou": 1
+  },
+  "Pòdjab!": {
+    "ou": 3
+  },
+  "mizéwab.": {
+    "nesesite,": 1,
+    "toutouni": 1
+  },
+  "touni,": {
+    "yo": 2
+  },
+  "kowijé,": {
+    "korije,": 1
+  },
+  "pini.": {
+    "pini.": 1,
+    "Mete": 1
+  },
+  "Gadé,": {
+    "Koute.": 1
+  },
+  "kwiyé.": {
+    "frape.": 1
+  },
+  "“Mouté": {
+    "Moute": 2
+  },
+  "diyanman": {
+    "pyè": 7
+  },
+  "chèz-la": {
+    "fòtèy": 7
+  },
+  "lakansyèl": {
+    "lakansyèl": 2
+  },
+  "èmral.": {
+    "emwòd.": 1,
+    "emwòd,": 1
+  },
+  "vennkat": {
+    "granmoun": 5
+  },
+  "(24)": {
+    "yo": 7
+  },
+  "zéklè": {
+    "Kout": 1
+  },
+  "loway": {
+    "kout": 3
+  },
+  "flanbo": {
+    "flanbo": 1,
+    "boule": 1
+  },
+  "Douvan": {
+    "Devan": 1
+  },
+  "kwistal.": {
+    "kou": 5
+  },
+  "bèt-la": {
+    "bèt": 32
+  },
+  "malfini": {
+    "malfini": 3
+  },
+  "volé.": {
+    "vole.": 1
+  },
+  "woulo": {
+    "woulo": 2
+  },
+  "kachté": {
+    "sele": 5
+  },
+  "dékachté": {
+    "kase": 3
+  },
+  "déwouléʼy?”": {
+    "la?": 1
+  },
+  "Lyon-an": {
+    "kriye!": 1
+  },
+  "kòn": {
+    "kòn": 5
+  },
+  "Mouton-an.": {
+    "an.": 7
+  },
+  "hap,": {
+    "mizik": 1,
+    "mizisyen": 1
+  },
+  "bòl": {
+    "gode": 10
+  },
+  "loway.": {
+    "loray.": 2
+  },
+  "“Vini!”": {
+    "Vini": 4,
+    "non!": 4
+  },
+  "balans": {
+    "balans": 1
+  },
+  "katyenm": {
+    "katriyèm": 3
+  },
+  "sizyenm": {
+    "sizyèm": 2
+  },
+  "twanblanntè.": {
+    "tranblemanntè.": 2
+  },
+  "dèy": {
+    "pwès.": 1,
+    "dèy": 1
+  },
+  "vèt": {
+    "vèt": 2
+  },
+  "pyé-a.": {
+    "soufle.": 1
+  },
+  "Syèl-la": {
+    "Syèl": 1
+  },
+  "woulé,": {
+    "vlope.": 1
+  },
+  "kwen": {
+    "kwen": 2
+  },
+  "lévan,": {
+    "bò": 5
+  },
+  "donmajé": {
+    "ravaje": 1
+  },
+  "“Pʼòkò": {
+    "—": 1,
+    "Poko": 1
+  },
+  "stanpé": {
+    "letanp": 1
+  },
+  "Douz": {
+    "douzmil": 12
+  },
+  "Gad.": {
+    "lan,": 2
+  },
+  "Achè.": {
+    "Gad": 1,
+    "la,": 1
+  },
+  "Naftali.": {
+    "Nèftali": 1
+  },
+  "Mannasa.": {
+    "Manase": 1,
+    "a,": 1
+  },
+  "Siméyon.": {
+    "Simeyon": 1
+  },
+  "Isaka.": {
+    "a,": 2
+  },
+  "lafanmi,": {
+    "tout": 8
+  },
+  "wimèsyéʼy.": {
+    "rekonesans,": 1
+  },
+  "on?”": {
+    "sòti?": 1
+  },
+  "koté-a,": {
+    "demiyè": 1
+  },
+  "nèditan,": {
+    "la.": 1
+  },
+  "twonpèt.": {
+    "klewon.": 1
+  },
+  "lansan": {
+    "lansanswa": 1,
+    "lansan": 1
+  },
+  "Lafimen": {
+    "Lafimen": 3
+  },
+  "lansan-an": {
+    "lansan": 1
+  },
+  "jétéʼy": {
+    "jete": 9
+  },
+  "limen,": {
+    "loray,": 1
+  },
+  "laglas": {
+    "lagrèl": 3
+  },
+  "kwazé.": {
+    "peri.": 1
+  },
+  "Anmè.": {
+    "Lapsent.": 1
+  },
+  "anmè,": {
+    "fyèl.": 1
+  },
+  "anmè-a.": {
+    "anmè.": 1
+  },
+  "kòné": {
+    "klewon": 3
+  },
+  "nwè.": {
+    "nwa.": 2
+  },
+  "woy!": {
+    "Ala": 3,
+    "malè": 3,
+    "la!": 3
+  },
+  "woy,": {
+    "malè!": 4
+  },
+  "Senkyenm": {
+    "senkyèm": 1
+  },
+  "Étwal-la": {
+    "Zetwal": 1
+  },
+  "lafimen": {
+    "lafimen": 6
+  },
+  "fou": {
+    "boule.": 1
+  },
+  "kwitjèt": {
+    "Yon": 1,
+    "bann": 1,
+    "krikèt": 1
+  },
+  "lafimen-an": {
+    "vèt": 1
+  },
+  "èskoupyon.": {
+    "eskòpyon.": 1
+  },
+  "kwitjèt-la": {
+    "Krikèt": 3
+  },
+  "èskoupyon": {
+    "eskòpyon": 1,
+    "mòde": 1
+  },
+  "ladjè.": {
+    "batay.": 2
+  },
+  "Chivé": {
+    "Yo": 1
+  },
+  "Dan": {
+    "fi.": 1,
+    "Dan": 1
+  },
+  "lyon.": {
+    "lyon.": 3
+  },
+  "latjé": {
+    "ke": 5
+  },
+  "Abadonn,": {
+    "Apolyon": 1
+  },
+  "détwi-a.”)": {
+    "brize": 1
+  },
+  "malè-a": {
+    "malè": 3
+  },
+  "Youfrétis-la.”": {
+    "Lefrat": 1,
+    "la.": 1
+  },
+  "milyon": {
+    "desan": 1
+  },
+  "(200,000,000)": {
+    "milyon.": 1
+  },
+  "chouval-la": {
+    "chwal": 3
+  },
+  "souf": {
+    "souf": 5
+  },
+  "Latjé": {
+    "Baton": 1
+  },
+  "sèpan,": {
+    "sèpan:": 1
+  },
+  "modisyon": {
+    "kalamite": 5
+  },
+  "lyon": {
+    "gwonde.": 1
+  },
+  "kwiyé,": {
+    "rele,": 2
+  },
+  "(7)": {
+    "sèt": 2
+  },
+  "loway-la": {
+    "loray": 2
+  },
+  "pwòfèt-la.”": {
+    "sa.": 1
+  },
+  "myèl,": {
+    "gou": 1
+  },
+  "siwo": {
+    "anmè": 2
+  },
+  "dou": {
+    "dous": 2
+  },
+  "fyèl.”": {
+    "siwo": 1,
+    "myèl.": 1
+  },
+  "myèl": {
+    "myèl": 1
+  },
+  "valéʼy,": {
+    "vale": 1
+  },
+  "fyèl": {
+    "fyèl": 1
+  },
+  "péyi,": {
+    "pèp,": 2
+  },
+  "langaj,": {
+    "nasyon,": 2,
+    "tout": 2
+  },
+  "mizi.": {
+    "mezi.": 1,
+    "lajè": 1
+  },
+  "(42)": {
+    "karannde": 2
+  },
+  "(1260)": {
+    "mildesanswasant": 2
+  },
+  "Kò": {
+    "Kadav": 1
+  },
+  "lawi": {
+    "lari": 1
+  },
+  "témwen-an.": {
+    "demi": 1,
+    "jounen.": 1
+  },
+  "(7000)": {
+    "Sètmil": 1,
+    "(7.000)": 1
+  },
+  "Twazyenm-lan": {
+    "lan": 4
+  },
+  "Vennkat": {
+    "Vennkat": 1
+  },
+  "sòlèy-la,": {
+    "solèy": 3
+  },
+  "akouché": {
+    "akouche:": 1
+  },
+  "akouché-a": {
+    "akouche": 1
+  },
+  "pété": {
+    "pete": 1
+  },
+  "gason-an,": {
+    "gason": 1,
+    "an.": 1
+  },
+  "vonmi": {
+    "Dlo": 1
+  },
+  "chayéʼy.": {
+    "ale.": 1
+  },
+  "vonmi-an.": {
+    "an.": 1
+  },
+  "kòn.": {
+    "jouman": 2
+  },
+  "Bèt-la": {
+    "Bèt": 2
+  },
+  "pat": {
+    "takte": 2
+  },
+  "blésé": {
+    "blese": 4
+  },
+  "bèt-la!": {
+    "Kilès": 2
+  },
+  "mouton,": {
+    "mouton,": 2
+  },
+  "Dézyenm": {
+    "Dezyèm": 2
+  },
+  "limowo-a": {
+    "nimewo": 2,
+    "koresponn": 2
+  },
+  "bèt-la.": {
+    "lan.": 2
+  },
+  "limowo": {
+    "resoud": 1,
+    "pwoblèm": 1
+  },
+  "Limowo": {
+    "Nimewo": 1
+  },
+  "(666).": {
+    "(666).": 1
+  },
+  "hap.": {
+    "gita.": 1
+  },
+  "péyi.": {
+    "peyi.": 1
+  },
+  "nonʼy,": {
+    "li!": 2
+  },
+  "tonbé!": {
+    "Wey,": 1
+  },
+  "Babilonn-an!": {
+    "Gwo": 2
+  },
+  "anmè": {
+    "diven": 2
+  },
+  "lajouné.”": {
+    "lannwit.": 1
+  },
+  "koutla": {
+    "kouto": 5,
+    "digo": 5
+  },
+  "mi.”": {
+    "rekòt": 1
+  },
+  "pil.": {
+    "l.": 1
+  },
+  "gwap-la.”": {
+    "mi.": 1
+  },
+  "pijé": {
+    "moulen": 4
+  },
+  "fondjè": {
+    "moute,": 1
+  },
+  "glas": {
+    "kristal": 2
+  },
+  "hap": {
+    "gita": 1
+  },
+  "modisyon-an": {
+    "kalamite": 5
+  },
+  "bout.": {
+    "pase.": 2
+  },
+  "pwéféwans.”": {
+    "patipri.": 1
+  },
+  "diféʼy.": {
+    "la.": 2
+  },
+  "senkyenm": {
+    "Senkyèm": 1
+  },
+  "mòdé": {
+    "mòde": 1
+  },
+  "bobo-a": {
+    "doulè": 1
+  },
+  "Sizyenm": {
+    "Sizyèm": 1
+  },
+  "lawivyè-a": {
+    "Rivyè": 1
+  },
+  "kwapo.": {
+    "yonn": 3
+  },
+  "vòlè!": {
+    "vòlè.": 1
+  },
+  "Anmagèdonn-an": {
+    "ebre": 1,
+    "Amagedon.": 1
+  },
+  "twanblanntè!": {
+    "tranble": 1
+  },
+  "matjé:": {
+    "kache:": 1,
+    "Babilòn,": 1
+  },
+  "sigwé-a": {
+    "sekrè,": 1
+  },
+  "pòtéʼy-la,": {
+    "pòte": 1
+  },
+  "kòn-an.": {
+    "kòn": 1
+  },
+  "“Dis": {
+    "Dis": 1
+  },
+  "Dis": {
+    "Yo": 1,
+    "toulèdis": 1
+  },
+  "Mèt": {
+    "Chèf": 2
+  },
+  "langaj.": {
+    "lang.": 1
+  },
+  "touni.": {
+    "y'a": 4
+  },
+  "“Fanm": {
+    "Pou": 1,
+    "fini,": 1,
+    "fanm": 1
+  },
+  "“Gwan": {
+    "Aa,": 1,
+    "Gwo": 1
+  },
+  "Babilonn-an": {
+    "fini!": 2,
+    "Babilòn": 2
+  },
+  "“Woy,": {
+    "Gade": 1
+  },
+  "pinisyonʼw!”": {
+    "pini": 1,
+    "ou!": 1
+  },
+  "machann": {
+    "Kòmèsan": 2
+  },
+  "vann-an.": {
+    "machandiz": 1
+  },
+  "vann-an:": {
+    "ajan,": 1
+  },
+  "chè,": {
+    "an": 5
+  },
+  "mab,": {
+    "mab,": 1
+  },
+  "kannèl": {
+    "mir": 1
+  },
+  "frankinsens": {
+    "ak": 3
+  },
+  "machann-an": {
+    "Kòmèsan": 2
+  },
+  "anlèʼy!": {
+    "pèl!": 1
+  },
+  "navidjé,": {
+    "pasaje": 1
+  },
+  "Babilonn": {
+    "pini": 1,
+    "Babilòn,": 1
+  },
+  "Babilonn.": {
+    "p'ap": 3
+  },
+  "moulen": {
+    "mayi": 1
+  },
+  "Lanp": {
+    "Okenn": 1,
+    "lanp": 1
+  },
+  "“Alélouya!": {
+    "Lwanj": 3
+  },
+  "Fi-a": {
+    "fete": 1
+  },
+  "sòlèy-la.”": {
+    "(Twal": 1
+  },
+  "fè-a.)": {
+    "Bondye.)": 1
+  },
+  "Zyéʼy": {
+    "Je": 1
+  },
+  "blan.": {
+    "byen": 2
+  },
+  "mèt.”": {
+    "chèf.": 1
+  },
+  "jibyé-a": {
+    "zwazo": 2
+  },
+  "chouval-la,": {
+    "vyann": 2
+  },
+  "piti.”": {
+    "gran.": 1
+  },
+  "létan": {
+    "letan": 4
+  },
+  "Sab-la": {
+    "Nepe": 1
+  },
+  "anchennéʼy": {
+    "(1.000)": 1
+  },
+  "wézèwèksyon-an.": {
+    "(mò": 1,
+    "resisite": 1
+  },
+  "Lèstan": {
+    "milan": 1
+  },
+  "pwizonʼy-lan.": {
+    "prizon": 1,
+    "an.": 1
+  },
+  "Gòg": {
+    "Gòg": 1
+  },
+  "Magòg-la.": {
+    "Magòg.": 1
+  },
+  "swiyé": {
+    "cheche": 1
+  },
+  "dispawèt.”": {
+    "disparèt.": 1
+  },
+  "Bondyéʼy": {
+    "va": 2
+  },
+  "ho,": {
+    "wo.": 1
+  },
+  "kouchan,": {
+    "pòtay": 3
+  },
+  "anba.": {
+    "lwès.": 1
+  },
+  "Fondasyon": {
+    "Miray": 1,
+    "Gwo": 1
+  },
+  "Vil-la": {
+    "Lavil": 3,
+    "la": 3
+  },
+  "londjèʼy": {
+    "bwat": 1,
+    "kare,": 1
+  },
+  "gwandèʼy": {
+    "l": 3
+  },
+  "(1500)": {
+    "demildesan": 1,
+    "(2.200)": 1,
+    "longè.": 1,
+    "Lajè": 1
+  },
+  "(216)": {
+    "wotè,": 1,
+    "òdinè": 1
+  },
+  "Bawad": {
+    "Miray": 1
+  },
+  "jaspa.": {
+    "an": 4
+  },
+  "lò.": {
+    "lò,": 1
+  },
+  "koulè": {
+    "òne": 1
+  },
+  "Dézyenm-lan": {
+    "jasp,": 1
+  },
+  "safaya.": {
+    "safi,": 1
+  },
+  "agèt.": {
+    "an": 2
+  },
+  "Katyenm-lan": {
+    "katriyèm": 1
+  },
+  "Senkyenm-lan": {
+    "senkyèm": 1
+  },
+  "Sètyenm-lan": {
+    "lan": 3
+  },
+  "onniks.": {
+    "oniks,": 1
+  },
+  "Sizyenm-lan": {
+    "sizyèm": 1
+  },
+  "kònilyan.": {
+    "sadouàn,": 1
+  },
+  "Ywityenm-lan": {
+    "an": 1,
+    "lan": 1
+  },
+  "kwòts.": {
+    "krizolit,": 1
+  },
+  "bèril.": {
+    "an": 1,
+    "beril,": 1
+  },
+  "Névyenm-lan": {
+    "nevyèm": 1
+  },
+  "Disyenm-lan": {
+    "lan": 4
+  },
+  "topaz.": {
+    "topaz,": 1
+  },
+  "krisopaz.": {
+    "an": 2
+  },
+  "Wonzyenm-lan": {
+    "onzyèm": 1
+  },
+  "jasin.": {
+    "tikwaz,": 1
+  },
+  "Douzyenm-lan": {
+    "douzyèm": 1
+  },
+  "anméfis.": {
+    "ametis.": 1
+  },
+  "bijou.": {
+    "pèl.": 2
+  },
+  "Lawi": {
+    "lari": 1
+  },
+  "fèmé,": {
+    "lajounen.": 1
+  },
+  "lawi-a": {
+    "granri": 1
+  },
+  "bòdaj": {
+    "rivyè": 1
+  },
+  "touswit!": {
+    "talè": 2,
+    "konsa.": 2
+  },
+  "adowé.”": {
+    "adore.": 1
+  },
+  "dènyé-a,": {
+    "menm": 2
+  },
+  "finisman-an.”": {
+    "finisman.": 1
+  },
+  "“Vini.”": {
+    "Vini": 2,
+    "non.": 2
+  },
+  "touswit!”": {
+    "konsa!": 1,
+    "Vini": 1
+  },
+  "Vini,": {
+    "non,": 1
+  },
+  "Jézi!": {
+    "Jezi!": 1
+  }
+}

@@ -1,0 +1,1352 @@
+{
+  "men": {
+    "ben": 1
+  },
+  "sen": {
+    "sen": 1,
+    "siz": 1
+  },
+  "ol": {
+    "o": 1
+  },
+  "biz": {
+    "biz": 1
+  },
+  "siz": {
+    "siz": 1
+  },
+  "olar": {
+    "onlar": 1
+  },
+  "bu": {
+    "bu": 1
+  },
+  "şu": {
+    "şu": 1,
+    "o": 1
+  },
+  "şol": {
+    "şu": 1,
+    "o": 1
+  },
+  "kim": {
+    "kim": 1
+  },
+  "näme": {
+    "ne": 1
+  },
+  "nirede": {
+    "nerede": 1
+  },
+  "däl": {
+    "değil": 1
+  },
+  "bary": {
+    "tüm": 1
+  },
+  "hemme": {
+    "tüm": 1
+  },
+  "ähli": {
+    "tüm": 1
+  },
+  "her": {
+    "tüm": 1
+  },
+  "birnäçe": {
+    "birkaç": 1,
+    "bazı": 1
+  },
+  "berentak": {
+    "birkaç": 1,
+    "bazı": 1
+  },
+  "bir": {
+    "bir": 1
+  },
+  "bilen": {
+    "ile": 1
+  },
+  "we": {
+    "ve": 1,
+    "ile": 1
+  },
+  "eger": {
+    "ise": 1,
+    "eğer": 1
+  },
+  "çünki": {
+    "çünkü": 1
+  },
+  "baglanyşykly": {
+    "dair": 0.556
+  },
+  "boýunça": {
+    "boyunca": 0.556
+  },
+  "degişli": {
+    "ait": 0.556,
+    "dair": 0.556
+  },
+  "diňe": {
+    "ancak": 0.556
+  },
+  "garşy": {
+    "karşı": 0.778
+  },
+  "maňa": {
+    "bana": 0.556
+  },
+  "meň": {
+    "ben": 0.556
+  },
+  "meniň": {
+    "benim": 0.778
+  },
+  "nirä": {
+    "nereye": 0.556
+  },
+  "nireden": {
+    "nereden": 0.778
+  },
+  "öň": {
+    "önce": 0.556
+  },
+  "öňinçä": {
+    "önce": 0.556
+  },
+  "öňürti": {
+    "önce": 0.556
+  },
+  "soňra": {
+    "sonra": 0.556
+  },
+  "ýa": {
+    "veya": 0.778
+  },
+  "ýa-da": {
+    "veya": 0.556
+  },
+  "ýada": {
+    "veya": 0.778
+  },
+  "ýagny": {
+    "yani": 0.556
+  },
+  "ýalňyz": {
+    "ancak": 0.556
+  },
+  "ýaly": {
+    "gibi": 0.556,
+    "kadar": 0.556
+  },
+  "ýok": {
+    "değil": 0.778
+  },
+  "ýöne": {
+    "fakat": 0.556
+  },
+  "bahana": {
+    "neden": 0.556
+  },
+  "bile": {
+    "birlikte": 0.778
+  },
+  "bilelikde": {
+    "birlikte": 0.778
+  },
+  "biri": {
+    "birisi": 0.556
+  },
+  "birlikde": {
+    "birlikte": 0.778
+  },
+  "çenli": {
+    "kadar": 0.556
+  },
+  "emma": {
+    "ama": 0.778,
+    "fakat": 0.778
+  },
+  "görä": {
+    "göre": 0.556
+  },
+  "han": {
+    "nerde": 0.556,
+    "nerede": 0.556
+  },
+  "hatda": {
+    "hatta": 0.556
+  },
+  "hem": {
+    "da": 0.556
+  },
+  "hiç": {
+    "hiçbir": 0.556
+  },
+  "käbir": {
+    "bazı": 0.556
+  },
+  "kimin": {
+    "gibi": 0.556,
+    "kadar": 0.556
+  },
+  "mahsus": {
+    "ait": 0.556
+  },
+  "mening": {
+    "ben": 0.778
+  },
+  "meselem": {
+    "örneğin": 0.556
+  },
+  "näme üçin": {
+    "neden": 0.778
+  },
+  "öz": {
+    "kendi": 0.556
+  },
+  "sebäp": {
+    "neden": 0.778
+  },
+  "sebäpli": {
+    "diye": 0.556
+  },
+  "üçin": {
+    "neden": 0.778
+  },
+  "yz": {
+    "iz": 0.556
+  },
+  "birisi": {
+    "birisi": 0.556
+  },
+  "birtopar": {
+    "birçok": 0.556
+  },
+  "diýen": {
+    "diye": 0.556
+  },
+  "diýip": {
+    "diye": 0.556
+  },
+  "hemmesi": {
+    "hepsi": 0.556
+  },
+  "özi": {
+    "kendisi": 0.556
+  },
+  "mén": {
+    "ben": 0.556
+  },
+  "hiç bir": {
+    "hiçbir": 0.556
+  },
+  "hiç biri": {
+    "hiçbiri": 0.556
+  },
+  "o": {
+    "şu": 0.556
+  },
+  "yekelik": {
+    "bir": 0.333
+  },
+  "i": {
+    "i": 0.556
+  },
+  "da": {
+    "da": 0.556
+  },
+  "soňam": {
+    "sonra": 0.556
+  },
+  "iý": {
+    "ye": 0.556
+  },
+  "diý": {
+    "de": 0.556
+  },
+  "haýsy ýerden": {
+    "nereden": 0.778
+  },
+  "Patawidigi": {
+    "olarak": 1
+  },
+  "göçeli": {
+    "beri": 1
+  },
+  "bäri,": {
+    "beri": 1
+  },
+  "muny": {
+    "bunu": 2
+  },
+  "hyýaly": {
+    "birinin": 1
+  },
+  "hem-de": {
+    "ve": 35
+  },
+  "seretmezden,": {
+    "rağmen": 2
+  },
+  "goly": {
+    "hem": 2
+  },
+  "donory": {
+    "biri": 1
+  },
+  "tussaghanasy": {
+    "bir": 1
+  },
+  "heläkçilige": {
+    "bir": 2
+  },
+  "Göni": {
+    "olarak": 1
+  },
+  "şäherde": {
+    "bir": 3
+  },
+  "onuň": {
+    "o": 3
+  },
+  "bolsa,": {
+    "ve": 11
+  },
+  "hekaýanyň": {
+    "o": 1
+  },
+  "açylyp": {
+    "boyunca": 1
+  },
+  "bes": {
+    "hem": 2
+  },
+  "hem,": {
+    "hem": 4
+  },
+  "harasadynyň": {
+    "şu": 1
+  },
+  "kärendesine": {
+    "bir": 3
+  },
+  "geçensoň,": {
+    "sonra": 3
+  },
+  "amala": {
+    "bir": 5
+  },
+  "garşysyna": {
+    "karşı": 2
+  },
+  "barada": {
+    "bir": 6
+  },
+  "berlen": {
+    "eğer": 1
+  },
+  "Soňra": {
+    "sonra": 3
+  },
+  "işine": {
+    "için": 1
+  },
+  "garalmagyna": {
+    "için": 1
+  },
+  "hökmünde": {
+    "olarak": 18
+  },
+  "taýdan": {
+    "olarak": 7
+  },
+  "görä,": {
+    "göre": 3
+  },
+  "gerimde": {
+    "birbirini": 1
+  },
+  "döwlete": {
+    "kendilerini": 1
+  },
+  "bolup": {
+    "bir": 9
+  },
+  "aglabasy": {
+    "çoğu": 4
+  },
+  "çykyşyny": {
+    "dair": 1
+  },
+  "öň,": {
+    "ve": 5
+  },
+  "Mantuwalos": {
+    "önce": 1
+  },
+  "gelnip": {
+    "için": 1
+  },
+  "ýaşaýşyň": {
+    "ne": 1
+  },
+  "Deslapky": {
+    "sonra": 1
+  },
+  "bolup,": {
+    "ve": 16
+  },
+  "eltendigi": {
+    "ne": 1
+  },
+  "Il-76": {
+    "hem": 2
+  },
+  "sygymly": {
+    "bir": 2
+  },
+  "hili": {
+    "bir": 1
+  },
+  "\"duzakdygyny\"": {
+    "kendisini": 1
+  },
+  "ondan": {
+    "kadar": 2
+  },
+  "gerekdigini": {
+    "olarak": 1
+  },
+  "minutda": {
+    "bu": 2
+  },
+  "ýurtlaryň": {
+    "tüm": 1
+  },
+  "\"eBay\"": {
+    "beri": 1
+  },
+  "Saturnyň": {
+    "bunun": 1
+  },
+  "özüne": {
+    "kendisine": 2,
+    "bir": 2
+  },
+  "garamazdan,": {
+    "rağmen": 1
+  },
+  "üçin,": {
+    "için": 14
+  },
+  "ýaňsylama": {
+    "çoğu": 1
+  },
+  "balyklarda": {
+    "hem": 2
+  },
+  "palma": {
+    "bir": 2
+  },
+  "\"Utah": {
+    "bir": 1
+  },
+  "Ýaryşdan": {
+    "sonra": 1
+  },
+  "Kenset": {
+    "onda": 1
+  },
+  "hadysany": {
+    "da": 1
+  },
+  "flotuna": {
+    "ve": 1
+  },
+  "sanda": {
+    "ve": 5
+  },
+  "märekeli": {
+    "birçok": 2
+  },
+  "ädimleriň": {
+    "dair": 1
+  },
+  "sähelçe": {
+    "birkaç": 2
+  },
+  "diýip,": {
+    "diye": 3
+  },
+  "sebäpli,": {
+    "dolayı": 1
+  },
+  "tankytçylaryň": {
+    "boyunca": 1
+  },
+  "bahalarynda": {
+    "bir": 1
+  },
+  "görkezýän": {
+    "bir": 3
+  },
+  "meseleler": {
+    "göre": 1
+  },
+  "möhümdir\"": {
+    "hem": 2
+  },
+  "ministri,": {
+    "hem": 2
+  },
+  "Bolonýa": {
+    "karşı": 2
+  },
+  "toparyň": {
+    "birlikte": 1
+  },
+  "märekäniň": {
+    "bir": 3
+  },
+  "äkidip": {
+    "onları": 1
+  },
+  "islendik": {
+    "bir": 8
+  },
+  "bolsa-da,": {
+    "ancak": 4
+  },
+  "habarlaşyp": {
+    "kendimi": 1
+  },
+  "pille": {
+    "önce": 1
+  },
+  "depressiýa": {
+    "önce": 1
+  },
+  "adasyna": {
+    "bir": 1
+  },
+  "diýlip": {
+    "olarak": 3
+  },
+  "ýagyşlaryň": {
+    "bir": 1
+  },
+  "ýany": {
+    "birlikte": 1
+  },
+  "sesler": {
+    "de": 1
+  },
+  "oktýabrda": {
+    "tüm": 1
+  },
+  "görünmeýän": {
+    "bir": 2
+  },
+  "olary": {
+    "onları": 1
+  },
+  "işjeňlikden": {
+    "hiçbir": 1
+  },
+  "şübhelenilip": {
+    "sonra": 1
+  },
+  "edil": {
+    "gibi": 2
+  },
+  "kenarýakada": {
+    "eğer": 1
+  },
+  "piňime": {
+    "fakat": 1
+  },
+  "bardygyna": {
+    "için": 1
+  },
+  "Mekgede": {
+    "bu": 1
+  },
+  "diýilýän": {
+    "olarak": 4
+  },
+  "kosmosda": {
+    "rağmen": 1
+  },
+  "\"açyk": {
+    "yani": 1
+  },
+  "işi": {
+    "dolayı": 1
+  },
+  "uçuşynyň": {
+    "önce": 1
+  },
+  "garaşylýandygy": {
+    "dair": 1
+  },
+  "başynda": {
+    "bir": 2
+  },
+  "aradaşlykda": {
+    "bir": 1
+  },
+  "braziliýaly": {
+    "bu": 1
+  },
+  "alýan": {
+    "bir": 5
+  },
+  "berip,": {
+    "ve": 2
+  },
+  "ýurtlary": {
+    "de": 1
+  },
+  "abadançylygynyň": {
+    "onların": 1
+  },
+  "wulkanyň": {
+    "neden": 1
+  },
+  "üýtgeşmä": {
+    "yönelik": 1
+  },
+  "gaçysyna": {
+    "onu": 1
+  },
+  "etdi": {
+    "ve": 1
+  },
+  "gäminiň": {
+    "onlara": 1
+  },
+  "palata": {
+    "her": 1
+  },
+  "gözden": {
+    "yönelik": 1
+  },
+  "1973-nji": {
+    "kendisinin": 1
+  },
+  "1998-nji": {
+    "kendi": 1
+  },
+  "aýdylmagyna": {
+    "de": 1
+  },
+  "mekdebi": {
+    "kendisini": 1
+  },
+  "kommunistik": {
+    "rağmen": 1
+  },
+  "goşulyp,": {
+    "ve": 1
+  },
+  "du": {
+    "du": 1
+  },
+  "işgärleri": {
+    "kendisiyle": 1
+  },
+  "edýär,": {
+    "bir": 2
+  },
+  "biljek": {
+    "bir": 1
+  },
+  "dartylýandyklary": {
+    "birbirlerine": 1
+  },
+  "Elbetde,": {
+    "ki": 1
+  },
+  "öçürmeli": {
+    "ya": 1
+  },
+  "sizi": {
+    "sizi": 3
+  },
+  "däl-de,": {
+    "değil": 2
+  },
+  "kökleri": {
+    "hatta": 1
+  },
+  "iýendir": {
+    "ile": 1
+  },
+  "çalym": {
+    "gibi": 1
+  },
+  "agajyň": {
+    "için": 1
+  },
+  "güýji": {
+    "beni": 1
+  },
+  "diýilýär.": {
+    "olarak": 5
+  },
+  "teoriýasyny": {
+    "dair": 1
+  },
+  "Angliýada": {
+    "sonra": 1
+  },
+  "wagtlap": {
+    "bir": 3
+  },
+  "jemlenen": {
+    "önce": 1
+  },
+  "ýüzbe-ýüz": {
+    "de": 1
+  },
+  "öwretmegiň": {
+    "için": 1
+  },
+  "göçüp": {
+    "ve": 2
+  },
+  "gutaransoň,": {
+    "sonra": 2
+  },
+  "sanskrit": {
+    "dolayı": 1
+  },
+  "taýýarlanyp": {
+    "üzere": 1
+  },
+  "köpüsi": {
+    "çoğu": 2
+  },
+  "planlary": {
+    "ile": 1
+  },
+  "öňüsyrasynda": {
+    "önce": 1
+  },
+  "\"Oglan": {
+    "kimi": 1
+  },
+  "patyşalaryň": {
+    "çoğu": 1
+  },
+  "ony": {
+    "onu": 2,
+    "ve": 2
+  },
+  "köpüsi,": {
+    "çoğu": 1
+  },
+  "duşýan": {
+    "ve": 2
+  },
+  "340": {
+    "göre": 1
+  },
+  "birek-birege": {
+    "birbirlerini": 1
+  },
+  "golaýlaşdyrmak": {
+    "da": 1
+  },
+  "Däbe": {
+    "olarak": 1
+  },
+  "welin,": {
+    "ki": 2
+  },
+  "garaşsyzlygy": {
+    "ancak": 1
+  },
+  "tibet-mongol": {
+    "karşı": 1
+  },
+  "Namgýalyň": {
+    "bazı": 1
+  },
+  "relikwiýalarynyň": {
+    "neden": 1
+  },
+  "Kambojanyň": {
+    "da": 1
+  },
+  "senagatda,": {
+    "biri": 1
+  },
+  "hojalygynda": {
+    "biri": 1
+  },
+  "durýar,": {
+    "bu": 3
+  },
+  "pudagynda": {
+    "rağmen": 1
+  },
+  "biri-birine": {
+    "birbirine": 1
+  },
+  "baryp": {
+    "bir": 2
+  },
+  "bolýar.": {
+    "ile": 3
+  },
+  "telewizorda": {
+    "dolayı": 1
+  },
+  "görýän": {
+    "her": 3
+  },
+  "hakykata": {
+    "mi": 1
+  },
+  "berkitmeli": {
+    "bir": 1
+  },
+  "toparçalaryndan": {
+    "karşı": 1
+  },
+  "çalyşan": {
+    "bir": 1
+  },
+  "özüňizi": {
+    "kendinizi": 3
+  },
+  "ylahy": {
+    "dair": 1
+  },
+  "käbirleri": {
+    "bazıları": 4
+  },
+  "ulanar": {
+    "üzere": 1
+  },
+  "tohumlarından": {
+    "üzere": 1
+  },
+  "alynýan": {
+    "birçok": 1
+  },
+  "imperiýasy": {
+    "boyunca": 1
+  },
+  "bolsa": {
+    "ve": 2
+  },
+  "köpeldip": {
+    "birlikte": 1
+  },
+  "alyp": {
+    "neden": 3
+  },
+  "başgaçady.": {
+    "yönelik": 1
+  },
+  "gominidler": {
+    "olarak": 1
+  },
+  "uzynlygy": {
+    "birbirine": 1
+  },
+  "falangalary": {
+    "ile": 1
+  },
+  "ýöriteleşmäge": {
+    "bu": 1
+  },
+  "derejede": {
+    "kadar": 3,
+    "de": 3
+  },
+  "ýigrimi-otuz": {
+    "ya": 1
+  },
+  "minutdan": {
+    "da": 1
+  },
+  "ýaryşlaryna": {
+    "yani": 1
+  },
+  "barýança": {
+    "birçok": 1
+  },
+  "toplary": {
+    "onları": 1
+  },
+  "salýan": {
+    "bir": 1
+  },
+  "tapgyrda": {
+    "bir": 1
+  },
+  "başlap,": {
+    "ve": 1
+  },
+  "ýarymadanyň": {
+    "boyunca": 1
+  },
+  "kimiň": {
+    "önce": 1
+  },
+  "bolýar,": {
+    "ve": 2
+  },
+  "birleşdirip": {
+    "ile": 2
+  },
+  "Türgenler": {
+    "hiçbir": 1
+  },
+  "laýyklykda,": {
+    "göre": 1
+  },
+  "daşyndan": {
+    "onlara": 1
+  },
+  "bölejikden": {
+    "ve": 1
+  },
+  "neýtronlardan": {
+    "üzere": 1
+  },
+  "depressiýanyň,": {
+    "ya": 1
+  },
+  "gözleriň": {
+    "olarak": 1
+  },
+  "görnüşiň": {
+    "ait": 1
+  },
+  "birmeňzeş": {
+    "birbirinin": 1
+  },
+  "ýöräp,": {
+    "ve": 1
+  },
+  "düşelgede": {
+    "için": 1
+  },
+  "öýjükler": {
+    "o": 1
+  },
+  "ýaşaýşy": {
+    "kadar": 1
+  },
+  "möhümdir": {
+    "kadar": 1
+  },
+  "howpdan": {
+    "boyunca": 1
+  },
+  "uzakdaky": {
+    "hem": 2
+  },
+  "hyzmatdaşlyk": {
+    "bizimle": 1
+  },
+  "seretseňiz,": {
+    "ile": 1
+  },
+  "biolog": {
+    "bir": 1
+  },
+  "wagtyň": {
+    "kendiniz": 1
+  },
+  "suratdyr": {
+    "ve": 1
+  },
+  "manipulirlemekde": {
+    "için": 1
+  },
+  "Zelandiýadan": {
+    "kendine": 1
+  },
+  "maorilerdi.": {
+    "bunlar": 1
+  },
+  "dowamynda": {
+    "boyunca": 2
+  },
+  "kynçylyklara": {
+    "bizim": 1
+  },
+  "bize": {
+    "bizim": 1
+  },
+  "bilmäge": {
+    "hatta": 1
+  },
+  "taryhynyň": {
+    "nerede": 1
+  },
+  "biriniň": {
+    "birinin": 1
+  },
+  "özüniňki": {
+    "idi": 1
+  },
+  "köpimiz": {
+    "bize": 1
+  },
+  "aýna-süýümli": {
+    "birbirine": 1
+  },
+  "arktik": {
+    "üzere": 1
+  },
+  "köpüsinde,": {
+    "birçok": 1
+  },
+  "özlerini": {
+    "kendilerine": 1
+  },
+  "(demirgazyga": {
+    "kadar": 1
+  },
+  "gitdigiňçe,": {
+    "kadar": 2
+  },
+  "şonuň": {
+    "buna": 1
+  },
+  "eltip": {
+    "neden": 1
+  },
+  "skandinaw": {
+    "boyunca": 1
+  },
+  "gürlände": {
+    "diye": 1
+  },
+  "rugsatnamalar": {
+    "göre": 1
+  },
+  "gözelligini": {
+    "tüm": 1
+  },
+  "bolmaga": {
+    "rağmen": 1
+  },
+  "hut": {
+    "bunun": 1
+  },
+  "ýapylar": {
+    "kadar": 1
+  },
+  "ýok,": {
+    "değil": 1
+  },
+  "üpjün": {
+    "bir": 3
+  },
+  "etmäge": {
+    "için": 3
+  },
+  "däldir,": {
+    "değildir": 1
+  },
+  "ujunyň": {
+    "ucu": 1
+  },
+  "karib": {
+    "ise": 1
+  },
+  "şäheri": {
+    "bu": 1
+  },
+  "Amerikadaky": {
+    "ise": 1
+  },
+  "Bartolome": {
+    "ile": 1
+  },
+  "şertnamasy)": {
+    "de": 1
+  },
+  "ýyllar": {
+    "de": 1
+  },
+  "Bileleşik": {
+    "de": 1
+  },
+  "69": {
+    "ile": 1
+  },
+  "hekaýany": {
+    "size": 1
+  },
+  "otaglary": {
+    "da": 1
+  },
+  "şunuň": {
+    "bu": 1
+  },
+  "\"düşelge\"": {
+    "kendi": 1
+  },
+  "edinmegiň": {
+    "bir": 1
+  },
+  "eplenýän": {
+    "ya": 2
+  },
+  "ulgamlar": {
+    "buna": 1,
+    "karşın": 1
+  },
+  "ýigrimilik": {
+    "örneğin": 1
+  },
+  "bolar,": {
+    "onu": 1
+  },
+  "noýabryň": {
+    "her": 2
+  },
+  "diýilýär)": {
+    "da": 4
+  },
+  "(başga": {
+    "de": 1
+  },
+  "50": {
+    "bunlardan": 1
+  },
+  "bolýan": {
+    "bir": 2
+  },
+  "mm2": {
+    "karşı": 1
+  },
+  "seýilgähleriň": {
+    "değildir": 1
+  },
+  "ürkek": {
+    "ya": 2
+  },
+  "salgylara": {
+    "bu": 1
+  },
+  "degişlidir.": {
+    "için": 1
+  },
+  "mançesterli,": {
+    "bir": 1
+  },
+  "ýamaýkaly": {
+    "bir": 1
+  },
+  "çykaryň": {
+    "bunları": 1
+  },
+  "nusgalaryny": {
+    "birlikte": 1
+  },
+  "gorarlar.": {
+    "kendini": 1
+  },
+  "astynda": {
+    "kendilerini": 1
+  },
+  "dozalarda": {
+    "üzere": 1
+  },
+  "aýratyn-da": {
+    "de": 1
+  },
+  "barlagyny": {
+    "kendi": 1
+  },
+  "resepti": {
+    "üzere": 1
+  },
+  "görnüşlerini": {
+    "birçok": 1
+  },
+  "geçireniňe": {
+    "birçok": 1
+  },
+  "kanýonyň": {
+    "bir": 1
+  },
+  "zatlaryň": {
+    "her": 2
+  },
+  "dükanyň": {
+    "da": 1
+  },
+  "dünýäni": {
+    "dolayı": 1
+  },
+  "aşyrmagyň": {
+    "bazı": 1
+  },
+  "barlag-goýberiş": {
+    "bir": 1
+  },
+  "otlularyň": {
+    "birine": 1
+  },
+  "barmagyň": {
+    "bir": 1
+  },
+  "pueblolaryň": {
+    "ne": 1
+  },
+  "çoladygy": {
+    "kadar": 1
+  },
+  "birnäçesi": {
+    "bunlardan": 1
+  },
+  "suratlaryna": {
+    "ya": 1
+  },
+  "ony,": {
+    "bunu": 1
+  },
+  "Çukur": {
+    "ya": 1
+  },
+  "bişirmekde": {
+    "için": 1
+  },
+  "sumkalaryňyzy": {
+    "de": 1
+  },
+  "daşaýjy": {
+    "bu": 1
+  },
+  "itler": {
+    "buna": 1
+  },
+  "ulanylyp": {
+    "de": 1
+  },
+  "ünsüni": {
+    "karşı": 1
+  },
+  "zerarly,": {
+    "onlara": 1
+  },
+  "Montezumanyň": {
+    "bunlar": 1,
+    "gibi": 1
+  },
+  "bolmasa-da": {
+    "bir": 2
+  },
+  "ýazyp": {
+    "da": 1
+  },
+  "kesellere": {
+    "bazı": 1
+  },
+  "taksiler": {
+    "ancak": 1
+  },
+  "Şarlottada": {
+    "bazı": 1
+  },
+  "bazada": {
+    "birkaç": 1
+  },
+  "garyň": {
+    "şu": 1
+  },
+  "ýelmeşegen": {
+    "ki": 1
+  },
+  "guýguçlar": {
+    "gibi": 1
+  },
+  "edijileri": {
+    "hem": 1
+  },
+  "senzuradan": {
+    "hem": 1
+  },
+  "maksady": {
+    "bunun": 1
+  },
+  "kompaniýalara": {
+    "o": 1
+  },
+  "munuň": {
+    "her": 1
+  },
+  "size": {
+    "sizi": 2
+  },
+  "köpüsinden": {
+    "çoğu": 1
+  },
+  "beter": {
+    "için": 1,
+    "de": 1
+  },
+  "websaýtyny": {
+    "kendi": 1
+  },
+  "Getirip": {
+    "neleri": 1
+  },
+  "berer": {
+    "birkaçı": 1
+  },
+  "ýerleriň": {
+    "tüm": 1
+  },
+  "gymmaty": {
+    "ötürü": 1
+  },
+  "\"salamlaşmagy\"": {
+    "bir": 1
+  },
+  "etse,": {
+    "bunlar": 1
+  },
+  "awtoulaga": {
+    "siz": 1
+  },
+  "sanlyja": {
+    "birkaç": 2
+  },
+  "dursa,": {
+    "sizinle": 1
+  },
+  "guşlara-da,": {
+    "hem": 2
+  },
+  "süýdemdirijilere-de": {
+    "de": 1
+  },
+  "berildi,": {
+    "bunların": 1
+  },
+  "ümmülmez": {
+    "bir": 2
+  },
+  "Rogalandda": {
+    "bunlar": 1
+  },
+  "jaýryklar": {
+    "ve": 1
+  },
+  "gyradan": {
+    "de": 1
+  }
+}

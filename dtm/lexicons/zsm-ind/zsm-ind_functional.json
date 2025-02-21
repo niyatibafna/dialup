@@ -1,0 +1,4347 @@
+{
+  "serta": {
+    "dan": 0.556,
+    "serta": 0.556
+  },
+  "aku": {
+    "aku": 0.778,
+    "beta": 0.778,
+    "saya": 0.778
+  },
+  "atau": {
+    "atau": 0.778
+  },
+  "terjadi": {
+    "melalui": 0.0,
+    "mengenai": 0.0
+  },
+  "ke": {
+    "hingga": 0.778,
+    "ke": 0.778,
+    "kepada": 0.778,
+    "sampai": 0.778
+  },
+  "kepada": {
+    "hingga": 0.778,
+    "ke": 0.778,
+    "kepada": 0.778,
+    "sampai": 0.778
+  },
+  "pada": {
+    "pada": 0.556
+  },
+  "daripada": {
+    "bahwa": 0.778,
+    "daripada": 0.778
+  },
+  "bagi ... membagi": {
+    "bagi": 0.222
+  },
+  "menggunakan": {
+    "dapat": 0.0,
+    "guna": 0.0
+  },
+  "macam": {
+    "seperti": 0.778
+  },
+  "mahu": {
+    "ingin": 0.778,
+    "mau": 0.778
+  },
+  "mau": {
+    "mau": 0.778
+  },
+  "menolak": {
+    "tentang": 0.0
+  },
+  "lebih kurang": {
+    "beberapa": 0.0,
+    "dari": 0.0,
+    "sebagian": 0.0,
+    "sekitar": 0.0,
+    "seputar": 0.0,
+    "tentang": 0.0,
+    "terhadap": 0.0
+  },
+  "sudah": {
+    "sudah": 0.778
+  },
+  "bagian": {
+    "sebagian": 0.0
+  },
+  "sendiri": {
+    "sendiri": 0.556
+  },
+  "sesudah": {
+    "sesudah": 0.778,
+    "setelah": 0.778
+  },
+  "begini": {
+    "begini": 0.556
+  },
+  "yang": {
+    "yang": 0.778
+  },
+  "kebanyakan": {
+    "kebanyakan": 0.0
+  },
+  "umpama": {
+    "seperti": 0.556
+  },
+  "menerima": {
+    "dapat": 0.0,
+    "mengajak": 0.0,
+    "menurut": 0.0
+  },
+  "minta": {
+    "mengajak": 0.778
+  },
+  "menangkap": {
+    "dapat": 0.0
+  },
+  "mengisi": {
+    "ke": 0.0,
+    "lalu": 0.0,
+    "menuju": 0.0
+  },
+  "memutuskan": {
+    "jangan": 0.0,
+    "sekitar": 0.0
+  },
+  "ajak ... mengajak": {
+    "mengajak": 0.111
+  },
+  "kalau-kalau": {
+    "kalau": 0.778
+  },
+  "perlu": {
+    "harus": 0.556
+  },
+  "boleh": {
+    "bisa": 0.778,
+    "boleh": 0.778,
+    "dapat": 0.778
+  },
+  "tidak": {
+    "bukan": 0.778,
+    "tak": 0.778,
+    "tidak": 0.778
+  },
+  "ya": {
+    "ya": 0.778
+  },
+  "melalui": {
+    "melalui": 0.0
+  },
+  "kesempatan": {
+    "ketika": 0.0,
+    "untung": 0.0
+  },
+  "keperluan": {
+    "harus": 0.0,
+    "mesti": 0.0,
+    "seharusnya": 0.0,
+    "wajib": 0.0
+  },
+  "tiap": {
+    "tiap": 0.556
+  },
+  "sebagai": {
+    "sebagai": 0.556
+  },
+  "boleh jadi": {
+    "harus": 0.0,
+    "mungkin": 0.0
+  },
+  "melatih": {
+    "ialah": 0.0
+  },
+  "menubruk": {
+    "dapat": 0.0,
+    "mengenai": 0.0,
+    "sampai": 0.0
+  },
+  "bermaksud": {
+    "mereka": 0.0
+  },
+  "alpa": {
+    "lengah": 0.0
+  },
+  "anda": {
+    "anda": 0.556,
+    "engkau": 0.556,
+    "kamu": 0.556
+  },
+  "antara": {
+    "antara": 0.556
+  },
+  "asal": {
+    "asal": 0.556
+  },
+  "atas": {
+    "atas": 0.778
+  },
+  "bahkan": {
+    "bahkan": 0.556
+  },
+  "beberapa": {
+    "beberapa": 0.556
+  },
+  "beliau": {
+    "dia": 0.778,
+    "ia": 0.778
+  },
+  "kamu": {
+    "anda": 0.556,
+    "engkau": 0.556,
+    "kamu": 0.556
+  },
+  "ketibaan": {
+    "sampai": 0.0
+  },
+  "membina": {
+    "diri": 0.0,
+    "ialah": 0.0,
+    "mereka": 0.0
+  },
+  "membohongi": {
+    "mengenai": 0.0
+  },
+  "membuka": {
+    "diri": 0.0,
+    "ialah": 0.0
+  },
+  "menganggarkan": {
+    "sekitar": 0.0
+  },
+  "mereka": {
+    "mereka": 0.778
+  },
+  "pembukaan": {
+    "asal": 0.0,
+    "sesuatu": 0.0
+  },
+  "perantaraan": {
+    "antara": 0.0
+  },
+  "sebanding": {
+    "adalah": 0.0,
+    "bagai": 0.0,
+    "sebagai": 0.0,
+    "semacam": 0.0,
+    "seperti": 0.0
+  },
+  "semua": {
+    "semua": 0.778
+  },
+  "tanpa": {
+    "tanpa": 0.556
+  },
+  "tunggakan": {
+    "lalu": 0.0
+  },
+  "wajib": {
+    "wajib": 0.556
+  },
+  "walau": {
+    "meski": 0.778,
+    "walau": 0.778
+  },
+  "dapat": {
+    "bisa": 0.778,
+    "boleh": 0.778
+  },
+  "karena": {
+    "karena": 0.778
+  },
+  "sebab": {
+    "karena": 0.778
+  },
+  "sesuatu": {
+    "sesuatu": 0.556
+  },
+  "tambahan": {
+    "jangan": 0.0
+  },
+  "alias": {
+    "atau": 0.0
+  },
+  "guna": {
+    "guna": 0.556
+  },
+  "beta": {
+    "aku": 0.778,
+    "beta": 0.778,
+    "saya": 0.778
+  },
+  "banding": {
+    "daripada": 0.556
+  },
+  "kemasukan": {
+    "sesuatu": 0.0
+  },
+  "sejagat": {
+    "seluruh": 0.0
+  },
+  "kumpulan": {
+    "keseluruhan": 0.0
+  },
+  "kena": {
+    "tentang": 0.556
+  },
+  "laluan": {
+    "lalu": 0.0
+  },
+  "tentatif": {
+    "sementara": 0.0
+  },
+  "Maine": {
+    "aku": 0.0,
+    "saya": 0.0
+  },
+  "apa": {
+    "apa": 0.778
+  },
+  "bukan": {
+    "bukan": 0.778,
+    "tak": 0.778,
+    "tidak": 0.778
+  },
+  "dalam": {
+    "dalam": 0.556
+  },
+  "dan": {
+    "dan": 0.778,
+    "serta": 0.778
+  },
+  "di": {
+    "sini": 0.778
+  },
+  "dia": {
+    "beliau": 0.778,
+    "dia": 0.778,
+    "ia": 0.778
+  },
+  "engkau": {
+    "kamu": 0.778
+  },
+  "ini": {
+    "ini": 0.778,
+    "itu": 0.778,
+    "sang": 0.778,
+    "si": 0.778
+  },
+  "itu": {
+    "itu": 0.778,
+    "sang": 0.778,
+    "si": 0.778
+  },
+  "jika": {
+    "apabila": 0.778,
+    "jika": 0.778,
+    "kalau": 0.778
+  },
+  "kami": {
+    "kami": 0.778,
+    "kita": 0.778
+  },
+  "kira": {
+    "apabila": 0.778,
+    "jika": 0.778,
+    "kalau": 0.778
+  },
+  "kita": {
+    "kita": 0.778
+  },
+  "mana": {
+    "mana": 0.778
+  },
+  "saya": {
+    "aku": 0.778,
+    "beta": 0.778,
+    "saya": 0.778
+  },
+  "siapa": {
+    "siapa": 0.778
+  },
+  "saudari": {
+    "engkau": 0.556,
+    "kamu": 0.556
+  },
+  "dengan": {
+    "dengan": 0.778
+  },
+  "kalau": {
+    "apabila": 0.778,
+    "jika": 0.778,
+    "kalau": 0.778
+  },
+  "kalian": {
+    "kalian": 0.778
+  },
+  "yang ini": {
+    "ini": 0.556
+  },
+  "yang itu": {
+    "itu": 0.556
+  },
+  "apabila": {
+    "apabila": 0.556,
+    "bila": 0.556,
+    "kalau": 0.556,
+    "ketika": 0.556
+  },
+  "bagi": {
+    "bagi": 0.556,
+    "untuk": 0.556
+  },
+  "diri": {
+    "diri": 0.556
+  },
+  "bersama": {
+    "dengan": 0.556
+  },
+  "kerana": {
+    "karena": 0.778
+  },
+  "sini": {
+    "sini": 0.778
+  },
+  "meninggalkan": {
+    "kecuali": 0.0,
+    "mengajak": 0.0,
+    "selain": 0.0
+  },
+  "orang asli": {
+    "asal": 0.0
+  },
+  "membebaskan": {
+    "sampai": 0.0
+  },
+  "jalan masuk": {
+    "sesuatu": 0.0
+  },
+  "melaksanakan": {
+    "dapat": 0.0,
+    "mereka": 0.0,
+    "sampai": 0.0
+  },
+  "kemahiran": {
+    "mampu": 0.778
+  },
+  "persetujuan": {
+    "berkat": 0.0
+  },
+  "membiasakan": {
+    "menurut": 0.0
+  },
+  "menghargai": {
+    "sekitar": 0.0
+  },
+  "memperoleh": {
+    "dapat": 0.0,
+    "guna": 0.0,
+    "sampai": 0.0,
+    "untung": 0.0
+  },
+  "menggerakkan": {
+    "melalui": 0.0
+  },
+  "menguntungkan": {
+    "guna": 0.0,
+    "untung": 0.0
+  },
+  "melibatkan": {
+    "mengajak": 0.0,
+    "mengenai": 0.0
+  },
+  "berpura-pura": {
+    "mengenai": 0.0
+  },
+  "bergabung": {
+    "bersama": 0.0
+  },
+  "kesamaan": {
+    "siapa": 0.0
+  },
+  "menghidap": {
+    "dapat": 0.0
+  },
+  "sesudahnya": {
+    "sesudah": 0.0,
+    "setelah": 0.0
+  },
+  "menyakitkan hati": {
+    "bisa": 0.0
+  },
+  "serupa": {
+    "bagai": 0.0,
+    "demikian": 0.0,
+    "sebagai": 0.0,
+    "sebagaimana": 0.0,
+    "semacam": 0.0,
+    "seperti": 0.0
+  },
+  "mengizinkan": {
+    "dapat": 0.0
+  },
+  "menggoda": {
+    "dapat": 0.0,
+    "mengajak": 0.0
+  },
+  "seorang diri": {
+    "sendiri": 0.0
+  },
+  "telah": {
+    "telah": 0.556
+  },
+  "berubah": {
+    "lalu": 0.0
+  },
+  "sekitar": {
+    "beberapa": 0.0,
+    "dari": 0.0,
+    "sebagian": 0.0,
+    "sekitar": 0.0,
+    "seputar": 0.0,
+    "tentang": 0.0,
+    "terhadap": 0.0
+  },
+  "hasrat": {
+    "ingin": 0.556
+  },
+  "pemotongan": {
+    "lalu": 0.0
+  },
+  "ketinggalan": {
+    "lengah": 0.0
+  },
+  "memancing": {
+    "mengajak": 0.0
+  },
+  "merangsang": {
+    "dapat": 0.0
+  },
+  "sebelum": {
+    "sebelum": 0.556
+  },
+  "menjangka": {
+    "mengajak": 0.0
+  },
+  "merayu": {
+    "dapat": 0.0
+  },
+  "kelihatan": {
+    "adalah": 0.0,
+    "ialah": 0.0,
+    "sampai": 0.0
+  },
+  "menilai": {
+    "sekitar": 0.0
+  },
+  "menikmati": {
+    "sebagai": 0.0,
+    "seperti": 0.0
+  },
+  "menemui": {
+    "melalui": 0.0,
+    "mengenai": 0.0
+  },
+  "menjelang": {
+    "dari": 0.0,
+    "sekitar": 0.0,
+    "seputar": 0.0,
+    "tentang": 0.0,
+    "terhadap": 0.0
+  },
+  "kelulusan": {
+    "berkat": 0.0
+  },
+  "membenarkan": {
+    "menurut": 0.0
+  },
+  "menimbulkan": {
+    "dapat": 0.0
+  },
+  "mengurus": {
+    "dapat": 0.0,
+    "mereka": 0.0
+  },
+  "mengatur": {
+    "dapat": 0.0,
+    "mereka": 0.0
+  },
+  "menyusun": {
+    "mereka": 0.0
+  },
+  "mengambil": {
+    "dapat": 0.0,
+    "guna": 0.0,
+    "ke": 0.0,
+    "mengajak": 0.0,
+    "menuju": 0.0,
+    "sampai": 0.0
+  },
+  "sebegitu": {
+    "sebagai": 0.0,
+    "selaku": 0.0,
+    "seperti": 0.0
+  },
+  "meminta": {
+    "dapat": 0.0,
+    "ingin": 0.0,
+    "mau": 0.0,
+    "mengajak": 0.0
+  },
+  "memerlukan": {
+    "ingin": 0.0,
+    "mau": 0.0,
+    "mengajak": 0.0
+  },
+  "menanyakan": {
+    "mengajak": 0.0
+  },
+  "memasang": {
+    "antara": 0.0,
+    "beberapa": 0.0,
+    "ke": 0.0,
+    "lalu": 0.0,
+    "menuju": 0.0
+  },
+  "pelbagai": {
+    "bagai": 0.556
+  },
+  "menghilangkan": {
+    "kecuali": 0.0,
+    "selain": 0.0
+  },
+  "memikul": {
+    "mengajak": 0.0
+  },
+  "merosakkan": {
+    "bisa": 0.0
+  },
+  "tertarik": {
+    "mengajak": 0.0
+  },
+  "tamak": {
+    "ingin": 0.0
+  },
+  "lepas": {
+    "lewat": 0.556
+  },
+  "terbalik": {
+    "lalu": 0.0
+  },
+  "mendapat": {
+    "dapat": 0.0,
+    "mengajak": 0.0,
+    "sampai": 0.0
+  },
+  "lebihan": {
+    "jangan": 0.0
+  },
+  "mengasaskan": {
+    "diri": 0.0,
+    "ialah": 0.0
+  },
+  "memancarkan": {
+    "mereka": 0.0
+  },
+  "mendahului": {
+    "ke": 0.0,
+    "lalu": 0.0,
+    "melewati": 0.0,
+    "menuju": 0.0,
+    "sebelum": 0.0
+  },
+  "mengatasi": {
+    "dapat": 0.0,
+    "ke": 0.0,
+    "lalu": 0.0,
+    "melewati": 0.0,
+    "menuju": 0.0
+  },
+  "mengalahkan": {
+    "melewati": 0.0
+  },
+  "menjadi": {
+    "adalah": 0.0,
+    "ialah": 0.0,
+    "sampai": 0.0
+  },
+  "berlaku": {
+    "dapat": 0.0,
+    "mengenai": 0.0
+  },
+  "permulaan": {
+    "asal": 0.0
+  },
+  "kewujudan": {
+    "sesuatu": 0.0
+  },
+  "terlewat": {
+    "lewat": 0.0
+  },
+  "lewat": {
+    "lewat": 0.556
+  },
+  "menunjukkan": {
+    "ialah": 0.0
+  },
+  "mempengaruhi": {
+    "ke": 0.0,
+    "mengajak": 0.0,
+    "mengenai": 0.0,
+    "menuju": 0.0
+  },
+  "bertengkar": {
+    "tentang": 0.0
+  },
+  "tiupan": {
+    "lalu": 0.0
+  },
+  "menggalakkan": {
+    "dapat": 0.0
+  },
+  "menyusahkan": {
+    "mengenai": 0.0
+  },
+  "membuang": {
+    "bisa": 0.0,
+    "dapat": 0.0
+  },
+  "membatasi": {
+    "melainkan": 0.0,
+    "mengenai": 0.0
+  },
+  "memecahkan": {
+    "melainkan": 0.0
+  },
+  "membawa": {
+    "dapat": 0.0,
+    "ke": 0.0,
+    "lalu": 0.0,
+    "mengajak": 0.0,
+    "mengenai": 0.0,
+    "menuju": 0.0,
+    "sampai": 0.0,
+    "sebelum": 0.0
+  },
+  "menyebabkan": {
+    "dapat": 0.0,
+    "ke": 0.0,
+    "mengajak": 0.0,
+    "menuju": 0.0
+  },
+  "memulakan": {
+    "diri": 0.0,
+    "ialah": 0.0
+  },
+  "meletakkan": {
+    "guna": 0.0
+  },
+  "mengeram": {
+    "mereka": 0.0
+  },
+  "menentang": {
+    "tentang": 0.0
+  },
+  "berganjak": {
+    "melalui": 0.0
+  },
+  "mendirikan": {
+    "diri": 0.0,
+    "ialah": 0.0
+  },
+  "tersembul": {
+    "sampai": 0.0
+  },
+  "membebani": {
+    "mengajak": 0.0
+  },
+  "menguburkan": {
+    "antara": 0.0
+  },
+  "mengetinkan": {
+    "bisa": 0.0,
+    "boleh": 0.0,
+    "dapat": 0.0
+  },
+  "menyerah": {
+    "jangan": 0.0,
+    "menurut": 0.0
+  },
+  "bersahaja": {
+    "lengah": 0.0,
+    "sedang": 0.0
+  },
+  "menjinjing": {
+    "mengajak": 0.0
+  },
+  "mengangkut": {
+    "mengajak": 0.0,
+    "sampai": 0.0
+  },
+  "memecat": {
+    "bisa": 0.0,
+    "dapat": 0.0
+  },
+  "lontaran": {
+    "sesuatu": 0.0
+  },
+  "menyerahkan": {
+    "menurut": 0.0
+  },
+  "mempengerusikan": {
+    "ke": 0.0,
+    "menuju": 0.0
+  },
+  "kemungkinan": {
+    "mungkin": 0.0
+  },
+  "kebetulan": {
+    "untung": 0.0
+  },
+  "nasib": {
+    "untung": 0.556
+  },
+  "bertukar": {
+    "lalu": 0.0
+  },
+  "mengarahkan": {
+    "ke": 0.0,
+    "mengajak": 0.0,
+    "menuju": 0.0
+  },
+  "berbunyi": {
+    "menurut": 0.0
+  },
+  "mengelilingi": {
+    "beberapa": 0.0,
+    "sebagian": 0.0,
+    "sekitar": 0.0
+  },
+  "keadaan": {
+    "sebelah": 0.0
+  },
+  "meningkat": {
+    "diri": 0.0
+  },
+  "menuntut": {
+    "mengajak": 0.0
+  },
+  "mengapit": {
+    "mengajak": 0.0
+  },
+  "sama sekali": {
+    "keseluruhan": 0.0,
+    "segenap": 0.0,
+    "seluruh": 0.0,
+    "semua": 0.0
+  },
+  "membelasah": {
+    "dapat": 0.0,
+    "mengenai": 0.0,
+    "sampai": 0.0
+  },
+  "memaksa": {
+    "dapat": 0.0,
+    "mengajak": 0.0,
+    "wajib": 0.0
+  },
+  "sezaman": {
+    "semasa": 0.0
+  },
+  "bekerjasama": {
+    "bersama": 0.0
+  },
+  "menjajah": {
+    "mengenai": 0.0
+  },
+  "menggabungkan": {
+    "beberapa": 0.0
+  },
+  "sampai": {
+    "sampai": 0.556
+  },
+  "memerintah": {
+    "ke": 0.0,
+    "menuju": 0.0
+  },
+  "melakukan": {
+    "dapat": 0.0,
+    "ialah": 0.0,
+    "melalui": 0.0,
+    "mengenai": 0.0,
+    "mereka": 0.0,
+    "sampai": 0.0
+  },
+  "lingkungan": {
+    "sekitar": 0.0
+  },
+  "mendesak": {
+    "mengajak": 0.0,
+    "wajib": 0.0
+  },
+  "menurut": {
+    "menurut": 0.0
+  },
+  "membentuk": {
+    "dapat": 0.0,
+    "diri": 0.0,
+    "ialah": 0.0,
+    "ke": 0.0,
+    "lalu": 0.0,
+    "mengajak": 0.0,
+    "mengenai": 0.0,
+    "menuju": 0.0,
+    "mereka": 0.0,
+    "sampai": 0.0
+  },
+  "menyeluruh": {
+    "keseluruhan": 0.0
+  },
+  "menekan": {
+    "guna": 0.0,
+    "mengajak": 0.0,
+    "wajib": 0.0
+  },
+  "merangkaikan": {
+    "beberapa": 0.0
+  },
+  "kena-mengena": {
+    "mengenai": 0.0
+  },
+  "mereka-reka": {
+    "mereka": 0.0,
+    "sekitar": 0.0
+  },
+  "mengendalikan": {
+    "dapat": 0.0
+  },
+  "gabungan": {
+    "bersama": 0.0
+  },
+  "menahan": {
+    "diri": 0.0,
+    "jangan": 0.0,
+    "tentang": 0.0
+  },
+  "mengagak": {
+    "sekitar": 0.0
+  },
+  "berturutan": {
+    "demi": 0.0
+  },
+  "menganggap": {
+    "mengenai": 0.0,
+    "mereka": 0.0
+  },
+  "bersatu": {
+    "bersama": 0.0
+  },
+  "menubuhkan": {
+    "diri": 0.0,
+    "ialah": 0.0
+  },
+  "merupakan": {
+    "adalah": 0.0,
+    "diri": 0.0,
+    "ialah": 0.0
+  },
+  "terpaksa": {
+    "dapat": 0.0,
+    "harus": 0.0,
+    "mesti": 0.0
+  },
+  "merujuk": {
+    "mengenai": 0.0
+  },
+  "menghabiskan": {
+    "ke": 0.0,
+    "lalu": 0.0,
+    "menuju": 0.0
+  },
+  "menyempurnakan": {
+    "dapat": 0.0,
+    "sampai": 0.0
+  },
+  "sentuhan": {
+    "mengenai": 0.0
+  },
+  "berikutan": {
+    "sesudah": 0.0,
+    "setelah": 0.0
+  },
+  "meneruskan": {
+    "mengajak": 0.0
+  },
+  "mengadakan": {
+    "dapat": 0.0,
+    "diri": 0.0,
+    "ialah": 0.0,
+    "mereka": 0.0
+  },
+  "mengikhtiarkan": {
+    "mereka": 0.0
+  },
+  "mengawan": {
+    "beberapa": 0.0
+  },
+  "memalsukan": {
+    "mereka": 0.0
+  },
+  "bersanggama": {
+    "beberapa": 0.0
+  },
+  "pasangan": {
+    "beberapa": 0.0
+  },
+  "menginginkan": {
+    "bagai": 0.0,
+    "ingin": 0.0,
+    "mau": 0.0,
+    "sebagai": 0.0,
+    "seperti": 0.0
+  },
+  "mencipta": {
+    "mereka": 0.0
+  },
+  "berselisih": {
+    "tentang": 0.0
+  },
+  "merunduk": {
+    "menurut": 0.0
+  },
+  "memenuhi": {
+    "dapat": 0.0,
+    "sampai": 0.0
+  },
+  "masakan": {
+    "jangan": 0.0
+  },
+  "mengusahakan": {
+    "dapat": 0.0,
+    "mereka": 0.0
+  },
+  "berlengah-lengah": {
+    "lengah": 0.0
+  },
+  "kelewatan": {
+    "lewat": 0.0
+  },
+  "menghantar": {
+    "ke": 0.0,
+    "lalu": 0.0,
+    "mengajak": 0.0,
+    "menuju": 0.0,
+    "sebelum": 0.0
+  },
+  "menyelamatkan": {
+    "antara": 0.0,
+    "jangan": 0.0
+  },
+  "menyambut": {
+    "dapat": 0.0,
+    "mengajak": 0.0
+  },
+  "menghendaki": {
+    "harus": 0.556
+  },
+  "menggambarkan": {
+    "ialah": 0.0
+  },
+  "melukiskan": {
+    "ialah": 0.0
+  },
+  "berasal": {
+    "sebelum": 0.0
+  },
+  "mereka bentuk": {
+    "mereka": 0.0
+  },
+  "merancang": {
+    "mereka": 0.0
+  },
+  "menghasratkan": {
+    "ingin": 0.0,
+    "mau": 0.0
+  },
+  "memusnahkan": {
+    "bisa": 0.0,
+    "dapat": 0.0
+  },
+  "menceraikan": {
+    "melainkan": 0.0
+  },
+  "menjumpai": {
+    "mengenai": 0.0
+  },
+  "menetapkan": {
+    "diri": 0.0,
+    "ialah": 0.0
+  },
+  "merencanakan": {
+    "mereka": 0.0
+  },
+  "mencernakan": {
+    "mengajak": 0.0
+  },
+  "mengetuai": {
+    "ke": 0.0,
+    "mengajak": 0.0,
+    "menuju": 0.0
+  },
+  "melepaskan": {
+    "bisa": 0.0,
+    "dapat": 0.0
+  },
+  "menemukan": {
+    "beberapa": 0.0,
+    "dapat": 0.0,
+    "mengenai": 0.0,
+    "mereka": 0.0
+  },
+  "mengasingkan": {
+    "melainkan": 0.0
+  },
+  "menyingkirkan": {
+    "kecuali": 0.0,
+    "selain": 0.0
+  },
+  "memisahkan": {
+    "melainkan": 0.0,
+    "mengenai": 0.0
+  },
+  "mengenakan": {
+    "guna": 0.0
+  },
+  "berdua": {
+    "berdua": 0.0
+  },
+  "menyeret": {
+    "ke": 0.0,
+    "mengajak": 0.0,
+    "menuju": 0.0
+  },
+  "menutupi": {
+    "melalui": 0.0
+  },
+  "mengeluarkan": {
+    "lalu": 0.0,
+    "mereka": 0.0
+  },
+  "jangka masa": {
+    "ketika": 0.0,
+    "selama": 0.0
+  },
+  "kewajipan": {
+    "wajib": 0.556
+  },
+  "membeo": {
+    "menurut": 0.0
+  },
+  "meminggiri": {
+    "mengenai": 0.0
+  },
+  "berlalu": {
+    "ke": 0.0,
+    "lalu": 0.0,
+    "menuju": 0.0
+  },
+  "asas": {
+    "diri": 0.556
+  },
+  "mengangkat": {
+    "mengajak": 0.0
+  },
+  "menggaji": {
+    "guna": 0.0
+  },
+  "melakonkan": {
+    "adalah": 0.0
+  },
+  "menamatkan": {
+    "jangan": 0.0
+  },
+  "menyuruh": {
+    "dapat": 0.0
+  },
+  "mendapatkan": {
+    "dapat": 0.0,
+    "sampai": 0.0
+  },
+  "membayangkan": {
+    "mereka": 0.0
+  },
+  "persamaan": {
+    "siapa": 0.0
+  },
+  "setara": {
+    "adalah": 0.0,
+    "sebagaimana": 0.0
+  },
+  "mewujudkan": {
+    "diri": 0.0,
+    "ialah": 0.0,
+    "mereka": 0.0
+  },
+  "menjengkelkan": {
+    "mengenai": 0.0
+  },
+  "melebihi": {
+    "lalu": 0.0,
+    "melewati": 0.0
+  },
+  "pengecualian": {
+    "kecuali": 0.0
+  },
+  "memotong": {
+    "lalu": 0.0,
+    "mereka": 0.0
+  },
+  "mengecualikan": {
+    "kecuali": 0.0,
+    "selain": 0.0
+  },
+  "menggesa": {
+    "mengajak": 0.0
+  },
+  "mengalami": {
+    "dapat": 0.0,
+    "lalu": 0.0
+  },
+  "memperpanjang": {
+    "ke": 0.0,
+    "lalu": 0.0,
+    "menuju": 0.0
+  },
+  "merentangkan": {
+    "ke": 0.0,
+    "lalu": 0.0,
+    "menuju": 0.0
+  },
+  "meluas": {
+    "ke": 0.0,
+    "lalu": 0.0,
+    "menuju": 0.0
+  },
+  "menyelami": {
+    "sekitar": 0.0
+  },
+  "melawan": {
+    "tentang": 0.0
+  },
+  "menyaring": {
+    "melainkan": 0.0,
+    "sampai": 0.0
+  },
+  "terakhir": {
+    "lalu": 0.0
+  },
+  "mendatar": {
+    "lantas": 0.0
+  },
+  "sepintas lalu": {
+    "sementara": 0.0
+  },
+  "menyusuli": {
+    "menurut": 0.0
+  },
+  "berikut": {
+    "menurut": 0.0
+  },
+  "kedudukan": {
+    "sebelah": 0.0
+  },
+  "prakata": {
+    "sesuatu": 0.0
+  },
+  "terlupa": {
+    "kecuali": 0.0,
+    "selain": 0.0
+  },
+  "penubuhan": {
+    "diri": 0.556
+  },
+  "beruntung": {
+    "guna": 0.0,
+    "untung": 0.0
+  },
+  "ke hadapan": {
+    "sebelum": 0.0
+  },
+  "berhasil": {
+    "dapat": 0.0,
+    "ke": 0.0,
+    "mengajak": 0.0,
+    "mengenai": 0.0,
+    "menuju": 0.0,
+    "sampai": 0.0
+  },
+  "pelarian": {
+    "sementara": 0.0
+  },
+  "lagi pula": {
+    "bahkan": 0.0
+  },
+  "pulang": {
+    "untung": 0.556
+  },
+  "kebaikan": {
+    "berkat": 0.0
+  },
+  "rakus": {
+    "ingin": 0.0
+  },
+  "loba": {
+    "ingin": 0.0
+  },
+  "bersedih": {
+    "mengenai": 0.0
+  },
+  "membimbing": {
+    "ke": 0.0,
+    "lalu": 0.0,
+    "mengajak": 0.0,
+    "menuju": 0.0,
+    "mereka": 0.0,
+    "sebelum": 0.0
+  },
+  "menetak": {
+    "diri": 0.0,
+    "ialah": 0.0
+  },
+  "memanfaatkan": {
+    "guna": 0.0,
+    "untung": 0.0
+  },
+  "seorang": {
+    "seorang": 0.556
+  },
+  "hamba": {
+    "aku": 0.778,
+    "saya": 0.778
+  },
+  "mengenai": {
+    "mengenai": 0.556,
+    "tentang": 0.556
+  },
+  "menyangkutkan": {
+    "beberapa": 0.0
+  },
+  "mempunyai": {
+    "dapat": 0.0,
+    "harus": 0.0,
+    "mengajak": 0.0,
+    "mesti": 0.0
+  },
+  "kampung halaman": {
+    "sebelah": 0.0
+  },
+  "menanduk": {
+    "mengenai": 0.0
+  },
+  "menyerupai": {
+    "bagai": 0.0,
+    "menurut": 0.0,
+    "sebagai": 0.0,
+    "sebagaimana": 0.0,
+    "semacam": 0.0,
+    "seperti": 0.0
+  },
+  "mendorong": {
+    "mengajak": 0.0
+  },
+  "mengajuk": {
+    "sekitar": 0.0
+  },
+  "ajukan": {
+    "sekitar": 0.0
+  },
+  "termasuk": {
+    "seharusnya": 0.0
+  },
+  "benar-benar": {
+    "bahwasanya": 0.0,
+    "berdua": 0.0,
+    "keseluruhan": 0.0,
+    "segenap": 0.0,
+    "seluruh": 0.0,
+    "semua": 0.0,
+    "ya": 0.0
+  },
+  "masing-masing": {
+    "masing-masing": 0.556
+  },
+  "tersendiri": {
+    "masing-masing": 0.0,
+    "sendiri": 0.0
+  },
+  "berjangkit": {
+    "dapat": 0.0
+  },
+  "pemasukan": {
+    "sesuatu": 0.0
+  },
+  "ketika": {
+    "ketika": 0.556
+  },
+  "keutuhan": {
+    "keseluruhan": 0.0
+  },
+  "mengebumikan": {
+    "antara": 0.0
+  },
+  "persimpangan": {
+    "ketika": 0.0
+  },
+  "dalaman": {
+    "dalam": 0.0
+  },
+  "mendalam": {
+    "dalam": 0.0
+  },
+  "mengundang": {
+    "mengajak": 0.0
+  },
+  "membabitkan": {
+    "mengenai": 0.0
+  },
+  "menyinggung": {
+    "mengenai": 0.0,
+    "sampai": 0.0
+  },
+  "bercantum": {
+    "mengenai": 0.0
+  },
+  "menghakimi": {
+    "sekitar": 0.0
+  },
+  "berpatutan": {
+    "sedang": 0.0
+  },
+  "kayak": {
+    "bagai": 0.0,
+    "ingin": 0.0,
+    "mau": 0.0,
+    "sebagai": 0.0,
+    "selaku": 0.0,
+    "semacam": 0.0,
+    "seperti": 0.0
+  },
+  "menjaga": {
+    "jangan": 0.0
+  },
+  "bergelut": {
+    "dapat": 0.0
+  },
+  "terlambat": {
+    "lewat": 0.0
+  },
+  "memanjangkan": {
+    "ke": 0.0,
+    "lalu": 0.0,
+    "menuju": 0.0
+  },
+  "menyewakan": {
+    "dapat": 0.0
+  },
+  "menyukai": {
+    "bagai": 0.0,
+    "ingin": 0.0,
+    "mau": 0.0,
+    "sebagai": 0.0,
+    "seperti": 0.0
+  },
+  "ingin": {
+    "ingin": 0.778,
+    "mau": 0.778
+  },
+  "terhad": {
+    "tertentu": 0.0
+  },
+  "menyayangi": {
+    "sebagai": 0.0,
+    "seperti": 0.0
+  },
+  "nasib baik": {
+    "untung": 0.0
+  },
+  "menjayakan": {
+    "dapat": 0.0,
+    "sampai": 0.0
+  },
+  "mandatori": {
+    "harus": 0.0,
+    "mesti": 0.0,
+    "seharusnya": 0.0,
+    "wajib": 0.0
+  },
+  "berbagai-bagai": {
+    "aneka": 0.0,
+    "berbagai": 0.0
+  },
+  "memetakan": {
+    "ialah": 0.0
+  },
+  "aneka": {
+    "aneka": 0.556
+  },
+  "penurut": {
+    "menurut": 0.0
+  },
+  "bergerak": {
+    "melalui": 0.0
+  },
+  "menggadai janji": {
+    "cagar": 0.0
+  },
+  "gadai janji": {
+    "cagar": 0.0
+  },
+  "pergerakan": {
+    "lalu": 0.0
+  },
+  "iaitu": {
+    "yaitu": 0.556
+  },
+  "tempat asal": {
+    "asal": 0.0
+  },
+  "sebelah": {
+    "sebelah": 0.0
+  },
+  "mencatat": {
+    "dapat": 0.0,
+    "guna": 0.0,
+    "mengenai": 0.0,
+    "sampai": 0.0,
+    "untung": 0.0
+  },
+  "mengira": {
+    "sekitar": 0.0
+  },
+  "zat makanan": {
+    "dapat": 0.0
+  },
+  "bantahan": {
+    "tentang": 0.0
+  },
+  "berlawanan": {
+    "tentang": 0.0
+  },
+  "teratur": {
+    "mereka": 0.0
+  },
+  "di luar": {
+    "melewati": 0.0
+  },
+  "merangka": {
+    "mereka": 0.0
+  },
+  "melampaui": {
+    "ke": 0.0,
+    "lalu": 0.0,
+    "melalui": 0.0,
+    "melewati": 0.0,
+    "menuju": 0.0
+  },
+  "memintas": {
+    "lalu": 0.0
+  },
+  "memasangkan": {
+    "beberapa": 0.0
+  },
+  "berpasangan": {
+    "beberapa": 0.0
+  },
+  "mencemaskan": {
+    "mengenai": 0.0
+  },
+  "menyamai": {
+    "adalah": 0.0,
+    "beberapa": 0.0
+  },
+  "peranan": {
+    "guna": 0.0
+  },
+  "sebahagian": {
+    "sebagian": 0.556
+  },
+  "tertentu": {
+    "tertentu": 0.0
+  },
+  "mereda": {
+    "lalu": 0.0
+  },
+  "lalu": {
+    "lalu": 0.556,
+    "lewat": 0.556
+  },
+  "melewati": {
+    "melewati": 0.0
+  },
+  "pengaliran": {
+    "lalu": 0.0
+  },
+  "until": {
+    "sampai": 0.556
+  },
+  "memujuk": {
+    "dapat": 0.0
+  },
+  "menyumbat": {
+    "jangan": 0.0
+  },
+  "racun": {
+    "bisa": 0.778
+  },
+  "berpotensi": {
+    "mungkin": 0.0
+  },
+  "berkuasa": {
+    "boleh": 0.0,
+    "mampu": 0.0
+  },
+  "menyediakan": {
+    "mereka": 0.0
+  },
+  "menyiapkan": {
+    "mereka": 0.0
+  },
+  "mengejan": {
+    "mengajak": 0.0
+  },
+  "keuntungan": {
+    "berkat": 0.0,
+    "untung": 0.0
+  },
+  "mencadangkan": {
+    "mereka": 0.0
+  },
+  "bercadang": {
+    "mereka": 0.0
+  },
+  "berjaya": {
+    "dapat": 0.0,
+    "lalu": 0.0,
+    "sampai": 0.0
+  },
+  "sementara": {
+    "sementara": 0.778
+  },
+  "menghentikan": {
+    "jangan": 0.0
+  },
+  "menyoal": {
+    "mengajak": 0.0
+  },
+  "jangan": {
+    "jangan": 0.556
+  },
+  "sejati": {
+    "asal": 0.0
+  },
+  "ke belakang": {
+    "lalu": 0.0,
+    "lewat": 0.0
+  },
+  "memberontak": {
+    "tentang": 0.0
+  },
+  "mengucapkan": {
+    "ingin": 0.0,
+    "mau": 0.0
+  },
+  "berhubungan": {
+    "mengenai": 0.0,
+    "sampai": 0.0
+  },
+  "memindahkan": {
+    "melalui": 0.0
+  },
+  "membalas": {
+    "tentang": 0.0
+  },
+  "mewakili": {
+    "ialah": 0.0
+  },
+  "beredar": {
+    "ke": 0.0,
+    "lalu": 0.0,
+    "menuju": 0.0
+  },
+  "meninggi": {
+    "diri": 0.0
+  },
+  "betul-betul": {
+    "bahwasanya": 0.0,
+    "keseluruhan": 0.0,
+    "lantas": 0.0,
+    "segenap": 0.0,
+    "seluruh": 0.0,
+    "semua": 0.0
+  },
+  "berlangsung": {
+    "beserta": 0.0,
+    "sepanjang": 0.0
+  },
+  "menyetujui": {
+    "menurut": 0.0
+  },
+  "menjadualkan": {
+    "mereka": 0.0
+  },
+  "menengok": {
+    "mengajak": 0.0
+  },
+  "menyumpit": {
+    "mengenai": 0.0
+  },
+  "mengiring": {
+    "ke": 0.0,
+    "lalu": 0.0,
+    "mengajak": 0.0,
+    "menuju": 0.0,
+    "sebelum": 0.0
+  },
+  "melangkau": {
+    "melalui": 0.0
+  },
+  "berbelah": {
+    "melainkan": 0.0
+  },
+  "memperlahankan": {
+    "ke": 0.0,
+    "menuju": 0.0
+  },
+  "menyemaikan": {
+    "diri": 0.0,
+    "ialah": 0.0
+  },
+  "membelanjakan": {
+    "lalu": 0.0
+  },
+  "spring": {
+    "per": 0.778
+  },
+  "memacu": {
+    "mengajak": 0.0
+  },
+  "menganggotai": {
+    "seharusnya": 0.0
+  },
+  "memimpin": {
+    "ke": 0.0,
+    "lalu": 0.0,
+    "mengajak": 0.0,
+    "menuju": 0.0,
+    "sebelum": 0.0
+  },
+  "mengukuhkan": {
+    "diri": 0.0,
+    "ialah": 0.0
+  },
+  "melanda": {
+    "dapat": 0.0,
+    "mengenai": 0.0,
+    "sampai": 0.0
+  },
+  "kelengkapan": {
+    "keseluruhan": 0.0
+  },
+  "menjamah": {
+    "mengenai": 0.0
+  },
+  "memikat": {
+    "dapat": 0.0
+  },
+  "menegangkan": {
+    "sampai": 0.0
+  },
+  "sementaraan": {
+    "sementara": 0.0
+  },
+  "-nya": {
+    "itu": 0.778,
+    "sang": 0.778,
+    "si": 0.778
+  },
+  "tapi": {
+    "tapi": 0.556
+  },
+  "sepanjang": {
+    "beserta": 0.0,
+    "keseluruhan": 0.0,
+    "segenap": 0.0,
+    "seluruh": 0.0,
+    "semua": 0.0,
+    "sepanjang": 0.0
+  },
+  "semasa": {
+    "sementara": 0.778
+  },
+  "merunut": {
+    "melalui": 0.0,
+    "menurut": 0.0
+  },
+  "melambangkan": {
+    "adalah": 0.0,
+    "ialah": 0.0
+  },
+  "sedunia": {
+    "seluruh": 0.0
+  },
+  "mendukung": {
+    "mengajak": 0.0
+  },
+  "teratas": {
+    "atas": 0.0
+  },
+  "di atas": {
+    "atas": 0.0,
+    "melewati": 0.0
+  },
+  "kelainan": {
+    "kecuali": 0.0
+  },
+  "bisa": {
+    "bisa": 0.778,
+    "boleh": 0.778
+  },
+  "kehendak": {
+    "ingin": 0.0,
+    "mau": 0.0
+  },
+  "memakai": {
+    "guna": 0.0
+  },
+  "menempuh": {
+    "melalui": 0.0
+  },
+  "kemahuan": {
+    "mau": 0.556
+  },
+  "berdaya": {
+    "boleh": 0.0,
+    "mampu": 0.0
+  },
+  "keahlian": {
+    "sesuatu": 0.0
+  },
+  "sedang": {
+    "sedang": 0.556
+  },
+  "melainkan": {
+    "kecuali": 0.778
+  },
+  "sedangkan": {
+    "sedangkan": 0.556
+  },
+  "tetapi": {
+    "kecuali": 0.778,
+    "namun": 0.778,
+    "tetapi": 0.778
+  },
+  "menghayati": {
+    "sebagai": 0.0,
+    "seperti": 0.0
+  },
+  "berkeliling": {
+    "beberapa": 0.0,
+    "sebagian": 0.0,
+    "sekitar": 0.0
+  },
+  "sebagian": {
+    "sebagian": 0.556
+  },
+  "mendatangkan": {
+    "dapat": 0.0
+  },
+  "mengakibatkan": {
+    "dapat": 0.0,
+    "ke": 0.0,
+    "mengajak": 0.0,
+    "menuju": 0.0
+  },
+  "orang perseorangan": {
+    "seorang": 0.0,
+    "seseorang": 0.0
+  },
+  "seseorang": {
+    "seseorang": 0.778
+  },
+  "bulat-bulat": {
+    "keseluruhan": 0.0
+  },
+  "kesemuanya": {
+    "keseluruhan": 0.0
+  },
+  "pd umumnya": {
+    "keseluruhan": 0.0
+  },
+  "berkelakuan": {
+    "sampai": 0.0
+  },
+  "berperangai": {
+    "sampai": 0.0
+  },
+  "bersikap": {
+    "dapat": 0.0
+  },
+  "memohon": {
+    "mengajak": 0.0
+  },
+  "berbuat": {
+    "mereka": 0.0
+  },
+  "melacak": {
+    "melalui": 0.0
+  },
+  "bergeser": {
+    "melalui": 0.0
+  },
+  "malah": {
+    "bahkan": 0.556
+  },
+  "pun": {
+    "bahkan": 0.0,
+    "kecuali": 0.0,
+    "pun": 0.0
+  },
+  "belum lagi": {
+    "namun": 0.0
+  },
+  "hingga kini": {
+    "namun": 0.0
+  },
+  "kini": {
+    "sedang": 0.778
+  },
+  "namun": {
+    "namun": 0.556
+  },
+  "seelok-eloknya": {
+    "sebaiknya": 0.556
+  },
+  "berhampiran": {
+    "mengenai": 0.0,
+    "sekitar": 0.0
+  },
+  "selaku": {
+    "sebagai": 0.0,
+    "selaku": 0.0,
+    "seperti": 0.0
+  },
+  "seperti": {
+    "seperti": 0.778
+  },
+  "belum": {
+    "belum": 0.556
+  },
+  "tak": {
+    "tidak": 0.778
+  },
+  "tiada": {
+    "tiada": 0.556,
+    "tidak": 0.556
+  },
+  "sebarang": {
+    "tiap": 0.556
+  },
+  "segala": {
+    "segala": 0.556
+  },
+  "di samping": {
+    "kecuali": 0.0,
+    "pun": 0.0
+  },
+  "membabarkan": {
+    "ke": 0.0,
+    "lalu": 0.0,
+    "menuju": 0.0
+  },
+  "bagaimanapun": {
+    "namun": 0.0,
+    "sementara": 0.0,
+    "walaupun": 0.0
+  },
+  "macam mana": {
+    "namun": 0.0,
+    "sementara": 0.0,
+    "walaupun": 0.0
+  },
+  "walaupun": {
+    "meskipun": 0.556,
+    "walaupun": 0.556
+  },
+  "bertahan": {
+    "tentang": 0.0
+  },
+  "terbentang": {
+    "ke": 0.0,
+    "lalu": 0.0,
+    "menuju": 0.0
+  },
+  "rupa bentuk": {
+    "bagai": 0.0
+  },
+  "begitu juga": {
+    "kecuali": 0.0,
+    "pun": 0.0
+  },
+  "kecuali": {
+    "tapi": 0.778,
+    "tetapi": 0.778
+  },
+  "menarik perhatian": {
+    "mengenai": 0.0
+  },
+  "lagipun": {
+    "bahkan": 0.0
+  },
+  "seperkara": {
+    "bahkan": 0.0
+  },
+  "tambahan lagi": {
+    "bahkan": 0.0
+  },
+  "tambahan pula": {
+    "bahkan": 0.0,
+    "demikian": 0.0,
+    "kecuali": 0.0
+  },
+  "haloba": {
+    "ingin": 0.0
+  },
+  "kepunyaan": {
+    "seharusnya": 0.0
+  },
+  "demikian": {
+    "demikian": 0.556
+  },
+  "berhubung": {
+    "mengenai": 0.0
+  },
+  "menghubungi": {
+    "mengenai": 0.0,
+    "sampai": 0.0
+  },
+  "mujur": {
+    "untung": 0.0
+  },
+  "menguruskan": {
+    "dapat": 0.0
+  },
+  "menyelenggarakan": {
+    "mereka": 0.0
+  },
+  "menampung": {
+    "dapat": 0.0,
+    "mengajak": 0.0
+  },
+  "berikhtiar": {
+    "mereka": 0.0
+  },
+  "berusaha": {
+    "sampai": 0.0
+  },
+  "dan juga": {
+    "demikian": 0.0,
+    "kecuali": 0.0
+  },
+  "membuahkan": {
+    "mengajak": 0.0
+  },
+  "belakangan": {
+    "namun": 0.0,
+    "sesudah": 0.0,
+    "setelah": 0.0
+  },
+  "kesampaian": {
+    "sampai": 0.0
+  },
+  "meliputi": {
+    "ialah": 0.0,
+    "melalui": 0.0,
+    "mengenai": 0.0
+  },
+  "mencakup": {
+    "melalui": 0.0,
+    "mengenai": 0.0
+  },
+  "mencakupi": {
+    "melalui": 0.0,
+    "mengenai": 0.0
+  },
+  "menyalut": {
+    "melalui": 0.0
+  },
+  "berabad-abad": {
+    "lantas": 0.0
+  },
+  "lantas": {
+    "lantas": 0.556
+  },
+  "beroleh": {
+    "dapat": 0.0,
+    "sampai": 0.0
+  },
+  "memiliki": {
+    "dapat": 0.0,
+    "harus": 0.0,
+    "mengajak": 0.0,
+    "mesti": 0.0
+  },
+  "terdahulu": {
+    "sebelum": 0.0
+  },
+  "di depan": {
+    "sebelum": 0.0
+  },
+  "selepas": {
+    "setelah": 0.556
+  },
+  "setelah": {
+    "setelah": 0.556
+  },
+  "akibatnya": {
+    "maka": 0.0
+  },
+  "maka": {
+    "maka": 0.556
+  },
+  "harus": {
+    "harus": 0.556
+  },
+  "mesti": {
+    "harus": 0.556,
+    "mesti": 0.556
+  },
+  "menghidapi": {
+    "dapat": 0.0
+  },
+  "ke depan": {
+    "sebelum": 0.0
+  },
+  "sebaiknya": {
+    "sebaiknya": 0.556
+  },
+  "bersama-sama": {
+    "bersama": 0.0,
+    "beserta": 0.0,
+    "sepanjang": 0.0
+  },
+  "sekeliling": {
+    "dari": 0.0,
+    "sekitar": 0.0,
+    "seputar": 0.0,
+    "tentang": 0.0,
+    "terhadap": 0.0
+  },
+  "seputar": {
+    "dari": 0.0,
+    "sekitar": 0.0,
+    "seputar": 0.0,
+    "tentang": 0.0,
+    "terhadap": 0.0
+  },
+  "berdekatan": {
+    "mengenai": 0.0,
+    "sebelah": 0.0,
+    "sekitar": 0.0
+  },
+  "dari": {
+    "dari": 0.556
+  },
+  "rata-rata": {
+    "dari": 0.0,
+    "sekitar": 0.0,
+    "seputar": 0.0,
+    "tentang": 0.0,
+    "terhadap": 0.0
+  },
+  "tentang": {
+    "tentang": 0.556
+  },
+  "terhadap": {
+    "terhadap": 0.556
+  },
+  "membuatkan": {
+    "dapat": 0.0,
+    "ialah": 0.0,
+    "mengenai": 0.0,
+    "mereka": 0.0,
+    "sampai": 0.0
+  },
+  "menjadikan": {
+    "dapat": 0.0,
+    "diri": 0.0,
+    "ialah": 0.0,
+    "mengenai": 0.0,
+    "mereka": 0.0,
+    "sampai": 0.0
+  },
+  "mengundur": {
+    "lalu": 0.0
+  },
+  "di belakang": {
+    "lewat": 0.0
+  },
+  "berganda": {
+    "berdua": 0.0
+  },
+  "berlipat": {
+    "berdua": 0.0
+  },
+  "memasukkan": {
+    "ke": 0.0,
+    "mengajak": 0.0,
+    "menuju": 0.0,
+    "menurut": 0.0
+  },
+  "membutuhkan": {
+    "harus": 0.0,
+    "ingin": 0.0,
+    "ke": 0.0,
+    "mau": 0.0,
+    "mengajak": 0.0,
+    "menuju": 0.0,
+    "mesti": 0.0,
+    "seharusnya": 0.0
+  },
+  "rapat-rapat": {
+    "bersama": 0.0,
+    "beserta": 0.0
+  },
+  "memahirkan": {
+    "dapat": 0.0
+  },
+  "ke atas": {
+    "di": 0.0
+  },
+  "memudaratkan": {
+    "bisa": 0.0
+  },
+  "segenap": {
+    "keseluruhan": 0.0,
+    "segenap": 0.0,
+    "seluruh": 0.0,
+    "semua": 0.0,
+    "sepanjang": 0.0
+  },
+  "seluruh": {
+    "seluruh": 0.556
+  },
+  "memberhentikan": {
+    "bisa": 0.0,
+    "dapat": 0.0,
+    "jangan": 0.0
+  },
+  "menyalin": {
+    "menurut": 0.0
+  },
+  "ke luar": {
+    "ke": 0.0
+  },
+  "selain": {
+    "selain": 0.556
+  },
+  "kedipan": {
+    "ketika": 0.0
+  },
+  "menganut": {
+    "menurut": 0.0
+  },
+  "menyusul": {
+    "lalu": 0.0,
+    "menurut": 0.0
+  },
+  "menyusuri": {
+    "menurut": 0.0
+  },
+  "meskipun": {
+    "meskipun": 0.556
+  },
+  "sungguhpun": {
+    "meskipun": 0.556
+  },
+  "sambil": {
+    "sambil": 0.556
+  },
+  "sembari": {
+    "sambil": 0.0
+  },
+  "membiarkan": {
+    "dapat": 0.0
+  },
+  "berpindah": {
+    "melalui": 0.0
+  },
+  "berkenaan": {
+    "mengenai": 0.0
+  },
+  "sepadan": {
+    "beberapa": 0.0
+  },
+  "membawakan": {
+    "dapat": 0.0
+  },
+  "patut": {
+    "harus": 0.556
+  },
+  "bersesuaian": {
+    "menurut": 0.0
+  },
+  "sepatutnya": {
+    "seharusnya": 0.556
+  },
+  "beralih": {
+    "ke": 0.0,
+    "lalu": 0.0,
+    "melalui": 0.0,
+    "mengajak": 0.0,
+    "menuju": 0.0
+  },
+  "sejurus": {
+    "sementara": 0.0
+  },
+  "secara": {
+    "secara": 0.556
+  },
+  "bilhak": {
+    "bahkan": 0.0
+  },
+  "mencocokkan": {
+    "menurut": 0.0
+  },
+  "mengadaptasi": {
+    "menurut": 0.0
+  },
+  "menyelaraskan": {
+    "menurut": 0.0
+  },
+  "menyerasikan": {
+    "menurut": 0.0
+  },
+  "mematuhi": {
+    "menurut": 0.0
+  },
+  "mengikut": {
+    "ke": 0.0,
+    "menurut": 0.0
+  },
+  "melancungkan": {
+    "mereka": 0.0
+  },
+  "menggemari": {
+    "dapat": 0.0,
+    "sebagai": 0.0,
+    "seperti": 0.0
+  },
+  "sejak": {
+    "dari": 0.778,
+    "sejak": 0.778
+  },
+  "mempergunakan": {
+    "guna": 0.0
+  },
+  "sekiranya": {
+    "jika": 0.556
+  },
+  "lengah": {
+    "lengah": 0.0
+  },
+  "menarik hati": {
+    "mengenai": 0.0
+  },
+  "bertuah": {
+    "untung": 0.0
+  },
+  "bernasib baik": {
+    "untung": 0.0
+  },
+  "berkemungkinan": {
+    "harus": 0.0,
+    "mungkin": 0.0
+  },
+  "demi": {
+    "demi": 0.556
+  },
+  "membubuh": {
+    "guna": 0.0
+  },
+  "bercampur": {
+    "mengenai": 0.0
+  },
+  "memperkenalkan": {
+    "diri": 0.0,
+    "ialah": 0.0
+  },
+  "lelap": {
+    "lalu": 0.0
+  },
+  "melukis": {
+    "lalu": 0.0
+  },
+  "merentangi": {
+    "semasa": 0.0
+  },
+  "berupaya": {
+    "bisa": 0.0,
+    "boleh": 0.0,
+    "dapat": 0.0,
+    "mampu": 0.0
+  },
+  "mengetin": {
+    "bisa": 0.0,
+    "boleh": 0.0,
+    "dapat": 0.0
+  },
+  "membendung": {
+    "tentang": 0.0
+  },
+  "terbatas": {
+    "tertentu": 0.0
+  },
+  "melintasi": {
+    "dengan": 0.0,
+    "ke": 0.0,
+    "lalu": 0.0,
+    "melalui": 0.0,
+    "menuju": 0.0,
+    "oleh": 0.0
+  },
+  "oleh": {
+    "oleh": 0.778
+  },
+  "kata pengantar": {
+    "sesuatu": 0.0
+  },
+  "pendahuluan": {
+    "sesuatu": 0.0
+  },
+  "setiap": {
+    "setiap": 0.778
+  },
+  "tiap-tiap": {
+    "setiap": 0.778
+  },
+  "berdamping": {
+    "bersama": 0.0
+  },
+  "terlepas": {
+    "lalu": 0.0,
+    "lewat": 0.0
+  },
+  "luntur": {
+    "lalu": 0.0
+  },
+  "berat tulang": {
+    "lengah": 0.0
+  },
+  "celih": {
+    "lengah": 0.0
+  },
+  "culas": {
+    "lengah": 0.0
+  },
+  "menyeberang": {
+    "melalui": 0.0
+  },
+  "berkaliber": {
+    "boleh": 0.0,
+    "mampu": 0.0
+  },
+  "berkemampuan": {
+    "boleh": 0.0,
+    "mampu": 0.0
+  },
+  "berkeupayaan": {
+    "boleh": 0.0,
+    "mampu": 0.0
+  },
+  "mampu": {
+    "mampu": 0.556
+  },
+  "melupakan": {
+    "antara": 0.0
+  },
+  "penyelitan": {
+    "sesuatu": 0.0
+  },
+  "penyisipan": {
+    "sesuatu": 0.0
+  },
+  "buyar": {
+    "antara": 0.0,
+    "ke": 0.0,
+    "lalu": 0.0,
+    "menuju": 0.0
+  },
+  "membuyarkan": {
+    "antara": 0.0,
+    "ke": 0.0,
+    "lalu": 0.0,
+    "menuju": 0.0
+  },
+  "bercerai": {
+    "melainkan": 0.0
+  },
+  "berpisah": {
+    "melainkan": 0.0
+  },
+  "mengantarai": {
+    "melainkan": 0.0
+  },
+  "mengonslah": {
+    "bisa": 0.0,
+    "dapat": 0.0
+  },
+  "berkunjung": {
+    "sampai": 0.0
+  },
+  "menimpa": {
+    "dapat": 0.0,
+    "mengenai": 0.0,
+    "sampai": 0.0
+  },
+  "mengawali": {
+    "ke": 0.0,
+    "menuju": 0.0,
+    "sebelum": 0.0
+  },
+  "debaran": {
+    "ketika": 0.0
+  },
+  "mengakhiri": {
+    "antara": 0.0,
+    "jangan": 0.0
+  },
+  "keperibadian": {
+    "siapa": 0.0
+  },
+  "atasan": {
+    "atas": 0.0
+  },
+  "mandek": {
+    "jangan": 0.0
+  },
+  "bersekutu": {
+    "bersama": 0.0
+  },
+  "ialah": {
+    "adalah": 0.556,
+    "ialah": 0.556
+  },
+  "menjelma": {
+    "adalah": 0.0
+  },
+  "mengamalkan": {
+    "guna": 0.0
+  },
+  "kerjasama": {
+    "bersama": 0.0
+  },
+  "mencerna": {
+    "mengajak": 0.0
+  },
+  "berpadan": {
+    "beberapa": 0.0
+  },
+  "bersua alurnya": {
+    "beberapa": 0.0
+  },
+  "membandingi": {
+    "adalah": 0.0
+  },
+  "mengembari": {
+    "beberapa": 0.0
+  },
+  "bermunculan": {
+    "sampai": 0.0
+  },
+  "mengalah": {
+    "menurut": 0.0
+  },
+  "ambien": {
+    "sekitar": 0.0
+  },
+  "berundan-undan": {
+    "lengah": 0.0
+  },
+  "melewatkan": {
+    "lewat": 0.556
+  },
+  "seimbang": {
+    "adalah": 0.0
+  },
+  "setaraf": {
+    "adalah": 0.0
+  },
+  "mengelola": {
+    "mereka": 0.0
+  },
+  "lumrah": {
+    "kebanyakan": 0.0
+  },
+  "mana-mana": {
+    "ke": 0.556,
+    "tiap": 0.556
+  },
+  "manapun": {
+    "dari": 0.556,
+    "di": 0.556,
+    "ke": 0.556
+  },
+  "bertara": {
+    "adalah": 0.0
+  },
+  "berseorangan": {
+    "sendiri": 0.0
+  },
+  "kepiatuan": {
+    "sendiri": 0.0
+  },
+  "kesemua": {
+    "keseluruhan": 0.0,
+    "segenap": 0.0,
+    "seluruh": 0.0,
+    "semua": 0.0,
+    "sepanjang": 0.0
+  },
+  "sekotah": {
+    "keseluruhan": 0.0,
+    "segenap": 0.0,
+    "seluruh": 0.0,
+    "semua": 0.0,
+    "sepanjang": 0.0
+  },
+  "seantero": {
+    "seantero": 0.0
+  },
+  "menawarkan": {
+    "mengajak": 0.0
+  },
+  "komplit": {
+    "seluruh": 0.0
+  },
+  "meraih": {
+    "dapat": 0.0
+  },
+  "menghala": {
+    "ke": 0.0,
+    "mengajak": 0.0,
+    "menuju": 0.0
+  },
+  "mengoperkan": {
+    "ke": 0.0,
+    "lalu": 0.0,
+    "melewati": 0.0,
+    "menuju": 0.0
+  },
+  "keseorangan": {
+    "sendiri": 0.0
+  },
+  "jawatan": {
+    "sebelah": 0.0
+  },
+  "menjelmakan": {
+    "adalah": 0.0
+  },
+  "berdiam": {
+    "adalah": 0.0
+  },
+  "bersemayam": {
+    "adalah": 0.0
+  },
+  "berumah": {
+    "adalah": 0.0
+  },
+  "berbalah": {
+    "tentang": 0.0
+  },
+  "memikirkan": {
+    "mereka": 0.0
+  },
+  "mempedulikan": {
+    "mengenai": 0.0
+  },
+  "terkecuali": {
+    "kecuali": 0.0,
+    "selain": 0.0
+  },
+  "terkeluar": {
+    "kecuali": 0.0,
+    "selain": 0.0
+  },
+  "berangan-angan": {
+    "ingin": 0.0,
+    "mau": 0.0
+  },
+  "memisalkan": {
+    "ialah": 0.0
+  },
+  "menjangkakan": {
+    "mengajak": 0.0
+  },
+  "menerka": {
+    "sekitar": 0.0
+  },
+  "berdasarkan": {
+    "diri": 0.0
+  },
+  "mendasarkan": {
+    "diri": 0.0
+  },
+  "menganggar": {
+    "sekitar": 0.0
+  },
+  "menjelajah": {
+    "melalui": 0.0
+  },
+  "membeza-bezakan": {
+    "melainkan": 0.0
+  },
+  "membantah": {
+    "tentang": 0.0
+  },
+  "menyolang": {
+    "tentang": 0.0
+  },
+  "mengira-ngira": {
+    "sekitar": 0.0
+  },
+  "perkiraan": {
+    "sekitar": 0.0
+  },
+  "berkenan": {
+    "menurut": 0.0
+  },
+  "meluluskan": {
+    "lalu": 0.0
+  },
+  "memperkerjakan": {
+    "guna": 0.0
+  },
+  "menumang": {
+    "tentang": 0.0
+  },
+  "menumangkan": {
+    "tentang": 0.0
+  },
+  "jeluk": {
+    "dalam": 0.0
+  },
+  "berencana": {
+    "mereka": 0.0
+  },
+  "memaksudkan": {
+    "mereka": 0.0
+  },
+  "berhajat": {
+    "ingin": 0.0,
+    "mau": 0.0
+  },
+  "berhasrat": {
+    "bagai": 0.0,
+    "ingin": 0.0,
+    "mau": 0.0,
+    "sebagai": 0.0,
+    "seperti": 0.0
+  },
+  "hendak": {
+    "ingin": 0.778,
+    "mau": 0.778
+  },
+  "berkehendak": {
+    "bagai": 0.0,
+    "ingin": 0.0,
+    "mau": 0.0,
+    "sebagai": 0.0,
+    "seperti": 0.0
+  },
+  "mengaturkan": {
+    "dapat": 0.0
+  },
+  "menjuruskan": {
+    "ke": 0.0,
+    "lalu": 0.0,
+    "mengajak": 0.0,
+    "menuju": 0.0
+  },
+  "bereaksi": {
+    "tentang": 0.0
+  },
+  "bertindak balas": {
+    "tentang": 0.0
+  },
+  "bertanya": {
+    "mengajak": 0.0
+  },
+  "menanya": {
+    "mengajak": 0.0
+  },
+  "terpelihara": {
+    "jangan": 0.0
+  },
+  "berurusan": {
+    "mengenai": 0.0,
+    "sampai": 0.0
+  },
+  "mendarat": {
+    "dapat": 0.0,
+    "mengenai": 0.0,
+    "sampai": 0.0
+  },
+  "menjangkau": {
+    "dapat": 0.0,
+    "melewati": 0.0,
+    "mengenai": 0.0,
+    "sampai": 0.0
+  },
+  "berkehendakkan": {
+    "ingin": 0.0,
+    "mau": 0.0,
+    "mengajak": 0.0
+  },
+  "memaksakan": {
+    "wajib": 0.0
+  },
+  "mengharuskan": {
+    "mengajak": 0.0,
+    "wajib": 0.0
+  },
+  "mewajibkan": {
+    "wajib": 0.0
+  },
+  "bertanyakan": {
+    "mengajak": 0.0
+  },
+  "mengajak": {
+    "ke": 0.0,
+    "mengajak": 0.0,
+    "menuju": 0.0
+  },
+  "menidakkan": {
+    "tiada": 0.556
+  },
+  "mengantara": {
+    "melainkan": 0.0
+  },
+  "mengaplikasikan": {
+    "guna": 0.0
+  },
+  "umpak": {
+    "mengajak": 0.0
+  },
+  "menggoleng": {
+    "mengenai": 0.0
+  },
+  "memberangsangkan": {
+    "mengajak": 0.0
+  },
+  "membalah": {
+    "tentang": 0.0
+  },
+  "memprotes": {
+    "tentang": 0.0
+  },
+  "bhg": {
+    "sebagian": 0.0
+  },
+  "mempelawa": {
+    "mengajak": 0.0
+  },
+  "mempersilakan": {
+    "mengajak": 0.0
+  },
+  "menyilakan": {
+    "mengajak": 0.0
+  },
+  "membangkang": {
+    "tentang": 0.0
+  },
+  "bumiputera": {
+    "asal": 0.0
+  },
+  "peribumi": {
+    "asal": 0.0
+  },
+  "menengah": {
+    "antara": 0.0
+  },
+  "mendustakan": {
+    "tentang": 0.0
+  },
+  "beracun": {
+    "bisa": 0.0
+  },
+  "bakut": {
+    "mereka": 0.0
+  },
+  "pengawanan": {
+    "beberapa": 0.0
+  },
+  "seharusnya": {
+    "seharusnya": 0.556
+  },
+  "sekilas pandang": {
+    "sementara": 0.0
+  },
+  "berserah": {
+    "menurut": 0.0
+  },
+  "menanyai": {
+    "mengajak": 0.0
+  },
+  "separas": {
+    "setinggi": 0.0
+  },
+  "agak-agak": {
+    "sekitar": 0.0
+  },
+  "merumuskan": {
+    "mereka": 0.0
+  },
+  "kegunaan": {
+    "guna": 0.0
+  },
+  "gontai": {
+    "lengah": 0.0
+  },
+  "langsam": {
+    "lengah": 0.0
+  },
+  "mengarang": {
+    "mereka": 0.0
+  },
+  "tamam": {
+    "seluruh": 0.0
+  },
+  "penghabisan": {
+    "lalu": 0.0
+  },
+  "corot": {
+    "lalu": 0.0
+  },
+  "terkebelakang": {
+    "lalu": 0.0,
+    "lengah": 0.0
+  },
+  "mencontoh": {
+    "menurut": 0.0
+  },
+  "dalam negeri": {
+    "dalam": 0.0
+  },
+  "berkat": {
+    "berkat": 0.556
+  },
+  "asian": {
+    "untung": 0.0
+  },
+  "langsar": {
+    "untung": 0.0
+  },
+  "kelambatan": {
+    "lewat": 0.0
+  },
+  "mempertiadakan": {
+    "tentang": 0.0
+  },
+  "mengungguli": {
+    "melewati": 0.0
+  },
+  "menggetok": {
+    "dapat": 0.0,
+    "mengenai": 0.0,
+    "sampai": 0.0
+  },
+  "menabrak": {
+    "dapat": 0.0,
+    "mengenai": 0.0,
+    "sampai": 0.0
+  },
+  "membimbit": {
+    "mengajak": 0.0
+  },
+  "membentur": {
+    "mengenai": 0.0
+  },
+  "membedil": {
+    "mengenai": 0.0
+  },
+  "memanah": {
+    "mengenai": 0.0
+  },
+  "terkena": {
+    "dapat": 0.0,
+    "mengenai": 0.0,
+    "sampai": 0.0
+  },
+  "memperjuangkan": {
+    "sampai": 0.0
+  },
+  "mengguna": {
+    "guna": 0.556
+  },
+  "mengingini": {
+    "ingin": 0.0,
+    "mau": 0.0
+  },
+  "setinggi": {
+    "setinggi": 0.556
+  },
+  "bersentuhan": {
+    "mengenai": 0.0
+  },
+  "larikan": {
+    "ke": 0.0,
+    "lalu": 0.0,
+    "menuju": 0.0
+  },
+  "memakamkan": {
+    "antara": 0.0
+  },
+  "mendampak": {
+    "mengenai": 0.0
+  },
+  "mencecah": {
+    "sampai": 0.0
+  },
+  "meracik": {
+    "mereka": 0.0
+  },
+  "melapiki": {
+    "melalui": 0.0
+  },
+  "berkembar": {
+    "beberapa": 0.0
+  },
+  "mengembarkan": {
+    "beberapa": 0.0
+  },
+  "menggandingkan": {
+    "beberapa": 0.0
+  },
+  "terselamat": {
+    "jangan": 0.0
+  },
+  "menyayukan": {
+    "dapat": 0.0,
+    "mengenai": 0.0
+  },
+  "sejumlah": {
+    "sejumlah": 0.0
+  },
+  "mencambuk": {
+    "dapat": 0.0
+  },
+  "bagai": {
+    "seperti": 0.778
+  },
+  "berserupa": {
+    "bagai": 0.0,
+    "sebagai": 0.0,
+    "semacam": 0.0,
+    "seperti": 0.0
+  },
+  "iras-iras": {
+    "bagai": 0.0,
+    "sebagai": 0.0,
+    "semacam": 0.0,
+    "seperti": 0.0
+  },
+  "merupai": {
+    "bagai": 0.0,
+    "sebagai": 0.0,
+    "semacam": 0.0,
+    "seperti": 0.0
+  },
+  "seiras": {
+    "bagai": 0.0,
+    "sebagai": 0.0,
+    "semacam": 0.0,
+    "seperti": 0.0
+  },
+  "semacam": {
+    "bagai": 0.0,
+    "sebagai": 0.0,
+    "semacam": 0.0,
+    "seperti": 0.0
+  },
+  "sebagaimana": {
+    "sebagaimana": 0.0
+  },
+  "sepertimana": {
+    "sebagaimana": 0.0
+  },
+  "seumpama": {
+    "sebagaimana": 0.0
+  },
+  "bersetubuh": {
+    "beberapa": 0.0
+  },
+  "menggodai": {
+    "dapat": 0.0
+  },
+  "berjimak": {
+    "beberapa": 0.0
+  },
+  "mengambilkan": {
+    "dapat": 0.0
+  },
+  "orang buruan": {
+    "sementara": 0.0
+  },
+  "merunuti": {
+    "melalui": 0.0,
+    "menurut": 0.0
+  },
+  "membelit": {
+    "mengenai": 0.0
+  },
+  "untung": {
+    "untung": 0.556
+  },
+  "mengepak": {
+    "mengajak": 0.0
+  },
+  "mengedari": {
+    "melalui": 0.0
+  },
+  "ugahari": {
+    "sedang": 0.0
+  },
+  "berserenjang": {
+    "diri": 0.0
+  },
+  "mencoreng": {
+    "melalui": 0.0
+  },
+  "selia": {
+    "atas": 0.556
+  },
+  "berkarya": {
+    "mereka": 0.0
+  },
+  "meluangkan": {
+    "jangan": 0.0,
+    "lalu": 0.0
+  },
+  "menciptakan": {
+    "mereka": 0.0
+  },
+  "membuat-buat": {
+    "mereka": 0.0
+  },
+  "mengada-adakan": {
+    "mereka": 0.0
+  },
+  "mencorakkan": {
+    "mereka": 0.0
+  },
+  "tersusun": {
+    "mereka": 0.0
+  },
+  "terurus": {
+    "mereka": 0.0
+  },
+  "melancung": {
+    "mereka": 0.0
+  },
+  "ikut-ikut": {
+    "menurut": 0.0
+  },
+  "meniru-niru": {
+    "menurut": 0.0
+  },
+  "turut-menurut": {
+    "menurut": 0.0
+  },
+  "mengada-ada": {
+    "mengenai": 0.0
+  },
+  "menyenangi": {
+    "bagai": 0.0,
+    "ingin": 0.0,
+    "mau": 0.0,
+    "sebagai": 0.0,
+    "seperti": 0.0
+  },
+  "meminati": {
+    "mengenai": 0.0
+  },
+  "solak": {
+    "bagai": 0.0,
+    "ingin": 0.0,
+    "mau": 0.0,
+    "sebagai": 0.0,
+    "seperti": 0.0
+  },
+  "menghajati": {
+    "ingin": 0.0,
+    "mau": 0.0
+  },
+  "mengidamkan": {
+    "ingin": 0.0,
+    "mau": 0.0
+  },
+  "terlindung": {
+    "jangan": 0.0
+  },
+  "merodong": {
+    "lalu": 0.0
+  },
+  "kasip": {
+    "lewat": 0.0
+  },
+  "melintas": {
+    "melalui": 0.0
+  },
+  "menyeberangi": {
+    "ke": 0.0,
+    "lalu": 0.0,
+    "melalui": 0.0,
+    "menuju": 0.0
+  },
+  "mengantarkan": {
+    "antar": 0.556
+  },
+  "berkaitan": {
+    "mengenai": 0.0
+  },
+  "berlena-lena": {
+    "lengah": 0.0
+  },
+  "membuntut": {
+    "menurut": 0.0
+  },
+  "mengikutkan": {
+    "menurut": 0.0
+  },
+  "berpimpin": {
+    "ke": 0.0,
+    "mengajak": 0.0,
+    "menuju": 0.0
+  },
+  "melangkaui": {
+    "lalu": 0.0,
+    "melewati": 0.0
+  },
+  "menunduk": {
+    "menurut": 0.0
+  },
+  "berbagai": {
+    "berbagai": 0.0
+  },
+  "terlajak": {
+    "lalu": 0.0
+  },
+  "berkongsi": {
+    "bersama": 0.0
+  },
+  "sepunya": {
+    "bersama": 0.0
+  },
+  "bersendiri": {
+    "sendiri": 0.0
+  },
+  "sebatang kara": {
+    "sendiri": 0.0
+  },
+  "sorang": {
+    "sendiri": 0.0
+  },
+  "adalah": {
+    "adalah": 0.556
+  },
+  "lelaba": {
+    "guna": 0.0,
+    "untung": 0.0
+  },
+  "cagar": {
+    "cagar": 0.556
+  },
+  "terbela": {
+    "jangan": 0.0
+  },
+  "berpasang": {
+    "beberapa": 0.0
+  },
+  "sekelamin": {
+    "beberapa": 0.0
+  },
+  "menjarangkan": {
+    "melainkan": 0.0
+  },
+  "menyendirikan": {
+    "melainkan": 0.0
+  },
+  "tercapai": {
+    "dapat": 0.0,
+    "sampai": 0.0
+  },
+  "mentaati": {
+    "menurut": 0.0
+  },
+  "memperhentikan": {
+    "bisa": 0.0,
+    "dapat": 0.0
+  },
+  "berbetulan": {
+    "menurut": 0.0
+  },
+  "setolok": {
+    "adalah": 0.0
+  },
+  "menyakit": {
+    "mengenai": 0.0
+  },
+  "membiayakan": {
+    "lalu": 0.0
+  },
+  "kekecualian": {
+    "kecuali": 0.0
+  },
+  "tempat kediaman": {
+    "sebelah": 0.0
+  },
+  "pegas": {
+    "per": 0.778
+  },
+  "individualiti": {
+    "siapa": 0.0
+  },
+  "keragaman": {
+    "bagai": 0.0
+  },
+  "kedekatan": {
+    "sekitar": 0.0
+  },
+  "kedalaman": {
+    "dalam": 0.778
+  },
+  "utk": {
+    "guna": 0.0
+  },
+  "hitungan": {
+    "keseluruhan": 0.0
+  },
+  "kecualian": {
+    "kecuali": 0.0
+  },
+  "asalan": {
+    "asal": 0.0
+  },
+  "para": {
+    "para": 0.556
+  },
+  "mu": {
+    "mu": 0.556
+  },
+  "azali": {
+    "asal": 0.0
+  },
+  "pengasasan": {
+    "asal": 0.0
+  },
+  "asal usul": {
+    "asal": 0.0
+  },
+  "dlm hati": {
+    "dalam": 0.0
+  },
+  "America": {
+    "kita": 0.0
+  },
+  "Amerika Serikat": {
+    "kita": 0.0
+  },
+  "U.S.": {
+    "kita": 0.0
+  },
+  "U.S.A.": {
+    "kita": 0.0
+  },
+  "United States": {
+    "kita": 0.0
+  },
+  "Pine Tree State": {
+    "aku": 0.0,
+    "saya": 0.0
+  },
+  "kemestian": {
+    "harus": 0.556
+  },
+  "anak negeri": {
+    "asal": 0.0
+  },
+  "anak watan": {
+    "asal": 0.0
+  },
+  "orang liar": {
+    "asal": 0.0
+  },
+  "ayah bonda": {
+    "asal": 0.0
+  },
+  "baginda": {
+    "dia": 0.778,
+    "ia": 0.778
+  },
+  "agunan": {
+    "cagar": 0.0
+  },
+  "keberadaan": {
+    "sesuatu": 0.0
+  },
+  "karunia": {
+    "berkat": 0.0
+  },
+  "busuk hati": {
+    "bisa": 0.0
+  },
+  "kejap": {
+    "apabila": 0.0,
+    "ketika": 0.0
+  },
+  "sekelip mata": {
+    "ketika": 0.0
+  },
+  "sekilat": {
+    "ketika": 0.0
+  },
+  "agar": {
+    "agar": 0.556
+  },
+  "supaya": {
+    "agar": 0.556,
+    "supaya": 0.556
+  },
+  "akan": {
+    "akan": 0.556
+  },
+  "antar": {
+    "antar": 0.556
+  },
+  "mengantar": {
+    "antar": 0.556
+  },
+  "mengantarkannya": {
+    "antar": 0.556
+  },
+  "apa-apa": {
+    "apa-apa": 0.556
+  },
+  "bahawa": {
+    "bahwa": 0.556
+  },
+  "bahawasanya": {
+    "bahwasanya": 0.556
+  },
+  "bilamana": {
+    "bilamana": 0.556
+  },
+  "daku": {
+    "aku": 0.778,
+    "saya": 0.778
+  },
+  "pengasasnya": {
+    "diri": 0.556
+  },
+  "penubuhannya": {
+    "diri": 0.556
+  },
+  "hendaklah": {
+    "harus": 0.556
+  },
+  "sehingga": {
+    "hingga": 0.556,
+    "sehingga": 0.556
+  },
+  "hingga": {
+    "hingga": 0.556,
+    "sampai": 0.556
+  },
+  "ia": {
+    "dia": 0.778,
+    "ia": 0.778
+  },
+  "jikalau": {
+    "apabila": 0.778,
+    "jika": 0.778,
+    "kalau": 0.778
+  },
+  "kalo": {
+    "kalo": 0.556
+  },
+  "kan": {
+    "kan": 0.556
+  },
+  "lantaran": {
+    "karena": 0.556,
+    "lantaran": 0.556
+  },
+  "kau": {
+    "kau": 0.556
+  },
+  "layaknya": {
+    "layaknya": 0.556
+  },
+  "manakah": {
+    "mana": 0.556
+  },
+  "manakala": {
+    "manakala": 0.556,
+    "sedangkan": 0.556
+  },
+  "mahupun": {
+    "maupun": 0.556
+  },
+  "meski": {
+    "meski": 0.556
+  },
+  "per": {
+    "per": 0.778
+  },
+  "seandainya": {
+    "seandainya": 0.556
+  },
+  "sebuah": {
+    "sebuah": 0.556
+  },
+  "seekor": {
+    "seekor": 0.556
+  },
+  "setakat": {
+    "sejauh": 0.556
+  },
+  "sesiapa": {
+    "siapa": 0.556
+  },
+  "suatu": {
+    "suatu": 0.556
+  },
+  "tanggungjawabnya": {
+    "wajib": 0.556
+  },
+  "tatkala": {
+    "tatkala": 0.556
+  },
+  "untuk": {
+    "untuk": 0.556
+  },
+  "berwajib": {
+    "wajib": 0.556
+  },
+  "berkewajiban": {
+    "wajib": 0.556
+  },
+  "terbelahak": {
+    "sesudah": 0.0,
+    "setelah": 0.0
+  },
+  "bertingkah": {
+    "sampai": 0.0
+  },
+  "mengakok": {
+    "mereka": 0.0
+  },
+  "kebentok": {
+    "dapat": 0.0,
+    "mengenai": 0.0,
+    "sampai": 0.0
+  },
+  "jemah": {
+    "sesudah": 0.0,
+    "setelah": 0.0
+  },
+  "mengarik": {
+    "ke": 0.0,
+    "mengajak": 0.0,
+    "menuju": 0.0
+  },
+  "memampangkan": {
+    "ke": 0.0,
+    "lalu": 0.0,
+    "menuju": 0.0
+  },
+  "membidangkan": {
+    "ke": 0.0,
+    "lalu": 0.0,
+    "menuju": 0.0
+  },
+  "mementang": {
+    "ke": 0.0,
+    "lalu": 0.0,
+    "menuju": 0.0
+  },
+  "sampai akal": {
+    "harus": 0.0,
+    "mungkin": 0.0
+  },
+  "melingkupi": {
+    "melalui": 0.0
+  },
+  "memalut": {
+    "melalui": 0.0
+  },
+  "membukut": {
+    "melalui": 0.0
+  },
+  "menggelimuni": {
+    "melalui": 0.0
+  },
+  "menjerukun": {
+    "melalui": 0.0
+  },
+  "bersangka": {
+    "mengajak": 0.0
+  },
+  "mengasakan": {
+    "ingin": 0.0,
+    "mengajak": 0.0
+  },
+  "menyana": {
+    "mengajak": 0.0
+  },
+  "beka": {
+    "sesudah": 0.0,
+    "setelah": 0.0
+  },
+  "entar": {
+    "sesudah": 0.0,
+    "setelah": 0.0
+  },
+  "kalakian": {
+    "sesudah": 0.0,
+    "setelah": 0.0
+  },
+  "menyadau": {
+    "mereka": 0.0
+  },
+  "mengoper": {
+    "ke": 0.0,
+    "lalu": 0.0,
+    "melewati": 0.0,
+    "menuju": 0.0
+  },
+  "menakol": {
+    "dapat": 0.0,
+    "mengenai": 0.0,
+    "sampai": 0.0
+  },
+  "sederum": {
+    "bersama": 0.0,
+    "beserta": 0.0
+  },
+  "meluntur": {
+    "lalu": 0.0
+  },
+  "membuntuti": {
+    "menurut": 0.0
+  },
+  "menguntit": {
+    "menurut": 0.0
+  },
+  "menguntiti": {
+    "menurut": 0.0
+  },
+  "berbarengan": {
+    "sambil": 0.0
+  },
+  "mengantepi": {
+    "dapat": 0.0,
+    "ingin": 0.0
+  },
+  "bertolak punggung": {
+    "mengajak": 0.0
+  },
+  "sejemang": {
+    "sementara": 0.0
+  },
+  "menyetel": {
+    "menurut": 0.0
+  },
+  "berendeng": {
+    "demi": 0.0
+  },
+  "tangeh": {
+    "dengan": 0.0,
+    "lalu": 0.0,
+    "oleh": 0.0
+  },
+  "penampungan": {
+    "antara": 0.0
+  },
+  "menjorok": {
+    "mereka": 0.0
+  },
+  "memegat": {
+    "jangan": 0.0
+  },
+  "membenahi": {
+    "dapat": 0.0
+  },
+  "mendepak": {
+    "bisa": 0.0,
+    "dapat": 0.0
+  },
+  "menjarak": {
+    "melainkan": 0.0
+  },
+  "menyakukan": {
+    "melainkan": 0.0
+  },
+  "menggencat": {
+    "jangan": 0.0
+  },
+  "meniadakan": {
+    "tentang": 0.0
+  },
+  "melenggarakan": {
+    "mereka": 0.0
+  },
+  "mengorganisir": {
+    "mereka": 0.0
+  },
+  "mengakurkan": {
+    "beberapa": 0.0
+  },
+  "tertara": {
+    "adalah": 0.0
+  },
+  "menongol": {
+    "sampai": 0.0
+  },
+  "tersempul": {
+    "sampai": 0.0
+  },
+  "tunjuk diri": {
+    "sampai": 0.0
+  },
+  "jeput": {
+    "seantero": 0.0
+  },
+  "kafi": {
+    "seluruh": 0.0
+  },
+  "pepak": {
+    "dalam": 0.0,
+    "seluruh": 0.0
+  },
+  "memapak": {
+    "dapat": 0.0,
+    "mengajak": 0.0
+  },
+  "menghemat": {
+    "jangan": 0.0
+  },
+  "mengirit": {
+    "jangan": 0.0
+  },
+  "menyemayamkan": {
+    "antara": 0.0
+  },
+  "menetakkan": {
+    "diri": 0.0,
+    "ialah": 0.0
+  },
+  "aktuil": {
+    "semasa": 0.0
+  },
+  "menampik": {
+    "tentang": 0.0
+  },
+  "menggeleng": {
+    "tentang": 0.0
+  },
+  "menyenta": {
+    "tentang": 0.0
+  },
+  "beragan": {
+    "mereka": 0.0
+  },
+  "mengasadkan": {
+    "mereka": 0.0
+  },
+  "kasdu": {
+    "bagai": 0.0,
+    "ingin": 0.0,
+    "mau": 0.0,
+    "sebagai": 0.0,
+    "seperti": 0.0
+  },
+  "mencita-citakan": {
+    "ingin": 0.0,
+    "mau": 0.0
+  },
+  "memampat": {
+    "mengajak": 0.0
+  },
+  "mengumpani": {
+    "mengajak": 0.0
+  },
+  "melebas": {
+    "dapat": 0.0,
+    "mengenai": 0.0,
+    "sampai": 0.0
+  },
+  "mencepol": {
+    "dapat": 0.0,
+    "mengenai": 0.0,
+    "sampai": 0.0
+  },
+  "membebek": {
+    "menurut": 0.0
+  },
+  "menyetir": {
+    "menuju": 0.0
+  },
+  "melenda": {
+    "dapat": 0.0,
+    "mengenai": 0.0,
+    "sampai": 0.0
+  },
+  "terlanda": {
+    "dapat": 0.0,
+    "mengenai": 0.0,
+    "sampai": 0.0
+  },
+  "menampel": {
+    "mengenai": 0.0
+  },
+  "demen": {
+    "bagai": 0.0,
+    "ingin": 0.0,
+    "mau": 0.0,
+    "sebagai": 0.0,
+    "semacam": 0.0,
+    "seperti": 0.0
+  },
+  "merayu-rayu": {
+    "dapat": 0.0
+  },
+  "tinggi rasi": {
+    "untung": 0.0
+  },
+  "memadati": {
+    "mengajak": 0.0
+  },
+  "menyontek": {
+    "menurut": 0.0
+  },
+  "menghulukan": {
+    "ke": 0.0,
+    "mengajak": 0.0,
+    "menuju": 0.0
+  },
+  "berias": {
+    "ialah": 0.0
+  },
+  "merawit": {
+    "mengenai": 0.0
+  },
+  "merembetkan": {
+    "mengenai": 0.0
+  },
+  "gunggung": {
+    "keseluruhan": 0.0
+  },
+  "kelebatan": {
+    "keseluruhan": 0.0
+  },
+  "kesemestaan": {
+    "keseluruhan": 0.0
+  },
+  "ni": {
+    "ini": 0.778
+  },
+  "ku": {
+    "aku": 0.778,
+    "saya": 0.778
+  },
+  "ku-": {
+    "aku": 0.778,
+    "saya": 0.778
+  },
+  "patik": {
+    "aku": 0.778,
+    "saya": 0.778
+  },
+  "سموا": {
+    "semua": 0.778
+  },
+  "dalam kalangan": {
+    "antara": 0.778,
+    "dalam": 0.778
+  },
+  "دان": {
+    "dan": 0.778
+  },
+  "di sebelah": {
+    "sebelah": 0.778
+  },
+  "bai": {
+    "sampai": 0.778
+  },
+  "si": {
+    "itu": 0.778,
+    "sang": 0.778,
+    "si": 0.778
+  },
+  "skil": {
+    "mampu": 0.778
+  },
+  "paha belalang": {
+    "per": 0.778
+  },
+  "تو": {
+    "itu": 0.778
+  },
+  "ايت": {
+    "itu": 0.778
+  },
+  "tu": {
+    "itu": 0.778
+  },
+  "يڠ": {
+    "yang": 0.778
+  },
+  "sang": {
+    "itu": 0.778,
+    "sang": 0.778,
+    "si": 0.778
+  },
+  "اين": {
+    "ini": 0.778
+  },
+  "اڤ": {
+    "apa": 0.778
+  },
+  "ha'ah": {
+    "ya": 0.778
+  },
+  "dikenal": {
+    "telah": 2
+  },
+  "melepasi": {
+    "melewati": 1
+  },
+  "7-2.": {
+    "yaitu": 1
+  },
+  "penting.": {
+    "kita": 2
+  },
+  "serata": {
+    "seluruh": 2
+  },
+  "bahwa": {
+    "bahwa": 3
+  },
+  "Pemain": {
+    "adalah": 1
+  },
+  "Alex": {
+    "ialah": 1
+  },
+  "menewas": {
+    "atas": 1
+  },
+  "Lemieux": {
+    "masing-masing": 1
+  },
+  "pagi,": {
+    "seluruh": 1
+  },
+  "sasarannya.": {
+    "mengenai": 1
+  },
+  "tersebut": {
+    "tersebut": 15
+  },
+  "pertunjukkan": {
+    "akan": 1
+  },
+  "Verde,": {
+    "sebelah": 1
+  },
+  "sejam": {
+    "per": 2
+  },
+  "direkod": {
+    "sejauh": 1
+  },
+  "80": {
+    "dari": 2
+  },
+  "telefon,": {
+    "kami": 1
+  },
+  "Gereja": {
+    "sedangkan": 1
+  },
+  "Velociraptor": {
+    "layaknya": 1
+  },
+  "dijangka": {
+    "akan": 3
+  },
+  "pelayan.": {
+    "sebuah": 1
+  },
+  "300": {
+    "per": 1
+  },
+  "disiasat": {
+    "karena": 1
+  },
+  "vandalisme.": {
+    "karena": 1
+  },
+  "mendadak.": {
+    "secara": 1
+  },
+  "neurotoksin": {
+    "mampu": 1
+  },
+  "ikan.": {
+    "maupun": 1
+  },
+  "sejam,": {
+    "ini": 1
+  },
+  "ada,": {
+    "seperti": 1
+  },
+  "kebabasan": {
+    "semacam": 1
+  },
+  "Richard": {
+    "agar": 1
+  },
+  "baik'": {
+    "di": 1
+  },
+  "24,000": {
+    "sekitar": 1
+  },
+  "ditugaskan": {
+    "ini": 1
+  },
+  "Didampingi": {
+    "oleh": 1
+  },
+  "pegawai-pegawai": {
+    "para": 2
+  },
+  "sepatutnya.”": {
+    "sebagaimana": 1
+  },
+  "dijumpai": {
+    "itu": 1
+  },
+  "Musashi": {
+    "berkat": 1
+  },
+  "diiktiraf": {
+    "karena": 1
+  },
+  "roller": {
+    "pun": 1
+  },
+  "sebanyak": {
+    "sebanyak": 3
+  },
+  "diiringi": {
+    "oleh": 1
+  },
+  "Otter": {
+    "telah": 1
+  },
+  "laporan,": {
+    "berbagai": 1
+  },
+  "disahkan": {
+    "harus": 1
+  },
+  "berlawan.": {
+    "seharusnya": 1
+  },
+  "dimasukkan": {
+    "akan": 1
+  },
+  "ditahan,": {
+    "ia": 1
+  },
+  "sepatah": {
+    "apa-apa": 1
+  },
+  "ketahui,": {
+    "kami": 1
+  },
+  "Soviet,": {
+    "atas": 1
+  },
+  "Muchanga": {
+    "bahwa": 1
+  },
+  "pendiriannya,": {
+    "hingga": 1
+  },
+  "samada": {
+    "sudah": 1
+  },
+  "100-meter": {
+    "itu": 1
+  },
+  "diluluskan": {
+    "sudah": 1
+  },
+  "2016": {
+    "agar": 1
+  },
+  "Persekutuan": {
+    "pada": 1
+  },
+  "Dianggarkan": {
+    "sebanyak": 1
+  },
+  "meraikan": {
+    "bersama": 1
+  },
+  "diikuti": {
+    "dengan": 2
+  },
+  "pentas.": {
+    "atas": 1
+  },
+  "motornya,": {
+    "lalu": 1
+  },
+  "berusah": {
+    "sedang": 1
+  },
+  "dicondongkan.": {
+    "ketika": 1
+  },
+  "Foton": {
+    "bahkan": 1
+  },
+  "sebahagiannya": {
+    "sebagian": 1
+  },
+  "Trygvasson,": {
+    "seorang": 1
+  },
+  "kejayaannya": {
+    "mereka": 1
+  },
+  "SM,": {
+    "sebelum": 1
+  },
+  "German.": {
+    "dari": 1
+  },
+  "“Õ/õ”": {
+    "pun": 1
+  },
+  "kemerdekaannya": {
+    "sudah": 1
+  },
+  "Luxemboug": {
+    "dari": 1
+  },
+  "Negeri": {
+    "yaitu": 1
+  },
+  "Penh": {
+    "mereka": 1
+  },
+  "berbanding": {
+    "daripada": 3
+  },
+  "kesatriaan": {
+    "para": 1
+  },
+  "kemasyhuran.": {
+    "apa": 1
+  },
+  "dengan,": {
+    "atas": 1
+  },
+  "Pujab.": {
+    "sang": 1
+  },
+  "awal.": {
+    "sedari": 1
+  },
+  "dikunjung": {
+    "para": 1
+  },
+  "Rancangan": {
+    "kami": 1
+  },
+  "kemurungan,": {
+    "ialah": 1
+  },
+  "Tetapi,": {
+    "kalau": 1
+  },
+  "ditemukan": {
+    "bisa": 1
+  },
+  "“cella”": {
+    "dalam": 1
+  },
+  "Hooke,": {
+    "seorang": 1
+  },
+  "mikroskop.": {
+    "sebuah": 1
+  },
+  "cecair,": {
+    "maupun": 1
+  },
+  "kimianya": {
+    "kan": 1
+  },
+  "lakukan,": {
+    "demikian": 1
+  },
+  "penyelesaian.": {
+    "sebuah": 1
+  },
+  "berasaskan": {
+    "ini": 1
+  },
+  "Kalaallit),": {
+    "seorang": 1
+  },
+  "hadapi.": {
+    "tak": 1
+  },
+  "panas,": {
+    "melalui": 1
+  },
+  "menyakitkan.": {
+    "bisa": 1
+  },
+  "“mengunjungi": {
+    "mengenai": 1
+  },
+  "park-hopper”": {
+    "sebagian": 1
+  },
+  "pindahmilik.": {
+    "boleh": 1
+  },
+  "Canyon": {
+    "dari": 1
+  },
+  "sebilangan": {
+    "beberapa": 2,
+    "yang": 2
+  },
+  "jirannya": {
+    "seperti": 1
+  },
+  "berminat": {
+    "pun": 1
+  },
+  "Siem": {
+    "sebelah": 1
+  },
+  "beribu": {
+    "selama": 1
+  },
+  "syiling.": {
+    "kepada": 1
+  },
+  "Sound": {
+    "tak": 1
+  },
+  "nikmatilah": {
+    "sejumlah": 1
+  },
+  "pula,": {
+    "sejumlah": 1
+  },
+  "ditempah": {
+    "sudah": 1
+  },
+  "talian,": {
+    "secara": 2
+  },
+  "sesetengah": {
+    "beberapa": 4
+  },
+  "tertutup.": {
+    "dalam": 1
+  },
+  "masing-masing.": {
+    "masing-masing": 1
+  },
+  "panjang,": {
+    "meski": 1
+  },
+  "semeja": {
+    "bersama": 1
+  },
+  "butir-butir": {
+    "beserta": 1
+  },
+  "(boleh": {
+    "dapat": 1
+  },
+  "Lihat": {
+    "apa": 1
+  },
+  "dimasak": {
+    "di": 1
+  },
+  "tanah.": {
+    "dalam": 1
+  },
+  "berbahaya.": {
+    "walau": 1
+  },
+  "disebarkan": {
+    "dengan": 1
+  },
+  "megelilingi": {
+    "sekitar": 1
+  },
+  "Tumit": {
+    "seharusnya": 1
+  },
+  "dialih": {
+    "lewat": 1
+  },
+  "pencapaiannya": {
+    "maka": 1
+  },
+  "dibenarkan": {
+    "maka": 1
+  },
+  "institusi,": {
+    "serta": 1
+  },
+  "perikatan.": {
+    "dengan": 1
+  },
+  "Binnenstad": {
+    "sekitar": 1
+  },
+  "risiko.": {
+    "sejumlah": 1
+  },
+  "Norway.": {
+    "secara": 1
+  }
+}

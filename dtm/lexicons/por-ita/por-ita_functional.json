@@ -1,0 +1,2722 @@
+{
+  "eu": {
+    "io": 1
+  },
+  "tu": {
+    "tu": 1
+  },
+  "você": {
+    "tu": 1
+  },
+  "ele": {
+    "egli": 1,
+    "lui": 1
+  },
+  "nós": {
+    "noi": 1
+  },
+  "vós": {
+    "voi": 1
+  },
+  "vocês": {
+    "voi": 1
+  },
+  "eles": {
+    "loro": 1,
+    "essi": 1
+  },
+  "elas": {
+    "loro": 1,
+    "essi": 1
+  },
+  "isto": {
+    "questo": 1
+  },
+  "este": {
+    "questo": 1
+  },
+  "esta": {
+    "questo": 1
+  },
+  "aquilo": {
+    "quello": 1
+  },
+  "aquele": {
+    "quello": 1
+  },
+  "quem": {
+    "chi": 1
+  },
+  "que": {
+    "che": 1
+  },
+  "o que": {
+    "che": 1
+  },
+  "quando": {
+    "quando": 1
+  },
+  "como": {
+    "come": 1
+  },
+  "todo": {
+    "tutto": 1
+  },
+  "tudo": {
+    "tutto": 1
+  },
+  "alguns": {
+    "alcuni": 1
+  },
+  "algum": {
+    "alcuni": 1
+  },
+  "um": {
+    "un": 1,
+    "uno": 1,
+    "una": 1,
+    "un'": 1
+  },
+  "a": {
+    "a": 1
+  },
+  "em": {
+    "a": 1,
+    "in": 1
+  },
+  "com": {
+    "con": 1
+  },
+  "e": {
+    "e": 1
+  },
+  "se": {
+    "se": 1
+  },
+  "porque": {
+    "perché": 1
+  },
+  "abaixo": {
+    "sotto": 0.778
+  },
+  "abaixo de": {
+    "sotto": 0.778
+  },
+  "absoluto": {
+    "tutto": 0.778
+  },
+  "acerca de": {
+    "a": 0.778
+  },
+  "achar-se": {
+    "essere": 0.778
+  },
+  "acima": {
+    "sopra": 0.778,
+    "su": 0.778
+  },
+  "acima de": {
+    "sopra": 0.778,
+    "su": 0.778
+  },
+  "acolá": {
+    "li": 0.778
+  },
+  "acorde": {
+    "essere": 0.778,
+    "su": 0.778
+  },
+  "a despeito de": {
+    "malgrado": 0.778,
+    "nonostante": 0.778,
+    "sebbene": 0.778
+  },
+  "a fim de": {
+    "a": 0.111
+  },
+  "além": {
+    "li": 0.778
+  },
+  "algo": {
+    "a": 0.778,
+    "qualcosa": 0.778,
+    "qualcuno": 0.778
+  },
+  "alguém": {
+    "a": 0.778,
+    "chiunque": 0.778,
+    "qualcosa": 0.778,
+    "qualcuno": 0.778
+  },
+  "alguma coisa": {
+    "qualcosa": 0.778
+  },
+  "algumas": {
+    "qualche": 0.778
+  },
+  "ambos": {
+    "ambedue": 0.778,
+    "ciascuno": 0.778,
+    "entrambi": 0.778
+  },
+  "antes de": {
+    "innanzi": 0.778
+  },
+  "ao": {
+    "a": 0.778
+  },
+  "aonde": {
+    "laddove": 0.778
+  },
+  "ao pé de": {
+    "a": 0.111,
+    "su": 0.111
+  },
+  "a partir de": {
+    "da": 0.778
+  },
+  "apesar de": {
+    "benché": 0.778,
+    "con": 0.778,
+    "malgrado": 0.778,
+    "nonostante": 0.778,
+    "sebbene": 0.778
+  },
+  "a por": {
+    "a": 0.111
+  },
+  "após": {
+    "dopo": 0.778
+  },
+  "a qual": {
+    "cui": 0.778
+  },
+  "aquela": {
+    "quella": 0.778,
+    "quello": 0.778
+  },
+  "aquelas": {
+    "quella": 0.778,
+    "quello": 0.778
+  },
+  "aqueles": {
+    "quella": 0.778,
+    "quelle": 0.778,
+    "quelli": 0.778,
+    "quello": 0.778
+  },
+  "à razão de": {
+    "a": 0.111
+  },
+  "a respeito de": {
+    "a": 0.778,
+    "di": 0.778
+  },
+  "as": {
+    "gli": 0.778,
+    "i": 0.778,
+    "il": 0.778,
+    "la": 0.778,
+    "le": 0.778,
+    "lo": 0.778
+  },
+  "a saber": {
+    "cioè": 0.222
+  },
+  "a senhora": {
+    "lei": 0.778,
+    "ti": 0.778,
+    "tu": 0.778
+  },
+  "as quais": {
+    "cui": 0.778
+  },
+  "as senhoras": {
+    "vi": 0.778,
+    "voi": 0.778
+  },
+  "assim": {
+    "tale": 0.778
+  },
+  "até": {
+    "entro": 0.778,
+    "finché": 0.778,
+    "verso": 0.778
+  },
+  "atrás de": {
+    "dopo": 0.778
+  },
+  "através de": {
+    "attraverso": 0.889
+  },
+  "atraz": {
+    "a": 0.222,
+    "di": 0.222
+  },
+  "baixo": {
+    "in": 0.778
+  },
+  "bocado": {
+    "poca": 0.778
+  },
+  "boqueirão": {
+    "fosse": 0.222
+  },
+  "cada": {
+    "ogni": 0.889
+  },
+  "caso": {
+    "se": 0.778
+  },
+  "causa": {
+    "perché": 0.778
+  },
+  "cerca": {
+    "verso": 0.778
+  },
+  "chá": {
+    "the": 0.778
+  },
+  "cima": {
+    "su": 0.778
+  },
+  "completamente": {
+    "tutto": 0.778
+  },
+  "completo": {
+    "tutto": 0.778
+  },
+  "condição": {
+    "stato": 0.778
+  },
+  "conquanto": {
+    "benché": 0.778,
+    "sebbene": 0.778
+  },
+  "contra": {
+    "contro": 0.778
+  },
+  "convocar": {
+    "a": 0.778,
+    "in": 0.778
+  },
+  "daquela maneira": {
+    "come": 0.222,
+    "quale": 0.222
+  },
+  "de": {
+    "da": 0.889
+  },
+  "de acordo com": {
+    "secondo": 0.778
+  },
+  "debaixo de": {
+    "sotto": 0.778
+  },
+  "de encontro": {
+    "contro": 0.556
+  },
+  "de fato": {
+    "difatti": 0.778
+  },
+  "delas": {
+    "loro": 0.778
+  },
+  "deles": {
+    "loro": 0.778
+  },
+  "dentro de": {
+    "a": 0.778,
+    "entro": 0.778
+  },
+  "depois": {
+    "dopo": 0.778
+  },
+  "depois de": {
+    "dopo": 0.778
+  },
+  "desde": {
+    "da": 0.778
+  },
+  "desmoronar": {
+    "in": 0.778
+  },
+  "desta maneira": {
+    "come": 0.222,
+    "quale": 0.222
+  },
+  "detrás de": {
+    "dopo": 0.778
+  },
+  "diante de": {
+    "innanzi": 0.778
+  },
+  "do outro lado de": {
+    "attraverso": 0.778
+  },
+  "do que": {
+    "che": 0.778,
+    "di": 0.778
+  },
+  "durante": {
+    "durante": 0.778
+  },
+  "é": {
+    "sta": 0.778,
+    "è": 0.778
+  },
+  "eis aí": {
+    "ci": 0.222,
+    "vi": 0.222
+  },
+  "eis ali": {
+    "ci": 0.222,
+    "vi": 0.222
+  },
+  "eis aqui": {
+    "ci": 0.222,
+    "vi": 0.222
+  },
+  "ela": {
+    "ella": 0.778,
+    "essa": 0.778,
+    "esso": 0.778,
+    "la": 0.778,
+    "lei": 0.778,
+    "lo": 0.778
+  },
+  "embora": {
+    "benché": 0.778,
+    "ma": 0.778,
+    "malgrado": 0.778,
+    "sebbene": 0.778
+  },
+  "em cima de": {
+    "sopra": 0.778
+  },
+  "em qualquer lugar": {
+    "dovunque": 0.778
+  },
+  "em seguida": {
+    "dopo": 0.778
+  },
+  "enquanto": {
+    "durante": 0.778,
+    "laddove": 0.778,
+    "mentre": 0.778,
+    "quando": 0.778
+  },
+  "entre": {
+    "tra": 0.889
+  },
+  "entretanto": {
+    "ma": 0.778,
+    "nonostante": 0.778
+  },
+  "época": {
+    "era": 0.778
+  },
+  "era": {
+    "era": 0.889
+  },
+  "escutar": {
+    "in": 0.778,
+    "per": 0.778
+  },
+  "essa": {
+    "quella": 0.778,
+    "quello": 0.778
+  },
+  "essas": {
+    "quella": 0.778,
+    "quello": 0.778
+  },
+  "esse": {
+    "esse": 0.778,
+    "quella": 0.778,
+    "quello": 0.778,
+    "questo": 0.778
+  },
+  "esses": {
+    "quella": 0.778,
+    "quello": 0.778
+  },
+  "está": {
+    "sta": 0.778,
+    "è": 0.778
+  },
+  "estado": {
+    "stato": 0.778
+  },
+  "estais": {
+    "siete": 0.778,
+    "state": 0.778
+  },
+  "estamos": {
+    "siamo": 0.778,
+    "stiamo": 0.778
+  },
+  "estão": {
+    "siete": 0.778,
+    "sono": 0.778,
+    "stanno": 0.778,
+    "state": 0.778
+  },
+  "estar": {
+    "essere": 0.778
+  },
+  "estas": {
+    "questa": 0.778,
+    "questo": 0.778,
+    "sta": 0.778
+  },
+  "estes": {
+    "questa": 0.778,
+    "questi": 0.778,
+    "questo": 0.778,
+    "sta": 0.778
+  },
+  "estou": {
+    "sono": 0.778
+  },
+  "estranho": {
+    "altrui": 0.778
+  },
+  "exceto": {
+    "eccetto": 0.778,
+    "tranne": 0.778
+  },
+  "existir": {
+    "essere": 0.778
+  },
+  "fala": {
+    "verso": 0.778
+  },
+  "falecido": {
+    "fu": 0.778
+  },
+  "fé": {
+    "stato": 0.778
+  },
+  "fora": {
+    "tranne": 0.778
+  },
+  "fundão": {
+    "fosse": 0.222
+  },
+  "generosidade": {
+    "di": 0.778
+  },
+  "geral": {
+    "tutto": 0.778
+  },
+  "idade": {
+    "era": 0.778
+  },
+  "ídem": {
+    "come": 0.222,
+    "quale": 0.222
+  },
+  "instante": {
+    "secondo": 0.778
+  },
+  "inteiro": {
+    "tutto": 0.778
+  },
+  "intencional": {
+    "voluto": 0.222
+  },
+  "intimar": {
+    "in": 0.778
+  },
+  "isto é": {
+    "cioè": 0.778
+  },
+  "já que": {
+    "perché": 0.778,
+    "poiché": 0.778,
+    "siccome": 0.778
+  },
+  "junto a": {
+    "con": 0.222
+  },
+  "lhe": {
+    "gli": 0.778,
+    "lo": 0.778,
+    "lui": 0.778
+  },
+  "lo": {
+    "gli": 0.778,
+    "lo": 0.778,
+    "lui": 0.778
+  },
+  "logo": {
+    "cioè": 0.778,
+    "dopo": 0.778
+  },
+  "lugar": {
+    "li": 0.778
+  },
+  "lugares": {
+    "li": 0.778
+  },
+  "mais tarde": {
+    "dopo": 0.778
+  },
+  "malgrado": {
+    "benché": 0.778,
+    "con": 0.778,
+    "malgrado": 0.778
+  },
+  "mas": {
+    "bensì": 0.778,
+    "ma": 0.778
+  },
+  "mesmo": {
+    "ma": 0.778
+  },
+  "mesmo se": {
+    "benché": 0.778,
+    "nonostante": 0.778
+  },
+  "meu": {
+    "mia": 0.778,
+    "mio": 0.778
+  },
+  "mi": {
+    "chi": 0.222
+  },
+  "minha": {
+    "mia": 0.778,
+    "mio": 0.778
+  },
+  "momento": {
+    "secondo": 0.778
+  },
+  "muitos": {
+    "diversi": 0.778,
+    "molti": 0.778
+  },
+  "na": {
+    "lo": 0.778,
+    "lui": 0.778,
+    "su": 0.778
+  },
+  "nação": {
+    "stato": 0.778
+  },
+  "nada": {
+    "nulla": 0.889
+  },
+  "nada de": {
+    "nessun": 0.778,
+    "nessuna": 0.778
+  },
+  "não obstante": {
+    "con": 0.778,
+    "malgrado": 0.778,
+    "nonostante": 0.778,
+    "sebbene": 0.778
+  },
+  "naquele": {
+    "li": 0.778
+  },
+  "na realidade": {
+    "difatti": 0.778
+  },
+  "na superfície de": {
+    "a": 0.111,
+    "su": 0.111
+  },
+  "na verdade": {
+    "difatti": 0.778
+  },
+  "nem": {
+    "né": 0.778
+  },
+  "nenhum": {
+    "alcuno": 0.778,
+    "nessun": 0.778,
+    "nessuna": 0.778,
+    "nessuno": 0.778,
+    "niente": 0.778
+  },
+  "nenhuma": {
+    "nessun": 0.778,
+    "nessuna": 0.778,
+    "nessuno": 0.778,
+    "niente": 0.778
+  },
+  "nenhum dos dois": {
+    "né": 0.778
+  },
+  "nesse": {
+    "li": 0.778
+  },
+  "nesses": {
+    "li": 0.778
+  },
+  "ninguém": {
+    "nessuna": 0.778,
+    "nessuno": 0.778
+  },
+  "no": {
+    "gli": 0.778,
+    "lo": 0.778,
+    "lui": 0.778,
+    "su": 0.778
+  },
+  "no entanto": {
+    "nonostante": 0.778
+  },
+  "nos": {
+    "ci": 0.778,
+    "noi": 0.778
+  },
+  "nosso": {
+    "nostra": 0.778,
+    "nostre": 0.778,
+    "nostri": 0.778,
+    "nostro": 0.778
+  },
+  "Nova Iorque": {
+    "stato": 0.778
+  },
+  "o": {
+    "essa": 0.778,
+    "esso": 0.778,
+    "gli": 0.778,
+    "i": 0.778,
+    "il": 0.778,
+    "la": 0.778,
+    "le": 0.778,
+    "lo": 0.778,
+    "lui": 0.778
+  },
+  "oi": {
+    "come": 0.778
+  },
+  "o qual": {
+    "cui": 0.778
+  },
+  "o quê": {
+    "chi": 0.778
+  },
+  "os": {
+    "gli": 0.778,
+    "i": 0.778,
+    "il": 0.778,
+    "la": 0.778,
+    "le": 0.778,
+    "lo": 0.778
+  },
+  "o senhor": {
+    "lei": 0.778,
+    "ti": 0.778,
+    "tu": 0.778
+  },
+  "o seu": {
+    "tua": 0.778,
+    "tue": 0.778,
+    "tuo": 0.778,
+    "tuoi": 0.778
+  },
+  "os quais": {
+    "cui": 0.778
+  },
+  "os senhores": {
+    "vi": 0.778,
+    "voi": 0.778
+  },
+  "ou": {
+    "cioè": 0.778,
+    "o": 0.778,
+    "od": 0.778,
+    "oppure": 0.778,
+    "ovvero": 0.778
+  },
+  "país": {
+    "stato": 0.778
+  },
+  "paleozóico": {
+    "era": 0.778
+  },
+  "para": {
+    "a": 0.778,
+    "di": 0.778,
+    "in": 0.778,
+    "per": 0.778,
+    "verso": 0.778
+  },
+  "para lá de": {
+    "attraverso": 0.111
+  },
+  "para que": {
+    "affinché": 0.778,
+    "perché": 0.778
+  },
+  "pedaço": {
+    "poca": 0.778
+  },
+  "pélago": {
+    "fosse": 0.222
+  },
+  "pelo contrario": {
+    "a": 0.222,
+    "di": 0.222
+  },
+  "período": {
+    "era": 0.778
+  },
+  "pertencer": {
+    "a": 0.778
+  },
+  "perto de": {
+    "verso": 0.778
+  },
+  "pois": {
+    "perché": 0.778,
+    "poiché": 0.778,
+    "siccome": 0.778
+  },
+  "pois que": {
+    "perché": 0.778,
+    "poiché": 0.778
+  },
+  "por": {
+    "attraverso": 0.778,
+    "con": 0.778,
+    "da": 0.778,
+    "di": 0.778,
+    "essere": 0.778,
+    "per": 0.778,
+    "presso": 0.778,
+    "qualcosa": 0.778,
+    "secondo": 0.778
+  },
+  "por baixo de": {
+    "sotto": 0.778
+  },
+  "porção": {
+    "poca": 0.778
+  },
+  "por causa de": {
+    "perché": 0.778
+  },
+  "por cima de": {
+    "a": 0.111,
+    "su": 0.111
+  },
+  "por conseguinte": {
+    "dopo": 0.778
+  },
+  "por detraz ás avessas": {
+    "a": 0.222,
+    "di": 0.222
+  },
+  "porém": {
+    "ma": 0.778
+  },
+  "por mais que": {
+    "malgrado": 0.222,
+    "nonostante": 0.222
+  },
+  "por que": {
+    "perché": 0.778
+  },
+  "porquê": {
+    "perchè": 0.778,
+    "perché": 0.778
+  },
+  "por quê": {
+    "perché": 0.778
+  },
+  "por trás de": {
+    "dopo": 0.778
+  },
+  "por volta de": {
+    "verso": 0.778
+  },
+  "poucos": {
+    "pochi": 0.778
+  },
+  "próximo de": {
+    "entro": 0.778
+  },
+  "qual": {
+    "che": 0.778,
+    "quale": 0.778
+  },
+  "qualquer": {
+    "alcuni": 0.778,
+    "chiunque": 0.778,
+    "qualcosa": 0.778,
+    "qualsiasi": 0.778
+  },
+  "quantas": {
+    "quante": 0.778,
+    "quanti": 0.778
+  },
+  "quanto": {
+    "come": 0.778,
+    "quanta": 0.778,
+    "quanto": 0.778
+  },
+  "quanto a": {
+    "a": 0.778
+  },
+  "quantos": {
+    "quante": 0.778,
+    "quanti": 0.778
+  },
+  "quão": {
+    "che": 0.778
+  },
+  "razão": {
+    "perché": 0.778
+  },
+  "salvo": {
+    "eccetto": 0.778
+  },
+  "são": {
+    "siete": 0.778,
+    "sono": 0.778,
+    "stanno": 0.778,
+    "state": 0.778
+  },
+  "se bem que": {
+    "benché": 0.778
+  },
+  "seguinte": {
+    "dopo": 0.778
+  },
+  "segunda": {
+    "secondo": 0.778
+  },
+  "sem": {
+    "senza": 0.778
+  },
+  "sendo assim": {
+    "dopo": 0.778
+  },
+  "ser": {
+    "essere": 0.778
+  },
+  "seu": {
+    "sua": 0.778,
+    "sue": 0.778,
+    "suo": 0.778,
+    "suoi": 0.778,
+    "tuo": 0.778,
+    "vostra": 0.778,
+    "vostre": 0.778,
+    "vostri": 0.778,
+    "vostro": 0.778
+  },
+  "situação": {
+    "stato": 0.778
+  },
+  "sob": {
+    "sotto": 0.778
+  },
+  "sobre": {
+    "di": 0.778,
+    "sopra": 0.778,
+    "su": 0.778
+  },
+  "sois": {
+    "siete": 0.778,
+    "state": 0.778
+  },
+  "somos": {
+    "siamo": 0.778,
+    "stiamo": 0.778
+  },
+  "sou": {
+    "sono": 0.778
+  },
+  "sua": {
+    "tuo": 0.778
+  },
+  "súper": {
+    "sopra": 0.778
+  },
+  "tal": {
+    "tale": 0.778
+  },
+  "tampouco": {
+    "né": 0.778
+  },
+  "ter necessidade de": {
+    "essere": 0.222
+  },
+  "ter precisão de": {
+    "essere": 0.222
+  },
+  "teu": {
+    "tuo": 0.889
+  },
+  "toda": {
+    "tutta": 0.778,
+    "tutto": 0.778
+  },
+  "toda a gente": {
+    "ciascuno": 0.778,
+    "tutti": 0.778
+  },
+  "todas": {
+    "tutta": 0.778,
+    "tutto": 0.778
+  },
+  "todo o mundo": {
+    "ciascuno": 0.778
+  },
+  "todos": {
+    "ciascuno": 0.778,
+    "tutta": 0.778,
+    "tutti": 0.778,
+    "tutto": 0.778
+  },
+  "total": {
+    "tutto": 0.778
+  },
+  "totalmente": {
+    "tutto": 0.778
+  },
+  "uma": {
+    "un": 0.778,
+    "un'": 0.778,
+    "una": 0.778,
+    "uno": 0.778,
+    "un’": 0.778
+  },
+  "uma vez que": {
+    "perché": 0.778,
+    "poiché": 0.778,
+    "siccome": 0.778
+  },
+  "um pouco": {
+    "pochi": 0.778
+  },
+  "vários": {
+    "diversi": 0.778,
+    "parecchi": 0.778
+  },
+  "verso": {
+    "verso": 0.778
+  },
+  "via": {
+    "con": 0.778,
+    "per": 0.778
+  },
+  "visto que": {
+    "perché": 0.778,
+    "poiché": 0.778,
+    "siccome": 0.778
+  },
+  "vosso": {
+    "tuo": 0.778,
+    "vostra": 0.778,
+    "vostro": 0.778
+  },
+  "a eles": {
+    "loro": 0.778
+  },
+  "a fim de que": {
+    "per": 0.778
+  },
+  "a gente": {
+    "noi": 0.778
+  },
+  "ainda que": {
+    "benché": 0.778,
+    "sebbene": 0.778,
+    "seppure": 0.778
+  },
+  "alguma": {
+    "chiunque": 0.778
+  },
+  "alheio": {
+    "altrui": 0.778
+  },
+  "amavelmente": {
+    "volete": 0.222
+  },
+  "ao lado": {
+    "presso": 0.778
+  },
+  "apesar": {
+    "ma": 0.778
+  },
+  "a seguir": {
+    "dopo": 0.778
+  },
+  "assim como": {
+    "nonché": 0.778
+  },
+  "através": {
+    "attraverso": 0.778
+  },
+  "backup": {
+    "di": 0.778
+  },
+  "cacarejo": {
+    "verso": 0.778
+  },
+  "cada qual": {
+    "ciascuno": 0.778
+  },
+  "cada um": {
+    "ciascuna": 0.778,
+    "ciascuno": 0.778
+  },
+  "chicotada": {
+    "di": 0.778
+  },
+  "contanto que": {
+    "purché": 0.778
+  },
+  "convosco": {
+    "vi": 0.778,
+    "voi": 0.778
+  },
+  "criatura": {
+    "essere": 0.778
+  },
+  "cuja": {
+    "cui": 0.778
+  },
+  "cujo": {
+    "cui": 0.778
+  },
+  "debaixo": {
+    "sotto": 0.778
+  },
+  "de forma alguma": {
+    "alcuno": 0.222,
+    "qualsivoglia": 0.222
+  },
+  "de jeito algum": {
+    "alcuno": 0.222,
+    "qualsivoglia": 0.222
+  },
+  "despeito": {
+    "nonostante": 0.556
+  },
+  "desprovido": {
+    "senza": 0.778
+  },
+  "detrás": {
+    "a": 0.222
+  },
+  "devido a": {
+    "perché": 0.778
+  },
+  "diversos": {
+    "diversi": 0.778
+  },
+  "ego": {
+    "io": 0.333
+  },
+  "embaixo": {
+    "sotto": 0.778
+  },
+  "em frente": {
+    "ma": 0.222
+  },
+  "em meio a": {
+    "fra": 0.778,
+    "tra": 0.778
+  },
+  "em relação a": {
+    "contro": 0.778
+  },
+  "em segundo": {
+    "secondo": 0.556
+  },
+  "em todo lugar": {
+    "dovunque": 0.778
+  },
+  "em torno de": {
+    "verso": 0.778
+  },
+  "em vez de": {
+    "anziché": 0.778
+  },
+  "estatuto": {
+    "stato": 0.778
+  },
+  "focalizar": {
+    "su": 0.778
+  },
+  "fosso": {
+    "fosse": 0.778
+  },
+  "galinheiro": {
+    "stia": 0.778
+  },
+  "ingualmente": {
+    "come": 0.222,
+    "quale": 0.222
+  },
+  "intencionado": {
+    "voluto": 0.778
+  },
+  "isso": {
+    "essa": 0.778,
+    "esso": 0.778,
+    "la": 0.778,
+    "lo": 0.778,
+    "quella": 0.778,
+    "quello": 0.778,
+    "questa": 0.778,
+    "questo": 0.778
+  },
+  "junto de": {
+    "a": 0.111
+  },
+  "ladrar": {
+    "a": 0.778,
+    "qualcosa": 0.778,
+    "qualcuno": 0.778
+  },
+  "mais baixo": {
+    "sotto": 0.556
+  },
+  "mesmo que": {
+    "benché": 0.778
+  },
+  "meus": {
+    "mio": 0.778
+  },
+  "mim": {
+    "me": 0.778,
+    "mi": 0.778
+  },
+  "minhas": {
+    "mio": 0.778
+  },
+  "motivo": {
+    "perché": 0.778
+  },
+  "muito menos": {
+    "nonché": 0.778
+  },
+  "na direção de": {
+    "verso": 0.778
+  },
+  "nenhuns": {
+    "nè": 0.556
+  },
+  "onde quer que": {
+    "dovunque": 0.778
+  },
+  "o teu": {
+    "tua": 0.778,
+    "tue": 0.778,
+    "tuo": 0.778,
+    "tuoi": 0.778
+  },
+  "ou seja": {
+    "cioè": 0.778
+  },
+  "para fora de": {
+    "da": 0.556
+  },
+  "para lá": {
+    "ci": 0.778,
+    "vi": 0.778
+  },
+  "pela": {
+    "attraverso": 0.778
+  },
+  "porquanto": {
+    "perché": 0.778,
+    "poiché": 0.778,
+    "siccome": 0.778
+  },
+  "poucas": {
+    "pochi": 0.778
+  },
+  "propositado": {
+    "voluto": 0.778
+  },
+  "qualquer um": {
+    "chiunque": 0.778
+  },
+  "queira": {
+    "vuole": 0.556
+  },
+  "quemquer": {
+    "qualche": 0.556
+  },
+  "quem quer que": {
+    "chiunque": 0.778
+  },
+  "que vale a pena": {
+    "che": 0.222
+  },
+  "ruidosamente": {
+    "secondo": 0.556
+  },
+  "si": {
+    "se": 0.556
+  },
+  "subsistir": {
+    "essere": 0.222
+  },
+  "te": {
+    "ti": 0.778
+  },
+  "ti": {
+    "te": 0.778,
+    "ti": 0.778
+  },
+  "todas pirrjimar": {
+    "tutto": 0.222
+  },
+  "todo mundo": {
+    "ciascuno": 0.778,
+    "tutti": 0.778
+  },
+  "todos pirrjimar": {
+    "tutto": 0.222
+  },
+  "tua": {
+    "tuo": 0.778
+  },
+  "umas": {
+    "un": 0.222
+  },
+  "uns": {
+    "qualcuno": 0.333
+  },
+  "vezes": {
+    "per": 0.778
+  },
+  "vos": {
+    "vi": 0.778,
+    "voi": 0.778
+  },
+  "vossa": {
+    "vostra": 0.778,
+    "vostro": 0.778
+  },
+  "epistaxe": {
+    "di": 0.778
+  },
+  "twi": {
+    "ci": 0.889
+  },
+  "fosso de armazenamento": {
+    "fosse": 0.222
+  },
+  "No.": {
+    "nessuno": 0.556
+  },
+  "junte": {
+    "sè": 0.556
+  },
+  "seja": {
+    "siete": 0.556,
+    "sono": 0.556
+  },
+  "ao passo que": {
+    "laddove": 0.778
+  },
+  "ao invés de": {
+    "anziché": 0.778
+  },
+  "ante": {
+    "innanzi": 0.778
+  },
+  "em frente a": {
+    "innanzi": 0.778
+  },
+  "me": {
+    "me": 0.778,
+    "mi": 0.778
+  },
+  "respectivamente": {
+    "cioè": 0.778
+  },
+  "embaixo de": {
+    "sotto": 0.778
+  },
+  "dado que": {
+    "perché": 0.778,
+    "poiché": 0.778,
+    "siccome": 0.778
+  },
+  "própria": {
+    "propri": 0.444
+  },
+  "destituído": {
+    "senza": 0.778
+  },
+  "premeditado": {
+    "voluto": 0.222
+  },
+  "quanto mais": {
+    "nonché": 0.778
+  },
+  "subseqüentemente": {
+    "dopo": 0.222
+  },
+  "em outras palavras": {
+    "cioè": 0.778
+  },
+  "que tal": {
+    "se": 0.778
+  },
+  "pelo qual": {
+    "come": 0.778
+  },
+  "apesar disso": {
+    "malgrado": 0.222,
+    "nonostante": 0.222
+  },
+  "relativamente a": {
+    "come": 0.222,
+    "quale": 0.222
+  },
+  "quaisquer": {
+    "chiunque": 0.778
+  },
+  "quê": {
+    "che": 0.556
+  },
+  "qué": {
+    "che": 0.556
+  },
+  "sôbre": {
+    "sopra": 0.333,
+    "su": 0.333
+  },
+  "noS": {
+    "noi": 0.333
+  },
+  "u*": {
+    "uno": 0.333
+  },
+  "Estranho.": {
+    "altrui": 0.222
+  },
+  "certo número de": {
+    "alcuni": 0.0,
+    "qualche": 0.0
+  },
+  "uno": {
+    "questo": 0.0
+  },
+  "de forma nenhuma": {
+    "alcuno": 0.222,
+    "qualsivoglia": 0.222
+  },
+  "á": {
+    "a": 0.778
+  },
+  "uma pessoa": {
+    "qualcuno": 0.222
+  },
+  "alguma pessoa": {
+    "qualcuno": 0.222
+  },
+  "províncias": {
+    "stato": 0.222
+  },
+  "tê": {
+    "ti": 0.778
+  },
+  "porque causa": {
+    "perché": 0.222
+  },
+  "nenhumapessoa": {
+    "chiunque": 0.222
+  },
+  "na qualidade de": {
+    "come": 0.222,
+    "quale": 0.222
+  },
+  "de acordo de": {
+    "come": 0.222,
+    "quale": 0.222
+  },
+  "de que modo": {
+    "come": 0.222,
+    "quale": 0.222
+  },
+  "aoladode": {
+    "con": 0.222
+  },
+  "em qualquer parte": {
+    "dovunque": 0.222
+  },
+  "para qualquer parte": {
+    "dovunque": 0.222
+  },
+  "quinzenalmente": {
+    "ogni": 0.222
+  },
+  "bimestralmente": {
+    "tutti": 0.222
+  },
+  "adespeitode": {
+    "malgrado": 0.222,
+    "nonostante": 0.222
+  },
+  "se bobear": {
+    "malgrado": 0.222,
+    "nonostante": 0.222
+  },
+  "nãoobstante": {
+    "malgrado": 0.222,
+    "nonostante": 0.222
+  },
+  "apesarde": {
+    "malgrado": 0.222,
+    "nonostante": 0.222
+  },
+  "perpendicularmente": {
+    "attraverso": 0.778
+  },
+  "não importa o lugar": {
+    "dovunque": 0.222
+  },
+  "isso aí!": {
+    "si": 0.222
+  },
+  "é!": {
+    "si": 0.222
+  },
+  "quer que": {
+    "niente": 0.222
+  },
+  "emvozalta": {
+    "secondo": 0.222
+  },
+  "cada uma": {
+    "ciascuna": 0.778,
+    "ciascuno": 0.778
+  },
+  "apresenta": {
+    "essere": 0.0
+  },
+  "dispõe": {
+    "essere": 0.0
+  },
+  "becape": {
+    "di": 0.778
+  },
+  "Heroina": {
+    "ero": 0.0
+  },
+  "coisa alguma": {
+    "niente": 0.0
+  },
+  "nenhuma coisa": {
+    "niente": 0.0
+  },
+  "Existência": {
+    "essere": 0.0
+  },
+  "forma de vida": {
+    "essere": 0.0
+  },
+  "Estados físicos da matéria": {
+    "stato": 0.0
+  },
+  "Fases da matéria": {
+    "stato": 0.0
+  },
+  "Escala de tempo geológico": {
+    "era": 0.0
+  },
+  "apesar de que": {
+    "benché": 0.778,
+    "nonostante": 0.778
+  },
+  "chi": {
+    "chi": 0.778
+  },
+  "para com": {
+    "verso": 0.778
+  },
+  "muitas": {
+    "molti": 0.778
+  },
+  "consigo": {
+    "ti": 0.778,
+    "vi": 0.778,
+    "voi": 0.778
+  },
+  "contigo": {
+    "ti": 0.778
+  },
+  "sí": {
+    "si": 0.778
+  },
+  "assim que": {
+    "quando": 0.778
+  },
+  "versus": {
+    "contro": 0.889
+  },
+  "ou melhor": {
+    "cioè": 0.778
+  },
+  "pintar um quadro sinistro": {
+    "di": 0.778
+  },
+  "compor um quadro sinistro": {
+    "di": 0.778
+  },
+  "traçar um quadro lúgubre": {
+    "di": 0.778
+  },
+  "descrever o quadro sinistro": {
+    "di": 0.778
+  },
+  "pintar um quadro lúgubre": {
+    "di": 0.778
+  },
+  "dar o quadro sinistro": {
+    "di": 0.778
+  },
+  "desenhar o quadro sinistro": {
+    "di": 0.778
+  },
+  "gerar um quadro sinistro": {
+    "di": 0.778
+  },
+  "-os": {
+    "loro": 0.778
+  },
+  "-lhes": {
+    "loro": 0.778
+  },
+  "pe el": {
+    "lo": 0.778,
+    "lui": 0.778
+  },
+  "mas sim": {
+    "bensì": 0.778
+  },
+  "aceitar a responsabilidade": {
+    "di": 0.778,
+    "essere": 0.778,
+    "per": 0.778,
+    "qualcosa": 0.778
+  },
+  "assumir a responsabilidade": {
+    "di": 0.778,
+    "essere": 0.778,
+    "per": 0.778,
+    "qualcosa": 0.778
+  },
+  "por qué": {
+    "ché": 0.778,
+    "perché": 0.778
+  },
+  "aos cuidados de": {
+    "presso": 0.778
+  },
+  "han": {
+    "han": 0.889
+  },
+  "em horizontal": {
+    "attraverso": 0.778
+  },
+  "nas alturas": {
+    "sopra": 0.778
+  },
+  "na frente de": {
+    "innanzi": 0.778
+  },
+  "concretar": {
+    "di": 0.778
+  },
+  "ao mesmo tempo que": {
+    "durante": 0.778,
+    "mentre": 0.778
+  },
+  "o quanto": {
+    "quanto": 0.778
+  },
+  "sangramento de nariz": {
+    "di": 0.778
+  },
+  "para ali": {
+    "ci": 0.778,
+    "vi": 0.778
+  },
+  "para aí": {
+    "ci": 0.778,
+    "vi": 0.778
+  },
+  "treco": {
+    "qualcosa": 0.778
+  },
+  "rumo a": {
+    "verso": 0.778
+  },
+  "vérsus": {
+    "contro": 0.778
+  },
+  "e quanto a": {
+    "e": 0.778
+  },
+  "e sobre": {
+    "e": 0.778
+  },
+  "qualquer que seja": {
+    "qualsiasi": 0.778,
+    "qualsivoglia": 0.778,
+    "qualunque": 0.778
+  },
+  "cujas": {
+    "cui": 0.778
+  },
+  "cujos": {
+    "cui": 0.778
+  },
+  "a pessoa": {
+    "si": 0.778
+  },
+  "O que": {
+    "che": 0.778
+  },
+  "estamento": {
+    "stato": 0.778
+  },
+  "de outro": {
+    "altrui": 0.778
+  },
+  "fabricado em": {
+    "in": 0.667
+  },
+  "pode": {
+    "può": 18
+  },
+  "podem": {
+    "possono": 21
+  },
+  "foi": {
+    "è": 29
+  },
+  "Desde": {
+    "suo": 2
+  },
+  "catalã,": {
+    "ha": 1
+  },
+  "jogou": {
+    "per": 2
+  },
+  "Whitehall.": {
+    "presso": 1
+  },
+  "aos": {
+    "gli": 7
+  },
+  "poderia": {
+    "il": 4
+  },
+  "passando": {
+    "che": 2
+  },
+  "direta": {
+    "di": 2
+  },
+  "perdeu": {
+    "stato": 1
+  },
+  "conquistou": {
+    "si": 1
+  },
+  "demonstraram": {
+    "hanno": 1
+  },
+  "ajudaram": {
+    "hanno": 2
+  },
+  "usadas": {
+    "questo": 1
+  },
+  "Ma": {
+    "ha": 3
+  },
+  "teve": {
+    "è": 6
+  },
+  "implicou": {
+    "le": 1
+  },
+  "falou,": {
+    "ha": 1
+  },
+  "Apesar": {
+    "se": 6
+  },
+  "dessas": {
+    "queste": 4
+  },
+  "venceu": {
+    "con": 1
+  },
+  "noite,": {
+    "quello": 1
+  },
+  "alcançaram": {
+    "entrambi": 1
+  },
+  "ficou": {
+    "è": 3
+  },
+  "of": {
+    "of": 3
+  },
+  "instituição.": {
+    "venisse": 1
+  },
+  "pararam": {
+    "mentre": 1
+  },
+  "alvo.": {
+    "suo": 1
+  },
+  "feixes": {
+    "stati": 1
+  },
+  "tem": {
+    "ha": 10
+  },
+  "explorava": {
+    "viene": 1
+  },
+  "afirmou": {
+    "ha": 8
+  },
+  "Zelândia,": {
+    "in": 2
+  },
+  "Reid": {
+    "a": 5
+  },
+  "suas": {
+    "le": 7
+  },
+  "foram": {
+    "sono": 18
+  },
+  "marcou": {
+    "ha": 1
+  },
+  "rápido,": {
+    "cui": 1
+  },
+  "economicamente,": {
+    "dovrebbe": 1
+  },
+  "usá-la.": {
+    "suo": 1
+  },
+  "comercial,": {
+    "dovremmo": 1
+  },
+  "anunciou": {
+    "ha": 3
+  },
+  "calça.": {
+    "suoi": 1
+  },
+  "têm": {
+    "sono": 8
+  },
+  "Sul.": {
+    "do": 1
+  },
+  "havia": {
+    "aveva": 4
+  },
+  "receberia": {
+    "dovuto": 1
+  },
+  "Inc.,": {
+    "alcuna": 1
+  },
+  "questões": {
+    "la": 2
+  },
+  "seria": {
+    "sarebbe": 3
+  },
+  "terminou": {
+    "aveva": 1
+  },
+  "numa": {
+    "il": 2
+  },
+  "Caboolture": {
+    "ha": 1
+  },
+  "Dromaeosauridae": {
+    "ed": 1
+  },
+  "garras": {
+    "avesse": 1
+  },
+  "Hesperonychus,": {
+    "secondo": 1
+  },
+  "\"garra": {
+    "era": 1
+  },
+  "esmagador,": {
+    "stati": 1
+  },
+  "climáticas": {
+    "sia": 1
+  },
+  "sugeriu": {
+    "ha": 2
+  },
+  "melhorariam": {
+    "sarebbe": 1,
+    "stato": 1
+  },
+  "hoje,": {
+    "a": 3
+  },
+  "disse": {
+    "ha": 11
+  },
+  "quais": {
+    "quali": 5
+  },
+  "serão": {
+    "verranno": 1
+  },
+  "eleição.": {
+    "avrebbe": 1
+  },
+  "contradizia": {
+    "è": 1
+  },
+  "estava": {
+    "era": 9
+  },
+  "operada": {
+    "sotto": 1
+  },
+  "II-76": {
+    "fin": 1
+  },
+  "Oleodutos": {
+    "di": 2
+  },
+  "Transalasca": {
+    "di": 1
+  },
+  "fechados": {
+    "di": 1
+  },
+  "Fairbanks,": {
+    "state": 1
+  },
+  "ocorreu": {
+    "di": 3
+  },
+  "energia,": {
+    "di": 2
+  },
+  "permitiu": {
+    "ha": 2
+  },
+  "secundária": {
+    "sotto": 1
+  },
+  "deveria": {
+    "dovrebbe": 2
+  },
+  "irá": {
+    "sarà": 2
+  },
+  "fosse": {
+    "fosse": 1
+  },
+  "iraquianas.": {
+    "quelle": 1
+  },
+  "que,": {
+    "che": 6
+  },
+  "eram": {
+    "erano": 7
+  },
+  "será": {
+    "sarà": 2
+  },
+  "adquiridos": {
+    "verranno": 1
+  },
+  "NBA": {
+    "stata": 1
+  },
+  "neste": {
+    "questo": 1
+  },
+  "precisou": {
+    "aveva": 1
+  },
+  "mantém": {
+    "suoi": 1
+  },
+  "Eles": {
+    "una": 2
+  },
+  "seguia": {
+    "verso": 1
+  },
+  "abalou": {
+    "tra": 1
+  },
+  "“Hoje": {
+    "quanto": 1
+  },
+  "2009": {
+    "le": 1
+  },
+  "subiram": {
+    "i": 2
+  },
+  "num": {
+    "un": 4
+  },
+  "esgotados.": {
+    "tutto": 1
+  },
+  "receberam": {
+    "con": 1
+  },
+  "32": {
+    "stata": 2
+  },
+  "estável,": {
+    "dovrà": 1,
+    "ma": 1
+  },
+  "boas": {
+    "in": 2
+  },
+  "remanescentes": {
+    "suoi": 1
+  },
+  "produziram": {
+    "hanno": 1
+  },
+  "atingindo": {
+    "ha": 1
+  },
+  "Twin": {
+    "durante": 1
+  },
+  "tentou": {
+    "il": 1,
+    "abbia": 1
+  },
+  "aterrissagem,": {
+    "è": 1
+  },
+  "notícias,": {
+    "i": 1
+  },
+  "estavam": {
+    "erano": 3
+  },
+  "época,": {
+    "quel": 2
+  },
+  "área.": {
+    "tua": 1
+  },
+  "ratificada": {
+    "dovrà": 1
+  },
+  "apoiaram": {
+    "erano": 1,
+    "chi": 1
+  },
+  "Blake": {
+    "stato": 1
+  },
+  "descobriram": {
+    "hanno": 1
+  },
+  "lentíssimo": {
+    "di": 1
+  },
+  "autoridades,": {
+    "hanno": 1
+  },
+  "choque,\"": {
+    "stato": 1
+  },
+  "parado,": {
+    "le": 1
+  },
+  "“Vai": {
+    "lo": 1
+  },
+  "assim,": {
+    "se": 1
+  },
+  "estivesse": {
+    "di": 2
+  },
+  "sabemos,": {
+    "quel": 1
+  },
+  "concordar,": {
+    "potrebbe": 1
+  },
+  "queiram": {
+    "che": 1
+  },
+  "áreas.": {
+    "quelle": 1
+  },
+  "Meca,": {
+    "questa": 1
+  },
+  "desta": {
+    "questa": 2
+  },
+  "\"Herói": {
+    "suo": 1
+  },
+  "liderou": {
+    "fu": 1
+  },
+  "utilizados": {
+    "stati": 2
+  },
+  "pretendia": {
+    "voler": 1
+  },
+  "juntar-se.": {
+    "avrebbe": 1
+  },
+  "chegamos": {
+    "abbiamo": 1
+  },
+  "tarifárias,": {
+    "abbiamo": 1
+  },
+  "relataram": {
+    "hanno": 1
+  },
+  "fica": {
+    "si": 3
+  },
+  "então,": {
+    "il": 2
+  },
+  "possam": {
+    "possono": 2
+  },
+  "seguirem": {
+    "possano": 1
+  },
+  "organizadores": {
+    "gli": 1
+  },
+  "Berlim,": {
+    "di": 1
+  },
+  "6.500": {
+    "di": 1
+  },
+  "Protestos": {
+    "state": 1
+  },
+  "Bulgária,": {
+    "a": 2
+  },
+  "Lituânia,": {
+    "a": 1
+  },
+  "Valetta": {
+    "a": 1
+  },
+  "houve": {
+    "dopo": 1
+  },
+  "the": {
+    "the": 1
+  },
+  "(RSPCA)": {
+    "stanno": 1
+  },
+  "clamam": {
+    "venga": 1
+  },
+  "abatedouros": {
+    "tutta": 1
+  },
+  "inspetor-chefe": {
+    "quanto": 1
+  },
+  "escuras": {
+    "stata": 1
+  },
+  "resgataram": {
+    "hanno": 1
+  },
+  "revisado": {
+    "verrà": 1
+  },
+  "1973,": {
+    "egli": 1
+  },
+  "recém-independente": {
+    "aveva": 1
+  },
+  "casou-se": {
+    "era": 1
+  },
+  "notas,": {
+    "suoi": 1
+  },
+  "dizendo": {
+    "aver": 1
+  },
+  "condenado.": {
+    "essere": 1
+  },
+  "desenvolveu": {
+    "ha": 2
+  },
+  "primeiras": {
+    "il": 1
+  },
+  "cresceu": {
+    "è": 2
+  },
+  "continuou": {
+    "vi": 1
+  },
+  "tantas": {
+    "nessuno": 1
+  },
+  "du": {
+    "du": 1
+  },
+  "seguida,": {
+    "sono": 1
+  },
+  "finalizar,": {
+    "la": 1
+  },
+  "Anatolia": {
+    "ha": 1
+  },
+  "economia,": {
+    "questa": 1
+  },
+  "vi": {
+    "ho": 1
+  },
+  "colidiam": {
+    "le": 1
+  },
+  "\"Uma": {
+    "uno": 1
+  },
+  "levará": {
+    "dovranno": 1
+  },
+  "centenas": {
+    "aver": 1
+  },
+  "desligada": {
+    "oppure": 1
+  },
+  "lo,": {
+    "fossimo": 1
+  },
+  "fotosfera,": {
+    "ovvero": 1
+  },
+  "lua,": {
+    "quelle": 1
+  },
+  "enfrentado": {
+    "qualsiasi": 1
+  },
+  "afundados": {
+    "sarebbero": 1
+  },
+  "tinham": {
+    "avevano": 2
+  },
+  "capturá-los,": {
+    "quei": 1
+  },
+  "submarinos,": {
+    "questi": 1
+  },
+  "possuíssem": {
+    "avessero": 1
+  },
+  "sido": {
+    "che": 1
+  },
+  "roubadas,": {
+    "state": 1
+  },
+  "preservados,": {
+    "essi": 1
+  },
+  "feitos": {
+    "da": 4
+  },
+  "relacionados": {
+    "siano": 1
+  },
+  "variam": {
+    "da": 2
+  },
+  "passou,": {
+    "vennero": 1
+  },
+  "Britânica": {
+    "abbia": 1
+  },
+  "3%": {
+    "esso": 1
+  },
+  "longa": {
+    "abbia": 1
+  },
+  "Mundiais,": {
+    "la": 1
+  },
+  "desempregados,": {
+    "senza": 1
+  },
+  "habilidades": {
+    "avevano": 1
+  },
+  "costuma": {
+    "è": 3
+  },
+  "motivo,": {
+    "questa": 1
+  },
+  "inferior,": {
+    "essi": 1
+  },
+  "castelos": {
+    "perché": 1
+  },
+  "Suas": {
+    "sue": 1
+  },
+  "teriam": {
+    "avrebbero": 3
+  },
+  "teclas": {
+    "molta": 1
+  },
+  "última,": {
+    "una": 2
+  },
+  "visam": {
+    "ad": 1
+  },
+  "experiências.": {
+    "tali": 1
+  },
+  "distinta": {
+    "propria": 1
+  },
+  "(1469-1539).": {
+    "dopo": 1
+  },
+  "gurus": {
+    "ci": 1
+  },
+  "sucederam": {
+    "furono": 1
+  },
+  "floresceu": {
+    "presso": 1
+  },
+  "auxiliou": {
+    "lo": 1
+  },
+  "extraída": {
+    "da": 2
+  },
+  "inexperientes": {
+    "coloro": 1
+  },
+  "afetam": {
+    "ne": 1
+  },
+  "leitura,": {
+    "può": 1
+  },
+  "falanges": {
+    "sono": 1
+  },
+  "induzidos": {
+    "con": 1
+  },
+  "cansativo,": {
+    "come": 1
+  },
+  "der": {
+    "quello": 1
+  },
+  "colonos,": {
+    "i": 1
+  },
+  "atividade,": {
+    "avevano": 1
+  },
+  "pediram": {
+    "i": 1
+  },
+  "passassem": {
+    "avessero": 1
+  },
+  "torna-se": {
+    "mentre": 1
+  },
+  "nêutrons": {
+    "i": 2
+  },
+  "semanais": {
+    "la": 2
+  },
+  "olhos,": {
+    "cui": 1
+  },
+  "apresentam": {
+    "hanno": 1
+  },
+  "colônias": {
+    "le": 1
+  },
+  "trocados": {
+    "vengono": 1
+  },
+  "ser,": {
+    "vengono": 1
+  },
+  "inalterado.": {
+    "senza": 1
+  },
+  "caminho.": {
+    "loro": 1
+  },
+  "verdadeiros": {
+    "vennero": 1
+  },
+  "poderão": {
+    "potranno": 1
+  },
+  "Mas,": {
+    "qualora": 1,
+    "ciò": 1
+  },
+  "dia,": {
+    "se": 1
+  },
+  "bisnetos": {
+    "vostri": 1
+  },
+  "compostos": {
+    "hanno": 1
+  },
+  "estados": {
+    "uno": 1
+  },
+  "molecular,": {
+    "stato": 1
+  },
+  "gás,": {
+    "a": 1
+  },
+  "mudar,": {
+    "può": 1
+  },
+  "fazemos,": {
+    "nostra": 1
+  },
+  "acadêmicos": {
+    "di": 1
+  },
+  "comparamos": {
+    "con": 1,
+    "cui": 1
+  },
+  "paixões,": {
+    "nostre": 1
+  },
+  "dificuldades,": {
+    "nostre": 1
+  },
+  "sendo,": {
+    "questo": 1
+  },
+  "englobam": {
+    "esse": 1
+  },
+  "certa": {
+    "una": 2
+  },
+  "determinados": {
+    "determinate": 1
+  },
+  "tentando": {
+    "stia": 1
+  },
+  "precisaria": {
+    "avesse": 1
+  },
+  "informações,": {
+    "te": 1
+  },
+  "reformaremos": {
+    "né": 1
+  },
+  "(no": {
+    "vostro": 2
+  },
+  "anteriormente,": {
+    "nonostante": 1
+  },
+  "evitado": {
+    "dovrebbero": 1
+  },
+  "despreparados": {
+    "il": 1
+  },
+  "verão,": {
+    "in": 2
+  },
+  "relacionada": {
+    "nonostante": 1
+  },
+  "Viajar": {
+    "molte": 1
+  },
+  "disponíveis": {
+    "in": 4
+  },
+  "são.": {
+    "lo": 1
+  },
+  "devem": {
+    "devono": 3
+  },
+  "(de": {
+    "durante": 1
+  },
+  "nela,": {
+    "suo": 1
+  },
+  "removidas": {
+    "essendo": 1
+  },
+  "Israel.": {
+    "tale": 1
+  },
+  "monoteístas": {
+    "ovvero": 1
+  },
+  "Equador,": {
+    "deve": 1
+  },
+  "criados": {
+    "stati": 1
+  },
+  "exigência.": {
+    "tale": 1
+  },
+  "estiver": {
+    "se": 4
+  },
+  "navegam": {
+    "da": 1
+  },
+  "Galápagos,": {
+    "da": 1
+  },
+  "pelos": {
+    "i": 2
+  },
+  "exploradores": {
+    "pochi": 1
+  },
+  "jardim,": {
+    "diversi": 1
+  },
+  "trocados,": {
+    "qualche": 1
+  },
+  "lembra": {
+    "certi": 1
+  },
+  "maiores,": {
+    "avrete": 1
+  },
+  "conhece": {
+    "ne": 1
+  },
+  "sejam": {
+    "siano": 1
+  },
+  "dignitários": {
+    "in": 1
+  },
+  "desses": {
+    "questi": 1
+  },
+  "anfitriões": {
+    "e/o": 1
+  },
+  "fiquem": {
+    "li": 1
+  },
+  "sempre,": {
+    "può": 1
+  },
+  "fins": {
+    "alcuni": 1
+  },
+  "frio,": {
+    "ogni": 1
+  },
+  "outras,": {
+    "moltissime": 1
+  },
+  "armazenado": {
+    "su": 1
+  },
+  "vistos": {
+    "per": 4
+  },
+  "arquivada": {
+    "voi": 1
+  },
+  "reais": {
+    "quelli": 1
+  },
+  "caras": {
+    "quelli": 1
+  },
+  "mundialmente,": {
+    "ed": 1
+  },
+  "distintas": {
+    "molti": 1
+  },
+  "aproveitá-las.": {
+    "può": 1
+  },
+  "aborda": {
+    "ci": 1
+  },
+  "confira": {
+    "devi": 1
+  },
+  "avião,": {
+    "da": 1
+  },
+  "rabiscos": {
+    "i": 1
+  },
+  "mão,": {
+    "ti": 1
+  },
+  "caro,": {
+    "malgrado": 1
+  },
+  "conhecimento,": {
+    "tua": 1
+  },
+  "deixará": {
+    "dovendo": 1
+  },
+  "problemática.": {
+    "molti": 1
+  },
+  "experientes": {
+    "ed": 1
+  },
+  "vive": {
+    "vostra": 1
+  },
+  "vacinados": {
+    "siano": 1
+  },
+  "visitou": {
+    "ha": 1
+  },
+  "famílias.": {
+    "possono": 1
+  },
+  "determinadas": {
+    "alcune": 1
+  },
+  "funcionários": {
+    "queste": 1
+  },
+  "nessas": {
+    "mentre": 1
+  },
+  "anormais;": {
+    "un": 2
+  },
+  "tocam": {
+    "quanto": 1
+  },
+  "funcione.": {
+    "fosse": 1
+  },
+  "locadora": {
+    "presso": 1
+  },
+  "tiver": {
+    "hai": 1
+  },
+  "declare": {
+    "tutto": 1,
+    "ciò": 1
+  },
+  "marinas,": {
+    "sarà": 1
+  },
+  "ajuda,": {
+    "tuo": 1
+  },
+  "procurando": {
+    "stanno": 1
+  },
+  "(ver": {
+    "questo": 1
+  },
+  "parecidos": {
+    "essendo": 1
+  },
+  "Agder": {
+    "vengono": 1
+  },
+  "fecharem.": {
+    "possono": 1
+  }
+}
