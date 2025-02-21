@@ -104,8 +104,7 @@ For the lexicon to be processed correctly, it must be stored as a JSON and follo
 }
 ```
 
-### Leveraging UD treebanks
-Let's say you acquire a Universal Dependency treebank for an HRL that we have not covered. Or, you would like to leverage a treebank we already use to create lexicons for your own LRL. You can accomplish this by:
-1. Add the treebank under `dtm/ud_closed_class_wordlists` (if it doesn't already exist)
-2. Add the associated HRL and path to the treebank to `ud_wordlist_paths` in `dtm/utils/paths.py` (if it doesn't exist already)
-3. Iterate through the lexicon contianing all translations, checking if the associated HRL word is functional using `Denoiser.is_hrl_word_functional()`. Should this function return `true`, bin the LRL and associated HRL word in the functional lexicon. Otherwise, bin the LRL and associated HRL word in the content lexicon.
+### Leveraging Universal Dependencies
+For more information on curating closed tag dependencies, please see [here](https://github.com/niyatibafna/dialup/tree/dtm/mtd/generating_artificial_dialects)
+
+UD may be useful in separating out content words from functional words. You can iterate through the lexicon containing all translations, checking if the associated HRL word is functional using `Denoiser.is_hrl_word_functional()`. Should this function return `true`, bin the LRL and associated HRL word in the functional lexicon. Otherwise, bin the LRL and associated HRL word in the content lexicon.
