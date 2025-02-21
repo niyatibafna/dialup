@@ -15,7 +15,7 @@ from denoisers import Denoiser
 sys.path.append(os.path.join(os.path.dirname(__file__), "utils/"))
 from flores_code_to_langname import flores_code_to_langname, get_crls, flores_code_to_hrln
 
-def parse_args():r
+def parse_args():
     parser = ArgumentParser()
     parser.add_argument("--exp_key", type=str, required=True, help="Experiment key")
     parser.add_argument("--hrln", type=str, required=True, help="High-resource language name (e.g. ita)")
