@@ -1,4 +1,6 @@
-OUTDIR = "ud_closed_class_wordlists"
+import os
+
+OUTDIR = os.path.join(os.path.dirname(__file__), "..", "ud_closed_class_wordlists")
 
 ud_wordlist_paths ={
     "hin": f"{OUTDIR}/hi_hdtb-ud-train.json",
