@@ -47,15 +47,16 @@ In our experiments, we evaluate on
 - FloRes, for everything else.
 
 Evaluate with `evaluate_mtd.py`, with the following options:
-- `exp_key`: Experiment key
-- `hrln`: HRL language code. This is only needed to set the tokenizer source token in case the model does not support the source LRL.
-- `crl`: Code of the source dialect/closely-related language we're translating from. In our experiments, the target language was always English.
-- `model_name`: Same as above.
-- `model_path`: Path to finetuned model checkpoint.
-- `lora`: Whether the model was finetuned with LoRA.
-- `flores_dir`, `kreyolmt`: Paths to evaluation dataset directories.
-- `mt_outputs_dir`: Store the translations.
-- `batch_size`
-- `prompting_strategy`: We have a few options for prompting Aya. The default (`nolangname`) is `Translate into English: `
+- **Evaluation params**
+    - `exp_key`: Experiment key
+    - `hrln`: HRL language code. This is only needed to set the tokenizer source token in case the model does not support the source LRL.
+    - `crl`: Code of the source dialect/closely-related language we're translating from. In our experiments, the target language was always English.
+    - `flores_dir`, `kreyolmt`: Paths to evaluation dataset directories.
+    - `model_name`: Same as above.
+    - `model_path`: Path to finetuned model checkpoint.
+    - `lora`: Whether the model was finetuned with LoRA.
+    - `mt_outputs_dir`: Store the translations.
+    - `batch_size`
+    - `prompting_strategy`: We have a few options for prompting Aya. The default (`nolangname`) is `Translate into English: `
 
 
