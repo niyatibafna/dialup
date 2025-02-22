@@ -74,9 +74,8 @@ It should be noted that we did not include translations from *all* sources. Rath
 You may notice that each high-resource language word is associated with a number, a value that can be thought of as a "confidence score." Because our lexicons were aggregated over many sources that used various confidence scoring approaches, you will see a wide range of such values (from 1 to somewhere in the 100s).
 
 ## Run on your input
-The SLURM script that runs the DTM evaluation code is `dtm/evaluate_dtm.sh`. The variable `HRL_LRL_PAIRS` stores the high-resource language and associated low-resource language pairs we seek to evaluate. This list can be expanded to include additional pairs. THe SLURM option `--array` controls which language(s) to evaluate.
+You can run D-->M on your  language pair and model with `evaluate_dtm.py`. Set the following options:
 
-You may customize this script by modifying the flags described below.
 * `exp_key`: the name of the experiment being run. This flag concatenates the name of the current model being evaluated and the denoising schema being utilized.
 * `hrl`: a high-resource language. This flag can be set to Hindi (`hin`), Turkish (`tur`), Italian (`ita`), Indonesian (`ind`), Modern Standard Arabic (`arb`), and Haitan Creole (`hat`)
 * `crl`: a language that is closely related to the `hrl`. For example, this flag can be set to Chattisgarhi (`hne_Deva`), Northern Uzbek (`uzn_Latn`), Galician (`glg_Latn`), etc.
