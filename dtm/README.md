@@ -80,15 +80,18 @@ You can run D-->M on your  language pair and model with `evaluate_dtm.py`. Set t
 * `hrl`: a high-resource language. This flag can be set to Hindi (`hin`), Turkish (`tur`), Italian (`ita`), Indonesian (`ind`), Modern Standard Arabic (`arb`), and Haitan Creole (`hat`)
 * `crl`: a language that is closely related to the `hrl`. For example, this flag can be set to Chattisgarhi (`hne_Deva`), Northern Uzbek (`uzn_Latn`), Galician (`glg_Latn`), etc.
 * `model_name`: the model you would like to evaluate. This is currently set to either `aya-23-8b` or `m2mL`
-* `model_path`: path to a finetuned checkpoint if needed.
+* `model_path`: path to a finetuned checkpoint of the above model (if relevant).
+* `lora`: If `model_path` is set, this option sets whether the checkpoint was finetuned with LoRA.
 * `bilingual_lexicon_path`: base folder path for bilingual lexicons. By default, this is set to `dtm/lexicons/`.
 * `flores_dir`: folder path to FloRes-200 dataset.
 * `kreyolmt_dir`: folder path to Creole evaluation dataset.
 * `madar_dir`: folder path to the Arabic MADAR dataset. While this is currently not set, it can be added to evaluate this dataset. If set, the Arabic subset of FloRes 200 will be ignored.
 * `denoise_func`: controls how the DTM input is constructed, specifically which words get "swapped out". For example, if this flag is set to `functional`, only LRL functional words are swapped for their HRL equivalents. Must be one of `functional`, `content`, `all`.
 * `batch_size `: controls how many DTM inputs are processed at one time.
-* `mt_outputs_dir`: folder path where the English translations for the DTM input are stored. Best used for **qualitative** analysis.
-* `results_dir `: folder path where the BLEU scores for each language are stored. Best used for **quantitative** analysis.
+* `mt_outputs_dir`: folder path where the output translations are stored. 
+* `results_dir `: folder path where the evaluation results for each language are stored. 
+
+See an example run in `evaluate_dtm.sh`.
 
 ## Add a new bilingual lexicon / language
 Should you wish to run D-->M on an LRL-HRL pair for which we don't have lexicons, you can create your own `lrl-hrl` lexicon in the `lexicons/` folder.
