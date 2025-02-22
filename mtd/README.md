@@ -41,7 +41,21 @@ Here are the options for running this script.
     - `batch_size`
     - `MODEL_OUTPUT_DIR`: Where to save checkpoints.
 
+## Evaluation
+In our experiments, we evaluate on 
+- KreyòlMT (for Haitian Creole-related languages): This is from [Kreyòl-MT: Building MT for Latin American, Caribbean and Colonial African Creole Languages](https://aclanthology.org/2024.naacl-long.170/)
+- FloRes, for everything else.
 
-
+Evaluate with `evaluate_mtd.py`, with the following options:
+- `exp_key`: Experiment key
+- `hrln`: HRL language code. This is only needed to set the tokenizer source token in case the model does not support the source LRL.
+- `crl`: Code of the source dialect/closely-related language we're translating from. In our experiments, the target language was always English.
+- `model_name`: Same as above.
+- `model_path`: Path to finetuned model checkpoint.
+- `lora`: Whether the model was finetuned with LoRA.
+- `flores_dir`, `kreyolmt`: Paths to evaluation dataset directories.
+- `mt_outputs_dir`: Store the translations.
+- `batch_size`
+- `prompting_strategy`: We have a few options for prompting Aya. The default (`nolangname`) is `Translate into English: `
 
 
