@@ -2,7 +2,7 @@ MIT License
 
 
 
-Copyright (c) [2025] [Niyati Bafna, Emily Chang]
+Copyright (c) 2025 Niyati Bafna, Emily Chang
 
 
 
