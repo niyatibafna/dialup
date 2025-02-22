@@ -80,6 +80,7 @@ You can run D-->M on your  language pair and model with `evaluate_dtm.py`. Set t
 * `hrl`: a high-resource language. This flag can be set to Hindi (`hin`), Turkish (`tur`), Italian (`ita`), Indonesian (`ind`), Modern Standard Arabic (`arb`), and Haitan Creole (`hat`)
 * `crl`: a language that is closely related to the `hrl`. For example, this flag can be set to Chattisgarhi (`hne_Deva`), Northern Uzbek (`uzn_Latn`), Galician (`glg_Latn`), etc.
 * `model_name`: the model you would like to evaluate. This is currently set to either `aya-23-8b` or `m2mL`
+* `model_path`: path to a finetuned checkpoint if needed.
 * `bilingual_lexicon_path`: base folder path for bilingual lexicons. By default, this is set to `dtm/lexicons/`.
 * `flores_dir`: folder path to FloRes-200 dataset.
 * `kreyolmt_dir`: folder path to Creole evaluation dataset.
