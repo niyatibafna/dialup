@@ -85,7 +85,7 @@ You may customize this script by modifying the flags described below.
 * `flores_dir`: folder path to FloRes-200 dataset.
 * `kreyolmt_dir`: folder path to Creole evaluation dataset.
 * `madar_dir`: folder path to the Arabic MADAR dataset. While this is currently not set, it can be added to evaluate this dataset. If set, the Arabic subset of FloRes 200 will be ignored.
-* `denoise_func`: controls how the DTM input is constructed, specifically which words get "swapped out". For example, if this flag is set to `functional`, only LRL functional words are swapped for their HRL equivalents.
+* `denoise_func`: controls how the DTM input is constructed, specifically which words get "swapped out". For example, if this flag is set to `functional`, only LRL functional words are swapped for their HRL equivalents. Must be one of `functional`, `content`, `all`.
 * `batch_size `: controls how many DTM inputs are processed at one time.
 * `mt_outputs_dir`: folder path where the English translations for the DTM input are stored. Best used for **qualitative** analysis.
 * `results_dir `: folder path where the BLEU scores for each language are stored. Best used for **quantitative** analysis.
