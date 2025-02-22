@@ -91,9 +91,9 @@ You may customize this script by modifying the flags described below.
 * `results_dir `: folder path where the BLEU scores for each language are stored. Best used for **quantitative** analysis.
 
 ## Add a new bilingual lexicon / language
-Lexicons are sorted by language pair and separated into `functional`, `content`, and `all` (a combination of `functional` and `content`). Should you wish to evaluate an LRL-HRL pair that doesn't yet exist, you will have to create an additional folder that follows the `lrl-hrl` naming convention before adding lexicons. In addition to the lexicon that contains all known LRL-HRL translation pairs, you will have to create two more lexicons: one containing content words and another containing functional words.
+Should you wish to run D-->M on an LRL-HRL pair for which we don't have lexicons, you can create your own `lrl-hrl` lexicon in the `lexicons/` folder.
 
-For the lexicon to be processed correctly, it must be stored as a JSON and follow the format below:
+All lexicons must be stored as a JSON and follow the format below:
 ```
 {
     <word in LRL>: {
@@ -105,7 +105,17 @@ For the lexicon to be processed correctly, it must be stored as a JSON and follo
 }
 ```
 
-### Leveraging Universal Dependencies
-For more information on curating closed tag dependencies, please see [here](https://github.com/niyatibafna/dialup/tree/dtm/mtd/generating_artificial_dialects)
+Lexicons are sorted by language pair and separated into `functional`, `content`, and `all` (a combination of `functional` and `content`). 
+In our experiments, we find that depending on the language pair, it's often very useful to only switch out functional words, for example.
+In case you want to use the `functional` strategy, you will further need to create the `functional` and `content` subsets of this lexicons.
 
-UDs may be useful in separating content words from functional words. You can iterate through the lexicon containing all translations, checking if the associated HRL word is functional using `Denoiser.is_hrl_word_functional()`. Should this function return `true`, bin the LRL and associated HRL word in the functional lexicon. Otherwise, bin the LRL and associated HRL words in the content lexicon.
+
+### Creating `functional` and `content` subsets of the lexicon
+
+Here are the steps for creating these sublists:
+1) Curate a list of functional words, or closed class words in the HRL. Please see [here](https://github.com/niyatibafna/dialup/tree/dtm/mtd/generating_artificial_dialects) for notes on how to do this. If you can do this for your LRL of course, that is even better. If not, we will use our LRL-HRL bilingual lexicon to project this annotation on to LRL words.
+2) Use the above list to separate out functional words from your collected LRL-HRL lexicon. Anything not identified as a function word is labeled a content word.
+
+
+
+
