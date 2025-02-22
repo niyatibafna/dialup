@@ -114,7 +114,7 @@ In case you want to use the `functional` strategy, you will further need to crea
 
 Here are the steps for creating these sublists:
 1) Curate a list of functional words, or closed class words in the HRL. Please see [here](https://github.com/niyatibafna/dialup/tree/dtm/mtd/generating_artificial_dialects) for notes on how to do this. If you can do this for your LRL of course, that is even better. If not, we will use our LRL-HRL bilingual lexicon to project this annotation on to LRL words.
-2) Use the above list to separate out functional words from your collected LRL-HRL lexicon. Anything not identified as a function word is labeled a content word.
+2) Use the above list to separate out functional words from your collected LRL-HRL lexicon. Anything not identified as a function word is labeled a content word. (Check out `Denoisers.is_lrl_word_functional`.
 
 
 
