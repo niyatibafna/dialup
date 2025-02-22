@@ -77,8 +77,6 @@ def init_noisers_fixed_set(lang, read_file, theta_func_global, theta_content_glo
     Initialize noisers for a fixed set of artificial languages. 
     The map of changes is sampled only once for each noiser and then applied to all examples.
     '''
-
-    print("USING A FIXED SET OF ARTIFICAL LANGUAGES!!!")
     # We'll have NUM_ARTLANGS noiser classes 
     # Each noiser class will have the same noise parameters but randomly samples
     # a different (fixed) artificial language. 
@@ -480,7 +478,7 @@ def main():
             )
             model = get_peft_model(model, lora_config)
         
-        if load_trained_path:
+        if trained_model_path:
             raise NotImplementedError("Continued finetuning of trained model not implemented for m2m model")
 
     elif model_name == "aya-23-8b":
