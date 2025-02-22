@@ -41,7 +41,7 @@ Here are the steps for adding a new language:
 
 1. Add support in `noisers.utils.misc`. 
 - Add language code normalization, script support in `identify_script()` and `get_character_set()`
-- Add support in `ipa_char_maps()`: a map from graphemes in the script as used for this language to IPA symbols. Note that this map may differ between languages that use the same script.
+- Add support in `ipa_char_maps()`: a map from graphemes in the script as used for this language to IPA symbols. Note that this map probably differs between languages that use the same script.
 2. Curate a list of closed class words in the language. 
 - Option 1: For our currently supported languages, we used tagged UD corpora to do this. Put in the path to your UD corpus in `noisers.utils.get_functional_words.ud_data_filepaths`, and the wordlist output path in `noisers.utils.get_functional_words_filepaths.ud_wordlists_paths`. Run `python noisers/utils/get_functional_words/py` to generate the required wordlist.
 - Option 2: Get your list of closed class words from somewhere else, and save it to `noisers/utils/ud_closed_class_wordlists/`, in a JSON formatted `{<closed_class_tag1>:[word11, word12,...], <closed_class_tag2>:[word21, word22,...]...}`. See `noisers.utils.get_functional_words.closed_class_tags` for a list of POS tags we considered as closed class tags.
@@ -49,7 +49,7 @@ Here are the steps for adding a new language:
 
 
 ## Notes
-1. Many of our noisers have an associated global version, e.g. `noisers.lexical.GlobalLexicalNoiser`. The difference between this version and the augmenter version, e.g. `noisers.lexical.LexicalNoiserAugmenter` is that in the former, we only sample all changes once, when the class object is initialized. That instance therefore applies the same map of changes to all input data that it is applied to. This is in contrast to the augmenter versions, where every call to `apply_noise` samples a new maps of changes given the noise parametrization.
+1. Many of our noisers have an associated global version, e.g. `noisers.lexical.GlobalLexicalNoiser`. The difference between this version and the augmenter version, e.g. `noisers.lexical.LexicalNoiserAugmenter` is that in the former, we only sample all changes once, when the class object is initialized (we call this `fixed_set` noising). That instance therefore applies the same map of changes to all input data that it is applied to. This is in contrast to the augmenter versions, where every call to `apply_noise` samples a new maps of changes given the noise parametrization.
 2. The default parameters set in `example_noise_params.json` give good results for data augmentation for dialectal robustness on six tested language families using `-cloud` noising. These should be tuned for new language families; see the DialUp paper for our recommendations on tuning.
 
 If you use our code, please cite:
