@@ -38,7 +38,6 @@ class Denoiser:
         with open(path) as f:
             return json.load(f)
     
-    # CITATION: https://stackoverflow.com/questions/354038/how-do-i-check-if-a-string-represents-a-number-float-or-int
     def is_number(self, s):
         try:
             complex(s) # for int, long, float and complex
