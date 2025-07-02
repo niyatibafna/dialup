@@ -4,11 +4,11 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "dialup"
-version = "0.1.0.post1"
+version = "1.0.0"
 authors = [
     { name = "Niyati Bafna", email = "niyatibafna13@gmail.com" }
 ]
-description = "DialUp! Generating linguistically plausible artificial dialects."
+description = "DialUp! Generating linguistically plausible artificial dialects; preprocessing low-resource language inputs."
 readme = { file = "README.md", content-type = "text/markdown" }
 requires-python = ">=3.9"
 dependencies = [

@@ -4,8 +4,8 @@ This package contains code for the noising and denoising techniques introduced i
 
 ## Noising
 ### Introduction
-This code is for generating synthetic dialectal data from data in a given language.
-This is done by applying linguistically-motivated augmentation (noising) that simulates dialectal variation to source data.
+This code is for generating synthetic dialectal data from text in a given language.
+This is done by applying linguistically-motivated augmentation (noising) that simulates dialectal variation to source language text.
 We present several kinds of noisers, introduced briefly below, and described in detail in our papers.
 
 ### Noisers
@@ -20,7 +20,7 @@ These can also be applied in composition.
 
 ### Example
 
-In order to create artificial dialectal versions of your text, you will need monolingual data in your language, used to train a character 3-gram model as a component of the noiser. Ideally, it should have >5000 sentences.
+In order to create artificial dialectal versions of your text, you will need monolingual data in your language, used to train a character 3-gram model as a component of the noiser. Ideally, it should have at least a few thousand sentences.
 
 You can optionally configure your own composition of the above noisers (see below).
 
