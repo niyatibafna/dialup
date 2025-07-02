@@ -14,6 +14,8 @@ The resulting synthetic data can be used to make machine translation or other mo
 - Random char: Makes random character substitutions.
 - Random word: Makes random word substitutions.
 
+Our [pip package](https://github.com/niyatibafna/dialup/tree/master/dialup_pkg) contains all the above except for the semantic noiser.
+
 These can also be applied in composition. 
 
 ## Supported languages
@@ -49,7 +51,7 @@ Here are the steps for adding a new language:
 
 
 ## Notes
-1. Many of our noisers have an associated global version, e.g. `noisers.lexical.GlobalLexicalNoiser`. The difference between this version and the augmenter version, e.g. `noisers.lexical.LexicalNoiserAugmenter` is that in the former, we only sample all changes once, when the class object is initialized (we call this `fixed_set` noising). That instance therefore applies the same map of changes to all input data that it is applied to. This is in contrast to the augmenter versions, where every call to `apply_noise` samples a new maps of changes given the noise parametrization.
+1. Many of our noisers have an associated global version, e.g. `noisers.lexical.GlobalLexicalNoiser`. The difference between this version and the augmenter version, e.g. `noisers.lexical.LexicalNoiserAugmenter` is that in the former, we only sample all changes once, when the class object is initialized (we call this `fixed_set` noising). That instance therefore applies the same map of changes to all input data that it is applied to (akin to generating from the same artificial dialect). This is in contrast to the augmenter versions, where every call to `apply_noise` samples a new maps of changes given the noise parametrization (akin to producing a new dialect per call). Our [`pip` package](https://github.com/niyatibafna/dialup/tree/master/dialup_pkg) only contains the augmenter version. 
 2. The default parameters set in `example_noise_params.json` give good results for data augmentation for dialectal robustness on six tested language families using `-cloud` noising. These should be tuned for new language families; see the DialUp paper for our recommendations on tuning.
 
 If you use our code, please cite:
