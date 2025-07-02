@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "dialup"
-version = "1.0.0"
+version = "1.0.1"
 authors = [
     { name = "Niyati Bafna", email = "niyatibafna13@gmail.com" }
 ]
@@ -20,7 +20,7 @@ dependencies = [
 text = "MIT"
 
 [project.urls]
-Homepage = "https://github.com/niyatibafna/dialup/dialup_pkg"
+Homepage = "https://github.com/niyatibafna/dialup/tree/master/dialup_pkg"
 Issues = "https://github.com/niyatibafna/dialup/issues"
 
 [tool.setuptools]
