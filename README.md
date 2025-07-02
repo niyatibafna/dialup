@@ -7,8 +7,9 @@ We introduce two techniques for expanding machine translation for some HRL to it
 
 ### Getting started with artificial dialect generation and denoising
 
-We release a [pip package](https://github.com/niyatibafna/dialup/tree/master/dialup_pkg) that allows you to generate artificial dialectal versions of your own data as well as perform denoising, for supported languages.
+We release a [pip package](https://pypi.org/project/dialup/1.0.0/); see [source code here](https://github.com/niyatibafna/dialup/tree/master/dialup_pkg), that allows you to generate artificial dialectal versions of your own data as well as perform denoising, for supported languages.
 This package has restricted (best-performing) options.
+
 
 
 

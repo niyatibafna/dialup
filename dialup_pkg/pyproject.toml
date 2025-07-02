@@ -20,7 +20,7 @@ dependencies = [
 text = "MIT"
 
 [project.urls]
-Homepage = "https://github.com/niyatibafna/dialup/"
+Homepage = "https://github.com/niyatibafna/dialup/dialup_pkg"
 Issues = "https://github.com/niyatibafna/dialup/issues"
 
 [tool.setuptools]
