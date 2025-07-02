@@ -1,0 +1,2602 @@
+{
+  "mo": {
+    "mwen": 1
+  },
+  "to": {
+    "ou": 1
+  },
+  "ou": {
+    "ou": 1
+  },
+  "twa": {
+    "ou": 1
+  },
+  "li": {
+    "li": 1
+  },
+  "nou": {
+    "nou": 1
+  },
+  "zot": {
+    "nou": 1,
+    "yo": 1
+  },
+  "bann-la": {
+    "yo": 1
+  },
+  "sa": {
+    "sa": 1
+  },
+  "la-ba": {
+    "la": 1
+  },
+  "ki": {
+    "kilès": 1,
+    "kimoun": 1,
+    "kisa": 1
+  },
+  "ki sann-la": {
+    "kilès": 1,
+    "kimoun": 1
+  },
+  "pa": {
+    "pa": 1
+  },
+  "enn": {
+    "youn": 1,
+    "yon": 1
+  },
+  "de": {
+    "de": 1
+  },
+  "lipou": {
+    "pou": 1
+  },
+  "lever": {
+    "vè": 1
+  },
+  "disan": {
+    "san": 1
+  },
+  "lame": {
+    "men": 1
+  },
+  "licou": {
+    "kou": 1
+  },
+  "a": {
+    "a": 1
+  },
+  "andan": {
+    "nan": 1
+  },
+  "ar": {
+    "ak": 1,
+    "avèk": 1
+  },
+  "avek": {
+    "ak": 1,
+    "avèk": 1
+  },
+  "ek": {
+    "ak": 1,
+    "avèk": 1
+  },
+  "e": {
+    "ak": 1,
+    "epi": 1
+  },
+  "si": {
+    "si": 1
+  },
+  "akoz": {
+    "paske": 1,
+    "akòz": 1,
+    "poutèt": 1
+  },
+  "parski": {
+    "paske": 1,
+    "akòz": 1,
+    "poutèt": 1
+  },
+  "en": {
+    "youn": 0.444
+  },
+  "komansman": {
+    "depi": 10
+  },
+  "Laparol": {
+    "la": 5
+  },
+  "ti": {
+    "te": 1971
+  },
+  "existe,": {
+    "ki": 15
+  },
+  "finn": {
+    "te": 1038
+  },
+  "Limem": {
+    "ki": 16
+  },
+  "teneb": {
+    "a": 11
+  },
+  "teneb,": {
+    "nan": 2
+  },
+  "pou": {
+    "pou": 1770
+  },
+  "lor": {
+    "sou": 482
+  },
+  "pouki": {
+    "pou": 349
+  },
+  "Veritab": {
+    "sa": 1
+  },
+  "dan": {
+    "nan": 1804
+  },
+  "selman": {
+    "sa": 10
+  },
+  "prop": {
+    "pa": 49
+  },
+  "volonte": {
+    "sa": 25
+  },
+  "bann": {
+    "yo": 886
+  },
+  "abit": {
+    "nan": 9
+  },
+  "Sa-Enn": {
+    "ki": 42
+  },
+  "mwa": {
+    "m": 333
+  },
+  "existe": {
+    "ki": 28
+  },
+  "depi": {
+    "nan": 118
+  },
+  "personn": {
+    "pèsonn": 55
+  },
+  "anpiblik": {
+    "devan": 6
+  },
+  "Alors": {
+    "sa": 8
+  },
+  "inn": {
+    "yo": 32
+  },
+  "Farizien": {
+    "yo": 29
+  },
+  "ni": {
+    "ni": 79
+  },
+  "zot,": {
+    "nou": 185
+  },
+  "parmi": {
+    "nan": 171
+  },
+  "mwa,": {
+    "m": 44
+  },
+  "ase": {
+    "ta": 9
+  },
+  "Tousala": {
+    "sa": 12
+  },
+  "kote": {
+    "bò": 23
+  },
+  "Momem": {
+    "mwen": 13
+  },
+  "Lespri": {
+    "a": 99
+  },
+  "sorti": {
+    "sòti": 114
+  },
+  "lao": {
+    "anwo": 8
+  },
+  "limem": {
+    "li": 81
+  },
+  "So": {
+    "li": 17
+  },
+  "Ti": {
+    "te": 19
+  },
+  "al": {
+    "al": 38
+  },
+  "Parey": {
+    "jan": 11
+  },
+  "kapav": {
+    "ka": 222
+  },
+  "Pena": {
+    "ki": 10
+  },
+  "anba": {
+    "anba": 42
+  },
+  "Abe": {
+    "sa": 5
+  },
+  "Trwaziem": {
+    "lan": 3
+  },
+  "nepli": {
+    "pa": 31
+  },
+  "ler": {
+    "lè": 50
+  },
+  "an": {
+    "yo": 16
+  },
+  "ape": {
+    "te": 4
+  },
+  "nek": {
+    "ki": 17
+  },
+  "ziska": {
+    "jouk": 57
+  },
+  "twa,": {
+    "ou": 61
+  },
+  "Samem": {
+    "sa": 25
+  },
+  "Sa": {
+    "sa": 66
+  },
+  "laba": {
+    "yo": 20
+  },
+  "tousala": {
+    "sa": 31
+  },
+  "nou,": {
+    "nou": 85
+  },
+  "bizin": {
+    "pou": 342
+  },
+  "samem,": {
+    "sa": 6
+  },
+  "Dimoun": {
+    "ki": 61
+  },
+  "spiritiel.": {
+    "ak": 3
+  },
+  "Pa": {
+    "pa": 60
+  },
+  "la": {
+    "a": 194
+  },
+  "manier": {
+    "jan": 30
+  },
+  "krwar,": {
+    "nan": 10
+  },
+  "la:": {
+    "ki": 4
+  },
+  "lemal": {
+    "sa": 11
+  },
+  "deteste": {
+    "pa": 5
+  },
+  "letan": {
+    "lè": 112
+  },
+  "lepok": {
+    "sa": 15
+  },
+  "okenn": {
+    "okenn": 39
+  },
+  "kamarad": {
+    "yonn": 14
+  },
+  "tipti.": {
+    "ap": 2
+  },
+  "Seki": {
+    "ki": 39
+  },
+  "ne": {
+    "ki": 12
+  },
+  "lame.": {
+    "men": 14
+  },
+  "oblize": {
+    "la": 4
+  },
+  "terin": {
+    "te": 9
+  },
+  "Pwi": {
+    "la": 3
+  },
+  "Enn": {
+    "yon": 36
+  },
+  "Bann": {
+    "yo": 106
+  },
+  "kisannla": {
+    "ki": 46
+  },
+  "Fam": {
+    "lan": 7
+  },
+  "pena": {
+    "pa": 141
+  },
+  "tir": {
+    "anba": 6
+  },
+  "ladan": {
+    "ki": 12
+  },
+  "lasours": {
+    "li": 14
+  },
+  "eternel": {
+    "ki": 18
+  },
+  "rezon": {
+    "poutèt": 11
+  },
+  "dir.”": {
+    "m": 2
+  },
+  "la;": {
+    "nan": 10
+  },
+  "arive": {
+    "a": 21
+  },
+  "explik": {
+    "nou": 7
+  },
+  "fer;": {
+    "sa": 6
+  },
+  "Bannla": {
+    "yo": 14
+  },
+  "Anmemtan,": {
+    "bò": 1
+  },
+  "ant": {
+    "yonn": 32
+  },
+  "rekolte.": {
+    "ki": 2
+  },
+  "zot;": {
+    "pou": 16
+  },
+  "parol,": {
+    "sa": 11
+  },
+  "landrwa": {
+    "yo": 27,
+    "kote": 27
+  },
+  "lerwa;": {
+    "te": 7
+  },
+  "Ofisie": {
+    "a": 1
+  },
+  "desann,": {
+    "avè": 1
+  },
+  "samem": {
+    "sa": 63
+  },
+  "basin": {
+    "a": 3
+  },
+  "andikape:": {
+    "sa": 3,
+    "ki": 3
+  },
+  "paralize.": {
+    "lè": 1
+  },
+  "]": {
+    "li": 2,
+    "te": 2,
+    "nou": 2
+  },
+  "lontan": {
+    "la": 15
+  },
+  "“Dimoun": {
+    "ki": 9
+  },
+  "bien,": {
+    "ki": 8
+  },
+  "lavi,": {
+    "ki": 9
+  },
+  "zize,": {
+    "dapre": 2
+  },
+  "lavi;": {
+    "ki": 18
+  },
+  "kondane.": {
+    "pral": 3
+  },
+  "nanye": {
+    "anyen": 37
+  },
+  "dapre": {
+    "dapre": 57
+  },
+  "valer.": {
+    "a": 5
+  },
+  "akonpli,": {
+    "te": 11
+  },
+  "fouy": {
+    "plede": 1
+  },
+  "grander": {
+    "nan": 5
+  },
+  "limem,": {
+    "li": 14
+  },
+  "devan": {
+    "devan": 133
+  },
+  "manze?”": {
+    "n": 3
+  },
+  "bannla": {
+    "yo": 143
+  },
+  "trap": {
+    "men": 5
+  },
+  "demonte": {
+    "a": 1
+  },
+  "twa?": {
+    "ou": 5
+  },
+  "Parski": {
+    "sa": 24
+  },
+  "done,": {
+    "pou": 7
+  },
+  "zot:": {
+    "nou": 14
+  },
+  "marmote": {
+    "ap": 1
+  },
+  "“Aret": {
+    "pa": 1
+  },
+  "lesiel;": {
+    "nan": 9
+  },
+  "disan,": {
+    "san": 6
+  },
+  "Zot,": {
+    "nou": 12
+  },
+  "sa?”": {
+    "sa": 3
+  },
+  "zot?": {
+    "nou": 17
+  },
+  "Ki": {
+    "pou": 54
+  },
+  "komansman,": {
+    "te": 10
+  },
+  "permet": {
+    "nou": 7
+  },
+  "ale": {
+    "l": 7
+  },
+  "ninport": {
+    "sa": 8
+  },
+  "fane": {
+    "nan": 5
+  },
+  "pourtan": {
+    "yo": 17
+  },
+  "lansegnman,": {
+    "la": 5
+  },
+  "oubien": {
+    "ni": 18
+  },
+  "lide.": {
+    "fenk": 1
+  },
+  "Lafoul": {
+    "yo": 5
+  },
+  "tou,": {
+    "nou": 22
+  },
+  "tradision": {
+    "nou": 10
+  },
+  "sorti.”": {
+    "bò": 2
+  },
+  "krwayan": {
+    "ki": 40
+  },
+  "lidantite": {
+    "poutèt": 1
+  },
+  "tous": {
+    "sou": 3
+  },
+  "kik": {
+    "yon": 3
+  },
+  "pret,": {
+    "nan": 8
+  },
+  "foul": {
+    "konn": 3
+  },
+  "bannla,": {
+    "yo": 33
+  },
+  "may": {
+    "epi": 5,
+    "sou": 5
+  },
+  "anplin": {
+    "nan": 2
+  },
+  "piez": {
+    "nan": 6
+  },
+  "kestion,": {
+    "yo": 8
+  },
+  "temwagn": {
+    "ka": 4
+  },
+  "lorizinn": {
+    "sòti": 4
+  },
+  "parti": {
+    "nan": 21
+  },
+  "touzour": {
+    "pou": 18
+  },
+  "alors": {
+    "yo": 25
+  },
+  "asterla,": {
+    "nou": 10
+  },
+  "laglwar,": {
+    "pou": 6
+  },
+  "abitie": {
+    "konn": 3
+  },
+  "deor": {
+    "yo": 16
+  },
+  "‘Li": {
+    "l": 3
+  },
+  "rakont": {
+    "yo": 22
+  },
+  "kler,": {
+    "pral": 4
+  },
+  "sorti.": {
+    "sòti": 3
+  },
+  "loulou": {
+    "ap": 3
+  },
+  "regagn": {
+    "l": 6
+  },
+  "ale-vini": {
+    "an": 3
+  },
+  "antour": {
+    "bò": 3,
+    "kote": 3
+  },
+  "bat": {
+    "yo": 20
+  },
+  "lame,": {
+    "men": 17
+  },
+  "sap": {
+    "anba": 11
+  },
+  "nouvel": {
+    "pou": 10
+  },
+  "malad.”": {
+    "lan": 1
+  },
+  "zorey,": {
+    "pou": 8
+  },
+  "anpes": {
+    "pou": 10
+  },
+  "vwal": {
+    "la": 6
+  },
+  "san": {
+    "san": 68
+  },
+  "koumsa": {
+    "pou": 9
+  },
+  "deside": {
+    "te": 7
+  },
+  "ala": {
+    "nou": 16
+  },
+  "pase,": {
+    "yo": 14
+  },
+  "redonn": {
+    "te": 3
+  },
+  "fodre": {
+    "l": 11
+  },
+  "prezan": {
+    "la": 9
+  },
+  "plito": {
+    "ki": 7
+  },
+  "serviet": {
+    "li": 6
+  },
+  "neseser": {
+    "pou": 17
+  },
+  "Segner.’": {
+    "m": 2
+  },
+  "Met": {
+    "ki": 6
+  },
+  "kamarad.": {
+    "yonn": 13
+  },
+  "lexanp": {
+    "pou": 26
+  },
+  "sannla": {
+    "ki": 8
+  },
+  "koste": {
+    "bò": 3,
+    "kote": 3
+  },
+  "prepar": {
+    "pou": 12
+  },
+  "sinon": {
+    "ta": 5
+  },
+  "anpratik,": {
+    "va": 7
+  },
+  "lamem": {
+    "yo": 10
+  },
+  "Res": {
+    "nou": 3
+  },
+  "fri": {
+    "nou": 15
+  },
+  "zet": {
+    "yo": 33
+  },
+  "prosin,": {
+    "nou": 4,
+    "yonn": 4
+  },
+  "komannman:": {
+    "ou": 3
+  },
+  "prosin.": {
+    "yonn": 3
+  },
+  "zize.": {
+    "lan": 1
+  },
+  "tro": {
+    "pa": 10
+  },
+  "lapenn": {
+    "pral": 6
+  },
+  "resevwar,": {
+    "nou": 8
+  },
+  "konsakre": {
+    "pou": 4
+  },
+  "zis,": {
+    "ki": 14
+  },
+  "komandan": {
+    "an": 7
+  },
+  "Gran": {
+    "la": 11
+  },
+  "bon,": {
+    "ki": 11
+  },
+  "tres": {
+    "yon": 1
+  },
+  "krisifie": {
+    "sou": 18
+  },
+  "zotmem": {
+    "nou": 58
+  },
+  "plak": {
+    "te": 5
+  },
+  "lir": {
+    "li": 22
+  },
+  "baton": {
+    "yo": 7
+  },
+  "pasaz": {
+    "li": 6
+  },
+  "permision": {
+    "l": 13
+  },
+  "anvlop": {
+    "yo": 8
+  },
+  "galoupe": {
+    "men": 5
+  },
+  "deryer": {
+    "dèyè": 7
+  },
+  "vire": {
+    "bò": 1,
+    "kote": 1
+  },
+  "apre,": {
+    "te": 5
+  },
+  "isi,": {
+    "m": 10
+  },
+  "lame;": {
+    "men": 3
+  },
+  "Bienere": {
+    "pou": 7
+  },
+  "bato,": {
+    "an": 4
+  },
+  "lapes": {
+    "fenk": 1
+  },
+  "problem": {
+    "sa": 6
+  },
+  "swazir.": {
+    "pou": 5
+  },
+  "pandan": {
+    "pandan": 22
+  },
+  "realize": {
+    "sa": 11
+  },
+  "napa": {
+    "pa": 14
+  },
+  "ansam,": {
+    "nou": 6
+  },
+  "lasam": {
+    "anlè": 2
+  },
+  "plonze": {
+    "te": 4
+  },
+  "konsernan": {
+    "sa": 9
+  },
+  "grander,": {
+    "yon": 5
+  },
+  "‘Karo": {
+    "san": 1
+  },
+  "krwayan.": {
+    "ki": 16
+  },
+  "rasanble": {
+    "yo": 26
+  },
+  "etonnman": {
+    "manke": 1
+  },
+  "fernwar,": {
+    "pral": 2
+  },
+  "sove.’": {
+    "va": 2
+  },
+  "sign,": {
+    "ap": 2
+  },
+  "prezans": {
+    "devan": 9
+  },
+  "lazwa.’": {
+    "avèk": 1
+  },
+  "lasirans": {
+    "pa": 7
+  },
+  "zordi.": {
+    "jouk": 3
+  },
+  "profet,": {
+    "yo": 17
+  },
+  "dir:": {
+    "nan": 17
+  },
+  "saki": {
+    "sa": 31
+  },
+  "pardon": {
+    "pou": 9
+  },
+  "pinision": {
+    "yo": 13
+  },
+  "azoute": {
+    "te": 5
+  },
+  "distribie": {
+    "an": 2
+  },
+  "group": {
+    "te": 14
+  },
+  "trwa-zer": {
+    "vè": 3
+  },
+  "depoz": {
+    "te": 8
+  },
+  "Toutswit": {
+    "lè": 3
+  },
+  "rezet": {
+    "ki": 10
+  },
+  "trouve.": {
+    "ka": 4
+  },
+  "lignorans": {
+    "nou": 6
+  },
+  "fason": {
+    "jan": 26
+  },
+  "anonse": {
+    "l": 5
+  },
+  "efas": {
+    "pou": 17
+  },
+  "rekonfor,": {
+    "nou": 9
+  },
+  "predir": {
+    "te": 2
+  },
+  "atraver": {
+    "li": 12
+  },
+  "ansien": {
+    "yo": 41
+  },
+  "sinp": {
+    "ki": 13
+  },
+  "diskit": {
+    "yo": 14
+  },
+  "reapel": {
+    "yo": 4
+  },
+  "korek": {
+    "nou": 19
+  },
+  "pini": {
+    "sa": 9
+  },
+  "mwayin": {
+    "nou": 9
+  },
+  "Kreater": {
+    "ki": 12
+  },
+  "nasion": {
+    "yo": 26
+  },
+  "Fer": {
+    "pou": 12
+  },
+  "selon": {
+    "l": 5
+  },
+  "leker?": {
+    "ou": 5
+  },
+  "setadir": {
+    "sa": 12
+  },
+  "repanti,": {
+    "l": 7
+  },
+  "lokazion": {
+    "pou": 15
+  },
+  "Bondie!”": {
+    "avèk": 3
+  },
+  "maltrete": {
+    "kote": 4
+  },
+  "Ebre": {
+    "san": 3
+  },
+  "vev": {
+    "yo": 13
+  },
+  "negliz": {
+    "nou": 3
+  },
+  "Esklav": {
+    "yo": 4
+  },
+  "pwin": {
+    "avèk": 2
+  },
+  "trenn": {
+    "yo": 17
+  },
+  "tret": {
+    "yo": 11
+  },
+  "gouverner": {
+    "a": 5
+  },
+  "som": {
+    "yo": 10
+  },
+  "gete.": {
+    "l": 2
+  },
+  "refiz": {
+    "yo": 26
+  },
+  "linstriksion": {
+    "te": 4
+  },
+  "araze": {
+    "yo": 2
+  },
+  "tipti": {
+    "kou": 6
+  },
+  "abitan,": {
+    "ni": 2
+  },
+  "gagne": {
+    "te": 4
+  },
+  "priy": {
+    "pou": 7
+  },
+  "kales": {
+    "bò": 3
+  },
+  "konpran,": {
+    "yo": 8
+  },
+  "dekrir": {
+    "ki": 4
+  },
+  "otour": {
+    "te": 10
+  },
+  "payin": {
+    "yo": 17
+  },
+  "Lanwit-lizour": {
+    "kou": 2
+  },
+  "Anz": {
+    "lan": 6
+  },
+  "midi": {
+    "vè": 2
+  },
+  "resanble": {
+    "tankou": 7
+  },
+  "reptil": {
+    "sou": 3
+  },
+  "touye,": {
+    "lè": 1,
+    "ou": 1
+  },
+  "reysi": {
+    "yo": 17
+  },
+  "fode": {
+    "pa": 24
+  },
+  "konsider": {
+    "pou": 9
+  },
+  "non-Zwif": {
+    "yo": 28
+  },
+  "andetay": {
+    "k": 1
+  },
+  "Lerlamem": {
+    "lè": 2
+  },
+  "trankil.": {
+    "yo": 2
+  },
+  "repantans": {
+    "yo": 2
+  },
+  "Antios": {
+    "yo": 7
+  },
+  "lerlamem": {
+    "lè": 6
+  },
+  "diskour": {
+    "ki": 4
+  },
+  "Lepep": {
+    "la": 3
+  },
+  "mision": {
+    "pou": 9
+  },
+  "Lalwa": {
+    "a": 11
+  },
+  "larive": {
+    "te": 6
+  },
+  "vre:": {
+    "ava": 1
+  },
+  "sor": {
+    "anba": 1
+  },
+  "Pran": {
+    "pou": 4
+  },
+  "zordi": {
+    "a": 10
+  },
+  "aprouv": {
+    "te": 14
+  },
+  "atak": {
+    "yo": 16
+  },
+  "drese,": {
+    "epi": 1
+  },
+  "initil": {
+    "anyen": 3
+  },
+  "fortifie": {
+    "nan": 13
+  },
+  "Atalia": {
+    "yo": 2
+  },
+  "regle": {
+    "va": 2
+  },
+  "rakonte": {
+    "jan": 4
+  },
+  "diferans": {
+    "ant": 5
+  },
+  "noumem": {
+    "mwen": 15
+  },
+  "trankil,": {
+    "yo": 2
+  },
+  "deklare,": {
+    "sa": 7
+  },
+  "difisil": {
+    "pa": 5
+  },
+  "laser": {
+    "ak": 7
+  },
+  "disan.": {
+    "san": 4
+  },
+  "boulvers": {
+    "manke": 2
+  },
+  "evit": {
+    "sa": 7
+  },
+  "laba]": {
+    "te": 1
+  },
+  "lestim": {
+    "pou": 8
+  },
+  "delivrans.”": {
+    "n": 2
+  },
+  "profon": {
+    "yo": 6
+  },
+  "okip": {
+    "yo": 10
+  },
+  "santiman": {
+    "san": 5
+  },
+  "drol.": {
+    "ta": 1
+  },
+  "komsi": {
+    "tankou": 8
+  },
+  "sertin": {
+    "ki": 10
+  },
+  "an-or,": {
+    "osinon": 3
+  },
+  "nome": {
+    "te": 5
+  },
+  "fek": {
+    "fenk": 6
+  },
+  "bles": {
+    "ou": 6
+  },
+  "konsern": {
+    "sou": 7
+  },
+  "diferan": {
+    "ak": 8
+  },
+  "prezant": {
+    "yo": 5
+  },
+  "pratike": {
+    "an": 1
+  },
+  "kalm": {
+    "nou": 8
+  },
+  "Trofim": {
+    "paske": 2
+  },
+  "benefik": {
+    "kit": 2
+  },
+  "lanwit-lizour,": {
+    "kou": 3
+  },
+  "pou:": {
+    "sou": 2
+  },
+  "fer?": {
+    "pral": 1
+  },
+  "vre;": {
+    "yo": 9
+  },
+  "ofrand": {
+    "pou": 4
+  },
+  "Komandan": {
+    "an": 12
+  },
+  "konpagnon": {
+    "avè": 4
+  },
+  "La": {
+    "lè": 3
+  },
+  "mwa.’": {
+    "mwen": 3
+  },
+  "drwa": {
+    "pou": 15
+  },
+  "gouvern": {
+    "ou": 2
+  },
+  "divize.": {
+    "de": 1
+  },
+  "koumsamem": {
+    "pral": 4
+  },
+  "swadizan": {
+    "ta": 3
+  },
+  "ka": {
+    "ta": 7,
+    "ka": 7
+  },
+  "latansion.": {
+    "mesye": 1
+  },
+  "diswar.": {
+    "vè": 1
+  },
+  "Prepar": {
+    "yon": 1
+  },
+  "ansekirite": {
+    "an": 1,
+    "san": 1
+  },
+  "Felix.”": {
+    "okenn": 2
+  },
+  "Felix,": {
+    "ak": 1
+  },
+  "Lizias": {
+    "l": 1
+  },
+  "reform": {
+    "ou": 4
+  },
+  "toultan,": {
+    "sa": 1
+  },
+  "soutenir": {
+    "pou": 12
+  },
+  "posib": {
+    "kapab": 5
+  },
+  "seremoni": {
+    "pou": 8
+  },
+  "liberte": {
+    "nou": 16
+  },
+  "kimanier": {
+    "jan": 5
+  },
+  "dernie,": {
+    "ki": 6
+  },
+  "larelizion,": {
+    "avè": 2
+  },
+  "lapel": {
+    "nou": 7
+  },
+  "dakor.": {
+    "yo": 3
+  },
+  "pasians.": {
+    "avèk": 4
+  },
+  "pei,": {
+    "nan": 5
+  },
+  "profet?": {
+    "pa": 5
+  },
+  "averti": {
+    "sa": 7
+  },
+  "lit": {
+    "ak": 7
+  },
+  "sovtaz": {
+    "bò": 3
+  },
+  "lespwar": {
+    "mwen": 6
+  },
+  "apros": {
+    "kote": 12
+  },
+  "labriz": {
+    "kap": 1
+  },
+  "kraze": {
+    "nan": 12
+  },
+  "sof.": {
+    "ni": 1
+  },
+  "eskal": {
+    "nou": 1
+  },
+  "Sirakiz": {
+    "la": 1
+  },
+  "refize": {
+    "pa": 4
+  },
+  "apele": {
+    "nou": 9
+  },
+  "sivilize": {
+    "kit": 3
+  },
+  "invizib": {
+    "ki": 8
+  },
+  "natirel": {
+    "yo": 13
+  },
+  "relasion": {
+    "ak": 9
+  },
+  "merite": {
+    "yo": 4
+  },
+  "lemal,": {
+    "sa": 8,
+    "ki": 8
+  },
+  "bonte": {
+    "jan": 6
+  },
+  "dibien,": {
+    "sa": 12
+  },
+  "parfwa": {
+    "yo": 2
+  },
+  "ignoran,": {
+    "pou": 6
+  },
+  "dir?": {
+    "sa": 4
+  },
+  "blasfem": {
+    "ap": 1,
+    "plede": 1
+  },
+  "koumadir": {
+    "tankou": 16
+  },
+  "sime;": {
+    "yo": 3
+  },
+  "lezot;": {
+    "san": 1
+  },
+  "mank": {
+    "manke": 4,
+    "pa": 4
+  },
+  "peser": {
+    "l": 10
+  },
+  "baze": {
+    "nan": 7
+  },
+  "fierte": {
+    "nou": 13
+  },
+  "solid,": {
+    "nou": 13
+  },
+  "fidelite": {
+    "nou": 2
+  },
+  "feb,": {
+    "mwen": 5
+  },
+  "ki,": {
+    "nou": 14
+  },
+  "rezilta": {
+    "nou": 12
+  },
+  "konbien": {
+    "pa": 3
+  },
+  "nou;": {
+    "nou": 14
+  },
+  "linion": {
+    "nou": 10
+  },
+  "dominn": {
+    "sou": 5
+  },
+  "mortel": {
+    "pou": 9
+  },
+  "tanki": {
+    "toutotan": 4
+  },
+  "apartenir": {
+    "nan": 8
+  },
+  "kisavedir": {
+    "kisa": 2
+  },
+  "ka,": {
+    "mwen": 2
+  },
+  "sezi": {
+    "mwen": 3
+  },
+  "anver": {
+    "pou": 21
+  },
+  "dirize": {
+    "ap": 5
+  },
+  "akord": {
+    "pou": 24
+  },
+  "adopte": {
+    "te": 10
+  },
+  "febles,": {
+    "lè": 10
+  },
+  "davans": {
+    "depi": 3
+  },
+  "separ": {
+    "yo": 10
+  },
+  "lamizer,": {
+    "jan": 6
+  },
+  "Lekris;": {
+    "nou": 6
+  },
+  "souete": {
+    "ta": 6
+  },
+  "toulede": {
+    "de": 4
+  },
+  "setadir,": {
+    "yon": 4
+  },
+  "swa": {
+    "te": 5
+  },
+  "depann": {
+    "ki": 2
+  },
+  "rises": {
+    "li": 10
+  },
+  "mizerikord,": {
+    "pou": 6
+  },
+  "apele,": {
+    "kit": 2
+  },
+  "avan,": {
+    "a": 8
+  },
+  "zel": {
+    "kit": 5
+  },
+  "dezoner.”": {
+    "sòti": 1
+  },
+  "latrap,": {
+    "yo": 8
+  },
+  "partisip": {
+    "sa": 7
+  },
+  "reintegre": {
+    "va": 3
+  },
+  "epargn": {
+    "pral": 1
+  },
+  "Finn": {
+    "te": 3
+  },
+  "anferm": {
+    "anba": 2
+  },
+  "ansegne,": {
+    "pou": 11
+  },
+  "sinser.": {
+    "yonn": 2
+  },
+  "pena.": {
+    "nou": 4
+  },
+  "lakorite": {
+    "nou": 9
+  },
+  "pinision,": {
+    "nou": 4
+  },
+  "demande.": {
+    "nou": 4
+  },
+  "anou": {
+    "nou": 12
+  },
+  "konport": {
+    "nou": 8
+  },
+  "lizour;": {
+    "nan": 6
+  },
+  "sexiel,": {
+    "ni": 5
+  },
+  "imoralite": {
+    "nan": 9
+  },
+  "antrene": {
+    "nou": 12
+  },
+  "Akeyir": {
+    "pou": 2
+  },
+  "aksiondegras": {
+    "pou": 4
+  },
+  "aliman": {
+    "ou": 4
+  },
+  "progres": {
+    "yonn": 1
+  },
+  "progrese": {
+    "nou": 8
+  },
+  "aksion,": {
+    "ki": 10
+  },
+  "larezion": {
+    "anyen": 1
+  },
+  "linstan": {
+    "pral": 1
+  },
+  "kolekt": {
+    "yo": 3
+  },
+  "spiritiel": {
+    "ki": 19
+  },
+  "termine": {
+    "lè": 4
+  },
+  "non-krwayan": {
+    "ki": 12
+  },
+  "sours": {
+    "a": 3
+  },
+  "mersi": {
+    "pou": 6
+  },
+  "Nere": {
+    "ak": 3
+  },
+  "Anbras": {
+    "pou": 3
+  },
+  "obeisan,": {
+    "nou": 7
+  },
+  "komie": {
+    "jan": 13
+  },
+  "pros": {
+    "nou": 3
+  },
+  "apart": {
+    "nou": 2,
+    "te": 2
+  },
+  "personn,": {
+    "nan": 10
+  },
+  "pwisan": {
+    "ki": 8
+  },
+  "Frer,": {
+    "m": 2
+  },
+  "presiez,": {
+    "ak": 8
+  },
+  "batir": {
+    "osinon": 2
+  },
+  "lapay,": {
+    "ak": 1
+  },
+  "sirman": {
+    "pa": 3
+  },
+  "Apolos,": {
+    "ni": 3
+  },
+  "responsabilite": {
+    "li": 1
+  },
+  "dezoner,": {
+    "yo": 2
+  },
+  "fizikman": {
+    "mwen": 4
+  },
+  "gonfle.": {
+    "la": 1
+  },
+  "debos,": {
+    "nan": 2
+  },
+  "toulede.": {
+    "ni": 4
+  },
+  "resisite.": {
+    "sòti": 4
+  },
+  "timama": {
+    "nou": 2
+  },
+  "tini,": {
+    "l": 6
+  },
+  "sakrifie": {
+    "te": 10
+  },
+  "Zotmem": {
+    "nou": 10
+  },
+  "sem": {
+    "ki": 5
+  },
+  "Satisfaksion": {
+    "m": 5
+  },
+  "lib,": {
+    "kit": 6
+  },
+  "disiplinn": {
+    "pou": 7
+  },
+  "atlet": {
+    "nan": 2,
+    "yon": 2
+  },
+  "Tousa": {
+    "yo": 3
+  },
+  "lafin": {
+    "pa": 4
+  },
+  "kritik": {
+    "pou": 6
+  },
+  "lintere,": {
+    "pou": 7
+  },
+  "zot!": {
+    "nou": 2
+  },
+  "payin,": {
+    "te": 10
+  },
+  "interpret": {
+    "li": 6
+  },
+  "respektab": {
+    "ki": 4
+  },
+  "konesans,": {
+    "nan": 16
+  },
+  "irite,": {
+    "pa": 1
+  },
+  "revelasion,": {
+    "yon": 7
+  },
+  "lintelizans.": {
+    "pral": 5
+  },
+  "ankourazman.": {
+    "va": 2
+  },
+  "metriz": {
+    "yo": 3
+  },
+  "lord.": {
+    "avèk": 2
+  },
+  "vid.": {
+    "ta": 5
+  },
+  "Ledouz.": {
+    "l": 1
+  },
+  "Antouka,": {
+    "kit": 2
+  },
+  "Adam;": {
+    "yonn": 2
+  },
+  "noumem,": {
+    "mwen": 4
+  },
+  "imortel;": {
+    "kapab": 2
+  },
+  "apre.": {
+    "pral": 6
+  },
+  "Vizit": {
+    "pa": 1,
+    "manke": 1
+  },
+  "Bizin": {
+    "pou": 6
+  },
+  "lamitie": {
+    "pou": 4
+  },
+  "soufrans,": {
+    "mwen": 11
+  },
+  "pirte": {
+    "jan": 4
+  },
+  "sinserite": {
+    "san": 2
+  },
+  "lir.": {
+    "ka": 4
+  },
+  "benediksion.": {
+    "de": 1
+  },
+  "“Wi”": {
+    "yon": 5
+  },
+  "temwin:": {
+    "ki": 2,
+    "te": 2
+  },
+  "momem,": {
+    "mwen": 6
+  },
+  "Ninport": {
+    "kanta": 1,
+    "nou": 1
+  },
+  "extraordiner": {
+    "sa": 6
+  },
+  "kraze;": {
+    "konn": 2
+  },
+  "traka,": {
+    "m": 2
+  },
+  "prezans.": {
+    "devan": 2
+  },
+  "renouvle": {
+    "ni": 2
+  },
+  "afin": {
+    "pou": 12
+  },
+  "rekonsiliasion": {
+    "avè": 2
+  },
+  "repros.": {
+    "okenn": 1
+  },
+  "lapirte,": {
+    "jan": 3
+  },
+  "labonte,": {
+    "jan": 1
+  },
+  "gos.": {
+    "kit": 2
+  },
+  "insilt": {
+    "lè": 5
+  },
+  "partner": {
+    "ak": 5
+  },
+  "Momem,": {
+    "tankou": 2
+  },
+  "explwat": {
+    "yo": 9
+  },
+  "bonn": {
+    "nou": 11
+  },
+  "privilez": {
+    "nou": 6
+  },
+  "zenerozite": {
+    "nou": 8
+  },
+  "tigit.”": {
+    "manke": 1
+  },
+  "ramase": {
+    "men": 1
+  },
+  "dezobeisans.": {
+    "nou": 1
+  },
+  "vid.”": {
+    "ka": 2
+  },
+  "kriter": {
+    "yo": 8
+  },
+  "mari,": {
+    "devan": 2
+  },
+  "inferyer": {
+    "yo": 6
+  },
+  "merite.": {
+    "sa": 7
+  },
+  "vantardiz": {
+    "m": 3
+  },
+  "souete,": {
+    "m": 3
+  },
+  "febles.": {
+    "jan": 2
+  },
+  "revelasion": {
+    "m": 9
+  },
+  "satisfe": {
+    "m": 6
+  },
+  "insilt,": {
+    "nan": 5
+  },
+  "paran,": {
+    "ak": 5
+  },
+  "depans": {
+    "m": 3
+  },
+  "Tousala,": {
+    "sa": 2
+  },
+  "lager,": {
+    "pa": 2
+  },
+  "Laglwar": {
+    "pou": 11
+  },
+  "malgre": {
+    "te": 8
+  },
+  "bet!": {
+    "sòt": 1
+  },
+  "azout": {
+    "pou": 7
+  },
+  "anviger": {
+    "te": 3
+  },
+  "laverite?": {
+    "nou": 1
+  },
+  "linflians": {
+    "yo": 7
+  },
+  "“Kontan": {
+    "ou": 1
+  },
+  "mord": {
+    "ap": 2
+  },
+  "sorselri,": {
+    "yonn": 2
+  },
+  "koler,": {
+    "san": 2
+  },
+  "douser,": {
+    "ou": 2
+  },
+  "Fodre": {
+    "pou": 2
+  },
+  "mok": {
+    "dapre": 2
+  },
+  "persekite": {
+    "yo": 9
+  },
+  "anabondans": {
+    "an": 2
+  },
+  "lagras,": {
+    "nou": 13
+  },
+  "zenerasion": {
+    "ak": 2
+  },
+  "larzer,": {
+    "jan": 1
+  },
+  "longer,": {
+    "jan": 3
+  },
+  "oter": {
+    "li": 6
+  },
+  "sirpas": {
+    "pèsonn": 1
+  },
+  "linite": {
+    "nou": 9
+  },
+  "doktrinn": {
+    "ki": 10
+  },
+  "natir,": {
+    "nou": 6
+  },
+  "Abiy": {
+    "pou": 1
+  },
+  "Rezet": {
+    "poutèt": 1
+  },
+  "Psom,": {
+    "ak": 6
+  },
+  "defo;": {
+    "okenn": 4
+  },
+  "mama.”": {
+    "avèk": 2
+  },
+  "toulede,": {
+    "ni": 4
+  },
+  "diab.": {
+    "anba": 4
+  },
+  "lennmi,": {
+    "avè": 2
+  },
+  "elmet": {
+    "an": 3
+  },
+  "pir": {
+    "l": 4
+  },
+  "laper.": {
+    "yo": 6
+  },
+  "rezwir": {
+    "nou": 5
+  },
+  "reverans,": {
+    "avèk": 3
+  },
+  "konplint": {
+    "pa": 4
+  },
+  "biento": {
+    "ka": 3
+  },
+  "pitie": {
+    "pou": 7
+  },
+  "pert": {
+    "akòz": 1
+  },
+  "bit": {
+    "m": 2
+  },
+  "inplor": {
+    "de": 2
+  },
+  "depas": {
+    "pa": 4
+  },
+  "onorab,": {
+    "ki": 7
+  },
+  "fas": {
+    "nou": 4
+  },
+  "Premie-ne": {
+    "li": 5
+  },
+  "repros,": {
+    "pou": 8
+  },
+  "kreatir": {
+    "yo": 14
+  },
+  "manke": {
+    "manke": 2
+  },
+  "pep:": {
+    "nou": 5
+  },
+  "lite": {
+    "pou": 11
+  },
+  "tenir": {
+    "nou": 7
+  },
+  "totalite": {
+    "sa": 1
+  },
+  "pran,": {
+    "pa": 1
+  },
+  "lasazes:": {
+    "yo": 6
+  },
+  "tousala:": {
+    "ni": 2
+  },
+  "grosierte": {
+    "okenn": 3
+  },
+  "pardon;": {
+    "yonn": 4
+  },
+  "dekouraze.": {
+    "pa": 2
+  },
+  "latitid": {
+    "avè": 1
+  },
+  "lokazion.": {
+    "okenn": 1
+  },
+  "expre": {
+    "l": 3
+  },
+  "akey": {
+    "l": 8
+  },
+  "remersi": {
+    "pou": 4
+  },
+  "Lanwit-lizour,": {
+    "kou": 1
+  },
+  "ansarz": {
+    "pou": 4
+  },
+  "profet;": {
+    "sòti": 1,
+    "nan": 1
+  },
+  "Evit": {
+    "san": 3
+  },
+  "Lemesan": {
+    "an": 1
+  },
+  "malfeter": {
+    "pou": 10
+  },
+  "blasfeme.": {
+    "a": 3
+  },
+  "pouki,": {
+    "pou": 5
+  },
+  "bonaksion;": {
+    "ki": 3
+  },
+  "limilite.": {
+    "avèk": 2
+  },
+  "levek": {
+    "dèyè": 2
+  },
+  "sinp,": {
+    "pou": 8
+  },
+  "soular,": {
+    "ki": 1
+  },
+  "so.": {
+    "ou": 1
+  },
+  "itil": {
+    "pou": 8
+  },
+  "zenn": {
+    "yo": 4
+  },
+  "Preferab": {
+    "poutèt": 1
+  },
+  "doub": {
+    "yo": 7
+  },
+  "anprezans": {
+    "devan": 5
+  },
+  "prop.": {
+    "ki": 2
+  },
+  "veritab": {
+    "yon": 2
+  },
+  "douser.": {
+    "avèk": 3
+  },
+  "Rekomann": {
+    "yo": 4
+  },
+  "lebien.": {
+    "pou": 5
+  },
+  "predikater,": {
+    "m": 2
+  },
+  "vaz": {
+    "an": 6
+  },
+  "maye.": {
+    "l": 2
+  },
+  "proze,": {
+    "nan": 11
+  },
+  "korize,": {
+    "pou": 3
+  },
+  "manifestasion": {
+    "ni": 2
+  },
+  "demars": {
+    "ou": 3
+  },
+  "Mark,": {
+    "avèk": 2
+  },
+  "kondwit.": {
+    "pa": 2
+  },
+  "batayer,": {
+    "ni": 3
+  },
+  "akeyan,": {
+    "l": 3
+  },
+  "ekilibre,": {
+    "li": 4
+  },
+  "devoue,": {
+    "pou": 5
+  },
+  "granper:": {
+    "yo": 3
+  },
+  "rezonab,": {
+    "yo": 3
+  },
+  "volaz,": {
+    "yo": 4
+  },
+  "exazere": {
+    "yo": 3
+  },
+  "Lagras": {
+    "pou": 3
+  },
+  "manifeste.": {
+    "ka": 1
+  },
+  "bienveyan": {
+    "ak": 4
+  },
+  "lebien": {
+    "ki": 1
+  },
+  "largiman,": {
+    "nan": 2
+  },
+  "lalis": {
+    "ni": 3
+  },
+  "initil.": {
+    "pa": 1
+  },
+  "divizer,": {
+    "yon": 3
+  },
+  "Veye": {
+    "pou": 5
+  },
+  "Onezim": {
+    "la": 2
+  },
+  "konstrikter": {
+    "ki": 8
+  },
+  "valab,": {
+    "kote": 3
+  },
+  "Avredir": {
+    "ka": 3
+  },
+  "Melkisedek.”": {
+    "ak": 2
+  },
+  "lexperyans,": {
+    "ki": 3
+  },
+  "disern": {
+    "ant": 1
+  },
+  "inpozision": {
+    "sou": 5
+  },
+  "Melkisedek": {
+    "yon": 5
+  },
+  "initil,": {
+    "anyen": 1
+  },
+  "mediater": {
+    "ant": 2
+  },
+  "nesesite": {
+    "ta": 2
+  },
+  "kof": {
+    "te": 3
+  },
+  "pirifikasion,": {
+    "de": 3
+  },
+  "lasann": {
+    "yo": 6
+  },
+  "Sakrifis": {
+    "pa": 1
+  },
+  "tegn": {
+    "yo": 6
+  },
+  "fwet;": {
+    "yo": 4
+  },
+  "lasi;": {
+    "yo": 6
+  },
+  "staz": {
+    "ta": 2
+  },
+  "akeyir.”": {
+    "li": 2
+  },
+  "lakrint;": {
+    "avèk": 2
+  },
+  "eprev,": {
+    "nenpòt": 1
+  },
+  "defo.": {
+    "san": 2
+  },
+  "vag": {
+    "tankou": 5
+  },
+  "indesi": {
+    "sa": 2
+  },
+  "tante": {
+    "anba": 2
+  },
+  "anbete.": {
+    "sa": 1
+  },
+  "Asipoze": {
+    "de": 1
+  },
+  "Zokris!": {
+    "jan": 1,
+    "manke": 1
+  },
+  "inkontrolab,": {
+    "ka": 2
+  },
+  "lanbision,": {
+    "dèyè": 2
+  },
+  "Soumet": {
+    "poutèt": 1
+  },
+  "Apros": {
+    "bò": 2
+  },
+  "presie": {
+    "ki": 11
+  },
+  "si,": {
+    "nou": 3
+  },
+  "dibien;": {
+    "l": 4
+  },
+  "Noumem,": {
+    "te": 2
+  },
+  "epargne": {
+    "pa": 2
+  },
+  "Later": {
+    "te": 10
+  },
+  "zenes,": {
+    "nou": 8
+  },
+  "lasante": {
+    "an": 2
+  },
+  "rwayote,": {
+    "kit": 3
+  },
+  "bronz": {
+    "l": 3
+  },
+  "four": {
+    "l": 3
+  },
+  "Diab": {
+    "pral": 4
+  },
+  "laviktwar,": {
+    "jouk": 4
+  },
+  "fre,": {
+    "ou": 3
+  },
+  "reprimann": {
+    "mwen": 2
+  },
+  "pake": {
+    "ak": 6
+  },
+  "kristal.": {
+    "kou": 4
+  },
+  "katriem": {
+    "an": 4
+  },
+  "kanta": {
+    "ni": 2
+  },
+  "zil": {
+    "yo": 2
+  },
+  "deplase": {
+    "yo": 2
+  },
+  "reziste?”": {
+    "avèk": 1
+  },
+  "zarb,": {
+    "ankenn": 1
+  },
+  "apepre": {
+    "ankenn": 1
+  },
+  "tronpet,": {
+    "l": 5
+  },
+  "tier": {
+    "nan": 14
+  },
+  "pwi-san-fon": {
+    "san": 4
+  },
+  "tortir": {
+    "yo": 3
+  },
+  "libere.": {
+    "sa": 5
+  },
+  "limanite.": {
+    "sou": 2
+  },
+  "disouf;": {
+    "kou": 3
+  },
+  "dibwa": {
+    "ki": 7
+  },
+  "dey,": {
+    "yo": 7
+  },
+  "edmi": {
+    "te": 2
+  },
+  "krapo": {
+    "yonn": 3
+  },
+  "mov": {
+    "swa": 1
+  },
+  "lartik": {
+    "an": 1
+  },
+  "an-ivwar,": {
+    "an": 1
+  },
+  "presie,": {
+    "an": 3
+  },
+  "dible,": {
+    "ak": 4
+  },
+  "libere": {
+    "sòti": 1
+  },
+  "Omega,": {
+    "jiska": 3
+  },
+  "lenor,": {
+    "bò": 2
+  },
+  "lwes.": {
+    "bò": 1
+  },
+  "Lavil": {
+    "la": 4
+  },
+  "safir,": {
+    "an": 2
+  },
+  "agat,": {
+    "lan": 3
+  },
+  "kornalinn,": {
+    "lan": 2
+  },
+  "krizolit,": {
+    "an": 3
+  },
+  "neviem": {
+    "lan": 6
+  },
+  "beril,": {
+    "an": 1
+  },
+  "topaz,": {
+    "an": 1
+  },
+  "krisopraz,": {
+    "an": 2
+  }
+}

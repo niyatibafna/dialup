@@ -1,0 +1,1205 @@
+{
+  "jo": {
+    "io": 1
+  },
+  "tu": {
+    "tu": 1
+  },
+  "lui": {
+    "egli": 1,
+    "lui": 1
+  },
+  "noaltris": {
+    "noi": 1
+  },
+  "nô": {
+    "noi": 1
+  },
+  "vô": {
+    "voi": 1
+  },
+  "voaltris": {
+    "voi": 1
+  },
+  "lôr": {
+    "loro": 1,
+    "essi": 1
+  },
+  "chest": {
+    "questo": 1
+  },
+  "chel": {
+    "quello": 1
+  },
+  "cui": {
+    "chi": 1
+  },
+  "ce": {
+    "che": 1
+  },
+  "cuant": {
+    "quando": 1
+  },
+  "cemût": {
+    "come": 1
+  },
+  "dut": {
+    "tutto": 1
+  },
+  "cetancj": {
+    "alcuni": 1
+  },
+  "cualchi": {
+    "alcuni": 1
+  },
+  "un": {
+    "un": 1,
+    "uno": 1,
+    "una": 1,
+    "un'": 1
+  },
+  "a": {
+    "a": 1
+  },
+  "in": {
+    "in": 1
+  },
+  "cun": {
+    "con": 1
+  },
+  "e": {
+    "e": 1
+  },
+  "se": {
+    "se": 1
+  },
+  "parcè": {
+    "perché": 1
+  },
+  "by": {
+    "a": 0.111
+  },
+  "dêr": {
+    "li": 0.222
+  },
+  "dêre": {
+    "li": 0.222
+  },
+  "dwers": {
+    "attraverso": 0.111
+  },
+  "dyn": {
+    "tuo": 0.111,
+    "vostro": 0.111
+  },
+  "er": {
+    "li": 0.222
+  },
+  "foar": {
+    "a": 0.111
+  },
+  "jyns": {
+    "tuo": 0.111,
+    "vostro": 0.111
+  },
+  "oan": {
+    "a": 0.111
+  },
+  "op": {
+    "a": 0.111,
+    "su": 0.111
+  },
+  "par": {
+    "per": 0.778,
+    "verso": 0.778
+  },
+  "yn": {
+    "a": 0.111
+  },
+  "ũŋ": {
+    "uno": 0.444
+  },
+  "parcè che": {
+    "perché": 0.556
+  },
+  "yo": {
+    "io": 0.333
+  },
+  "nou": {
+    "noi": 0.333
+  },
+  "uN": {
+    "uno": 0.333
+  },
+  "stât": {
+    "stato": 0.778
+  },
+  "jessi": {
+    "essere": 0.778
+  },
+  "viers": {
+    "verso": 0.556
+  },
+  "cuintri": {
+    "contro": 0.778
+  },
+  "cetant": {
+    "quanta": 0.778,
+    "quanto": 0.778
+  },
+  "cuâl": {
+    "quale": 0.778
+  },
+  "dopo": {
+    "dopo": 0.556
+  },
+  "come": {
+    "come": 0.556
+  },
+  "intant": {
+    "mentre": 0.556
+  },
+  "sot": {
+    "sotto": 0.778
+  },
+  "sore": {
+    "sopra": 0.778
+  },
+  "une": {
+    "un": 0.778,
+    "un'": 0.778,
+    "una": 0.778,
+    "uno": 0.778
+  },
+  "di": {
+    "di": 0.778
+  },
+  "cuintris": {
+    "di": 0.556
+  },
+  "me": {
+    "mi": 0.778
+  },
+  "daspò": {
+    "dopo": 0.778
+  },
+  "sei": {
+    "essere": 0.778
+  },
+  "tra": {
+    "fra": 0.778,
+    "tra": 0.778
+  },
+  "fra": {
+    "fra": 0.778,
+    "tra": 0.778
+  },
+  "jenfri": {
+    "fra": 0.778,
+    "tra": 0.778
+  },
+  "so": {
+    "sua": 0.778,
+    "sue": 0.778,
+    "suo": 0.778,
+    "suoi": 0.778
+  },
+  "sô": {
+    "sua": 0.778,
+    "sue": 0.778,
+    "suo": 0.778,
+    "suoi": 0.778
+  },
+  "mi": {
+    "mi": 0.778
+  },
+  "mê": {
+    "mio": 0.778
+  },
+  "gno": {
+    "mio": 0.778
+  },
+  "ni": {
+    "né": 0.778
+  },
+  "nancje": {
+    "né": 0.778
+  },
+  "nissun": {
+    "nessuna": 0.778,
+    "nessuno": 0.778
+  },
+  "nestri": {
+    "nostra": 0.778,
+    "nostre": 0.778,
+    "nostri": 0.778,
+    "nostro": 0.778
+  },
+  "jê": {
+    "ella": 0.778,
+    "lei": 0.778
+  },
+  "il": {
+    "gli": 0.778,
+    "i": 0.778,
+    "il": 0.778,
+    "la": 0.778,
+    "le": 0.778,
+    "lo": 0.778
+  },
+  "i": {
+    "gli": 0.778,
+    "i": 0.778,
+    "il": 0.778,
+    "la": 0.778,
+    "le": 0.778,
+    "lo": 0.778
+  },
+  "la": {
+    "gli": 0.778,
+    "i": 0.778,
+    "il": 0.778,
+    "la": 0.778,
+    "le": 0.778,
+    "lo": 0.778
+  },
+  "sù": {
+    "su": 0.778
+  },
+  "cuand": {
+    "quando": 0.778
+  },
+  "cence": {
+    "senza": 0.778
+  },
+  "vuestri": {
+    "vostra": 0.778,
+    "vostro": 0.778
+  },
+  "to": {
+    "tuo": 0.778
+  },
+  "tè": {
+    "the": 0.778
+  },
+  "han": {
+    "han": 0.889
+  },
+  "ere": {
+    "era": 0.889
+  },
+  "cu": {
+    "con": 0.778
+  },
+  "o": {
+    "o": 0.556
+  },
+  "àn": {
+    "hanno": 26
+  },
+  "che": {
+    "che": 266
+  },
+  "pues": {
+    "può": 21
+  },
+  "è": {
+    "è": 110
+  },
+  "suntune": {
+    "una": 3
+  },
+  "aeropuart": {
+    "un": 2
+  },
+  "si": {
+    "si": 62
+  },
+  "à": {
+    "ha": 94
+  },
+  "pe": {
+    "per": 14
+  },
+  "je": {
+    "è": 77
+  },
+  "Whitehall.": {
+    "presso": 1
+  },
+  "cul": {
+    "con": 11
+  },
+  "son": {
+    "sono": 97
+  },
+  "ducj": {
+    "tutti": 7
+  },
+  "podarès": {
+    "potrebbe": 4
+  },
+  "chestis": {
+    "queste": 8
+  },
+  "intune": {
+    "in": 10
+  },
+  "travuart": {
+    "entrambi": 1
+  },
+  "cuntun": {
+    "un": 9
+  },
+  "Arts": {
+    "of": 1
+  },
+  "stade": {
+    "stata": 10
+  },
+  "Grant": {
+    "durante": 2
+  },
+  "su": {
+    "su": 15
+  },
+  "stâts": {
+    "stati": 11
+  },
+  "pontin": {
+    "tutta": 1
+  },
+  "teme": {
+    "viene": 1
+  },
+  "suntun": {
+    "di": 4
+  },
+  "intun": {
+    "un": 8
+  },
+  "cjapant": {
+    "tra": 4,
+    "cui": 4
+  },
+  "sta": {
+    "sta": 2
+  },
+  "vuidât": {
+    "a": 3
+  },
+  "chei": {
+    "gli": 6
+  },
+  "ven": {
+    "quale": 2,
+    "viene": 2
+  },
+  "vêle.": {
+    "dovremmo": 1
+  },
+  "podessin": {
+    "potessero": 1
+  },
+  "jeans.": {
+    "suoi": 1
+  },
+  "stin": {
+    "stiamo": 1
+  },
+  "do": {
+    "do": 1
+  },
+  "presentâle": {
+    "voi": 1
+  },
+  "veve": {
+    "aveva": 9
+  },
+  "puedin": {
+    "possono": 25
+  },
+  "varessin": {
+    "avrebbero": 3,
+    "dovrebbero": 3
+  },
+  "vût": {
+    "dovuto": 2
+  },
+  "ma": {
+    "ma": 37
+  },
+  "dentri": {
+    "di": 5
+  },
+  "jerin": {
+    "erano": 11
+  },
+  "sgrifis": {
+    "avesse": 1
+  },
+  "Hesperonychus,": {
+    "secondo": 1
+  },
+  "stadis": {
+    "stati": 3,
+    "state": 3
+  },
+  "meteorologjichis": {
+    "sia": 1
+  },
+  "saressin": {
+    "sarebbe": 1
+  },
+  "mioradis": {
+    "stato": 1
+  },
+  "saran": {
+    "saranno": 3
+  },
+  "elezion.": {
+    "avrebbe": 1
+  },
+  "va": {
+    "i": 5
+  },
+  "larès": {
+    "sarebbe": 1
+  },
+  "gjestît": {
+    "sotto": 1
+  },
+  "indagazion": {
+    "stata": 1
+  },
+  "L’Il-76": {
+    "fin": 1
+  },
+  "pal": {
+    "per": 10,
+    "il": 10
+  },
+  "sedi": {
+    "sia": 11
+  },
+  "oleodot": {
+    "di": 1
+  },
+  "Trans-Alaska": {
+    "di": 1
+  },
+  "sieradis": {
+    "di": 2
+  },
+  "Alaska.": {
+    "state": 1
+  },
+  "somearà": {
+    "sarà": 1
+  },
+  "traviers": {
+    "attraverso": 5
+  },
+  "gjeologjic": {
+    "potesse": 1
+  },
+  "americanis": {
+    "quelle": 1
+  },
+  "sedin": {
+    "siano": 2
+  },
+  "maniere": {
+    "un": 4
+  },
+  "vevin": {
+    "avevano": 5
+  },
+  "cuntune": {
+    "con": 9
+  },
+  "siei": {
+    "suoi": 7
+  },
+  "1.300": {
+    "verranno": 1
+  },
+  "chilometris": {
+    "di": 6
+  },
+  "vûl": {
+    "si": 4
+  },
+  "vigôr,": {
+    "questo": 1
+  },
+  "concorence": {
+    "potrà": 1
+  },
+  "nazionalizazion.": {
+    "venisse": 1
+  },
+  "gjestion": {
+    "di": 1
+  },
+  "passât.": {
+    "lo": 1
+  },
+  "corse": {
+    "la": 4
+  },
+  "stave": {
+    "era": 6
+  },
+  "uficiâi,": {
+    "hanno": 1
+  },
+  "pôcs": {
+    "pochi": 3
+  },
+  "nus": {
+    "ci": 3
+  },
+  "funzionant": {
+    "nostro": 1
+  },
+  "ricevût": {
+    "stato": 1
+  },
+  "miorament": {
+    "avevano": 1
+  },
+  "ves": {
+    "dovesse": 1
+  },
+  "lant": {
+    "si": 3
+  },
+  "stedi": {
+    "stia": 1
+  },
+  "varès": {
+    "avrebbe": 6
+  },
+  "stabilis,": {
+    "dovrà": 1
+  },
+  "ploiis": {
+    "state": 1
+  },
+  "Twin": {
+    "durante": 1
+  },
+  "ostacolade": {
+    "state": 1
+  },
+  "l’uficiâl": {
+    "è": 1
+  },
+  "zone.": {
+    "tua": 1
+  },
+  "vôt": {
+    "dovrà": 1
+  },
+  "davuelzût": {
+    "presso": 1
+  },
+  "dute": {
+    "tutta": 2
+  },
+  "afermazion": {
+    "secondo": 1
+  },
+  "presum": {
+    "sarebbe": 1
+  },
+  "stufulîts,\"": {
+    "in": 1,
+    "stato": 1
+  },
+  "savìn,": {
+    "quel": 1
+  },
+  "dacuardi,": {
+    "potrebbe": 1
+  },
+  "\"cosmonaute": {
+    "come": 1
+  },
+  "intindeve": {
+    "voler": 1
+  },
+  "zuiât": {
+    "nessuno": 1
+  },
+  "dutis": {
+    "tutte": 4
+  },
+  "epidemie": {
+    "possa": 1
+  },
+  "continuin": {
+    "possano": 1
+  },
+  "Sofie": {
+    "a": 2
+  },
+  "Vilnius": {
+    "a": 1
+  },
+  "Valletta": {
+    "a": 1
+  },
+  "Malte,": {
+    "a": 1
+  },
+  "Tallin": {
+    "a": 1
+  },
+  "cualchidun": {
+    "alcuni": 4
+  },
+  "prevenzion": {
+    "the": 1
+  },
+  "(RSPCA)": {
+    "stanno": 1
+  },
+  "instalazion": {
+    "venga": 1
+  },
+  "meteorologjic": {
+    "stata": 1
+  },
+  "Nûi": {
+    "stata": 1
+  },
+  "dapît": {
+    "ad": 1
+  },
+  "cheste": {
+    "questa": 13
+  },
+  "civîls": {
+    "uno": 1
+  },
+  "vignarà": {
+    "verrà": 1
+  },
+  "1973": {
+    "egli": 1
+  },
+  "chê": {
+    "la": 3
+  },
+  "fo": {
+    "fu": 7
+  },
+  "Alzerie,": {
+    "aveva": 1
+  },
+  "fatis": {
+    "furono": 1
+  },
+  "deventà": {
+    "è": 2
+  },
+  "restât": {
+    "vi": 1
+  },
+  "1995": {
+    "fu": 1
+  },
+  "du": {
+    "du": 1
+  },
+  "of": {
+    "of": 1
+  },
+  "intai": {
+    "i": 5
+  },
+  "pai": {
+    "per": 6
+  },
+  "capitât": {
+    "me": 1
+  },
+  "me,": {
+    "nulla": 1
+  },
+  "viodût": {
+    "ho": 1
+  },
+  "coventaran": {
+    "dovranno": 1
+  },
+  "parsore": {
+    "sopra": 3
+  },
+  "centenârs": {
+    "aver": 1
+  },
+  "distacâ": {
+    "oppure": 1
+  },
+  "palmis": {
+    "hanno": 1
+  },
+  "gravitât": {
+    "avrebbe": 1
+  },
+  "Io": {
+    "me": 1
+  },
+  "Io,": {
+    "fossimo": 1
+  },
+  "logjic,": {
+    "noi": 1
+  },
+  "slontanantsi": {
+    "ci": 1,
+    "si": 1
+  },
+  "fotosfere,": {
+    "ovvero": 1
+  },
+  "l’unic": {
+    "per": 2
+  },
+  "Cu": {
+    "aver": 1
+  },
+  "podût": {
+    "potuto": 2
+  },
+  "atacs": {
+    "sarebbero": 1
+  },
+  "spiegazion": {
+    "quali": 1
+  },
+  "plans": {
+    "erano": 1
+  },
+  "U-Boats.": {
+    "venivano": 1
+  },
+  "vessin": {
+    "avessero": 2
+  },
+  "câs,": {
+    "il": 3
+  },
+  "lu": {
+    "lo": 3
+  },
+  "conservâts,": {
+    "essi": 1
+  },
+  "l’un": {
+    "uni": 1
+  },
+  "basade": {
+    "come": 2
+  },
+  "timp,": {
+    "vennero": 1
+  },
+  "vietnamitis": {
+    "fu": 1
+  },
+  "sodisfâ": {
+    "i": 1
+  },
+  "viôt": {
+    "tutte": 1
+  },
+  "taiâts,": {
+    "avevano": 1
+  },
+  "viodaran": {
+    "verranno": 1
+  },
+  "nestre": {
+    "nostra": 2
+  },
+  "dut,": {
+    "perché": 1
+  },
+  "progjetâts": {
+    "stati": 1
+  },
+  "larcs": {
+    "sue": 1
+  },
+  "decîs": {
+    "a": 1
+  },
+  "sarês": {
+    "sarebbe": 1
+  },
+  "comedons": {
+    "una": 2
+  },
+  "cierts": {
+    "alcuni": 3
+  },
+  "ricognossin": {
+    "le": 3
+  },
+  "seguît": {
+    "lui": 1
+  },
+  "bacins": {
+    "presso": 1
+  },
+  "stant": {
+    "poiché": 3
+  },
+  "judà": {
+    "lo": 1
+  },
+  "progrès": {
+    "in": 1
+  },
+  "raziâi": {
+    "ne": 1
+  },
+  "chescj": {
+    "questi": 3
+  },
+  "falangjis": {
+    "sono": 1
+  },
+  "sperimentâ": {
+    "parecchi": 1
+  },
+  "scunî": {
+    "possa": 1
+  },
+  "scunîs": {
+    "tutto": 1
+  },
+  "ti": {
+    "vi": 2
+  },
+  "alçâssis": {
+    "dovesse": 1
+  },
+  "ogni": {
+    "ogni": 3
+  },
+  "colonialiscj,": {
+    "i": 1
+  },
+  "clamarin": {
+    "avevano": 1
+  },
+  "cualsisei": {
+    "qualsiasi": 5
+  },
+  "coridôr": {
+    "vuole": 1
+  },
+  "protons.": {
+    "i": 1
+  },
+  "tô": {
+    "propria": 2
+  },
+  "coventâ": {
+    "potete": 1
+  },
+  "diferents": {
+    "diversi": 2
+  },
+  "carateristiche": {
+    "uno": 2
+  },
+  "furmiis": {
+    "durante": 1
+  },
+  "significhe": {
+    "vuol": 3
+  },
+  "mostruosis": {
+    "queste": 1
+  },
+  "480": {
+    "possono": 1
+  },
+  "podaran": {
+    "potranno": 1
+  },
+  "pronevôts": {
+    "vostri": 1
+  },
+  "alc": {
+    "qualcosa": 2
+  },
+  "marcjâ": {
+    "noi": 1
+  },
+  "fossin": {
+    "fossero": 2
+  },
+  "vignirin": {
+    "furono": 1
+  },
+  "nestris": {
+    "nostri": 1
+  },
+  "passions": {
+    "nostre": 1
+  },
+  "scletece": {
+    "nostre": 1
+  },
+  "metin": {
+    "esse": 1
+  },
+  "intenzions": {
+    "quella": 1
+  },
+  "cirînt": {
+    "stia": 1
+  },
+  "judicât": {
+    "avesse": 1
+  },
+  "rapide,": {
+    "anziché": 1
+  },
+  "presentin": {
+    "te": 1
+  },
+  "aplicâ": {
+    "verrà": 1
+  },
+  "antighis,": {
+    "né": 1
+  },
+  "vicin.": {
+    "nostro": 1
+  },
+  "tiei": {
+    "vostro": 1
+  },
+  "(se": {
+    "vostro": 1
+  },
+  "doprade": {
+    "questa": 1
+  },
+  "peade": {
+    "nonostante": 1
+  },
+  "asiatichis:": {
+    "quella": 1
+  },
+  "Walt": {
+    "molte": 1
+  },
+  "Canyon": {
+    "deve": 1
+  },
+  "propite": {
+    "sarà": 1
+  },
+  "vâl": {
+    "di": 1
+  },
+  "atmosfere": {
+    "la": 1
+  },
+  "cumbinâ": {
+    "potete": 1
+  },
+  "Israêl.": {
+    "tale": 1
+  },
+  "fâs": {
+    "il": 3
+  },
+  "ecuadorian,": {
+    "deve": 1
+  },
+  "recuisît.": {
+    "tale": 1
+  },
+  "aghis": {
+    "da": 2
+  },
+  "particolârs": {
+    "propri": 1
+  },
+  "e/o": {
+    "e/o": 2
+  },
+  "Fray": {
+    "quanto": 1
+  },
+  "ur": {
+    "quelli": 1,
+    "li": 1
+  },
+  "orari": {
+    "hanno": 1
+  },
+  "piçulis,": {
+    "certi": 1
+  },
+  "grancj,": {
+    "avrete": 1
+  },
+  "proprie": {
+    "vostra": 1
+  },
+  "sieradure": {
+    "nonché": 1
+  },
+  "comparabil": {
+    "quella": 1
+  },
+  "teleobietîfs": {
+    "sebbene": 1
+  },
+  "finalitâts": {
+    "alcuni": 1
+  },
+  "ostîl": {
+    "ogni": 1
+  },
+  "limitade": {
+    "questa": 2
+  },
+  "siguradôr.": {
+    "con": 1
+  },
+  "salvile": {
+    "su": 1
+  },
+  "pericolose,": {
+    "potrebbero": 1
+  },
+  "suficientis": {
+    "poca": 1
+  },
+  "conet": {
+    "di": 1
+  },
+  "desenis": {
+    "di": 1
+  },
+  "domandà": {
+    "potrebbe": 1
+  },
+  "volûts": {
+    "o": 1
+  },
+  "man,": {
+    "devi": 1
+  },
+  "adat": {
+    "tuo": 1
+  },
+  "tornâ.": {
+    "sia": 1
+  },
+  "areis": {
+    "certe": 1
+  },
+  "cjare,": {
+    "malgrado": 1
+  },
+  "carocis": {
+    "queste": 1
+  },
+  "puartadôr": {
+    "tua": 1
+  },
+  "darà": {
+    "dovendo": 1
+  },
+  "avîs.": {
+    "alcun": 1
+  },
+  "culturâi": {
+    "tanti": 1
+  },
+  "camping,": {
+    "sé": 1
+  },
+  "dran": {
+    "la": 1
+  },
+  "vivis": {
+    "vostra": 1
+  },
+  "patogjens,": {
+    "quali": 1
+  },
+  "opzions": {
+    "di": 1
+  },
+  "fameis.": {
+    "possono": 1
+  },
+  "ciertis": {
+    "alcune": 3
+  },
+  "sburte": {
+    "verso": 2
+  },
+  "efiet": {
+    "alcun": 1
+  },
+  "marcjâts:": {
+    "tutta": 1
+  },
+  "instradadis": {
+    "tramite": 1
+  },
+  "scuen": {
+    "è": 4
+  },
+  "telefons": {
+    "tutti": 1
+  },
+  "studiâ,": {
+    "dover": 1
+  },
+  "us": {
+    "vi": 2
+  },
+  "aiût.": {
+    "stanno": 1
+  },
+  "diference": {
+    "puoi": 1
+  },
+  "(viôt": {
+    "questo": 1
+  },
+  "declarà": {
+    "contro": 1
+  },
+  "le": {
+    "nessuna": 1
+  },
+  "diplomatichis": {
+    "tra": 1
+  },
+  "“vidde”,": {
+    "vuol": 1
+  },
+  "Adger": {
+    "vengono": 1
+  },
+  "schiâ": {
+    "lo": 2
+  }
+}

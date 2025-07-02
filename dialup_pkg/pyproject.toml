@@ -1,0 +1,33 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "dialup"
+version = "0.1.0.post1"
+authors = [
+    { name = "Niyati Bafna", email = "niyatibafna13@gmail.com" }
+]
+description = "DialUp! Generating linguistically plausible artificial dialects."
+readme = { file = "README.md", content-type = "text/markdown" }
+requires-python = ">=3.9"
+dependencies = [
+    "numpy",
+    "scipy",
+]
+
+[project.license]
+text = "MIT"
+
+[project.urls]
+Homepage = "https://github.com/niyatibafna/dialup/"
+
+[tool.setuptools]
+package-dir = {"" = "src"}
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.setuptools.package-data]
+"dialup" = ["data/ud_closed_class_wordlists/*.json",
+            "data/lexicons/*/*_functional.json"]

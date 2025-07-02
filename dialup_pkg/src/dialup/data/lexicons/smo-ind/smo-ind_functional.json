@@ -1,0 +1,579 @@
+{
+  "afea": {
+    "bila": 0.556
+  },
+  "anafea": {
+    "bila": 0.556
+  },
+  "aʻu": {
+    "aku": 0.556,
+    "saya": 0.556
+  },
+  "e": {
+    "itu": 0.778,
+    "sang": 0.778,
+    "si": 0.778
+  },
+  "i": {
+    "di": 0.556
+  },
+  "ia": {
+    "dia": 0.556
+  },
+  "ioe": {
+    "ya": 0.778
+  },
+  "ma": {
+    "dan": 0.556
+  },
+  "matou": {
+    "kami": 0.333,
+    "kita": 0.333
+  },
+  "ʻoe": {
+    "anda": 0.556,
+    "kamu": 0.556
+  },
+  "outou": {
+    "anda": 0.333,
+    "kamu": 0.333
+  },
+  "tatou": {
+    "kami": 0.333,
+    "kita": 0.333
+  },
+  "uma": {
+    "semua": 0.333
+  },
+  "leai": {
+    "tidak": 0.778
+  },
+  "lela": {
+    "itu": 0.556
+  },
+  "lenei": {
+    "ini": 0.556
+  },
+  "le|na": {
+    "itu": 0.556
+  },
+  "lātou": {
+    "mereka": 0.556
+  },
+  "mātou": {
+    "kami": 0.556,
+    "kita": 0.556
+  },
+  "tātou": {
+    "kami": 0.556,
+    "kita": 0.556
+  },
+  "ō mai": {
+    "serta": 0.556
+  },
+  "ʻa|na": {
+    "kalau": 0.556
+  },
+  "ʻo ai": {
+    "siapa": 0.556
+  },
+  "ʻo fea": {
+    "dimana": 0.556
+  },
+  "ʻo le ā": {
+    "apa": 0.556
+  },
+  "ʻoutou": {
+    "anda": 0.556,
+    "kalian": 0.556,
+    "kamu": 0.556
+  },
+  "ʻātoa": {
+    "semua": 0.556
+  },
+  "ita": {
+    "aku": 0.333,
+    "saya": 0.333
+  },
+  "a7u": {
+    "aku": 0.333,
+    "saya": 0.333
+  },
+  "oulua": {
+    "anda": 0.333,
+    "kamu": 0.333
+  },
+  "lea": {
+    "ini": 0.333,
+    "itu": 0.333
+  },
+  "lenai": {
+    "ini": 0.333
+  },
+  "lena": {
+    "itu": 0.333
+  },
+  "oai": {
+    "siapa": 0.333
+  },
+  "po7o ai": {
+    "siapa": 0.333
+  },
+  "o le a": {
+    "apa": 0.333
+  },
+  "olea": {
+    "apa": 0.333
+  },
+  "le": {
+    "itu": 0.778,
+    "sang": 0.778,
+    "si": 0.778
+  },
+  "le7i": {
+    "bukan": 0.333,
+    "tidak": 0.333
+  },
+  "atoa": {
+    "semua": 0.333
+  },
+  "a‘u": {
+    "aku": 0.778,
+    "saya": 0.778
+  },
+  "‘ou": {
+    "aku": 0.778,
+    "saya": 0.778
+  },
+  "o": {
+    "yang": 47
+  },
+  "se": {
+    "yang": 51
+  },
+  "mafai": {
+    "dapat": 43
+  },
+  "ona": {
+    "yang": 13
+  },
+  "pe": {
+    "atau": 16
+  },
+  "pei": {
+    "seperti": 27
+  },
+  "a": {
+    "akan": 55
+  },
+  "tusa": {
+    "sekitar": 17
+  },
+  "pailate": {
+    "tersebut": 1
+  },
+  "atu": {
+    "yang": 31
+  },
+  "auai": {
+    "untuk": 4
+  },
+  "talu": {
+    "sejak": 7
+  },
+  "sa": {
+    "yang": 13
+  },
+  "mo": {
+    "untuk": 54
+  },
+  "luga": {
+    "di": 36
+  },
+  "lo": {
+    "yang": 39
+  },
+  "aga’i": {
+    "ke": 9
+  },
+  "fa’apea": {
+    "bahwa": 13
+  },
+  "latou": {
+    "mereka": 53
+  },
+  "Nadal": {
+    "asal": 1
+  },
+  "7–2.": {
+    "yaitu": 1
+  },
+  "nei": {
+    "ini": 21
+  },
+  "ou": {
+    "saya": 2
+  },
+  "fiafia": {
+    "dengan": 4
+  },
+  "O": {
+    "adalah": 48
+  },
+  "na": {
+    "yang": 23,
+    "telah": 23
+  },
+  "nisi": {
+    "beberapa": 20
+  },
+  "ui": {
+    "walau": 7
+  },
+  "lona": {
+    "yang": 15
+  },
+  "ina": {
+    "setelah": 13
+  },
+  "lisi": {
+    "senilai": 1
+  },
+  "tuuga": {
+    "setelah": 1
+  },
+  "fa’atasi": {
+    "dengan": 8
+  },
+  "taula’i": {
+    "pada": 3
+  },
+  "ni": {
+    "yang": 14
+  },
+  "silia": {
+    "dari": 8
+  },
+  "aunoa": {
+    "tanpa": 13
+  },
+  "tumau": {
+    "sementara": 3
+  },
+  "tala": {
+    "dalam": 4
+  },
+  "\"sa": {
+    "serangkaian": 1
+  },
+  "mea": {
+    "yang": 12
+  },
+  "totonu": {
+    "di": 26
+  },
+  "mafaufau": {
+    "untuk": 6
+  },
+  "lē": {
+    "tidak": 17
+  },
+  "talafeagai": {
+    "untuk": 5
+  },
+  "faapea": {
+    "bahwa": 3
+  },
+  "iai": {
+    "dengan": 12
+  },
+  "itu": {
+    "di": 8
+  },
+  "Velociraptor.": {
+    "layaknya": 1
+  },
+  "nuti": {
+    "selain": 1
+  },
+  "seia": {
+    "sampai": 3
+  },
+  "‘aisa,": {
+    "menurut": 1
+  },
+  "lava": {
+    "yang": 14
+  },
+  "fa’amautūina": {
+    "selain": 1
+  },
+  "amataina": {
+    "sebelum": 3
+  },
+  "oo": {
+    "hingga": 7
+  },
+  "fa’alagolago": {
+    "pada": 6
+  },
+  "fa’aleagaina": {
+    "itu": 4
+  },
+  "va": {
+    "antara": 13
+  },
+  "ae": {
+    "tetapi": 42
+  },
+  "300": {
+    "sebanyak": 1
+  },
+  "1,300": {
+    "wajib": 1
+  },
+  "meaola": {
+    "dari": 3
+  },
+  "tupu.": {
+    "secara": 2
+  },
+  "i'a.": {
+    "maupun": 1
+  },
+  "fa’amuta": {
+    "semacam": 1,
+    "mungkin": 1
+  },
+  "maitauina": {
+    "telah": 3
+  },
+  "ship)": {
+    "sedang": 1
+  },
+  "ai.\"": {
+    "sebagaimana": 1
+  },
+  "mae’a": {
+    "setelah": 3
+  },
+  "sao": {
+    "karena": 2
+  },
+  "ē": {
+    "mereka": 3
+  },
+  "itulā).": {
+    "per": 1
+  },
+  "peresitene,": {
+    "demikian": 1
+  },
+  "lo’u": {
+    "saya": 2
+  },
+  "faʻamatalaina": {
+    "sebagai": 1
+  },
+  "emo": {
+    "yang": 1
+  },
+  "peita’i": {
+    "tetapi": 5
+  },
+  "Khan,": {
+    "saya": 1
+  },
+  "ali’i": {
+    "seorang": 4
+  },
+  "leʻo": {
+    "belum": 1
+  },
+  "fa’ateia": {
+    "semua": 1
+  },
+  "uma.": {
+    "semua": 4
+  },
+  "popole": {
+    "tidak": 3
+  },
+  "falemautotogi": {
+    "sebagian": 1
+  },
+  "Union,": {
+    "atas": 1
+  },
+  "taʻitaʻia": {
+    "beliau": 1
+  },
+  "Vilnius": {
+    "di": 2
+  },
+  "Valetta": {
+    "di": 1
+  },
+  "ne’i": {
+    "tidak": 5
+  },
+  "mautonu": {
+    "tidaknya": 1
+  },
+  "kupita": {
+    "bila": 1
+  },
+  "Vautier": {
+    "selain": 1
+  },
+  "1945": {
+    "mereka": 1
+  },
+  "Zayat": {
+    "dalam": 1
+  },
+  "laki": {
+    "saya": 1
+  },
+  "ta’ei": {
+    "bisa": 1
+  },
+  "aua": {
+    "karena": 5
+  },
+  "silisili": {
+    "bahkan": 1
+  },
+  "autū": {
+    "dari": 5
+  },
+  "alu": {
+    "ke": 7
+  },
+  "folau": {
+    "supaya": 2
+  },
+  "ave’esea": {
+    "lengah": 1
+  },
+  "Pythagoras,": {
+    "berkat": 1
+  },
+  "\"Õ/õ\"": {
+    "pun": 1
+  },
+  "tuana’i": {
+    "sesudah": 1
+  },
+  "tutoʻatasi": {
+    "sudah": 1
+  },
+  "vaelima": {
+    "per": 2
+  },
+  "afai": {
+    "jika": 6
+  },
+  "kegi": {
+    "sekelompok": 1
+  },
+  "po'o": {
+    "atau": 3
+  },
+  "fa'afaigofie": {
+    "supaya": 1
+  },
+  "auga": {
+    "serangkaian": 1
+  },
+  "uma,": {
+    "semua": 3
+  },
+  "feuisuia’iga": {
+    "seseorang": 1
+  },
+  "potopotoga": {
+    "dalam": 1
+  },
+  "m/s;": {
+    "per": 1
+  },
+  "masalo": {
+    "mungkin": 8
+  },
+  "molecule": {
+    "itu": 1
+  },
+  "suavai,": {
+    "maupun": 1
+  },
+  "(chemical": {
+    "kan": 1
+  },
+  "makaina": {
+    "sendiri": 2
+  },
+  "(asynchronous)": {
+    "kita": 1
+  },
+  "tapena.": {
+    "tak": 1
+  },
+  "“alu": {
+    "mengenai": 1
+  },
+  "to’atasi.": {
+    "boleh": 1
+  },
+  "Canyon": {
+    "wajib": 1
+  },
+  "puipui'a": {
+    "demi": 1
+  },
+  "‘aua": {
+    "jangan": 3
+  },
+  "km2": {
+    "seluas": 1
+  },
+  "fa’ale-tausaga": {
+    "masing-masing": 1
+  },
+  "aiaiga": {
+    "beserta": 1
+  },
+  "tuto’atasi.": {
+    "secara": 1
+  },
+  "fia": {
+    "ingin": 4
+  },
+  "si’omiaina": {
+    "sekitar": 2
+  },
+  "iinei": {
+    "sini": 1
+  },
+  "graffiti.": {
+    "sebagai": 1
+  },
+  "mana’o": {
+    "ingin": 2
+  },
+  "fa’atō’a": {
+    "sebaiknya": 1
+  },
+  "fa’avela": {
+    "dalam": 1
+  },
+  "Antarctica": {
+    "adalah": 2
+  },
+  "kavaina": {
+    "kecuali": 1
+  },
+  "tulituliloaina": {
+    "si": 1
+  }
+}

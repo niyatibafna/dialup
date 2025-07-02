@@ -1,0 +1,2550 @@
+{
+  "eu": {
+    "io": 1
+  },
+  "tu": {
+    "tu": 1
+  },
+  "el": {
+    "egli": 1,
+    "lui": 1
+  },
+  "noi": {
+    "noi": 1
+  },
+  "voi": {
+    "voi": 1
+  },
+  "ei": {
+    "loro": 1,
+    "essi": 1
+  },
+  "acesta": {
+    "questo": 1
+  },
+  "acela": {
+    "quello": 1
+  },
+  "cine": {
+    "chi": 1
+  },
+  "ce": {
+    "che": 1
+  },
+  "când": {
+    "quando": 1
+  },
+  "cum": {
+    "come": 1
+  },
+  "tot": {
+    "tutto": 1
+  },
+  "niște": {
+    "alcuni": 1
+  },
+  "unu": {
+    "un": 1,
+    "uno": 1,
+    "una": 1,
+    "un'": 1
+  },
+  "la": {
+    "a": 1
+  },
+  "în": {
+    "a": 1,
+    "in": 1
+  },
+  "cu": {
+    "con": 1
+  },
+  "și": {
+    "e": 1
+  },
+  "dacă": {
+    "se": 1
+  },
+  "deoarece": {
+    "perché": 1
+  },
+  "pentru că": {
+    "perché": 1
+  },
+  "adică": {
+    "cioè": 0.778
+  },
+  "de către": {
+    "per": 0.556
+  },
+  "națiune": {
+    "stato": 0.778
+  },
+  "pe urmă": {
+    "dopo": 0.222
+  },
+  "poziție": {
+    "stato": 0.778
+  },
+  "situație": {
+    "stato": 0.778
+  },
+  "toată lumea": {
+    "ciascuno": 0.778
+  },
+  "toți": {
+    "ciascuno": 0.778,
+    "tutta": 0.778,
+    "tutti": 0.778,
+    "tutto": 0.778
+  },
+  "țară": {
+    "stato": 0.778
+  },
+  "această": {
+    "questa": 0.778,
+    "questo": 0.778,
+    "sta": 0.778
+  },
+  "aceea": {
+    "quella": 0.778,
+    "quello": 0.778
+  },
+  "acest": {
+    "quello": 0.778,
+    "questa": 0.778,
+    "questi": 0.778,
+    "questo": 0.778,
+    "sta": 0.778
+  },
+  "a doua": {
+    "secondo": 0.778
+  },
+  "a fi": {
+    "essere": 0.778
+  },
+  "aia": {
+    "quella": 0.778,
+    "quello": 0.778
+  },
+  "ăla": {
+    "quella": 0.778,
+    "quello": 0.778
+  },
+  "alături": {
+    "con": 0.778
+  },
+  "al doilea": {
+    "secondo": 0.778
+  },
+  "al meu": {
+    "mio": 0.778
+  },
+  "ambele": {
+    "ambedue": 0.778,
+    "entrambi": 0.778
+  },
+  "ambii": {
+    "ambedue": 0.778,
+    "entrambi": 0.778
+  },
+  "a mea": {
+    "mio": 0.778
+  },
+  "aproape de": {
+    "verso": 0.778
+  },
+  "apropo": {
+    "a": 0.778
+  },
+  "așa": {
+    "tale": 0.778
+  },
+  "așadar": {
+    "affinché": 0.778,
+    "perché": 0.778
+  },
+  "asculta": {
+    "in": 0.778,
+    "per": 0.778
+  },
+  "asta": {
+    "questa": 0.778,
+    "questo": 0.778,
+    "sta": 0.778
+  },
+  "ăsta": {
+    "questa": 0.778,
+    "questo": 0.778,
+    "sta": 0.778
+  },
+  "atunci când": {
+    "quando": 0.778
+  },
+  "ca": {
+    "che": 0.778,
+    "come": 0.778,
+    "di": 0.778,
+    "quanto": 0.778
+  },
+  "că": {
+    "che": 0.778
+  },
+  "care": {
+    "che": 0.778,
+    "quale": 0.778
+  },
+  "cât": {
+    "quanta": 0.778,
+    "quanto": 0.778
+  },
+  "câteva": {
+    "diversi": 0.778,
+    "qualche": 0.778
+  },
+  "către": {
+    "a": 0.778,
+    "da": 0.778,
+    "in": 0.778,
+    "per": 0.778,
+    "verso": 0.778
+  },
+  "ceai": {
+    "the": 0.778
+  },
+  "ceea": {
+    "quella": 0.778,
+    "quello": 0.778
+  },
+  "cela": {
+    "quella": 0.778,
+    "quello": 0.778
+  },
+  "cineva": {
+    "qualcuno": 0.778,
+    "uno": 0.778
+  },
+  "contra": {
+    "contro": 0.778
+  },
+  "cretură": {
+    "essere": 0.778
+  },
+  "curînd": {
+    "dopo": 0.111
+  },
+  "curmezișul": {
+    "attraverso": 0.778
+  },
+  "da": {
+    "si": 0.778
+  },
+  "dar": {
+    "benché": 0.778,
+    "ma": 0.778
+  },
+  "datorită": {
+    "perché": 0.778
+  },
+  "de": {
+    "da": 0.778,
+    "di": 0.778
+  },
+  "deasupra": {
+    "sopra": 0.778,
+    "su": 0.778
+  },
+  "decat": {
+    "che": 0.778,
+    "di": 0.778
+  },
+  "de ce": {
+    "perché": 0.778
+  },
+  "deloc": {
+    "nessun": 0.778,
+    "nessuna": 0.778,
+    "nessuno": 0.778
+  },
+  "despre": {
+    "a": 0.778
+  },
+  "dinainte": {
+    "innanzi": 0.778
+  },
+  "din cauza": {
+    "perché": 0.778
+  },
+  "din cauză că": {
+    "perché": 0.778
+  },
+  "dumneata": {
+    "lei": 0.778,
+    "tu": 0.778,
+    "voi": 0.778
+  },
+  "dumneavoastră": {
+    "lei": 0.778,
+    "tu": 0.778,
+    "voi": 0.778
+  },
+  "după": {
+    "dopo": 0.778,
+    "secondo": 0.778
+  },
+  "ea": {
+    "ella": 0.778,
+    "lei": 0.778
+  },
+  "ele": {
+    "essi": 0.778,
+    "loro": 0.778
+  },
+  "epocă": {
+    "era": 0.778
+  },
+  "eră": {
+    "era": 0.778
+  },
+  "este": {
+    "sta": 0.778,
+    "è": 0.778
+  },
+  "făptură": {
+    "essere": 0.778
+  },
+  "fără": {
+    "senza": 0.778
+  },
+  "fi": {
+    "essere": 0.778
+  },
+  "fiecare": {
+    "ciascuno": 0.778,
+    "ogni": 0.778,
+    "ognuno": 0.778,
+    "tutti": 0.778
+  },
+  "fiindcă": {
+    "perché": 0.778,
+    "poiché": 0.778,
+    "siccome": 0.778
+  },
+  "impotriva": {
+    "contro": 0.778
+  },
+  "înainte": {
+    "innanzi": 0.778
+  },
+  "înainte de": {
+    "entro": 0.778
+  },
+  "în curînd": {
+    "dopo": 0.111
+  },
+  "în spatele": {
+    "dopo": 0.778
+  },
+  "înspre": {
+    "a": 0.778
+  },
+  "în timp ce": {
+    "mentre": 0.778,
+    "quando": 0.778
+  },
+  "întreg": {
+    "tutto": 0.778
+  },
+  "în urma": {
+    "dopo": 0.778
+  },
+  "lîngă": {
+    "a": 0.111
+  },
+  "lor": {
+    "loro": 0.778
+  },
+  "mai târziu": {
+    "dopo": 0.222
+  },
+  "mea": {
+    "mia": 0.778
+  },
+  "meu": {
+    "mio": 0.778
+  },
+  "mult": {
+    "molti": 0.778
+  },
+  "multă": {
+    "molti": 0.778
+  },
+  "multe": {
+    "molti": 0.778
+  },
+  "nici": {
+    "nessun": 0.778,
+    "nessuna": 0.778,
+    "nessuno": 0.778,
+    "né": 0.778
+  },
+  "niciun": {
+    "nessun": 0.778,
+    "nessuna": 0.778,
+    "nessuno": 0.778
+  },
+  "nimeni": {
+    "nessuna": 0.778,
+    "nessuno": 0.778
+  },
+  "nimic": {
+    "niente": 0.778,
+    "nulla": 0.778
+  },
+  "nostru": {
+    "nostra": 0.778,
+    "nostre": 0.778,
+    "nostri": 0.778,
+    "nostro": 0.778
+  },
+  "nouă": {
+    "ci": 0.778,
+    "noi": 0.778
+  },
+  "numai": {
+    "purché": 0.778
+  },
+  "o": {
+    "la": 0.778,
+    "un": 0.778,
+    "un'": 0.778,
+    "una": 0.778,
+    "uno": 0.778,
+    "un’": 0.778
+  },
+  "ori": {
+    "o": 0.778,
+    "od": 0.778,
+    "oppure": 0.778
+  },
+  "orice": {
+    "qualsiasi": 0.778
+  },
+  "oricine": {
+    "chiunque": 0.778,
+    "ciascuno": 0.778,
+    "tutti": 0.778
+  },
+  "pe": {
+    "a": 0.778,
+    "in": 0.778,
+    "per": 0.778,
+    "sopra": 0.778,
+    "su": 0.778
+  },
+  "pe care": {
+    "che": 0.778
+  },
+  "pentru": {
+    "a": 0.778,
+    "da": 0.778,
+    "per": 0.778,
+    "verso": 0.778
+  },
+  "pentru ce": {
+    "perché": 0.778
+  },
+  "perioadă": {
+    "era": 0.778
+  },
+  "peste": {
+    "attraverso": 0.778
+  },
+  "pînă": {
+    "a": 0.111
+  },
+  "poetică": {
+    "verso": 0.222
+  },
+  "prin": {
+    "a": 0.778,
+    "attraverso": 0.778,
+    "per": 0.778
+  },
+  "sau": {
+    "o": 0.778,
+    "od": 0.778,
+    "oppure": 0.778
+  },
+  "său": {
+    "sua": 0.778,
+    "sue": 0.778,
+    "suo": 0.778,
+    "suoi": 0.778
+  },
+  "secund": {
+    "secondo": 0.778
+  },
+  "secundă": {
+    "secondo": 0.778
+  },
+  "spre": {
+    "a": 0.778,
+    "da": 0.778,
+    "in": 0.778,
+    "per": 0.778,
+    "verso": 0.778
+  },
+  "sub": {
+    "sotto": 0.778
+  },
+  "târziu": {
+    "dopo": 0.778
+  },
+  "un": {
+    "un": 0.778,
+    "un'": 0.778,
+    "una": 0.778,
+    "uno": 0.778,
+    "un’": 0.778
+  },
+  "creatură": {
+    "essere": 0.778
+  },
+  "cu toate că": {
+    "benché": 0.778,
+    "nonostante": 0.778,
+    "sebbene": 0.778,
+    "seppure": 0.778
+  },
+  "câtă": {
+    "quanta": 0.778,
+    "quanto": 0.778
+  },
+  "câțiva": {
+    "diversi": 0.778
+  },
+  "cărui": {
+    "cui": 0.556
+  },
+  "după cum": {
+    "secondo": 0.556
+  },
+  "excepția": {
+    "tranne": 0.556
+  },
+  "ființă": {
+    "essere": 0.778
+  },
+  "intenționat": {
+    "voluto": 0.778
+  },
+  "mă": {
+    "mi": 0.778
+  },
+  "săi": {
+    "sua": 0.778,
+    "sue": 0.778,
+    "suo": 0.778,
+    "suoi": 0.778
+  },
+  "voastră": {
+    "vostra": 0.778,
+    "vostro": 0.778
+  },
+  "aceasta": {
+    "questa": 0.556,
+    "questo": 0.556
+  },
+  "acei": {
+    "quelle": 0.778,
+    "quelli": 0.778
+  },
+  "acel": {
+    "quella": 0.778,
+    "quello": 0.778
+  },
+  "acele": {
+    "quelle": 0.778,
+    "quelli": 0.778
+  },
+  "acești": {
+    "questi": 0.778
+  },
+  "ajutorul": {
+    "a": 0.556,
+    "con": 0.556,
+    "per": 0.556
+  },
+  "apoi": {
+    "dopo": 0.778
+  },
+  "are": {
+    "da": 0.556
+  },
+  "asupra": {
+    "sopra": 0.556
+  },
+  "au": {
+    "o": 0.778
+  },
+  "câți": {
+    "quante": 0.778,
+    "quanti": 0.778
+  },
+  "cam": {
+    "verso": 0.556
+  },
+  "câte": {
+    "quante": 0.778,
+    "quanti": 0.778
+  },
+  "cel": {
+    "gli": 0.778,
+    "i": 0.778,
+    "il": 0.778,
+    "la": 0.778,
+    "le": 0.778,
+    "lo": 0.778
+  },
+  "ceva": {
+    "qualcosa": 0.778
+  },
+  "chestie": {
+    "qualcosa": 0.778
+  },
+  "ciuda": {
+    "malgrado": 0.556
+  },
+  "complet": {
+    "tutto": 0.778
+  },
+  "conform": {
+    "secondo": 0.778
+  },
+  "cu tot": {
+    "malgrado": 0.556
+  },
+  "decât": {
+    "che": 0.778,
+    "di": 0.778
+  },
+  "dedesubt": {
+    "sotto": 0.556
+  },
+  "de la": {
+    "da": 0.556,
+    "di": 0.556
+  },
+  "demers": {
+    "tramite": 0.556
+  },
+  "din": {
+    "di": 0.556,
+    "fra": 0.556
+  },
+  "dincolo de": {
+    "attraverso": 0.778
+  },
+  "din moment ce": {
+    "perché": 0.778,
+    "poiché": 0.778,
+    "siccome": 0.778
+  },
+  "dinspre": {
+    "da": 0.556,
+    "di": 0.556
+  },
+  "dintre": {
+    "di": 0.556,
+    "fra": 0.556
+  },
+  "doilea": {
+    "secondo": 0.778
+  },
+  "dumneaei": {
+    "ella": 0.778,
+    "lei": 0.778
+  },
+  "dumneaei ea": {
+    "ella": 0.778,
+    "lei": 0.778
+  },
+  "dumnealor": {
+    "essi": 0.778,
+    "loro": 0.778
+  },
+  "dumnealui": {
+    "egli": 0.778,
+    "ei": 0.778,
+    "esso": 0.778,
+    "lui": 0.778
+  },
+  "dumnealui el": {
+    "egli": 0.778,
+    "lui": 0.778
+  },
+  "e": {
+    "sta": 0.778,
+    "è": 0.778
+  },
+  "ev": {
+    "era": 0.778
+  },
+  "exista": {
+    "essere": 0.778
+  },
+  "generozitate": {
+    "di": 0.778
+  },
+  "han": {
+    "han": 0.889
+  },
+  "îi": {
+    "essi": 0.778,
+    "loro": 0.778
+  },
+  "îl": {
+    "la": 0.778,
+    "lo": 0.778,
+    "lui": 0.778
+  },
+  "împotriva": {
+    "contro": 0.556
+  },
+  "în calitate de": {
+    "come": 0.778,
+    "da": 0.778
+  },
+  "în ciuda": {
+    "nonostante": 0.778,
+    "sebbene": 0.778
+  },
+  "încotro": {
+    "laddove": 0.778
+  },
+  "între": {
+    "fra": 0.778,
+    "tra": 0.778
+  },
+  "întrucât": {
+    "perché": 0.778,
+    "poiché": 0.778,
+    "siccome": 0.778
+  },
+  "jur de": {
+    "verso": 0.556
+  },
+  "jurul": {
+    "verso": 0.556
+  },
+  "lui": {
+    "sua": 0.778,
+    "sue": 0.778,
+    "suo": 0.778,
+    "suoi": 0.778
+  },
+  "mijlocul": {
+    "fra": 0.556
+  },
+  "ne": {
+    "ci": 0.778,
+    "noi": 0.778
+  },
+  "nici o": {
+    "qualsiasi": 0.778
+  },
+  "nici un": {
+    "qualsiasi": 0.778
+  },
+  "nici unul": {
+    "nessuna": 0.778,
+    "nessuno": 0.778,
+    "niente": 0.778
+  },
+  "or": {
+    "ma": 0.556
+  },
+  "oricare": {
+    "qualsiasi": 0.778,
+    "qualunque": 0.778
+  },
+  "orizontal": {
+    "attraverso": 0.778
+  },
+  "pe când": {
+    "laddove": 0.778,
+    "quando": 0.778
+  },
+  "pentru a": {
+    "per": 0.778
+  },
+  "peste tot": {
+    "dovunque": 0.778
+  },
+  "pofida": {
+    "malgrado": 0.556
+  },
+  "poftim": {
+    "come": 0.778
+  },
+  "precum": {
+    "come": 0.778
+  },
+  "pretutindeni": {
+    "dovunque": 0.778
+  },
+  "printre": {
+    "fra": 0.778,
+    "tra": 0.778
+  },
+  "sa": {
+    "sua": 0.778,
+    "sue": 0.778,
+    "suo": 0.778,
+    "suoi": 0.778
+  },
+  "sale": {
+    "sua": 0.778,
+    "sue": 0.778,
+    "suo": 0.778,
+    "suoi": 0.778
+  },
+  "se": {
+    "si": 0.556
+  },
+  "sine": {
+    "sè": 0.556
+  },
+  "stare": {
+    "stato": 0.778
+  },
+  "stat": {
+    "stato": 0.778
+  },
+  "statut": {
+    "stato": 0.778
+  },
+  "sus": {
+    "su": 0.778
+  },
+  "ta": {
+    "tua": 0.778,
+    "tue": 0.778,
+    "tuo": 0.778,
+    "tuoi": 0.778
+  },
+  "tale": {
+    "tua": 0.778,
+    "tue": 0.778,
+    "tuo": 0.778,
+    "tuoi": 0.778
+  },
+  "te": {
+    "te": 0.556,
+    "ti": 0.556
+  },
+  "timp ce": {
+    "durante": 0.556
+  },
+  "timp de": {
+    "durante": 0.556
+  },
+  "timpul": {
+    "durante": 0.556
+  },
+  "toată": {
+    "tutta": 0.778,
+    "tutto": 0.778
+  },
+  "toate": {
+    "tutta": 0.778,
+    "tutto": 0.778
+  },
+  "toate pirrjimar": {
+    "tutto": 0.222
+  },
+  "total": {
+    "tutto": 0.778
+  },
+  "totalitate": {
+    "tutto": 0.778
+  },
+  "toți pirrjimar": {
+    "tutto": 0.222
+  },
+  "totuși": {
+    "benché": 0.778,
+    "nonostante": 0.778
+  },
+  "transversal": {
+    "attraverso": 0.778
+  },
+  "una": {
+    "uno": 0.778
+  },
+  "unul": {
+    "alcuno": 0.556,
+    "uno": 0.556
+  },
+  "urmând": {
+    "secondo": 0.556
+  },
+  "vers": {
+    "verso": 0.778
+  },
+  "voastre": {
+    "vostri": 0.556
+  },
+  "voia": {
+    "malgrado": 0.556
+  },
+  "vostru": {
+    "vostra": 0.778,
+    "vostro": 0.778
+  },
+  "twi": {
+    "ci": 0.889
+  },
+  "al tău": {
+    "tuo": 0.556
+  },
+  "așa cum": {
+    "come": 0.778
+  },
+  "bucată": {
+    "poca": 0.778
+  },
+  "ca și": {
+    "come": 0.778,
+    "quanto": 0.778
+  },
+  "chiar dacă": {
+    "benché": 0.778,
+    "nonostante": 0.778
+  },
+  "cvasi-": {
+    "presso": 0.556
+  },
+  "căci": {
+    "perché": 0.778,
+    "poiché": 0.778,
+    "siccome": 0.778
+  },
+  "deși": {
+    "benché": 0.778,
+    "malgrado": 0.778,
+    "sebbene": 0.778,
+    "seppure": 0.778
+  },
+  "după aceea": {
+    "dopo": 0.556
+  },
+  "după ce": {
+    "dopo": 0.556
+  },
+  "s-": {
+    "che": 0.556,
+    "di": 0.556,
+    "si": 0.556
+  },
+  "să": {
+    "che": 0.556,
+    "di": 0.556
+  },
+  "te-": {
+    "te": 0.556,
+    "ti": 0.556
+  },
+  "tăi": {
+    "tua": 0.778,
+    "tue": 0.778,
+    "tuo": 0.778,
+    "tuoi": 0.778
+  },
+  "tău": {
+    "tua": 0.778,
+    "tue": 0.778,
+    "tuo": 0.778,
+    "tuoi": 0.778
+  },
+  "urmărind": {
+    "secondo": 0.556
+  },
+  "vă": {
+    "lei": 0.556,
+    "vi": 0.556,
+    "voi": 0.556
+  },
+  "însă": {
+    "ma": 0.556,
+    "nonostante": 0.556
+  },
+  "ăștia": {
+    "questi": 0.778
+  },
+  "ți": {
+    "te": 0.556,
+    "ti": 0.556
+  },
+  "oriunde": {
+    "dovunque": 0.778
+  },
+  "-i": {
+    "gli": 0.778,
+    "i": 0.778,
+    "il": 0.778,
+    "la": 0.778,
+    "le": 0.778,
+    "lo": 0.778
+  },
+  "de-a curmezișul": {
+    "attraverso": 0.778
+  },
+  "le": {
+    "essi": 0.778,
+    "loro": 0.778
+  },
+  "v-": {
+    "vi": 0.556
+  },
+  "în pofida": {
+    "nonostante": 0.556
+  },
+  "în timpul": {
+    "durante": 0.556
+  },
+  "acea": {
+    "quella": 0.778,
+    "quello": 0.778
+  },
+  "tofĭ": {
+    "ogni": 0.333,
+    "tutto": 0.333
+  },
+  "ew": {
+    "io": 0.333
+  },
+  "noy": {
+    "noi": 0.333
+  },
+  "cand": {
+    "quando": 0.556
+  },
+  "catva": {
+    "alcuni": 0.556
+  },
+  "foarte mult": {
+    "parecchio": 0.556
+  },
+  "Situație": {
+    "stato": 0.222
+  },
+  "calic": {
+    "chiunque": 0.222
+  },
+  "pretutindenea": {
+    "dovunque": 0.222
+  },
+  "avea nevoie de": {
+    "essere": 0.222
+  },
+  "al": {
+    "il": 0.556
+  },
+  "amândoi": {
+    "ambedue": 0.778,
+    "ciascuno": 0.778,
+    "entrambi": 0.778
+  },
+  "cel care": {
+    "cui": 0.556
+  },
+  "de pe": {
+    "di": 0.556
+  },
+  "de vreme ce": {
+    "perché": 0.778,
+    "poiché": 0.778,
+    "siccome": 0.778
+  },
+  "land": {
+    "stato": 0.556
+  },
+  "pe care să": {
+    "che": 0.556
+  },
+  "prin intermediul": {
+    "tramite": 0.556
+  },
+  "printr-": {
+    "per": 0.556
+  },
+  "u": {
+    "uno": 0.556
+  },
+  "verso": {
+    "verso": 0.778
+  },
+  "vreun": {
+    "alcun": 0.556,
+    "qualche": 0.556
+  },
+  "în ciuda faptului că": {
+    "malgrado": 0.556
+  },
+  "în conformitate cu": {
+    "secondo": 0.778
+  },
+  "încât": {
+    "che": 0.556
+  },
+  "într-": {
+    "in": 0.556
+  },
+  "întru": {
+    "in": 0.556
+  },
+  "la fel ca": {
+    "come": 0.556
+  },
+  "tuturor": {
+    "tutto": 0.556
+  },
+  "va să zică": {
+    "ossia": 0.556
+  },
+  "pardon": {
+    "come": 0.778
+  },
+  "mine": {
+    "mi": 0.778
+  },
+  "pe urma": {
+    "dopo": 0.778
+  },
+  "măcar că": {
+    "benché": 0.778,
+    "sebbene": 0.778,
+    "seppure": 0.778
+  },
+  "o dată ce": {
+    "perché": 0.778,
+    "poiché": 0.778,
+    "siccome": 0.778
+  },
+  "în curmeziș": {
+    "attraverso": 0.778
+  },
+  "toata": {
+    "tutto": 0.778
+  },
+  "amândouă": {
+    "ambedue": 0.778,
+    "entrambi": 0.778
+  },
+  "fără de conținut": {
+    "senza": 0.778
+  },
+  "golit": {
+    "senza": 0.778
+  },
+  "toți oamenii": {
+    "ciascuno": 0.778
+  },
+  "fiecine": {
+    "ciascuno": 0.778
+  },
+  "puţin": {
+    "pochi": 0.778
+  },
+  "puţini": {
+    "pochi": 0.778
+  },
+  "puţine": {
+    "pochi": 0.778
+  },
+  "darămite": {
+    "nonché": 0.778
+  },
+  "imi": {
+    "me": 0.778
+  },
+  "nici una": {
+    "nessuna": 0.778,
+    "nessuno": 0.778,
+    "niente": 0.778
+  },
+  "cele": {
+    "gli": 0.778,
+    "i": 0.778,
+    "il": 0.778,
+    "la": 0.778,
+    "le": 0.778,
+    "lo": 0.778
+  },
+  "-a": {
+    "gli": 0.778,
+    "i": 0.778,
+    "il": 0.778,
+    "la": 0.778,
+    "le": 0.778,
+    "lo": 0.778
+  },
+  "cea": {
+    "gli": 0.778,
+    "i": 0.778,
+    "il": 0.778,
+    "la": 0.778,
+    "le": 0.778,
+    "lo": 0.778
+  },
+  "-ul": {
+    "gli": 0.778,
+    "i": 0.778,
+    "il": 0.778,
+    "la": 0.778,
+    "le": 0.778,
+    "lo": 0.778
+  },
+  "-le": {
+    "gli": 0.778,
+    "i": 0.778,
+    "il": 0.778,
+    "la": 0.778,
+    "le": 0.778,
+    "lo": 0.778
+  },
+  "alea": {
+    "quelle": 0.778,
+    "quelli": 0.778
+  },
+  "ăia": {
+    "quelle": 0.778,
+    "quelli": 0.778
+  },
+  "via": {
+    "per": 0.778
+  },
+  "indiferent care": {
+    "qualsiasi": 0.778,
+    "qualunque": 0.778
+  },
+  "ţară": {
+    "stato": 0.778
+  },
+  "toţi": {
+    "ciascuno": 0.778
+  },
+  "rastimp": {
+    "mentre": 0.778
+  },
+  "Eră": {
+    "era": 0.889
+  },
+  "contra într-un pătrat": {
+    "contro": 0.889
+  },
+  "fabricat în": {
+    "in": 0.667
+  },
+  "unui": {
+    "un": 19
+  },
+  "pot": {
+    "possono": 27
+  },
+  "s-a": {
+    "è": 16
+  },
+  "liderul": {
+    "si": 2
+  },
+  "Whitehall.": {
+    "presso": 1
+  },
+  "urcat": {
+    "i": 1
+  },
+  "canadianul": {
+    "contro": 1
+  },
+  "punctele": {
+    "i": 5
+  },
+  "importante": {
+    "sono": 1
+  },
+  "ajutat": {
+    "hanno": 2
+  },
+  "Hsieh": {
+    "ha": 2
+  },
+  "unei": {
+    "di": 19
+  },
+  "spus,": {
+    "ha": 1
+  },
+  "acestor": {
+    "queste": 5
+  },
+  "într-un": {
+    "in": 7
+  },
+  "clasat": {
+    "è": 2
+  },
+  "Științe": {
+    "of": 1
+  },
+  "devenit": {
+    "è": 4
+  },
+  "Ungariei": {
+    "stato": 1
+  },
+  "ținta": {
+    "suo": 1
+  },
+  "sunt": {
+    "sono": 68
+  },
+  "dintr-o": {
+    "di": 6
+  },
+  "va": {
+    "il": 3,
+    "di": 3
+  },
+  "declarat": {
+    "ha": 7
+  },
+  "i-a": {
+    "ha": 4
+  },
+  "Zeelande": {
+    "fossero": 1
+  },
+  "anul": {
+    "il": 6
+  },
+  "celor": {
+    "a": 5
+  },
+  "spus": {
+    "ha": 10
+  },
+  "folosirea": {
+    "suo": 1
+  },
+  "s-o": {
+    "dovremmo": 1
+  },
+  "principiu,": {
+    "abbiamo": 1
+  },
+  "era": {
+    "era": 7
+  },
+  "fusese": {
+    "stata": 4
+  },
+  "buzunarul": {
+    "suoi": 1
+  },
+  "telefonul,": {
+    "stiamo": 1
+  },
+  "do": {
+    "do": 1
+  },
+  "participe": {
+    "avrebbero": 1
+  },
+  "scuze": {
+    "i": 3
+  },
+  "motiv,": {
+    "alcuna": 1
+  },
+  "însă,": {
+    "in": 3
+  },
+  "s-au": {
+    "sono": 4
+  },
+  "Caboolture": {
+    "ha": 1
+  },
+  "Dromaeosauridae": {
+    "ed": 1
+  },
+  "numelui": {
+    "suo": 1
+  },
+  "Hesperonychus,": {
+    "secondo": 1
+  },
+  "«gheara": {
+    "era": 1
+  },
+  "zdrobitoare,": {
+    "sono": 1,
+    "stati": 1
+  },
+  "meteo": {
+    "sia": 1
+  },
+  "confirmării": {
+    "hanno": 1
+  },
+  "astăzi,": {
+    "a": 4
+  },
+  "autoritățile": {
+    "le": 3
+  },
+  "declarații": {
+    "di": 1
+  },
+  "vor": {
+    "saranno": 4
+  },
+  "alegeri.": {
+    "avrebbe": 1
+  },
+  "anterioare,": {
+    "con": 1
+  },
+  "ziceau": {
+    "secondo": 1
+  },
+  "îndreptase": {
+    "era": 1
+  },
+  "pilotată": {
+    "sotto": 1
+  },
+  "Il-76": {
+    "fin": 1
+  },
+  "închise": {
+    "di": 3
+  },
+  "Fairbanks,": {
+    "state": 1
+  },
+  "stocare,": {
+    "sotto": 1
+  },
+  "fiind": {
+    "il": 5
+  },
+  "cade": {
+    "lo": 1
+  },
+  "irakiene.": {
+    "quelle": 1
+  },
+  "că,": {
+    "se": 3
+  },
+  "fie": {
+    "essere": 11
+  },
+  "trebuie": {
+    "deve": 10
+  },
+  "erau": {
+    "erano": 5
+  },
+  "sa,": {
+    "suo": 2
+  },
+  "scriitorii": {
+    "suoi": 1
+  },
+  "ridică": {
+    "per": 2
+  },
+  "vagoane": {
+    "verranno": 1
+  },
+  "făcută": {
+    "lo": 1
+  },
+  "vine": {
+    "stata": 1
+  },
+  "pus": {
+    "dobbiamo": 1,
+    "tra": 1
+  },
+  "vigoare,": {
+    "questo": 1
+  },
+  "s-ar": {
+    "potrebbero": 1
+  },
+  "combinate": {
+    "potrà": 1
+  },
+  "clienților": {
+    "di": 1
+  },
+  "respinsă.": {
+    "venisse": 1
+  },
+  "„banca": {
+    "la": 1
+  },
+  "cumpărat": {
+    "ha": 1
+  },
+  "oamenii": {
+    "le": 3
+  },
+  "aceste": {
+    "queste": 4
+  },
+  "cursă,": {
+    "la": 1
+  },
+  "doilea,": {
+    "secondo": 2
+  },
+  "într-o": {
+    "in": 7
+  },
+  "relațiilor": {
+    "state": 1
+  },
+  "locuri": {
+    "pochi": 1
+  },
+  "provocării": {
+    "quale": 1
+  },
+  "funcționează": {
+    "sta": 1,
+    "fosse": 1
+  },
+  "fundului": {
+    "verso": 1
+  },
+  "epava": {
+    "stata": 1
+  },
+  "aprecierea": {
+    "sua": 1
+  },
+  "2009": {
+    "le": 1
+  },
+  "decernat": {
+    "stato": 1
+  },
+  "publicat": {
+    "erano": 1
+  },
+  "legiferări": {
+    "una": 1
+  },
+  "planificat": {
+    "contro": 2
+  },
+  "mulțimi,": {
+    "aveva": 1
+  },
+  "închisă.": {
+    "tutto": 1
+  },
+  "01:15": {
+    "i": 1
+  },
+  "verde,": {
+    "stava": 1
+  },
+  "domiciliu.": {
+    "diversi": 1
+  },
+  "să-mi": {
+    "mie": 2
+  },
+  "Mă": {
+    "di": 1
+  },
+  "Arias.”": {
+    "un": 1
+  },
+  "însoțite": {
+    "state": 1
+  },
+  "Otter": {
+    "durante": 1
+  },
+  "dată.": {
+    "senza": 1
+  },
+  "încetinite": {
+    "state": 1
+  },
+  "dus": {
+    "il": 1
+  },
+  "rapoartelor,": {
+    "i": 1
+  },
+  "votat": {
+    "come": 1
+  },
+  "discipline": {
+    "determinate": 1
+  },
+  "unor": {
+    "di": 5
+  },
+  "Votul": {
+    "dovrà": 1
+  },
+  "sprijinit": {
+    "chi": 1
+  },
+  "sufletului,": {
+    "io": 1
+  },
+  "comentariilor": {
+    "suoi": 1
+  },
+  "susținut": {
+    "la": 2
+  },
+  "tentativa": {
+    "aver": 1
+  },
+  "procesul": {
+    "il": 3
+  },
+  "inevitabil»": {
+    "era": 1
+  },
+  "invizibilă,": {
+    "tutto": 1
+  },
+  "afirmația": {
+    "secondo": 1
+  },
+  "Bărbatul": {
+    "si": 1
+  },
+  "explozie,": {
+    "essere": 1
+  },
+  "bomba": {
+    "stato": 2
+  },
+  "detonat": {
+    "dopo": 1,
+    "essere": 1
+  },
+  "șocați": {
+    "stato": 1
+  },
+  "întrebată": {
+    "su": 1
+  },
+  "tatăl,": {
+    "avesse": 1
+  },
+  "ați": {
+    "vi": 1,
+    "fossimo": 1
+  },
+  "cunoaștem,": {
+    "quel": 1
+  },
+  "Terra”,": {
+    "suo": 1
+  },
+  "laturile": {
+    "i": 2
+  },
+  "„Unii": {
+    "chi": 1
+  },
+  "nu-mi": {
+    "mi": 1
+  },
+  "zone.": {
+    "quelle": 1
+  },
+  "găzduit": {
+    "numerosi": 1
+  },
+  "așteaptat": {
+    "si": 1
+  },
+  "întârzieri": {
+    "stato": 1
+  },
+  "plănuiește": {
+    "voler": 1
+  },
+  "premergătoare": {
+    "il": 1
+  },
+  "ea.": {
+    "avrebbe": 1
+  },
+  "am": {
+    "abbiamo": 2
+  },
+  "concesiunile": {
+    "abbiamo": 1
+  },
+  "spațiale,": {
+    "tutta": 1
+  },
+  "află": {
+    "che": 4
+  },
+  "simptomele": {
+    "durante": 1
+  },
+  "protestului": {
+    "gli": 1
+  },
+  "Valetta": {
+    "a": 2
+  },
+  "Malta,": {
+    "a": 3
+  },
+  "Prevenirea": {
+    "the": 1
+  },
+  "Cruzimii": {
+    "of": 1
+  },
+  "(RSPCA)": {
+    "stanno": 1
+  },
+  "obligatorie": {
+    "venga": 1
+  },
+  "abatoarele": {
+    "tutta": 1
+  },
+  "bunăstarea": {
+    "loro": 1
+  },
+  "asemeni": {
+    "alcuna": 1
+  },
+  "întunecați,": {
+    "stata": 1
+  },
+  "vasul": {
+    "potesse": 1
+  },
+  "acestei": {
+    "questa": 3
+  },
+  "rol,": {
+    "verrà": 1
+  },
+  "aniversar": {
+    "hanno": 1
+  },
+  "ulterioară,": {
+    "stato": 1
+  },
+  "notițele": {
+    "suoi": 1
+  },
+  "unii": {
+    "alcuni": 2
+  },
+  "vinovat.": {
+    "essere": 1
+  },
+  "reforme": {
+    "il": 1
+  },
+  "conducerea": {
+    "le": 1
+  },
+  "Chinei": {
+    "il": 1
+  },
+  "uscat,": {
+    "può": 1
+  },
+  "perioada": {
+    "da": 3
+  },
+  "1945": {
+    "loro": 1
+  },
+  "petrecut": {
+    "suo": 1
+  },
+  "partide": {
+    "nessuno": 1
+  },
+  "Dervișii": {
+    "sono": 1
+  },
+  "încheiere,": {
+    "la": 1
+  },
+  "Flacăra": {
+    "of": 1
+  },
+  "mandatul": {
+    "proprie": 1
+  },
+  "globală": {
+    "sta": 1
+  },
+  "nimic,": {
+    "nulla": 1
+  },
+  "văzut": {
+    "ho": 1
+  },
+  "geamurile": {
+    "le": 2
+  },
+  "loveau": {
+    "le": 1
+  },
+  "ferestrele": {
+    "i": 1
+  },
+  "atomii": {
+    "gli": 4
+  },
+  "uniți": {
+    "si": 2
+  },
+  "rezolvat": {
+    "dovranno": 1
+  },
+  "moleculele": {
+    "le": 3
+  },
+  "lor.": {
+    "loro": 4
+  },
+  "ia": {
+    "il": 5
+  },
+  "prezintă": {
+    "che": 2
+  },
+  "alcătuiesc": {
+    "gli": 1
+  },
+  "sute": {
+    "aver": 1
+  },
+  "cablul": {
+    "il": 1
+  },
+  "pompează": {
+    "il": 1
+  },
+  "ci": {
+    "ma": 4
+  },
+  "arată": {
+    "a": 1
+  },
+  "palmieri": {
+    "hanno": 1
+  },
+  "și-ar": {
+    "suo": 1
+  },
+  "ciocul": {
+    "poteva": 1
+  },
+  "fotosferă,": {
+    "ovvero": 1
+  },
+  "folosind": {
+    "con": 4
+  },
+  "Luna.": {
+    "quelle": 1
+  },
+  "Jeongeum,": {
+    "vuol": 1
+  },
+  "India,": {
+    "avrebbero": 1
+  },
+  "aducându-și": {
+    "propria": 1
+  },
+  "Odată": {
+    "aver": 1
+  },
+  "pierdută": {
+    "sue": 1
+  },
+  "Dar": {
+    "la": 2
+  },
+  "traversat": {
+    "avrebbe": 2,
+    "attraverso": 2
+  },
+  "scufundate": {
+    "sarebbero": 1
+  },
+  "începem": {
+    "quali": 1
+  },
+  "vremea": {
+    "quel": 1
+  },
+  "dar,": {
+    "ma": 3
+  },
+  "U-Boot.": {
+    "venivano": 1
+  },
+  "bine,": {
+    "essi": 1
+  },
+  "Noi": {
+    "numerosi": 1
+  },
+  "diferite": {
+    "diversi": 7
+  },
+  "dialectele": {
+    "loro": 1,
+    "siano": 1
+  },
+  "nordul": {
+    "era": 2
+  },
+  "„Avea": {
+    "come": 1
+  },
+  "timpul,": {
+    "vennero": 1
+  },
+  "obținut": {
+    "abbia": 1
+  },
+  "mărime,": {
+    "sue": 1
+  },
+  "vest,": {
+    "a": 3
+  },
+  "Namgyel": {
+    "stata": 1
+  },
+  "victoria": {
+    "propria": 1
+  },
+  "unele": {
+    "alcuni": 10
+  },
+  "vietnamezii": {
+    "fu": 1
+  },
+  "venezuelani": {
+    "quella": 1
+  },
+  "Rezervația": {
+    "la": 3
+  },
+  "îți": {
+    "le": 3
+  },
+  "supozițiile": {
+    "proprie": 1
+  },
+  "altele,": {
+    "tra": 1
+  },
+  "încearcă": {
+    "uno": 2
+  },
+  "afișate": {
+    "verranno": 1
+  },
+  "Muxloe": {
+    "questo": 1
+  },
+  "largi": {
+    "sue": 1
+  },
+  "i-ar": {
+    "avrebbero": 1,
+    "potuto": 1
+  },
+  "europene": {
+    "le": 3
+  },
+  "burduful": {
+    "una": 1
+  },
+  "reprezintă": {
+    "un": 7
+  },
+  "finale,": {
+    "una": 4
+  },
+  "experiențe.": {
+    "tali": 1
+  },
+  "accentul": {
+    "la": 3
+  },
+  "religia": {
+    "propria": 1
+  },
+  "hinduse": {
+    "le": 2
+  },
+  "tradițiile": {
+    "proprie": 1
+  },
+  "Acestuia": {
+    "lui": 1
+  },
+  "malul": {
+    "presso": 1
+  },
+  "dezvoltarea": {
+    "in": 1
+  },
+  "stereotipuri": {
+    "ne": 1
+  },
+  "acumurării": {
+    "quale": 1
+  },
+  "asemănătoare": {
+    "essendo": 1
+  },
+  "falangele": {
+    "sono": 1
+  },
+  "stările": {
+    "le": 1
+  },
+  "aveți": {
+    "si": 8
+  },
+  "te-ai": {
+    "ci": 1,
+    "dovesse": 1
+  },
+  "creierul": {
+    "ogni": 1
+  },
+  "scrimer": {
+    "uno": 1
+  },
+  "iarba": {
+    "quella": 1
+  },
+  "tematice": {
+    "i": 1
+  },
+  "campingurile": {
+    "i": 2
+  },
+  "observând": {
+    "i": 1
+  },
+  "chemat,": {
+    "avevano": 1
+  },
+  "întăriri.": {
+    "i": 1
+  },
+  "treacă": {
+    "avessero": 1
+  },
+  "starea": {
+    "suo": 1
+  },
+  "oricărei": {
+    "la": 1,
+    "qualsiasi": 1
+  },
+  "neutroni": {
+    "i": 2
+  },
+  "siguranță.": {
+    "propria": 1
+  },
+  "observi": {
+    "si": 2
+  },
+  "încerci": {
+    "vi": 1
+  },
+  "vei": {
+    "sarà": 2
+  },
+  "anumită": {
+    "una": 1
+  },
+  "furnicile": {
+    "durante": 1
+  },
+  "schimbate": {
+    "vengono": 1
+  },
+  "însemnând": {
+    "vuol": 2
+  },
+  "vii": {
+    "gli": 2
+  },
+  "constant.": {
+    "senza": 1
+  },
+  "siguranței": {
+    "da": 2
+  },
+  "drum.": {
+    "loro": 1
+  },
+  "monstruoase": {
+    "queste": 1
+  },
+  "ajung": {
+    "possono": 1
+  },
+  "adevărate": {
+    "vennero": 1
+  },
+  "„Dar,": {
+    "qualora": 1
+  },
+  "strănepoții": {
+    "vostri": 1
+  },
+  "alcătuite": {
+    "da": 2
+  },
+  "animalele": {
+    "gli": 1
+  },
+  "compușii": {
+    "hanno": 1
+  },
+  "Are": {
+    "la": 1
+  },
+  "gazoasă,": {
+    "quello": 1
+  },
+  "schimba,": {
+    "lo": 1
+  },
+  "facem,": {
+    "nostra": 1
+  },
+  "iar,": {
+    "qualcosa": 1
+  },
+  "înregistrată": {
+    "viene": 1
+  },
+  "șterși": {
+    "furono": 1
+  },
+  "evaluăm": {
+    "nostri": 1
+  },
+  "pasiunile,": {
+    "nostre": 1
+  },
+  "aduc": {
+    "esse": 1
+  },
+  "răspunsuri,": {
+    "una": 2
+  },
+  "Printre": {
+    "tra": 1
+  },
+  "intențiilor": {
+    "quella": 1
+  },
+  "cuiva.": {
+    "stanno": 1
+  },
+  "Raționamentul": {
+    "avesse": 1
+  },
+  "informației": {
+    "la": 2
+  },
+  "studenților": {
+    "gli": 2
+  },
+  "aștepte": {
+    "anziché": 1
+  },
+  "ilustrează": {
+    "te": 1
+  },
+  "punem": {
+    "verrà": 1
+  },
+  "ruinele": {
+    "né": 1
+  },
+  "vecinului": {
+    "nostro": 1
+  },
+  "(dacă": {
+    "vostro": 2
+  },
+  "auziți": {
+    "questa": 1
+  },
+  "evite": {
+    "dovrebbero": 1
+  },
+  "dependentă": {
+    "nonostante": 1
+  },
+  "asiatice:": {
+    "quella": 1
+  },
+  "Vacanțele": {
+    "molte": 1
+  },
+  "intermediul": {
+    "tramite": 2
+  },
+  "campa": {
+    "poter": 1,
+    "sotto": 1
+  },
+  "Canion": {
+    "deve": 1
+  },
+  "sudului": {
+    "in": 2
+  },
+  "turistice": {
+    "per": 5
+  },
+  "normală,": {
+    "potrà": 1
+  },
+  "învecinate": {
+    "lo": 1
+  },
+  "ploilor": {
+    "durante": 1
+  },
+  "parte,": {
+    "sarà": 1
+  },
+  "–": {
+    "da": 2
+  },
+  "el,": {
+    "suo": 1
+  },
+  "strămutate": {
+    "essendo": 1
+  },
+  "Sap": {
+    "questo": 1
+  },
+  "combinată,": {
+    "potete": 1
+  },
+  "Israelului.": {
+    "tale": 1
+  },
+  "monoteiste": {
+    "ovvero": 1
+  },
+  "numeroaselor": {
+    "numerosi": 1
+  },
+  "situri": {
+    "numerosi": 1
+  },
+  "concepute": {
+    "stati": 1
+  },
+  "cerință.": {
+    "tale": 1
+  },
+  "călătoriei": {
+    "un": 2
+  },
+  "sunteți": {
+    "si": 2
+  },
+  "N-ar": {
+    "ogni": 1
+  },
+  "mutați": {
+    "vengono": 1
+  },
+  "părții": {
+    "molte": 1
+  },
+  "navighează": {
+    "da": 1
+  },
+  "arhipelagului": {
+    "da": 1
+  },
+  "Galapagos,": {
+    "da": 1
+  },
+  "limitărilor": {
+    "propri": 1
+  },
+  "dvs.": {
+    "e/o": 1
+  },
+  "Bazat": {
+    "quanto": 1
+  },
+  "grădina,": {
+    "diversi": 1
+  },
+  "căminul": {
+    "stati": 1
+  },
+  "plac": {
+    "quelli": 1
+  },
+  "scump,": {
+    "malgrado": 1
+  },
+  "mică,": {
+    "certi": 1
+  },
+  "Scena": {
+    "può": 1
+  },
+  "mari,": {
+    "avrete": 1
+  },
+  "conduceți": {
+    "vostra": 1
+  },
+  "scurt,": {
+    "propria": 1
+  },
+  "Islanda,": {
+    "aveva": 2
+  },
+  "permit": {
+    "li": 1
+  },
+  "închidere,": {
+    "nonché": 1
+  },
+  "864).": {
+    "contro": 1
+  },
+  "lung,": {
+    "sebbene": 1
+  },
+  "scopuri": {
+    "alcuni": 1
+  },
+  "limitată": {
+    "questa": 2,
+    "è": 2
+  },
+  "polițele": {
+    "propria": 1
+  },
+  "stocată": {
+    "su": 1
+  },
+  "puteți": {
+    "è": 4
+  },
+  "poteci": {
+    "per": 1
+  },
+  "operează": {
+    "queste": 1
+  },
+  "agentul,": {
+    "sia": 1
+  },
+  "opriți": {
+    "da": 2
+  },
+  "avion,": {
+    "da": 1
+  },
+  "tine": {
+    "sé": 2
+  },
+  "construirea": {
+    "la": 2
+  },
+  "designul": {
+    "di": 2
+  },
+  "ziduri": {
+    "i": 2
+  },
+  "doresc": {
+    "molti": 1
+  },
+  "ta,": {
+    "devi": 1
+  },
+  "Hangi": {
+    "viene": 1
+  },
+  "calde": {
+    "certe": 1
+  },
+  "localuri": {
+    "diversi": 1
+  },
+  "Cărăușie": {
+    "per": 1
+  },
+  "lăsați": {
+    "le": 1
+  },
+  "nesupravegheate,": {
+    "possono": 1
+  },
+  "treceți": {
+    "le": 1
+  },
+  "preaviz.": {
+    "alcun": 1
+  },
+  "constante": {
+    "questa": 1
+  },
+  "burții": {
+    "la": 1
+  },
+  "blestemului": {
+    "la": 1
+  },
+  "amici.": {
+    "molti": 1
+  },
+  "mărunte": {
+    "tanti": 1
+  },
+  "nefamiliarizați": {
+    "hanno": 1
+  },
+  "produsă": {
+    "quella": 1
+  },
+  "virus,": {
+    "quali": 1
+  },
+  "opțiuni": {
+    "di": 3
+  },
+  "familii.": {
+    "possono": 1
+  },
+  "împrejurări.": {
+    "alcune": 1
+  },
+  "Sud,": {
+    "ed": 1
+  },
+  "«tornade»": {
+    "quanto": 1
+  },
+  "copierii": {
+    "alcun": 1
+  },
+  "totul": {
+    "tutta": 1
+  },
+  "Internet,": {
+    "tramite": 1
+  },
+  "locuiți": {
+    "si": 2
+  },
+  "voastră.": {
+    "tua": 1
+  },
+  "declarați": {
+    "tutto": 1,
+    "ciò": 1
+  },
+  "umblând": {
+    "tuo": 1
+  },
+  "fidelizare": {
+    "il": 1
+  },
+  "biletului": {
+    "tua": 1
+  },
+  "niciuna": {
+    "ne": 1
+  },
+  "zonei": {
+    "il": 2
+  },
+  "1994,": {
+    "la": 1
+  },
+  "azerilor.": {
+    "contro": 1,
+    "gli": 1
+  },
+  "diplomatice": {
+    "tra": 1
+  },
+  "rurale,": {
+    "esso": 1
+  },
+  "scop.”": {
+    "tale": 1
+  },
+  "contrar,": {
+    "avrebbero": 1
+  },
+  "altor": {
+    "di": 2
+  },
+  "periculoase": {
+    "se": 1
+  },
+  "păsările,": {
+    "gli": 1
+  },
+  "schiatul": {
+    "lo": 2
+  },
+  "situațiile,": {
+    "ogni": 1
+  }
+}

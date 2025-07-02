@@ -1,0 +1,1665 @@
+{
+  "mì": {
+    "io": 1
+  },
+  "tì": {
+    "tu": 1
+  },
+  "lù": {
+    "egli": 1,
+    "lui": 1
+  },
+  "lüü": {
+    "egli": 1,
+    "lui": 1
+  },
+  "nun": {
+    "noi": 1
+  },
+  "nüm": {
+    "noi": 1
+  },
+  "violter": {
+    "voi": 1
+  },
+  "viòltar": {
+    "voi": 1
+  },
+  "viotar": {
+    "voi": 1
+  },
+  "luur": {
+    "loro": 1,
+    "essi": 1
+  },
+  "quell … chì": {
+    "questo": 1
+  },
+  "cal … ché": {
+    "questo": 1
+  },
+  "chì": {
+    "questo": 1
+  },
+  "queschì": {
+    "questo": 1
+  },
+  "isto": {
+    "questo": 1
+  },
+  "quell … lì": {
+    "quello": 1
+  },
+  "cal … lé": {
+    "quello": 1
+  },
+  "lì": {
+    "quello": 1
+  },
+  "chiè": {
+    "chi": 1
+  },
+  "s'cè": {
+    "chi": 1
+  },
+  "chiè che": {
+    "chi": 1
+  },
+  "s'cè che": {
+    "chi": 1
+  },
+  "cosè": {
+    "che": 1
+  },
+  "cusè": {
+    "che": 1
+  },
+  "sa": {
+    "che": 1
+  },
+  "quaant": {
+    "quando": 1
+  },
+  "quand": {
+    "quando": 1
+  },
+  "comè": {
+    "come": 1
+  },
+  "tutt": {
+    "tutto": 1
+  },
+  "tüt": {
+    "tutto": 1
+  },
+  "töt": {
+    "tutto": 1
+  },
+  "tucc": {
+    "tutto": 1
+  },
+  "tücc": {
+    "tutto": 1
+  },
+  "tücòos": {
+    "tutto": 1
+  },
+  "tuscòss": {
+    "tutto": 1
+  },
+  "on quaj": {
+    "alcuni": 1
+  },
+  "vun": {
+    "un": 1,
+    "uno": 1,
+    "una": 1,
+    "un'": 1
+  },
+  "vün": {
+    "un": 1,
+    "uno": 1,
+    "una": 1,
+    "un'": 1
+  },
+  "a": {
+    "a": 1
+  },
+  "em": {
+    "a": 1
+  },
+  "in": {
+    "in": 1
+  },
+  "in da": {
+    "in": 1
+  },
+  "con": {
+    "con": 1
+  },
+  "e": {
+    "e": 1
+  },
+  "se": {
+    "se": 1
+  },
+  "parchè": {
+    "perché": 1
+  },
+  "vuna": {
+    "uno": 0.778
+  },
+  "ghe": {
+    "ci": 0.778,
+    "vi": 0.778
+  },
+  "ço": {
+    "ciò": 0.778
+  },
+  "cun": {
+    "con": 0.556
+  },
+  "areent": {
+    "a": 0.556,
+    "in": 0.556
+  },
+  "aprööf": {
+    "a": 0.556,
+    "in": 0.556
+  },
+  "ti": {
+    "tu": 0.556,
+    "uno": 0.556
+  },
+  "nüü": {
+    "noi": 0.556
+  },
+  "nóter": {
+    "noi": 0.556
+  },
+  "nüòolt": {
+    "noi": 0.556
+  },
+  "vóter": {
+    "voi": 0.556
+  },
+  "viòolt": {
+    "tu": 0.556
+  },
+  "tò": {
+    "tuo": 0.556
+  },
+  "quaand": {
+    "quando": 0.556
+  },
+  "cura": {
+    "quando": 0.556
+  },
+  "cuur": {
+    "quando": 0.556
+  },
+  "cura che": {
+    "quando": 0.556
+  },
+  "qual-sa-vöör": {
+    "alcuno": 0.556
+  },
+  "par che": {
+    "perché": 0.556
+  },
+  "dapress": {
+    "dopo": 0.556
+  },
+  "cuntra": {
+    "contro": 0.556
+  },
+  "d’acordi cun": {
+    "con": 0.556
+  },
+  "mia-da-maanch": {
+    "bensì": 0.556,
+    "ma": 0.556
+  },
+  "senza": {
+    "senza": 0.556
+  },
+  "dopu": {
+    "dopo": 0.556
+  },
+  "malgraa": {
+    "malgrado": 0.556
+  },
+  "a dispet da": {
+    "malgrado": 0.556
+  },
+  "da sura": {
+    "sopra": 0.556
+  },
+  "sü": {
+    "sopra": 0.556
+  },
+  "sö": {
+    "sopra": 0.556
+  },
+  "la": {
+    "la": 247
+  },
+  "de": {
+    "di": 488
+  },
+  "i": {
+    "i": 140
+  },
+  "of": {
+    "of": 3
+  },
+  "‘l": {
+    "il": 72
+  },
+  "han": {
+    "hanno": 4
+  },
+  "un": {
+    "un": 159
+  },
+  "pœ": {
+    "di": 7
+  },
+  "qe": {
+    "che": 110
+  },
+  "vesser": {
+    "essere": 12
+  },
+  "ol": {
+    "il": 63
+  },
+  "coma": {
+    "come": 11
+  },
+  "é": {
+    "è": 72
+  },
+  "una": {
+    "una": 40
+  },
+  "g’ha": {
+    "ha": 80
+  },
+  "identificad": {
+    "che": 2
+  },
+  "par": {
+    "per": 52
+  },
+  "il": {
+    "il": 9
+  },
+  "seguent": {
+    "dopo": 2
+  },
+  "g’hann": {
+    "hanno": 6
+  },
+  "va": {
+    "si": 4
+  },
+  "invers": {
+    "verso": 4
+  },
+  "su": {
+    "su": 12
+  },
+  "dre": {
+    "in": 5
+  },
+  "s’é": {
+    "è": 15
+  },
+  "contra": {
+    "contro": 5
+  },
+  "recent": {
+    "è": 1
+  },
+  "perdud": {
+    "stato": 1
+  },
+  "Raonic": {
+    "da": 1
+  },
+  "sota": {
+    "le": 2
+  },
+  "obietiv": {
+    "questo": 2
+  },
+  "tut": {
+    "tutto": 2
+  },
+  "tuts": {
+    "di": 5
+  },
+  "pœderia": {
+    "potrebbe": 3
+  },
+  "ira": {
+    "era": 14
+  },
+  "still": {
+    "di": 1
+  },
+  "qeste": {
+    "queste": 2
+  },
+  "cond": {
+    "con": 14
+  },
+  "stait": {
+    "stato": 14
+  },
+  "segond": {
+    "secondo": 5
+  },
+  "sò": {
+    "suo": 14
+  },
+  "du": {
+    "entrambi": 1
+  },
+  "di": {
+    "di": 39
+  },
+  "iraqena": {
+    "una": 1
+  },
+  "staita": {
+    "stata": 5
+  },
+  "henn": {
+    "sono": 31
+  },
+  "dòp": {
+    "dopo": 2
+  },
+  "fait": {
+    "è": 2
+  },
+  "d’Ungeria": {
+    "è": 1,
+    "stato": 1
+  },
+  "fasse": {
+    "stati": 1
+  },
+  "cel": {
+    "tutta": 1
+  },
+  "esplorava": {
+    "viene": 1
+  },
+  "gras’ce": {
+    "attraverso": 1
+  },
+  "per": {
+    "per": 112
+  },
+  "intra": {
+    "tra": 6
+  },
+  "qi": {
+    "di": 2
+  },
+  "jó": {
+    "di": 6
+  },
+  "g’é": {
+    "a": 4
+  },
+  "sien": {
+    "sia": 1
+  },
+  "sensa": {
+    "senza": 5
+  },
+  "òm": {
+    "sarebbe": 1
+  },
+  "g’haria": {
+    "dovrebbe": 2
+  },
+  "g’hariem": {
+    "dovremmo": 1
+  },
+  "principe": {
+    "abbiamo": 1
+  },
+  "pagura": {
+    "potessero": 1
+  },
+  "parqè": {
+    "poiché": 2
+  },
+  "lo": {
+    "lo": 5
+  },
+  "Durant": {
+    "suo": 1
+  },
+  "tellefon,": {
+    "stiamo": 1
+  },
+  "Grande": {
+    "do": 1
+  },
+  "despò": {
+    "dopo": 6
+  },
+  "da": {
+    "da": 23
+  },
+  "g’heva": {
+    "aveva": 6
+  },
+  "o": {
+    "o": 107
+  },
+  "partecipar": {
+    "dovuto": 1
+  },
+  "mò": {
+    "ma": 4
+  },
+  "staits": {
+    "stata": 2
+  },
+  "saria": {
+    "sarebbe": 2
+  },
+  "pò": {
+    "può": 13
+  },
+  "fornid": {
+    "aveva": 1
+  },
+  "Caboolture": {
+    "ha": 1
+  },
+  "raspe": {
+    "avesse": 1
+  },
+  "meiore": {
+    "sarebbe": 1
+  },
+  "g’han": {
+    "hanno": 5
+  },
+  "Irkutsk": {
+    "sotto": 1
+  },
+  "inqiesta": {
+    "è": 1,
+    "stata": 1
+  },
+  "Il-76": {
+    "fin": 1
+  },
+  "causad": {
+    "aveva": 2
+  },
+  "qell": {
+    "a": 5
+  },
+  "System": {
+    "di": 2
+  },
+  "serade": {
+    "di": 3
+  },
+  "secondara": {
+    "sotto": 1
+  },
+  "somiera": {
+    "sarà": 1
+  },
+  "segond,": {
+    "tale": 1
+  },
+  "ativ": {
+    "potesse": 1
+  },
+  "pica": {
+    "lo": 1
+  },
+  "iraqene.": {
+    "quelle": 1
+  },
+  "eren": {
+    "erano": 6
+  },
+  "lor": {
+    "loro": 3
+  },
+  "scitur": {
+    "suoi": 1
+  },
+  "sarà": {
+    "sarà": 3
+  },
+  "avost": {
+    "ovvero": 1
+  },
+  "caroze": {
+    "verranno": 1
+  },
+  "ha": {
+    "il": 4
+  },
+  "azion,": {
+    "questo": 1
+  },
+  "qesta": {
+    "la": 3
+  },
+  "rivall": {
+    "potrà": 1
+  },
+  "banca.": {
+    "venisse": 1
+  },
+  "crap": {
+    "queste": 1
+  },
+  "löi": {
+    "lo": 1
+  },
+  "Keselowski": {
+    "suoi": 1
+  },
+  "atac": {
+    "tra": 1
+  },
+  "prœva": {
+    "state": 1
+  },
+  "staite": {
+    "state": 3
+  },
+  "qella": {
+    "quale": 1,
+    "ci": 1
+  },
+  "vergun": {
+    "alcuni": 3
+  },
+  "nòs": {
+    "nostro": 2
+  },
+  "miiorament": {
+    "avevano": 1
+  },
+  "repórt": {
+    "erano": 1
+  },
+  "Missouri,": {
+    "dovuto": 1
+  },
+  "platea": {
+    "tutto": 1
+  },
+  "move": {
+    "stia": 1
+  },
+  "ai": {
+    "le": 8
+  },
+  "sie": {
+    "a": 5
+  },
+  "repiazar": {
+    "dovuto": 1
+  },
+  "stabii,": {
+    "dovrà": 1
+  },
+  "divers": {
+    "diversi": 2
+  },
+  "ben": {
+    "sono": 3
+  },
+  "me": {
+    "mie": 2
+  },
+  "pollis": {
+    "presso": 1
+  },
+  "plœvie": {
+    "sono": 1
+  },
+  "esplosion,": {
+    "quel": 1
+  },
+  "resident": {
+    "furono": 1
+  },
+  "vœt": {
+    "dovrà": 1
+  },
+  "soportaven": {
+    "erano": 1
+  },
+  "crede": {
+    "io": 1
+  },
+  "el": {
+    "il": 115
+  },
+  "avir-g": {
+    "aver": 1
+  },
+  "shock,”": {
+    "stato": 1
+  },
+  "pare,": {
+    "avesse": 1
+  },
+  "comporterà": {
+    "lo": 1
+  },
+  "ta": {
+    "in": 3
+  },
+  "savòm,": {
+    "quel": 1
+  },
+  "pœderian": {
+    "chi": 1,
+    "potrebbe": 1
+  },
+  "ecord,": {
+    "ma": 1
+  },
+  "interessa": {
+    "mi": 1
+  },
+  "ge": {
+    "ci": 1
+  },
+  "ospitad": {
+    "numerosi": 1
+  },
+  "è": {
+    "ad": 1
+  },
+  "reduzion": {
+    "se": 1
+  },
+  "volir": {
+    "voler": 1
+  },
+  "lu.": {
+    "avrebbe": 1
+  },
+  "g’havom": {
+    "abbiamo": 2
+  },
+  "ma": {
+    "ma": 32
+  },
+  "competizion": {
+    "tutte": 1
+  },
+  "letall": {
+    "possa": 1
+  },
+  "stat": {
+    "stato": 3
+  },
+  "Bulgaria,": {
+    "a": 1
+  },
+  "Lituania,": {
+    "a": 1
+  },
+  "Malta,": {
+    "a": 2
+  },
+  "#REF!": {
+    "di": 2
+  },
+  "the": {
+    "the": 1
+  },
+  "(RSPCA)": {
+    "stanno": 1
+  },
+  "torna": {
+    "venga": 1
+  },
+  "austraian.": {
+    "tutta": 1
+  },
+  "meteurulògic": {
+    "stata": 1
+  },
+  "l’Islànda": {
+    "alcuna": 1
+  },
+  "nel": {
+    "da": 1
+  },
+  "üna": {
+    "una": 75
+  },
+  "vàl": {
+    "stata": 1
+  },
+  "ieren": {
+    "furono": 5
+  },
+  "müimènt": {
+    "ad": 1
+  },
+  "vèra": {
+    "fosse": 1
+  },
+  "esaminad": {
+    "verrà": 1
+  },
+  "dejun": {
+    "egli": 1
+  },
+  "contad": {
+    "è": 1
+  },
+  "Algeria,": {
+    "aveva": 1
+  },
+  "mórt": {
+    "a": 2
+  },
+  "formall": {
+    "hanno": 1
+  },
+  "processad.": {
+    "essere": 1
+  },
+  "economia": {
+    "di": 1
+  },
+  "faite": {
+    "furono": 1
+  },
+  "divegnir": {
+    "entro": 1
+  },
+  "1995": {
+    "fu": 1
+  },
+  "Cirque": {
+    "du": 1
+  },
+  "sta": {
+    "è": 3,
+    "questa": 3
+  },
+  "m’é": {
+    "me": 1
+  },
+  "g’ho": {
+    "nulla": 1
+  },
+  "sena": {
+    "ho": 1
+  },
+  "ga": {
+    "dovranno": 1
+  },
+  "sostituzion": {
+    "lo": 1
+  },
+  "tub": {
+    "attraverso": 2
+  },
+  "triceratop": {
+    "erano": 1
+  },
+  "chi": {
+    "che": 22
+  },
+  "na": {
+    "una": 4
+  },
+  "parèn": {
+    "a": 1
+  },
+  "cont": {
+    "hanno": 1
+  },
+  "bècch": {
+    "poteva": 1
+  },
+  "sti": {
+    "queste": 4
+  },
+  "che": {
+    "che": 116
+  },
+  "l’è": {
+    "è": 111
+  },
+  "cuma": {
+    "come": 29
+  },
+  "gravità": {
+    "noi": 1
+  },
+  "Io,": {
+    "di": 3
+  },
+  "agiréss": {
+    "me": 1
+  },
+  "superfix": {
+    "fossimo": 1
+  },
+  "te": {
+    "si": 32
+  },
+  "vö": {
+    "ovvero": 1
+  },
+  "quai": {
+    "alcuni": 13
+  },
+  "en": {
+    "un": 4
+  },
+  "mument": {
+    "per": 1
+  },
+  "pussee": {
+    "qualsiasi": 1
+  },
+  "l’era": {
+    "era": 11
+  },
+  "vör": {
+    "vuol": 6
+  },
+  "lùr": {
+    "loro": 14
+  },
+  "‘na": {
+    "una": 4
+  },
+  "staa": {
+    "stato": 5
+  },
+  "dastrügiar": {
+    "potuto": 1
+  },
+  "fundà": {
+    "sarebbero": 1
+  },
+  "spiegaziün": {
+    "quali": 1,
+    "erano": 1
+  },
+  "oltru": {
+    "hai": 1
+  },
+  "paès": {
+    "quei": 1
+  },
+  "ienn": {
+    "sono": 56
+  },
+  "lür": {
+    "loro": 5
+  },
+  "sutumarìn,": {
+    "questi": 1
+  },
+  "g'a": {
+    "ne": 1,
+    "avessero": 1
+  },
+  "gh'eren": {
+    "essi": 1
+  },
+  "miaia": {
+    "e": 1
+  },
+  "stada": {
+    "stata": 4
+  },
+  "tra": {
+    "tra": 16
+  },
+  "cunta": {
+    "loro": 1,
+    "siano": 1
+  },
+  "divérs": {
+    "diversi": 2
+  },
+  "l’ün": {
+    "gli": 2
+  },
+  "pòdèn": {
+    "uni": 1
+  },
+  "l’olter.": {
+    "con": 2
+  },
+  "basàda": {
+    "come": 1
+  },
+  "passaa": {
+    "vennero": 1
+  },
+  "paroli": {
+    "molte": 1
+  },
+  "Bretanéga": {
+    "abbia": 1
+  },
+  "otegnì": {
+    "di": 5
+  },
+  "longa": {
+    "abbia": 1
+  },
+  "ün": {
+    "un": 12
+  },
+  "vüna": {
+    "una": 3
+  },
+  "qual": {
+    "cui": 8
+  },
+  "l’ha": {
+    "ha": 8
+  },
+  "ien": {
+    "sono": 2
+  },
+  "reson,": {
+    "questa": 2
+  },
+  "vedèt": {
+    "tutte": 1
+  },
+  "maniera": {
+    "viene": 1
+  },
+  "vedei": {
+    "verranno": 1
+  },
+  "nosta": {
+    "nostra": 1
+  },
+  "finèster": {
+    "sue": 1
+  },
+  "saresén": {
+    "avrebbero": 1
+  },
+  "riessii": {
+    "potuto": 1
+  },
+  "longh": {
+    "a": 1
+  },
+  "vès": {
+    "essere": 27
+  },
+  "serà": {
+    "sarebbe": 1
+  },
+  "segnà": {
+    "noi": 1
+  },
+  "cunt": {
+    "con": 39
+  },
+  "bisugna": {
+    "per": 2
+  },
+  "volüm": {
+    "per": 4
+  },
+  "svulzà": {
+    "molta": 1
+  },
+  "mantés": {
+    "una": 2
+  },
+  "ültima,": {
+    "di": 3
+  },
+  "dirèta,": {
+    "di": 3
+  },
+  "miraa": {
+    "ad": 1
+  },
+  "cultivà": {
+    "tali": 1
+  },
+  "gha": {
+    "le": 4
+  },
+  "(1469–1539).": {
+    "dopo": 1
+  },
+  "seguitaa": {
+    "lui": 1,
+    "ci": 1
+  },
+  "sucessiùn": {
+    "furono": 1
+  },
+  "Siben": {
+    "se": 2
+  },
+  "svilupàva": {
+    "presso": 1
+  },
+  "fà": {
+    "è": 4
+  },
+  "esperiénza": {
+    "coloro": 1
+  },
+  "razziàl,": {
+    "questi": 1
+  },
+  "influenzén": {
+    "ne": 1
+  },
+  "enn": {
+    "hanno": 1
+  },
+  "pödet": {
+    "a": 4
+  },
+  "dimesticheza": {
+    "con": 2
+  },
+  "si": {
+    "se": 3
+  },
+  "pòden": {
+    "possono": 24
+  },
+  "perchè": {
+    "che": 6
+  },
+  "vèss": {
+    "essere": 5
+  },
+  "ricòrd": {
+    "era": 2
+  },
+  "rampegàss": {
+    "quanto": 1
+  },
+  "süi": {
+    "per": 5
+  },
+  "falàngi": {
+    "sono": 1
+  },
+  "pénsa": {
+    "parecchi": 1
+  },
+  "sto": {
+    "questo": 2
+  },
+  "qui": {
+    "tutto": 1
+  },
+  "sveglias": {
+    "ci": 1,
+    "dovesse": 1
+  },
+  "ogni": {
+    "qualsiasi": 4
+  },
+  "giò": {
+    "sotto": 1
+  },
+  "spess": {
+    "i": 3
+  },
+  "müimènt,": {
+    "questa": 1
+  },
+  "l’avesen": {
+    "avessero": 1
+  },
+  "diversìf": {
+    "avrebbe": 1
+  },
+  "mèzzfundista": {
+    "vuole": 1
+  },
+  "ghà": {
+    "deve": 5
+  },
+  "stagiùn": {
+    "durante": 2
+  },
+  "furniss": {
+    "nessun": 1
+  },
+  "tüta": {
+    "tutta": 3
+  },
+  "cunsist": {
+    "da": 1
+  },
+  "partizèli:": {
+    "i": 1
+  },
+  "ghan": {
+    "hanno": 4
+  },
+  "sicüreza.": {
+    "propria": 1
+  },
+  "fett": {
+    "essere": 1
+  },
+  "cercà": {
+    "vi": 1
+  },
+  "iüttà,": {
+    "potete": 1
+  },
+  "nomàd,": {
+    "durante": 1
+  },
+  "disturbaa.": {
+    "senza": 1
+  },
+  "sigür": {
+    "da": 2
+  },
+  "tempèst": {
+    "queste": 1
+  },
+  "vèrs": {
+    "verso": 6
+  },
+  "Ma,": {
+    "qualora": 1
+  },
+  "chést": {
+    "dovesse": 1
+  },
+  "pronevòd": {
+    "vostri": 1
+  },
+  "l’olter": {
+    "senza": 1
+  },
+  "liquìd": {
+    "stato": 1
+  },
+  "solèd,": {
+    "sia": 1,
+    "stato": 1
+  },
+  "l’istessa": {
+    "quello": 1
+  },
+  "muleculàr.": {
+    "o": 1
+  },
+  "vargòt": {
+    "qualcosa": 3
+  },
+  "l’influénza": {
+    "ogni": 1
+  },
+  "chel": {
+    "nostra": 1
+  },
+  "dificìl": {
+    "da": 2
+  },
+  "tramìt": {
+    "attraverso": 2
+  },
+  "cunfrùnta": {
+    "cui": 1
+  },
+  "doperà": {
+    "per": 2
+  },
+  "registràda": {
+    "viene": 1
+  },
+  "Zelànda": {
+    "fossero": 2
+  },
+  "chésti": {
+    "tra": 1,
+    "questi": 1
+  },
+  "scònter": {
+    "dopo": 1,
+    "alcuni": 1
+  },
+  "aprezà": {
+    "nostri": 1
+  },
+  "passiùn": {
+    "nostre": 1
+  },
+  "onestà": {
+    "nostre": 1
+  },
+  "indùa": {
+    "cui": 8
+  },
+  "önes": {
+    "esse": 1
+  },
+  "sectùr": {
+    "diversi": 1
+  },
+  "‘sto": {
+    "di": 4
+  },
+  "ropp,": {
+    "una": 2
+  },
+  "quaj": {
+    "a": 1
+  },
+  "sciènsa": {
+    "determinate": 1
+  },
+  "capacità,": {
+    "queste": 1
+  },
+  "doaréss": {
+    "avesse": 1
+  },
+  "magnetica": {
+    "come": 1
+  },
+  "chésta": {
+    "questa": 6
+  },
+  "l’infurmaziùn.": {
+    "qualsiasi": 1
+  },
+  "svelt,": {
+    "anziché": 1
+  },
+  "fatt,": {
+    "come": 1
+  },
+  "fa-deper-ti": {
+    "te": 1
+  },
+  "prugeterém": {
+    "né": 1
+  },
+  "padrùn": {
+    "vostro": 1
+  },
+  "stranier": {
+    "dovrebbero": 1
+  },
+  "culegada": {
+    "nonostante": 1
+  },
+  "cungrèss": {
+    "ed": 1
+  },
+  "asiatega:": {
+    "quella": 1
+  },
+  "Walt": {
+    "molte": 1
+  },
+  "vulà": {
+    "un": 1
+  },
+  "pràtega": {
+    "una": 1
+  },
+  "mèt": {
+    "poter": 1
+  },
+  "tenda": {
+    "qualsiasi": 1
+  },
+  "Canyon": {
+    "deve": 1
+  },
+  "nurmàla,": {
+    "potrà": 1
+  },
+  "pianifichét": {
+    "questo": 1
+  },
+  "sentee": {
+    "per": 1
+  },
+  "visitaduu": {
+    "i": 3
+  },
+  "pòch": {
+    "hanno": 1
+  },
+  "cumbinada": {
+    "potete": 1
+  },
+  "donca": {
+    "è": 5
+  },
+  "Israele.": {
+    "tale": 1
+  },
+  "monoteìste:": {
+    "ovvero": 1
+  },
+  "Ester": {
+    "deve": 1
+  },
+  "prugetaa": {
+    "stati": 1
+  },
+  "à": {
+    "tale": 1
+  },
+  "chéstu": {
+    "ogni": 1
+  },
+  "pö": {
+    "un": 4
+  },
+  "bàss": {
+    "deve": 1
+  },
+  "assè": {
+    "essere": 1
+  },
+  "pién": {
+    "parecchi": 1
+  },
+  "interèss": {
+    "propri": 1
+  },
+  "e/o": {
+    "e/o": 2
+  },
+  "Caribes": {
+    "furono": 1
+  },
+  "dimezzàda": {
+    "pochi": 1
+  },
+  "Bartolomé": {
+    "quanto": 1
+  },
+  "fà,": {
+    "di": 2
+  },
+  "centimeter": {
+    "stati": 1
+  },
+  "centèsim": {
+    "pochi": 1,
+    "qualche": 1
+  },
+  "quei": {
+    "quelli": 4
+  },
+  "d’estaa": {
+    "mentre": 1
+  },
+  "urari": {
+    "hanno": 1
+  },
+  "l’istess": {
+    "lo": 2
+  },
+  "vèch": {
+    "di": 1
+  },
+  "L’ambiént": {
+    "può": 1
+  },
+  "pusìbil": {
+    "avrete": 1
+  },
+  "cugnusét": {
+    "ne": 1
+  },
+  "danéé": {
+    "potrebbe": 1
+  },
+  "végn": {
+    "che": 1
+  },
+  "-": {
+    "è": 5
+  },
+  "permètt": {
+    "li": 1
+  },
+  "l’ospiterà": {
+    "la": 2
+  },
+  "seràda,": {
+    "nonché": 1
+  },
+  "botànich": {
+    "tutto": 1
+  },
+  "pratéga": {
+    "questo": 1
+  },
+  "mìla": {
+    "di": 3
+  },
+  "teleobietìf,": {
+    "sebbene": 1
+  },
+  "comerciàl.": {
+    "alcuni": 1
+  },
+  "còlt,": {
+    "ogni": 1
+  },
+  "intrég": {
+    "molte": 1
+  },
+  "tipp": {
+    "alcuni": 1
+  },
+  "còpi": {
+    "propria": 1
+  },
+  "ricéta": {
+    "voi": 1
+  },
+  "tòa": {
+    "vostra": 1
+  },
+  "l’andà": {
+    "verso": 1
+  },
+  "sèch": {
+    "può": 1
+  },
+  "popin": {
+    "potrebbero": 1
+  },
+  "sbarchet": {
+    "da": 2
+  },
+  "reoplan,": {
+    "da": 1
+  },
+  "pudarès": {
+    "potrebbe": 1
+  },
+  "pulizìa": {
+    "presso": 1
+  },
+  "lege,": {
+    "questo": 1
+  },
+  "quantitatìf": {
+    "molti": 2
+  },
+  "pudarè": {
+    "sarà": 2
+  },
+  "scarabòc": {
+    "i": 1
+  },
+  "türìst": {
+    "molti": 1
+  },
+  "indree": {
+    "ti": 1
+  },
+  "màn,": {
+    "devi": 1
+  },
+  "còtt": {
+    "viene": 1
+  },
+  "còldì": {
+    "certe": 1
+  },
+  "rostìì": {
+    "in": 1
+  },
+  "Rotorua": {
+    "diversi": 1
+  },
+  "caar,": {
+    "malgrado": 1
+  },
+  "quant": {
+    "puoi": 1
+  },
+  "dròga": {
+    "tua": 1
+  },
+  "purterà": {
+    "dovendo": 1
+  },
+  "mumént": {
+    "alcun": 1
+  },
+  "tacàs": {
+    "tanti": 1
+  },
+  "portèss": {
+    "sé": 1
+  },
+  "camamela": {
+    "quello": 1
+  },
+  "vivet": {
+    "vostra": 1
+  },
+  "certi": {
+    "alcune": 1
+  },
+  "podarès": {
+    "potrebbe": 1
+  },
+  "freg": {
+    "ed": 1
+  },
+  "segnalaa": {
+    "stati": 2
+  },
+  "tùchen": {
+    "quanto": 1
+  },
+  "tütt": {
+    "tutto": 2
+  },
+  "funziunava": {
+    "fosse": 1
+  },
+  "telefùn": {
+    "tutti": 1
+  },
+  "‘sti": {
+    "questi": 1
+  },
+  "numer": {
+    "tramite": 1
+  },
+  "sùra": {
+    "sopra": 1
+  },
+  "zona.": {
+    "tua": 1
+  },
+  "vàri": {
+    "diversi": 1
+  },
+  "internét": {
+    "diversi": 1
+  },
+  "furèst": {
+    "qualsiasi": 1
+  },
+  "stüdià,": {
+    "dover": 1
+  },
+  "pussìbil.": {
+    "quante": 1
+  },
+  "cognosserann": {
+    "chiunque": 1
+  },
+  "daràn": {
+    "vi": 2
+  },
+  "quaivün.": {
+    "stanno": 1
+  },
+  "Skyteam": {
+    "ne": 1
+  },
+  "gnànca": {
+    "nessuna": 1
+  },
+  "ansedenò": {
+    "avrebbero": 1
+  },
+  "üsèi": {
+    "quanto": 1
+  },
+  "umàn,": {
+    "alcuni": 1
+  },
+  "quaivun": {
+    "questi": 1
+  },
+  "albér": {
+    "di": 2
+  },
+  "diretamént": {
+    "presso": 1
+  }
+}

@@ -1,0 +1,1889 @@
+{
+  "andi": {
+    "tidak": 0.778
+  },
+  "anto": {
+    "apa": 0.778
+  },
+  "siopa": {
+    "siapa": 0.778
+  },
+  "ak": {
+    "aku": 0.556,
+    "saya": 0.556
+  },
+  "siák": {
+    "aku": 0.556,
+    "saya": 0.556
+  },
+  "aman": {
+    "itu": 0.556
+  },
+  "amin": {
+    "semua": 0.556
+  },
+  "aya": {
+    "ini": 0.556
+  },
+  "dia": {
+    "di": 0.556
+  },
+  "iner": {
+    "dimana": 0.556
+  },
+  "insan": {
+    "dan": 0.556
+  },
+  "kapigan": {
+    "bila": 0.556
+  },
+  "laka": {
+    "serta": 0.556
+  },
+  "no": {
+    "kalau": 0.556
+  },
+  "siak": {
+    "aku": 0.556,
+    "saya": 0.556
+  },
+  "sika": {
+    "anda": 0.556,
+    "kamu": 0.556
+  },
+  "sikami": {
+    "kami": 0.556,
+    "kita": 0.556
+  },
+  "sikara": {
+    "mereka": 0.556
+  },
+  "sikara (plural)": {
+    "anda": 0.556,
+    "kalian": 0.556,
+    "kamu": 0.556
+  },
+  "sikato": {
+    "dia": 0.556
+  },
+  "tan": {
+    "dan": 0.556,
+    "itu": 0.556
+  },
+  "unla": {
+    "serta": 0.556
+  },
+  "siopá": {
+    "siapa": 0.556
+  },
+  "opa": {
+    "siapa": 0.556
+  },
+  "antó": {
+    "apa": 0.556
+  },
+  "alagey": {
+    "diri": 0.556
+  },
+  "ag": {
+    "bukan": 0.556,
+    "tidak": 0.556
+  },
+  "aliwá": {
+    "bukan": 0.556,
+    "tidak": 0.556
+  },
+  "andí": {
+    "bukan": 0.556,
+    "tidak": 0.556
+  },
+  "aleg": {
+    "bukan": 0.556,
+    "tidak": 0.556
+  },
+  "amín": {
+    "semua": 0.556
+  },
+  "pigara": {
+    "beberapa": 0.556
+  },
+  "piga": {
+    "beberapa": 0.556
+  },
+  "siká": {
+    "engkau": 0.556,
+    "kamu": 0.556
+  },
+  "ka": {
+    "engkau": 0.556,
+    "kamu": 0.556
+  },
+  "ed": {
+    "dalam": 0.556,
+    "di": 0.556
+  },
+  "iba": {
+    "dengan": 0.556
+  },
+  "mi-": {
+    "dengan": 0.556
+  },
+  "ta": {
+    "karena": 0.556
+  },
+  "lapu ed": {
+    "karena": 0.556
+  },
+  "kasi": {
+    "karena": 0.556
+  },
+  "si": {
+    "dia": 0.556
+  },
+  "to": {
+    "dia": 0.556
+  },
+  "katá": {
+    "kami": 0.556,
+    "kita": 0.556
+  },
+  "kamí": {
+    "kami": 0.556,
+    "kita": 0.556
+  },
+  "sikayo": {
+    "kalian": 0.556
+  },
+  "kayo": {
+    "kalian": 0.556
+  },
+  "yo": {
+    "kalian": 0.556
+  },
+  "ra": {
+    "mereka": 0.556
+  },
+  "ya": {
+    "ini": 0.556
+  },
+  "man": {
+    "itu": 0.556
+  },
+  "atan": {
+    "itu": 0.556
+  },
+  "manlapud": {
+    "dari": 19
+  },
+  "of": {
+    "pada": 4
+  },
+  "da": {
+    "mereka": 21
+  },
+  "so": {
+    "yang": 34
+  },
+  "na": {
+    "yang": 62
+  },
+  "ton": {
+    "yang": 5
+  },
+  "a": {
+    "yang": 26
+  },
+  "iran": {
+    "yang": 11
+  },
+  "iray": {
+    "yang": 12
+  },
+  "panamegley": {
+    "dengan": 9
+  },
+  "manga": {
+    "sekitar": 18
+  },
+  "kada": {
+    "per": 11
+  },
+  "saray": {
+    "yang": 38
+  },
+  "saya": {
+    "ini": 6
+  },
+  "nayarin": {
+    "mungkin": 10
+  },
+  "diad": {
+    "di": 103
+  },
+  "say": {
+    "yang": 25
+  },
+  "walaan": {
+    "dari": 12
+  },
+  "singa": {
+    "seperti": 22
+  },
+  "et": {
+    "adalah": 32
+  },
+  "mga": {
+    "sekitar": 2
+  },
+  "parad": {
+    "untuk": 33
+  },
+  "piloto": {
+    "tersebut": 1
+  },
+  "abidbir": {
+    "sebagai": 1
+  },
+  "onreresponde.": {
+    "sedang": 1
+  },
+  "lay": {
+    "yang": 5
+  },
+  "lad": {
+    "di": 6
+  },
+  "akapanggalaw": {
+    "sudah": 1
+  },
+  "ray": {
+    "serta": 4
+  },
+  "norte": {
+    "menuju": 1
+  },
+  "dad": {
+    "mereka": 2
+  },
+  "dan": {
+    "mereka": 7
+  },
+  "anggad": {
+    "ke": 7
+  },
+  "Nadal": {
+    "asal": 1
+  },
+  "7-2.": {
+    "yaitu": 1
+  },
+  "agano": {
+    "ini": 1
+  },
+  "sikatoy": {
+    "ia": 10
+  },
+  "sayan": {
+    "ini": 11
+  },
+  "pian": {
+    "untuk": 74
+  },
+  "Say": {
+    "adalah": 34
+  },
+  "ngalngali": {
+    "sekitar": 4
+  },
+  "nanlapud": {
+    "dari": 9
+  },
+  "nen": {
+    "pada": 46
+  },
+  "ni": {
+    "yang": 3,
+    "di": 3
+  },
+  "intiron": {
+    "seluruh": 3
+  },
+  "pigaran": {
+    "beberapa": 5
+  },
+  "impasagilig": {
+    "selama": 1
+  },
+  "ompan": {
+    "mungkin": 2
+  },
+  "sarayan": {
+    "ini": 5
+  },
+  "sansia": {
+    "dengan": 2
+  },
+  "Alex": {
+    "ialah": 1
+  },
+  "akalaban": {
+    "atas": 1
+  },
+  "saman": {
+    "itu": 7
+  },
+  "o": {
+    "atau": 14
+  },
+  "la": {
+    "tersebut": 3
+  },
+  "kayarin": {
+    "setelah": 5
+  },
+  "kayari": {
+    "setelah": 5
+  },
+  "onaan": {
+    "siapa": 1
+  },
+  "puntirya": {
+    "mengenai": 1
+  },
+  "silewan": {
+    "ke": 1
+  },
+  "dakerakeI": {
+    "lewat": 1,
+    "berbagai": 1
+  },
+  "nin": {
+    "oleh": 3
+  },
+  "da.": {
+    "mereka": 4
+  },
+  "rad": {
+    "ke": 2
+  },
+  "rason": {
+    "ini": 3
+  },
+  "antis": {
+    "sebelum": 10
+  },
+  "walay": {
+    "dengan": 9
+  },
+  "paonlad": {
+    "ke": 5
+  },
+  "lan": {
+    "yang": 5
+  },
+  "aga": {
+    "tidak": 5
+  },
+  "temporaryon": {
+    "sementara": 2
+  },
+  "anggapoy": {
+    "tidak": 10
+  },
+  "petsa": {
+    "demi": 1
+  },
+  "maples": {
+    "dengan": 2
+  },
+  "Peter": {
+    "seorang": 2
+  },
+  "\"No": {
+    "itu": 1
+  },
+  "tayo": {
+    "kita": 5
+  },
+  "kaukolan": {
+    "harus": 13
+  },
+  "\"apagaan": {
+    "serangkaian": 1
+  },
+  "mantutumbokan": {
+    "demi": 1
+  },
+  "Sarayan": {
+    "ini": 7
+  },
+  "toy": {
+    "ke": 6
+  },
+  "natan": {
+    "ini": 6
+  },
+  "panangasawa": {
+    "semacam": 1
+  },
+  "agawa": {
+    "apa": 2
+  },
+  "maslak": {
+    "sebagian": 5
+  },
+  "odino": {
+    "atau": 73
+  },
+  "manunan": {
+    "adalah": 2
+  },
+  "nipaakar": {
+    "tentang": 5,
+    "dengan": 5
+  },
+  "aliwan": {
+    "tidak": 9
+  },
+  "ontan": {
+    "seperti": 2
+  },
+  "akaunan": {
+    "sebagaimana": 1
+  },
+  "Noosa": {
+    "dalam": 1
+  },
+  "Caboolture": {
+    "pada": 1
+  },
+  "miparad": {
+    "layaknya": 1
+  },
+  "mankabaliksay": {
+    "yang": 3
+  },
+  "pakakatunaw": {
+    "selain": 1
+  },
+  "Pittman": {
+    "bahwa": 1
+  },
+  "unong": {
+    "menurut": 2
+  },
+  "opisyaI": {
+    "selain": 1
+  },
+  "inerel": {
+    "namun": 1
+  },
+  "baIet": {
+    "tetapi": 2
+  },
+  "agla": {
+    "tidak": 4
+  },
+  "Amaarap": {
+    "menuju": 1
+  },
+  "Irkutsk": {
+    "menuju": 1
+  },
+  "itan": {
+    "ini": 4
+  },
+  "ira": {
+    "dengan": 3
+  },
+  "imbeneg": {
+    "lalu": 3
+  },
+  "anggapo": {
+    "tidak": 5
+  },
+  "loob": {
+    "dalam": 4
+  },
+  "104,500": {
+    "belum": 1
+  },
+  "manlapu": {
+    "dari": 6
+  },
+  "makasabi": {
+    "sampai": 3
+  },
+  "kapsula": {
+    "tersebut": 2
+  },
+  "balet": {
+    "tetapi": 27
+  },
+  "agda": {
+    "tidak": 5
+  },
+  "anggano": {
+    "bahkan": 4
+  },
+  "walad": {
+    "di": 22
+  },
+  "day": {
+    "bisa": 3
+  },
+  "sikaray": {
+    "mereka": 3
+  },
+  "tod": {
+    "dia": 3
+  },
+  "300,": {
+    "sebanyak": 1
+  },
+  "gamiten": {
+    "wajib": 1
+  },
+  "nasolusyonan": {
+    "demi": 1
+  },
+  "trespassing,": {
+    "karena": 2
+  },
+  "suspect": {
+    "tanpa": 1
+  },
+  "atagey": {
+    "yang": 5
+  },
+  "marine": {
+    "daripada": 1
+  },
+  "sarag": {
+    "mampu": 4
+  },
+  "sira.": {
+    "maupun": 1
+  },
+  "naapektoan": {
+    "bisa": 1
+  },
+  "bag": {
+    "sebagai": 1
+  },
+  "NBA,": {
+    "setelah": 1
+  },
+  "sarili": {
+    "mereka": 3,
+    "diri": 3
+  },
+  "uksoyan": {
+    "seperti": 1
+  },
+  "mangangga": {
+    "semacam": 1,
+    "ini": 1
+  },
+  "kawayangan.": {
+    "mungkin": 1
+  },
+  "naamtaan": {
+    "tersebut": 3
+  },
+  "Branson": {
+    "agar": 1
+  },
+  "nan-bid": {
+    "sebelum": 1
+  },
+  "agkaiba": {
+    "bukan": 1
+  },
+  "antoy": {
+    "apa": 2
+  },
+  "inyataki": {
+    "itu": 1
+  },
+  "relasyon": {
+    "antara": 1
+  },
+  "iraman": {
+    "para": 1
+  },
+  "Iabat.\"": {
+    "sebagaimana": 1
+  },
+  "Allen's": {
+    "tersebut": 1
+  },
+  "deraI": {
+    "itu": 1
+  },
+  "pakaromog": {
+    "berkat": 1
+  },
+  "onsaginonor": {
+    "setelah": 1
+  },
+  "waIad": {
+    "di": 2
+  },
+  "totoo.": {
+    "oleh": 1
+  },
+  "sanen": {
+    "ketika": 3
+  },
+  "eleven": {
+    "per": 1
+  },
+  "Formula": {
+    "sebanyak": 1
+  },
+  "nakekeraan": {
+    "dalam": 1
+  },
+  "presidente,": {
+    "walau": 1,
+    "demikian": 1
+  },
+  "kulokulong": {
+    "saya": 1
+  },
+  "makapantrabaho": {
+    "dapat": 1
+  },
+  "isla,": {
+    "meskipun": 1,
+    "hingga": 1
+  },
+  "ran": {
+    "sebagai": 1
+  },
+  "Twin": {
+    "telah": 1
+  },
+  "na-abort": {
+    "telah": 1
+  },
+  "kanian": {
+    "sehingga": 7
+  },
+  "report,": {
+    "berbagai": 1
+  },
+  "saramay": {
+    "yang": 5
+  },
+  "nepeg": {
+    "harus": 3
+  },
+  "bibii.": {
+    "seharusnya": 1
+  },
+  "agnepeg": {
+    "saya": 2
+  },
+  "inkuan": {
+    "ia": 4
+  },
+  "impanbista": {
+    "tersebut": 1
+  },
+  "huis": {
+    "kepada": 1
+  },
+  "napaIiisan\"": {
+    "dia": 1
+  },
+  "pangipriso": {
+    "akan": 1
+  },
+  "enerhiya": {
+    "sebuah": 1
+  },
+  "epekto": {
+    "terhadap": 2,
+    "pada": 2
+  },
+  "luganan": {
+    "untuk": 2
+  },
+  "asugat-sugat": {
+    "dari": 1
+  },
+  "to,": {
+    "meskipun": 1
+  },
+  "mi": {
+    "semua": 2
+  },
+  "\"Agbalot": {
+    "apa-apa": 1
+  },
+  "iya": {
+    "ini": 5
+  },
+  "Nayarin": {
+    "dapat": 3
+  },
+  "onabobon": {
+    "mungkin": 1
+  },
+  "arum,": {
+    "saya": 1
+  },
+  "walaray": {
+    "sekelompok": 1
+  },
+  "Sayan": {
+    "ini": 8
+  },
+  "bisita": {
+    "tersebut": 2
+  },
+  "onatagey": {
+    "akan": 1
+  },
+  "kabiangan": {
+    "dari": 4
+  },
+  "Sobyet,": {
+    "atas": 1
+  },
+  "nagawa": {
+    "akan": 3
+  },
+  "naandi": {
+    "keseluruhan": 1
+  },
+  "peligron": {
+    "telah": 1
+  },
+  "rinmesponde": {
+    "para": 1
+  },
+  "nibalitan": {
+    "lalu": 1
+  },
+  "ginawan": {
+    "yang": 2
+  },
+  "onatendi": {
+    "sebelum": 1
+  },
+  "Benin.": {
+    "akan": 1
+  },
+  "commissioner": {
+    "belum": 1
+  },
+  "apankasunduan": {
+    "asal": 1
+  },
+  "areglo": {
+    "kami": 1
+  },
+  "walna": {
+    "hingga": 1
+  },
+  "anggaman": {
+    "meskipun": 3
+  },
+  "control": {
+    "tersebut": 1
+  },
+  "nipawil": {
+    "dari": 1
+  },
+  "prosecution": {
+    "itu": 1
+  },
+  "Virginia,say": {
+    "itu": 1
+  },
+  "nanbayar": {
+    "sebesar": 1
+  },
+  "kompetisyon": {
+    "telah": 1
+  },
+  "epidemic": {
+    "sebelum": 1
+  },
+  "and": {
+    "dan": 4
+  },
+  "ViInius": {
+    "di": 1
+  },
+  "VaIetta": {
+    "di": 1
+  },
+  "pimiembro": {
+    "untuk": 1
+  },
+  "inspect": {
+    "sesuatu": 1
+  },
+  "sakop": {
+    "di": 1
+  },
+  "ayayep": {
+    "bisa": 2
+  },
+  "aktibidad": {
+    "apa": 1,
+    "pun": 1
+  },
+  "walan": {
+    "tidaknya": 1
+  },
+  "cubic": {
+    "bila": 1
+  },
+  "sinmabog,tan": {
+    "serta": 1
+  },
+  "sengegay": {
+    "bahwa": 1
+  },
+  "asakitan": {
+    "ialah": 1
+  },
+  "100-metro": {
+    "sepanjang": 1
+  },
+  "cargo": {
+    "itu": 1,
+    "sedang": 1
+  },
+  "mangalay": {
+    "seperti": 1
+  },
+  "fertilizer": {
+    "para": 1
+  },
+  "asarag": {
+    "itu": 1,
+    "bisa": 1
+  },
+  "proposal": {
+    "tersebut": 1
+  },
+  "nipasa": {
+    "sudah": 1
+  },
+  "legislative": {
+    "agar": 1
+  },
+  "Vautier": {
+    "selain": 1,
+    "yaitu": 1
+  },
+  "strike": {
+    "sebagai": 1
+  },
+  "libro": {
+    "sebuah": 1
+  },
+  "kaibay": {
+    "bersama": 3
+  },
+  "inakusahan": {
+    "telah": 2
+  },
+  "kaaaro": {
+    "layaknya": 1
+  },
+  "inkabantog": {
+    "ketika": 1
+  },
+  "akilad": {
+    "dengan": 1
+  },
+  "468": {
+    "dalam": 1
+  },
+  "binoto": {
+    "dia": 1
+  },
+  "ginawa": {
+    "antara": 2
+  },
+  "stage": {
+    "ke": 1
+  },
+  "Whirling": {
+    "atas": 1
+  },
+  "Motor": {
+    "di": 1
+  },
+  "akabil": {
+    "lalu": 1
+  },
+  "lanlamang.": {
+    "dia": 1
+  },
+  "Agasakitan": {
+    "tidak": 1
+  },
+  "Zayat": {
+    "dalam": 1
+  },
+  "amtak": {
+    "saya": 1
+  },
+  "bigIaan": {
+    "mereka": 2
+  },
+  "angapo": {
+    "saya": 1
+  },
+  "siak,": {
+    "saya": 1
+  },
+  "bintana": {
+    "bisa": 2
+  },
+  "Scientists": {
+    "sedang": 1
+  },
+  "kapara": {
+    "yang": 1
+  },
+  "makagaway": {
+    "atau": 1
+  },
+  "Iapud": {
+    "karena": 2
+  },
+  "yeIo,": {
+    "bahkan": 1
+  },
+  "angano": {
+    "ketika": 1
+  },
+  "biek": {
+    "maka": 1
+  },
+  "biskeg": {
+    "harus": 1
+  },
+  "pangibuga": {
+    "ini": 1
+  },
+  "meIag": {
+    "sebuah": 1
+  },
+  "photon": {
+    "bahkan": 1
+  },
+  "migmig": {
+    "dari": 1
+  },
+  "switch": {
+    "harus": 1
+  },
+  "kan": {
+    "seorang": 2
+  },
+  "bandad": {
+    "di": 4
+  },
+  "noagta": {
+    "tetapi": 2
+  },
+  "kiew.": {
+    "atas": 1
+  },
+  "onnengneng": {
+    "kita": 1
+  },
+  "Inglatera": {
+    "telah": 1,
+    "melewati": 1
+  },
+  "lamlamang": {
+    "setelah": 1
+  },
+  "tungkol": {
+    "tentang": 3
+  },
+  "to,anggaman": {
+    "meskipun": 1
+  },
+  "pibakal": {
+    "seharusnya": 1
+  },
+  "ekspertod": {
+    "dalam": 2
+  },
+  "binidbir": {
+    "dia": 1,
+    "tak": 1
+  },
+  "Ehipsio": {
+    "sebagian": 1
+  },
+  "apis": {
+    "atas": 2
+  },
+  "Pythagoras,kabkabat": {
+    "berkat": 1
+  },
+  "baetan": {
+    "antara": 4
+  },
+  "labay": {
+    "ingin": 8
+  },
+  "\"Õ/õ\"": {
+    "pun": 1
+  },
+  "pan-military": {
+    "setelah": 1
+  },
+  "Luxembourg,nagmaliw": {
+    "tetapi": 1,
+    "sudah": 1
+  },
+  "independent": {
+    "sejak": 1
+  },
+  "1649,si": {
+    "bahwa": 1
+  },
+  "amootan": {
+    "dan": 1
+  },
+  "kakaabay,": {
+    "yaitu": 1
+  },
+  "dineral": {
+    "pada": 1
+  },
+  "venezuelan": {
+    "per": 1
+  },
+  "nantrabahod": {
+    "per": 1
+  },
+  "sector": {
+    "di": 1,
+    "per": 1
+  },
+  "agriculture.": {
+    "di": 1
+  },
+  "oil": {
+    "bagi": 1
+  },
+  "hybrid": {
+    "sebuah": 1
+  },
+  "herbivores": {
+    "menuju": 1
+  },
+  "sagur,binmaliw": {
+    "melalui": 1
+  },
+  "kaukolay": {
+    "mungkin": 2
+  },
+  "kanya": {
+    "sebagai": 1
+  },
+  "nagawa.": {
+    "daripada": 1
+  },
+  "lens": {
+    "tidak": 1
+  },
+  "manufacturer": {
+    "karena": 1
+  },
+  "nanengneng": {
+    "di": 4
+  },
+  "masyadon": {
+    "tidak": 2
+  },
+  "dalem": {
+    "di": 2
+  },
+  "dingding": {
+    "mampu": 1
+  },
+  "1480's,diad": {
+    "ketika": 1
+  },
+  "getma": {
+    "yaitu": 1
+  },
+  "efeso": {
+    "apa": 1
+  },
+  "ari,": {
+    "sebagai": 1
+  },
+  "Seguroen": {
+    "dalam": 1
+  },
+  "agnatamaan": {
+    "mungkin": 1,
+    "sambil": 1
+  },
+  "nota,tan": {
+    "setiap": 1,
+    "dengan": 1
+  },
+  "magalaw": {
+    "tidak": 1
+  },
+  "onkasil": {
+    "atau": 1
+  },
+  "Dios.": {
+    "atau": 1
+  },
+  "pakatebek": {
+    "tentang": 1
+  },
+  "dirios.": {
+    "atau": 1
+  },
+  "Sikhs": {
+    "mereka": 2
+  },
+  "lamot.Ikokonsideran": {
+    "mereka": 1
+  },
+  "et\"way": {
+    "sang": 1
+  },
+  "inletneg": {
+    "ini": 2
+  },
+  "Indian": {
+    "di": 2
+  },
+  "nanlapuay": {
+    "asal": 1
+  },
+  "ingen": {
+    "bahkan": 3
+  },
+  "labanan.": {
+    "sesudah": 1
+  },
+  "nanduruman": {
+    "berbagai": 11
+  },
+  "rasa": {
+    "sejak": 1
+  },
+  "saraya": {
+    "dapat": 4
+  },
+  "Mainomay": {
+    "itu": 1
+  },
+  "piano": {
+    "supaya": 1
+  },
+  "syndrome": {
+    "serangkaian": 1
+  },
+  "apektaen": {
+    "segala": 1
+  },
+  "maturity": {
+    "sendiri": 1
+  },
+  "panaral": {
+    "sebagaimana": 1
+  },
+  "parehon": {
+    "yang": 2
+  },
+  "pankugip": {
+    "bahwa": 1
+  },
+  "malinlinew": {
+    "secara": 1
+  },
+  "makapakisaw.": {
+    "bisa": 1
+  },
+  "aktibon": {
+    "antara": 1
+  },
+  "REM": {
+    "sedang": 1
+  },
+  "maka-recover": {
+    "sehingga": 1
+  },
+  "Makapakesaw": {
+    "seperti": 1
+  },
+  "minuton": {
+    "dan": 1
+  },
+  "depende": {
+    "dari": 3
+  },
+  "panag-isip.": {
+    "setiap": 1
+  },
+  "gapuan.": {
+    "sedari": 1
+  },
+  "nikonekta": {
+    "kebanyakan": 1
+  },
+  "onlad": {
+    "ke": 3
+  },
+  "lalaen": {
+    "para": 1
+  },
+  "alar": {
+    "sepanjang": 2
+  },
+  "tugyopen": {
+    "dari": 1
+  },
+  "ontulong,": {
+    "akan": 1
+  },
+  "akadepende": {
+    "pada": 2
+  },
+  "visual": {
+    "pada": 1
+  },
+  "particular": {
+    "tertentu": 1
+  },
+  "indibidual": {
+    "seseorang": 1
+  },
+  "manguuman-uman": {
+    "beberapa": 1
+  },
+  "natawag": {
+    "mereka": 1
+  },
+  "kumpog": {
+    "dalam": 1
+  },
+  "manubong": {
+    "dalam": 1
+  },
+  "bengatla,": {
+    "maka": 1,
+    "seharusnya": 1
+  },
+  "impulse": {
+    "dapat": 1
+  },
+  "nibaki": {
+    "seluruh": 1
+  },
+  "480km/hr.(133m/s;300mph)": {
+    "per": 1
+  },
+  "magnification": {
+    "sejak": 1
+  },
+  "siblet": {
+    "bersama": 1
+  },
+  "Komon": {
+    "kebanyakan": 1
+  },
+  "manbiahe": {
+    "ketika": 1
+  },
+  "Pero": {
+    "kalau": 1
+  },
+  "onsabi": {
+    "suatu": 1
+  },
+  "mankelaw": {
+    "apa": 1
+  },
+  "ayayep.(say": {
+    "semua": 1
+  },
+  "jellyfish": {
+    "sebagai": 1
+  },
+  "naromog": {
+    "di": 1,
+    "berbagai": 1
+  },
+  "unit": {
+    "dari": 1
+  },
+  "small": {
+    "dari": 1
+  },
+  "Robert": {
+    "seorang": 1
+  },
+  "iraya.": {
+    "sebuah": 1
+  },
+  "Singa": {
+    "itu": 1
+  },
+  "kuarto.": {
+    "seperti": 1
+  },
+  "mansiasia": {
+    "ke": 1
+  },
+  "agnasalatan.": {
+    "tidak": 1
+  },
+  "nitrogen": {
+    "sebagai": 1
+  },
+  "example": {
+    "ialah": 1
+  },
+  "structure": {
+    "itu": 1
+  },
+  "state": {
+    "mungkin": 1,
+    "kan": 1
+  },
+  "nasalatan,say": {
+    "tetapi": 1
+  },
+  "Inaral": {
+    "telah": 1
+  },
+  "scholar,religion,philisopical": {
+    "selama": 1
+  },
+  "linmabas": {
+    "lalu": 1
+  },
+  "Natandaan": {
+    "sendiri": 2
+  },
+  "ulit": {
+    "secara": 1
+  },
+  "theory": {
+    "secara": 1
+  },
+  "islands": {
+    "yaitu": 1
+  },
+  "ipakatumba": {
+    "bahkan": 1
+  },
+  "Labay": {
+    "tersebut": 1
+  },
+  "tayon": {
+    "kita": 2
+  },
+  "intensyon": {
+    "agar": 1
+  },
+  "nabalang": {
+    "secara": 1
+  },
+  "mismon": {
+    "sendiri": 2
+  },
+  "pansalita": {
+    "kita": 1,
+    "untuk": 1
+  },
+  "makapitongtong": {
+    "terhadap": 1
+  },
+  "makalay": {
+    "ingin": 1
+  },
+  "anton": {
+    "sepanjang": 2
+  },
+  "Napaneknekan": {
+    "kami": 1
+  },
+  "internet": {
+    "semua": 2
+  },
+  "dakelan": {
+    "seorang": 1
+  },
+  "agmanparaan.": {
+    "tak": 1
+  },
+  "manalwar": {
+    "melalui": 1
+  },
+  "mangiyalis": {
+    "apa": 1
+  },
+  "sakit,": {
+    "tetapi": 1
+  },
+  "makapairita": {
+    "bisa": 1
+  },
+  "pilgrimage": {
+    "bagi": 1
+  },
+  "ibisita": {
+    "ke": 2
+  },
+  "posiblen": {
+    "tak": 1
+  },
+  "\"iyunlad": {
+    "mengenai": 1
+  },
+  "ticket.": {
+    "boleh": 1
+  },
+  "buIan,": {
+    "tiap": 1
+  },
+  ",tan": {
+    "dan": 1
+  },
+  "kulaay": {
+    "sebelah": 1
+  },
+  "nabasa": {
+    "akan": 1
+  },
+  "brudge": {
+    "sepanjang": 1
+  },
+  "Kompara": {
+    "kebanyakan": 1
+  },
+  "Siopaman": {
+    "pun": 1
+  },
+  "Siem": {
+    "sebelah": 1
+  },
+  "isegep": {
+    "itu": 1
+  },
+  "onlugan": {
+    "dengan": 2
+  },
+  "paunlad": {
+    "ke": 2
+  },
+  "manepeg": {
+    "jangan": 1
+  },
+  "paunla": {
+    "menuju": 1
+  },
+  "city": {
+    "walau": 1
+  },
+  "masanto": {
+    "bagi": 1
+  },
+  "Islam,kinmana": {
+    "serta": 1
+  },
+  "historic,archeological": {
+    "beserta": 1
+  },
+  "malls,cafés,tan": {
+    "dan": 1
+  },
+  "na-legalized": {
+    "harus": 1
+  },
+  "ipasa": {
+    "beberapa": 1
+  },
+  "panayam": {
+    "antara": 1
+  },
+  "onkalab,say": {
+    "tapi": 1
+  },
+  "makakalab": {
+    "seharusnya": 1
+  },
+  "dalan,tan": {
+    "sebagian": 1
+  },
+  "dadalanen.": {
+    "dalam": 1
+  },
+  "Masulok": {
+    "dari": 1
+  },
+  "-100": {
+    "hingga": 1
+  },
+  "Papaseguroan": {
+    "akan": 1
+  },
+  "barya,": {
+    "beberapa": 2
+  },
+  "ipapareserba": {
+    "harus": 2
+  },
+  "2.2": {
+    "seluas": 1
+  },
+  "agni": {
+    "belum": 1
+  },
+  "Miulibay": {
+    "karena": 1
+  },
+  "setting": {
+    "mungkin": 1
+  },
+  "sarilin": {
+    "sendiri": 1
+  },
+  "simply.": {
+    "lewat": 1
+  },
+  "kala": {
+    "sudah": 1
+  },
+  "man-attract": {
+    "pun": 1
+  },
+  "large": {
+    "atau": 1
+  },
+  "nensaman,tan": {
+    "dan": 1
+  },
+  "available": {
+    "lalu": 1
+  },
+  "references.": {
+    "para": 1
+  },
+  "nigana": {
+    "bagi": 1
+  },
+  "Beijing": {
+    "akan": 2
+  },
+  "ceremony": {
+    "serta": 1
+  },
+  "calendar": {
+    "masing-masing": 1
+  },
+  "temple": {
+    "atau": 1
+  },
+  "niran": {
+    "dengan": 1
+  },
+  "pavillions,pian": {
+    "guna": 1
+  },
+  "ampetang,": {
+    "tidak": 1
+  },
+  "aluto": {
+    "pada": 2
+  },
+  "policy": {
+    "beserta": 1
+  },
+  "suhestion/autorisasyon": {
+    "serta": 1
+  },
+  "agresibo,": {
+    "tak": 1
+  },
+  "nasarag": {
+    "kita": 1
+  },
+  "abung,": {
+    "sudah": 1
+  },
+  "rehiyon.": {
+    "asal": 1
+  },
+  "kape,tan": {
+    "seluruh": 1
+  },
+  "panakar": {
+    "hingga": 1
+  },
+  "nagawaan": {
+    "bisa": 2
+  },
+  "katamtaman": {
+    "siapa": 1
+  },
+  "operation": {
+    "secara": 1
+  },
+  "Tours": {
+    "di": 2
+  },
+  "inerman.": {
+    "suatu": 1
+  },
+  "pakataway": {
+    "atas": 1
+  },
+  "antoray": {
+    "apa": 1
+  },
+  "agent,diad": {
+    "di": 2
+  },
+  "shop": {
+    "maupun": 1
+  },
+  "talagan": {
+    "untuk": 2
+  },
+  "kategorya:": {
+    "tersebut": 1
+  },
+  "limitaan": {
+    "sambil": 1
+  },
+  "kolektaen": {
+    "agar": 1
+  },
+  "agnadisturboy": {
+    "tidak": 1
+  },
+  "tepet": {
+    "untuk": 1
+  },
+  "paliber": {
+    "sekitar": 2
+  },
+  "isisiglaot": {
+    "kebanyakan": 1
+  },
+  "salien": {
+    "sebaiknya": 1,
+    "jangan": 1
+  },
+  "lulutoen": {
+    "dalam": 1
+  },
+  "iluluto": {
+    "untuk": 1
+  },
+  "hangi,say": {
+    "sedangkan": 1
+  },
+  "imanoen": {
+    "sampai": 1,
+    "lengah": 1
+  },
+  "nakargaay": {
+    "dapat": 1
+  },
+  "amo": {
+    "tanpa": 1
+  },
+  "waiting": {
+    "karena": 1
+  },
+  "threats": {
+    "terhadap": 1
+  },
+  "delikado.": {
+    "walau": 1
+  },
+  "leleglemewen": {
+    "jangan": 1
+  },
+  "chamomile": {
+    "pada": 1
+  },
+  "akabakasyon": {
+    "sedang": 1
+  },
+  "sarilim": {
+    "diri": 2
+  },
+  "laba-labay": {
+    "ingin": 1
+  },
+  "simplin": {
+    "akan": 1
+  },
+  "ombibiyahe": {
+    "telah": 1
+  },
+  "Uptown": {
+    "secara": 1
+  },
+  "napangusaran": {
+    "meski": 1
+  },
+  "pasahero,": {
+    "mungkin": 1
+  },
+  "nagastosan": {
+    "dari": 1
+  },
+  "Antarctica": {
+    "adalah": 2
+  },
+  "papaliberan": {
+    "sekitar": 1
+  },
+  "mountain": {
+    "sampai": 1
+  },
+  "heels": {
+    "seharusnya": 1
+  },
+  "akatakatak": {
+    "guna": 1
+  },
+  "snow": {
+    "sejumlah": 2
+  },
+  "ontitilek": {
+    "suatu": 1
+  },
+  "kaliber": {
+    "ke": 2
+  },
+  "mantitila": {
+    "tentang": 1
+  },
+  "nagagawa,kuanda": {
+    "bahwa": 1
+  },
+  "naiwasay": {
+    "itu": 1
+  },
+  "limitado": {
+    "maka": 1
+  },
+  "litratoen": {
+    "sesuatu": 1
+  },
+  "sigurado": {
+    "tidak": 2
+  },
+  "mangala": {
+    "selama": 1
+  },
+  "ibagam": {
+    "apa": 1,
+    "pun": 1
+  },
+  "panangiter": {
+    "bukan": 1
+  },
+  "akasentroan": {
+    "tentang": 1
+  },
+  "Nepeg": {
+    "harus": 1
+  },
+  "airlines": {
+    "yang": 4
+  },
+  "Alliance": {
+    "kecuali": 1
+  },
+  "Azeris.": {
+    "terhadap": 1
+  },
+  "argyumento": {
+    "mengenai": 1
+  },
+  "nantultuloy": {
+    "itu": 1
+  },
+  "pinaliberay": {
+    "sekitar": 1
+  },
+  "UNESCO": {
+    "pada": 1
+  },
+  "luwang": {
+    "hingga": 1
+  },
+  "dadaluyan": {
+    "ke": 1
+  },
+  "ontan,amin": {
+    "setiap": 1
+  },
+  "eskuelaan,kanian": {
+    "mampu": 1
+  },
+  "Malays": {
+    "di": 3
+  },
+  "countries,tan": {
+    "boleh": 1
+  },
+  "panggunaetan": {
+    "si": 1
+  },
+  "ampetang,kaukolan": {
+    "ingin": 1
+  },
+  "manmamaneho": {
+    "bila": 1
+  },
+  "maka-infect": {
+    "dapat": 1
+  },
+  "nibalita": {
+    "tetapi": 1
+  },
+  "birdwatchers.": {
+    "sejumlah": 1
+  },
+  "kakiewan,": {
+    "sebuah": 1
+  },
+  "andi-anggaan": {
+    "tanpa": 1
+  },
+  "nawalay": {
+    "bisa": 1
+  },
+  "Kaslakan,": {
+    "semua": 1
+  },
+  "direktan": {
+    "harus": 1
+  },
+  "man-book": {
+    "melalui": 1
+  }
+}
