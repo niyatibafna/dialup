@@ -108,17 +108,7 @@ All lexicons must be stored as a JSON and follow the format below:
 }
 ```
 
-Lexicons are sorted by language pair and separated into `functional`, `content`, and `all` (a combination of `functional` and `content`). 
-In our experiments, we find that depending on the language pair, it's often very useful to only switch out functional words, for example.
-In case you want to use the `functional` strategy, you will further need to create the `functional` and `content` subsets of this lexicons.
-
-
-### Creating `functional` and `content` subsets of the lexicon
-
-Here are the steps for creating these sublists:
-1) Curate a list of functional words, or closed class words in the HRL. Please see [here](https://github.com/niyatibafna/dialup/tree/dtm/mtd/generating_artificial_dialects) for notes on how to do this. If you can do this for your LRL of course, that is even better. If not, we will use our LRL-HRL bilingual lexicon to project this annotation on to LRL words.
-2) Use the above list to separate functional words from your collected LRL-HRL lexicon. Anything not identified as a function word is labeled a content word. (Check out `Denoisers.is_lrl_word_functional`.)
-
-
+Note that your lexicon can include both function and content words; the strategy that you use will determine what class of words are replaced in your LRL. Make sure your lexicon has suitable coverage for your application scenario!
+Confidence scores are optional; if present, the translation with the highest confidence is picked.
 
 
