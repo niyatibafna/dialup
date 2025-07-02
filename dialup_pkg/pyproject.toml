@@ -21,6 +21,7 @@ text = "MIT"
 
 [project.urls]
 Homepage = "https://github.com/niyatibafna/dialup/"
+Issues = "https://github.com/niyatibafna/dialup/issues"
 
 [tool.setuptools]
 package-dir = {"" = "src"}

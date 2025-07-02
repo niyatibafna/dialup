@@ -2,6 +2,11 @@
 
 This package contains code for the noising and denoising techniques introduced in [DialUp! Modeling the Language Continuum by Adapting Models to Dialects and Dialects to Models](https://arxiv.org/abs/2501.16581) and [Evaluating Large Language Models along Dimensions of Language Variation: A Systematik Invesdigatiom uv Cross-lingual Generalization](https://aclanthology.org/2024.emnlp-main.1044/).
 
+Install
+```
+pip3 install dialup
+```
+
 ## Noising
 ### Introduction
 This code is for generating synthetic dialectal data from text in a given language.
