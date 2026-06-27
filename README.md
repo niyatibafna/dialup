@@ -1,4 +1,5 @@
-[![PyPI](https://pypi.org/project/dialup/1.0.0/)
+[![PyPI](https://img.shields.io/pypi/v/requests)](https://pypi.org/project/dialup/1.0.0/)
+
 
 # Dialup
 
