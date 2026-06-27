@@ -1,3 +1,5 @@
+[![PyPI](https://pypi.org/project/dialup/1.0.0/)
+
 # Dialup
 
 This repository contains the `pip` package and experiments for our paper: [DialUp! Modeling the Language Continuum by Adapting Models to Dialects and Dialects to Models](https://arxiv.org/abs/2501.16581).
